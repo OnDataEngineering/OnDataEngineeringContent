@@ -1,0 +1,17 @@
+Commercial:
+  description: "A closed source commercial project, developed, maintained, sold and supported by a commercial organisation"
+
+Commercial Open Source:
+  description: "An open source project backed by one or more organisations that either sell packaged versions of the software or provide commercial support, and therefore have a vested interest in the on-going development and maintenance of the technology"
+
+Open Source - Active:
+  description: "An open source project with no commercial backing that is currently under active and on-going development by multiple contributors"
+
+Open Source - InActive:
+  description: "An open source project with no commercial backing that is no longer under active development, either having been abandoned or superseded"
+
+Open Source - Quiet:
+  description: "An open source project with no commercial backing that is still under development, but with very limited contributors and check-ins.  This may be because it's done and in maintenance, or because it has not seen any significant take up."
+
+Sub-Project:
+  description: "A distinct component within another technology, that's developed, packaged and distributed as part of that technology, but that's regularly referenced and discussed as a stand along technology.  The canonical example being HDFS, YARN and MapReduce as part of Hadoop."

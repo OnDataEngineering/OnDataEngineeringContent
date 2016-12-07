@@ -1,0 +1,62 @@
+title: OnDataEngineering Content Development Site
+description: Jekyll site for the development of content for the OnDataEngineering site.
+baseurl: ""
+url: "http://localhost:4000"
+
+markdown: kramdown
+theme: minima
+
+exclude:
+    - .sass-cache
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+    - CONTRIBUTING.md
+
+permalink: /blog/:year/:month/:day/:title/
+
+show_errors: true
+
+collections:
+  technologies:
+    output: true
+    permalnk: /technologies/:path/
+  tech-categories:
+    output: true
+    permalnk: /tech-categories/:path/
+  tech-vendors:
+    output: true
+    permalnk: /tech-vendors/:path/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: Peter
+  -
+    scope:
+      path: ""
+      type: "technologies"
+    values:
+      layout: technology
+  -
+    scope:
+      path: ""
+      type: "tech-categories"
+    values:
+      layout: tech_category
+  -
+    scope:
+      path: ""
+      type: "tech-vendors"
+    values:
+      layout: tech_vendor

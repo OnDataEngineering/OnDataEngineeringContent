@@ -1,0 +1,25 @@
+---
+layout: page
+---
+
+{% include shared/validate_not_null attr="Summary" value=page.summary %}
+{% include shared/find_techs_by_category category=page %}
+
+<p>{{ page.summary }}</p>
+ 
+<h2>Metadata</h2>
+
+<ul>
+  <li>Technologies:<ul>{% for t in techs %}<li><a href="{{ t.url }}">{{ t.title | escape }}</a></li>{% endfor %}</ul></li>
+</ul>
+
+{{ content }}
+
+<h2>Blog Posts</h2>
+
+{% include shared/find_posts_by_tag_titles page=page %}
+<ul>
+  {% for p in posts %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+  {% endfor %}
+</ul>

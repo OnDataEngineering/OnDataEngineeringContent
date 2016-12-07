@@ -1,0 +1,15 @@
+{% comment %}
+Writes an error message out if site.show_errors is set
+
+The error format is: ERROR: (msg): (values)<br>
+
+Parameters:
+  * msg - the error message
+  * value - the error value.  If this is a list will be joined with ", "
+
+Returns:
+  * none
+
+{% endcomment %}
+
+{% if site.show_errors %}{% unless disable_errors %}ERROR: {{ include.msg }}: {{ include.value | join: ", " }}<br>{% endunless %}{% endif %}

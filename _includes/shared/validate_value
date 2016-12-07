@@ -1,0 +1,18 @@
+{% comment %}
+Raises an error if the specified value is not in a list of values
+
+Parameters:
+  * value - the value to check
+  * list - the list of values to check against
+  * attr - the name of the attribute for the error message
+
+Returns:
+  * none
+
+{% endcomment %}
+
+{% if include.value %}
+  {% unless include.list contains include.value %}
+    {% include shared/error msg="Invalid value" value=include.attr %}
+  {% endunless %}
+{% endif %} 

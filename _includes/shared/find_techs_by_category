@@ -1,0 +1,18 @@
+{% comment %}
+Finds the list of technology pages based on a technology category page
+
+Parameters:
+  * category - the technology category page to find technologies for
+
+Returns:
+  * techs - the list of found technology pages
+
+{% endcomment %}
+
+{% assign techs = "" | split: "" %}
+
+{% for t in site.technologies %}
+  {% if t.categories contains include.category.title %}
+    {% assign techs = techs | push: t %}
+  {% endif %}
+{% endfor %}

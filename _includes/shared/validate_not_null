@@ -1,0 +1,15 @@
+{% comment %}
+Raises an error if the specified value is nil (not set)
+
+Parameters:
+  * value - the value to check
+  * attr - the name of the attribute for the error message
+
+Returns:
+  * none
+
+{% endcomment %}
+
+{% unless include.value %}
+  {% include shared/error msg="Attribute not set" value=include.attr %}
+{% endunless %} 

@@ -1,0 +1,22 @@
+{% comment %}
+Finds the list of technology pages based on a technology vendor page
+Searchs based on the vendor title and all alt-titles
+
+Parameters:
+  * vendor - the technology vendor page to find technologies for
+
+Returns:
+  * techs - the list of found technology pages
+
+{% endcomment %}
+
+{% assign techs = "" | split: "" %}
+
+{% include shared/get_titles page=include.vendor %}
+
+{% for t in site.technologies %}
+  {% include shared/array_contains list1=titles list2=t.vendors %}
+  {% if overlap %}
+    {% assign techs = techs | push: t %}
+  {% endif %}
+{% endfor %}

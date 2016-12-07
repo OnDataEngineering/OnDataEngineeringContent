@@ -1,0 +1,28 @@
+{% comment %}
+Finds content pages based on their titles as used in post tags
+Raises an error if any tag can't be found
+
+Parameters:
+  * tags - the list of post tags (page titles) to find
+
+Returns:
+  * pages - the list of pages found
+
+{% endcomment %}
+
+{% assign pages = "" | split: "" %}
+
+{% for coll in site.collections %}
+  {% for p in coll.docs %}
+    {% include shared/get_titles page=p %}
+    {% include shared/array_contains list1=titles list2=include.tags %}
+
+    {% if overlap %}
+      {% assign pages = pages | push: p %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% if include.tags.size != pages.size %}
+  {% include shared/error msg="One or more invalid tags" value=include.tags %}
+{% endif %}

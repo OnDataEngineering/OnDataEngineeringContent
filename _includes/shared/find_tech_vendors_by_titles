@@ -1,0 +1,29 @@
+{% comment %}
+Finds the list of technology vendor pages based on a list of their titles
+Matches against vendor titles and alt-titles
+Raises an error if all tech vendor pages can't be fond
+
+Parameters:
+  * titles - the list of titles to search for
+
+Returns:
+  * vendors - the list of found tech vendor pages
+
+{% endcomment %}
+
+{% if include.titles %}
+  {% assign vendors = "" | split: "" %}
+
+  {% for v in site.tech-vendors %}
+    {% include shared/get_titles page=v %}
+
+    {% include shared/array_contains list1=include.titles list2=titles %}
+    {% if overlap %}
+      {% assign vendors = vendors | push: v %}
+    {% endif %}
+  {% endfor %}
+
+  {% if include.titles.size != vendors.size %}
+    {% include shared/error msg="One or more invalid tech vendors" value=include.titles %}
+  {% endif %}
+{% endif %}

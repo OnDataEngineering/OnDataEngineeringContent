@@ -1,0 +1,7 @@
+packages:
+  title: Packages
+  reverse-title: Is packaged by
+
+uses:
+  title: "Uses"
+  reverse-title: "Is used by"

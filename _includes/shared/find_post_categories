@@ -1,0 +1,22 @@
+{% comment %}
+Finds category objects from post_categories.yml data file
+Raises an error for each category that can't be found 
+
+Parameters:
+  * categories - the list of post categories to find
+
+Returns:
+  * categories - the list of category objects from the authors.yml data file
+
+{% endcomment %}
+
+{% assign categories = "" | split: "" %}
+
+{% for cat in include.categories %}
+  {% assign cat2 = site.data.shared.post_categories[cat] %}
+  {% if cat2 %}
+    {% assign categories = categories | push: cat2 %}
+  {% else %}
+    {% include shared/error msg="Invalid category" value=cat %}
+  {% endif %}
+{% endfor %}

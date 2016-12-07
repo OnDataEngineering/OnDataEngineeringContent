@@ -1,0 +1,17 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    // Configure glob patterns for excluding files and folders in searches. Inherits all glob patterns from the files.exclude setting.
+    "search.exclude": {
+        "_bower_components/**": true,
+        "_iconfont/**": true,
+        "_js_source/**": true,
+        "_sass/**": true,
+        "_site/**": true,
+        ".sass-cache/**": true,
+        "assets/**": true
+    },
+
+    "markdownlint.config": {
+        "MD041": false
+    }
+}

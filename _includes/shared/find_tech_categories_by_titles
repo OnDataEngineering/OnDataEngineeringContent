@@ -1,0 +1,23 @@
+{% comment %}
+Finds the list of technology category pages based on a list of their titles
+Raises an error if all tech category pages can't be fond
+
+Parameters:
+  * titles - the list of titles to search for
+
+Returns:
+  * categories - the list of found tech category pages
+
+{% endcomment %}
+
+{% assign categories = "" | split: "" %}
+
+{% for i in site.tech-categories %}
+  {% if include.titles contains i.title %}
+    {% assign categories = categories | push: i %}
+  {% endif %}
+{% endfor %}
+
+{% if include.titles.size != categories.size %}
+  {% include shared/error msg="One or more invalid tech categories" value=include.titles %}
+{% endif %}

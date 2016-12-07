@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /tech-vendors/
+---
+
+<h1>Tech Vendors</h1>
+
+<ul>
+{% for vendor in site.tech-vendors %}
+  <li><a href="{{ vendor.url }}">{{ vendor.title | escape }}</a></li>
+{% endfor %}
+</ul>

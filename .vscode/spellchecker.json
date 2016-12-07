@@ -1,0 +1,27 @@
+{
+    "language": "en_GB-ise",
+    "ignoreWordsList": [
+        "OnDataEngineering",
+        "blog",
+        "hadoop",
+        "GitHub",
+        "Bigtop",
+        "Hadoop",
+        "RPMs",
+        "Cloudera",
+        "Wiki",
+        "Blog",
+        "Shoposhnik",
+        "YAML",
+        "YYYY",
+        "analytics"
+    ],
+    "documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "ignoreRegExp": [],
+    "ignoreFileExtensions": [],
+    "checkInterval": 5000
+}

@@ -1,0 +1,17 @@
+{% comment %}
+Finds the author object from authors.yml data file
+Raises an error if it cannot be found 
+
+Parameters:
+  * author - the name of the author
+
+Returns:
+  * author - the author object from the authors.yml data file
+
+{% endcomment %}
+
+{% assign author = site.data.shared.authors[include.author] %}
+
+{% unless author %}
+  {% include shared/error msg="Invalid author" value=include.author %}
+{% endunless %}

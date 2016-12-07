@@ -1,0 +1,21 @@
+{% comment %}
+Returns true or false depending on whether there are any common elements between two list.
+Used for identifing technology / vendor relationships where the technology contains a list of vendors and
+a vendor has a list of names (the title plus any alt-titles).
+
+Parameters:
+  * list1 - the first list
+  * list2 - the second list
+
+Returns:
+  * overlap - true/false
+
+{% endcomment %}
+
+{% assign overlap = false %}
+
+{% for i in include.list1 %}
+  {% if include.list2 contains i %}
+    {% assign overlap = true %}
+  {% endif %}
+{% endfor %}

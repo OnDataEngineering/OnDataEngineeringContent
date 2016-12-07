@@ -1,0 +1,29 @@
+{% comment %}
+Finds the list of technology pages based on a list of their titles
+Matches against technology titles and alt-titles
+Raises an error if all technology pages can't be fond
+
+Parameters:
+  * titles - the list of titles to search for
+
+Returns:
+  * techs - the list of found tech pages
+
+{% endcomment %}
+
+{% if include.titles %}
+  {% assign techs = "" | split: "" %}
+
+  {% for t in site.technologies %}
+    {% include shared/get_titles page=t %}
+
+    {% include shared/array_contains list1=include.titles list2=titles %}
+    {% if overlap %}
+      {% assign techs = techs | push: t %}
+    {% endif %}
+  {% endfor %}
+
+  {% if include.titles.size != techs.size %}
+    {% include shared/error msg="One or more invalid technologies" value=include.titles %}
+  {% endif %}
+{% endif %}

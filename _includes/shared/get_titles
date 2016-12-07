@@ -1,0 +1,25 @@
+{% comment %}
+Combines the title and alt-titles of a page into a single list
+Handles alt-tags that are strings, lists or nil (i.e. non specified)
+alt-tags that are the empty list ([]) get returned as the first element of the results,
+however this doesn't appear to cause issues
+
+Parameters:
+  * page - the page to generate the titles for
+
+Returns:
+  * titles - the list of titles for the page
+
+{% endcomment %}
+
+{% if include.page.alt-titles %}
+  {% if include.page.alt-titles[0] %}
+    {% assign titles = include.page.alt-titles %}
+  {% else %}
+    {% assign titles = "" | split: "" | push: include.page.alt-titles %}
+  {% endif %}
+{% else %}
+  {% assign titles = "" | split: "" %}
+{% endif %}
+
+{% assign titles = titles | push: include.page.title %}

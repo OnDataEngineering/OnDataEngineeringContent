@@ -1,0 +1,88 @@
+{% comment %}
+Find all the tech relationships for a given technology page.
+This includes both the forward tech relationships specified in the front matter of the page,
+as well as any reverse relationships specified in other technology pages that refernce this page.
+
+Parameters:
+  * page - the technology page to process
+
+Returns:
+  * tech-rels - the output tech relationships
+
+{% endcomment %}
+
+{% assign all_tech_rels = "" | split: "" %}
+
+{% comment %} Get all the titles for this page {% endcomment %}
+{% include shared/get_titles page=include.page %}
+{% assign my_titles = titles %}
+
+{% comment %} Find all our outgoing tech relationships {% endcomment %}
+{% include shared/get_tech_relationships tech-rels=include.page.tech-relationships %}
+{% for tr in tech-rels %}
+  {% assign r = "" | split: "" | push: tr[0].title | push: tr[1] %}
+  {% assign all_tech_rels = all_tech_rels | push: r %}
+{% endfor %}
+
+{% comment %} Search other technology pages for incoming tech relationships {% endcomment %}
+{% for t in site.technologies %}
+
+  {% comment %} Get tech relationships for the page, disabling errors (as these shouldn't be shown on it's page, not ours){% endcomment %}
+  {% assign disable_errors = true %}
+  {% include shared/get_tech_relationships tech-rels=t.tech-relationships noerror=yes %}
+  {% assign disable_errors = nil %}
+
+  {% comment %} Loop through all tech relationships, looking for one that references us {% endcomment %} 
+  {% for rel in tech-rels %}
+
+    {% comment %} Get list of relationships tech page titles and compare to our titles {% endcomment %}
+    {% assign titles = rel[1] | map: 'title' %}
+    {% include shared/array_contains list1=my_titles list2=titles %}
+
+    {% comment %} Does this tech relationships reference us {% endcomment %}
+    {% if overlap %}
+
+      {% comment %} Store the relationship type {% endcomment %}
+      {% assign reltype = rel[0].reverse-title %}
+
+      {% comment %} Look through my existing tech rels to see if there's one for this relationship type we should update. {% endcomment %}
+      {% comment %} However as we can modify lists, have to re-create all_tech_rels from scratch! {% endcomment %}
+      {% assign new_all_tech_rels = "" | split: "" %}
+      {% assign found = false %}
+      {% for tr in all_tech_rels %}
+
+        {% comment %} Is this our reltype? {% endcomment %}
+        {% if tr[0] == reltype %}
+
+          {% comment %} Create new tech relationship by appending this technology to the foudn tech relationship {% endcomment %}
+          {% assign updated_reltech = tr[1] | push: t %}
+          {% assign newtr = "" | split: "" | push: reltype | push: updated_reltech %}
+          {% assign found = true %}
+
+        {% else %} 
+
+          {% comment %} This isn't our reltype, so keep this tech relationship as is {% endcomment %}
+          {% assign newtr = tr %}
+
+        {% endif %}
+
+        {% comment %} Continue constructing our new tech relationship list {% endcomment %}
+        {% assign new_all_tech_rels = new_all_tech_rels | push: newtr %}
+      {% endfor %}
+
+      {% unless found %}
+
+        {% comment %} We haven't found an existing tech relationship to update, so create a brand new one {% endcomment %}
+        {% assign reltech = "" | split: "" | push: t %}
+        {% assign r = "" | split: "" | push: reltype | push: reltech %}
+        {% assign new_all_tech_rels = new_all_tech_rels | push: r %}
+
+      {% endunless %}
+
+      {% comment %} Copy our new tech relationship array back over the original {% endcomment %}
+      {% assign all_tech_rels = new_all_tech_rels %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% assign tech-rels = all_tech_rels %}

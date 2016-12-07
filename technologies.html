@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /technologies/
+---
+
+<h1>Technologies</h1>
+
+<ul>
+{% for tech in site.technologies %}
+  <li><a href="{{ tech.url }}">{{ tech.title | escape }}</a></li>
+{% endfor %}
+</ul>

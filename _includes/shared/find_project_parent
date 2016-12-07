@@ -1,0 +1,27 @@
+{% comment %}
+For sub-projects, finds their parent project based on their urls
+Looks for technology pages where the filename matches the lowest directory name of the specified tech page  
+
+Parameters:
+  * tech - the technolgy page to find the parent of
+
+Returns:
+  * parent_project - the parent project name
+
+{% endcomment %}
+
+{% assign parent_project = nul %}
+
+{% if include.tech.type == "Sub-Project" %}
+  {% assign x = include.tech.id | split: '/' %}
+  {% for t in site.technologies %}
+    {% assign t-name = t.id | split: '/' | last %}
+    {% if x[2] == t-name %}
+      {% assign parent_project = t %}
+    {% endif %}
+  {% endfor %}
+
+  {% unless parent_project %}
+    {% include shared/error msg="Cannot find parent project" value=include.tags %}
+  {% endunless %}
+{% endif %}

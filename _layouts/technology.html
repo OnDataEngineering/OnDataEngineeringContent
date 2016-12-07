@@ -1,0 +1,42 @@
+---
+layout: page
+---
+
+{% include shared/find_tech_vendors_by_titles titles=page.vendors %}
+{% include shared/find_tech_categories_by_titles titles=page.categories %}
+{% include shared/find_tech_relationships page=page %}
+{% include shared/validate_not_null attr="Type" value=page.type %}
+{% include shared/validate_value attr="Type" value=page.type list=site.data.shared.tech_types %}
+{% include shared/validate_not_null attr="Last Updated" value=page.last-updated %}
+{% include shared/find_project_parent tech=page %}
+{% include shared/find_project_children tech=page %}
+
+<p>{{ page.summary }}</p>
+
+<h2>Metadata</h2>
+
+<ul>
+  <li>Other Names:<ul>{% for at in page.alt-titles %}<li>{{ at }}</li>{% endfor %}</ul></li>
+  <li>Vendors:<ul>{% for v in vendors %}<li><a href="{{ v.url }}">{{ v.title }}</a></li>{% endfor %}</ul></li>
+  <li>Categories:<ul>{% for c in categories %}<li><a href="{{ c.url }}">{{ c.title }}</a></li>{% endfor %}</ul></li>
+  <li>Relationships:<ul>{% for tr in tech-rels %}
+    <li>{{ tr[0] }}:<ul>{% for r in tr[1] %}
+      <li><a href="{{ r.url }}">{{ r.title }}</a></li>
+    {% endfor %}</ul></li>
+  {% endfor %}</ul></li>
+  <li>Type: {{ page.type }}</li>
+  <li>Last Updated: {{ page.last-updated }}</li>
+  <li>Parent Project: <a href="{{ parent_project.url }}">{{ parent_project.title }}</a></li>
+  <li>Sub Projects:<ul>{% for p in sub_projects %}<li><a href="{{ p.url }}">{{ p.title | escape }}</a></li>{% endfor %}</ul></li>
+</ul>
+
+{{ content }}
+
+<h2>Blog Posts</h2>
+
+{% include shared/find_posts_by_tag_titles page=page %}
+<ul>
+  {% for p in posts %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+  {% endfor %}
+</ul>

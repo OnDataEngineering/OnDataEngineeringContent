@@ -1,0 +1,58 @@
+{% comment %}
+Parses the tech-relationships into a standardised structure of [[<rel-type>, [<tech>,...]], ...]
+Handles input values of either [<rel-type>, <tech>, ...] or [[<rel-type>, <tech>, ...], ...]
+Raises errors if the input isn't a list, or if any relationship list doesn't have at least two
+elements (a rel-type and a tech)
+
+Parameters:
+  * tech-rels - the input value
+
+Returns:
+  * tech-rels - the output tech relationships
+
+{% endcomment %}
+
+{% assign tech-rels = "" | split: "" %}
+
+{% if include.tech-rels %}
+  {% comment %} Check it's a list {% endcomment %}
+  {% unless include.tech-rels[0] %}
+    {% unless include.noerror %}
+      {% include shared/error msg="tech-relationships is not a list" value=include.tech-rels %}
+    {% endunless %}
+  {% else %}
+
+    {% comment %} If the first element isn't a list, assume it's a single relationship and convert it to a element list {% endcomment %}
+    {% if include.tech-rels[0][0] %}
+      {% assign in-tech-rels = include.tech-rels %}
+    {% else %} 
+      {% assign in-tech-rels = "" | split: "" | push: include.tech-rels %}
+    {% endif %}
+
+    {% comment %} We have a list of lists at this point {% endcomment %}
+    {% for rel in in-tech-rels %}
+
+      {% comment %} Check the relationship has at least two elements {% endcomment %}
+      {% if rel.size < 2 %}
+        {% unless include.noerror %}
+          {% include shared/error msg="Tech relationship must have at least two elements" value=rel %}
+        {% endunless %}
+      {% else %}
+        {% assign reltype-name = rel[0] %}
+        {% assign tech-titles = rel | shift %}
+
+        {% assign reltype = site.data.shared.tech_rel_types[reltype-name] %}
+        {% if  reltype %}
+          {% include shared/find_techs_by_titles titles=tech-titles %}
+
+          {% assign r = "" | split: "" | push: reltype | push: techs %}
+          {% assign tech-rels = tech-rels | push: r %}
+        {% else %}
+          {% unless include.noerror %}
+            {% include shared/error msg="Invalid technology relationship type" value=reltype-name %}
+          {% endunless %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endunless %}
+{% endif %}

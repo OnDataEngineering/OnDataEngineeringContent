@@ -1,0 +1,15 @@
+Site:
+  title: Site
+  url: /
+
+Technologies:
+  title: Technologies
+  url: /technologies/
+
+Tech Categories:
+  title: Tech Categories
+  url: /tech-categories/
+
+Tech Vendors:
+  title: Tech Vendors
+  url: /tech-vendors/

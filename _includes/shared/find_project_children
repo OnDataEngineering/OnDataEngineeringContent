@@ -1,0 +1,13 @@
+{% comment %}
+Finds the sub-projects for a project
+
+Parameters:
+  * tech - the technology page to find the children for
+
+Returns:
+  * sub_projects - the list of sub-project technology pages found
+
+{% endcomment %}
+
+{% assign page_root = include.tech.id | append: "/" %}
+{% assign sub_projects = site.technologies | where_exp: "tech", "tech.id contains page_root" %}
