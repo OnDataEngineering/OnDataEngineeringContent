@@ -5,13 +5,14 @@ layout: page
 {% include shared/find_tech_vendors_by_titles titles=page.vendors %}
 {% include shared/find_tech_categories_by_titles titles=page.categories %}
 {% include shared/find_tech_relationships page=page %}
+{% include shared/validate_not_null attr="Description" value=page.description %}
 {% include shared/validate_not_null attr="Type" value=page.type %}
 {% include shared/validate_value attr="Type" value=page.type list=site.data.shared.tech_types %}
 {% include shared/validate_not_null attr="Last Updated" value=page.last-updated %}
 {% include shared/find_project_parent tech=page %}
 {% include shared/find_project_children tech=page %}
 
-<p>{{ page.summary }}</p>
+<p>{{ page.description }}</p>
 
 <h2>Metadata</h2>
 

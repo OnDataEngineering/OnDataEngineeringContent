@@ -1,6 +1,6 @@
 ---
 title: The full name of the technology vendor, making sure the spelling, capitalisation and punctuation is correct
-summary: A summary of the vendor, including a very brief summary of it's history
+description: A description of the vendor, including a very brief summary of it's history
 alt-titles: A YAML list ([abc, def]) of any other names the vendor is known by, e.g. abbreviations of their full name, or old historical names
 last-updated: The month and year (e.g. November 2016) this information was last updated
 ---

@@ -1,6 +1,6 @@
 ---
 title: The full name of the technology, making sure the spelling, capitalisation and punctuation is correct
-summary: A summary of the technology - see below for the standard things to try and include in this
+description: A description of the technology - see below for the standard things to try and include in this
 alt-titles: A YAML list ([abc, def]) of any other names the technology is known by, e.g. abbreviations of its full name, or old historical names
 vendor: A YAML list ([abc, def]) of technology vendor page titles or alt-titles that this technology should be included on
 categories: A YAML list ([abc, def]) of technology category page titles or alt-titles that this technology should be included on
@@ -15,7 +15,7 @@ Where a given technology consists of a number of distinct sub-projects, a techno
 
 Technologies summaries should include the following:
 
-* A brief (1 or 2 sentence) summary of the technology and it's major capabilities - this should describe what the technology does, not the problem it intends to solve (e.g. "a distributed cluster filesystem" rather than "a solution for the management of large datasets")
+* A brief (1 or 2 sentence) description of the technology and it's major capabilities - this should describe what the technology does, not the problem it intends to solve (e.g. "a distributed cluster filesystem" rather than "a solution for the management of large datasets")
 * Whether it's a commercial or open source project, and if it's open source whether it falls under a governance organisation such as the Apache Software Foundation
 * For commercial projects, who the vendor is, when the project was first released, when it reached a 1.0 (or equivalent first stable production release), and a summary of an different editions it's distributed under (e.g. a free "lite" version and a "full" commercial version)
 * For Apache open source projects, when it was donated to Apache (and by who and from what previous product if any), when it graduated from incubation, when it reached a 1.0 (or equivalent first stable production release), if it has an major commercial backers (and whether they distribute and/or provide support), and whether it's still under active development

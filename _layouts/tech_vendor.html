@@ -2,11 +2,11 @@
 layout: page
 ---
 
-{% include shared/validate_not_null attr="Summary" value=page.summary %}
+{% include shared/validate_not_null attr="Description" value=page.description %}
 {% include shared/validate_not_null attr="Last Updated" value=page.last-updated %}
 {% include shared/find_techs_by_vendor vendor=page %}
 
-<p>{{ page.summary }}</p>
+<p>{{ page.description }}</p>
 
 <h2>Metadata</h2>
 
