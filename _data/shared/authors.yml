@@ -12,10 +12,10 @@
 #   humans.txt uses the name, siteroles, uri and twitter
 
 # Only the name and siteroles (generally "contributor") is mandatory
+# Twitter handles can be added using a twitter property
 
 Peter:
   name: "Peter"
   siteroles: "editor, maintainer"
   uri: http://ondataengineering.net/
-  twitter: "@odt"
   discourse_username: "Peter"
