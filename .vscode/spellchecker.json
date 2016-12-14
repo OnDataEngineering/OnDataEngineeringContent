@@ -14,7 +14,16 @@
         "Shoposhnik",
         "YAML",
         "YYYY",
-        "analytics"
+        "analytics",
+        "Hortonworks",
+        "MapR",
+        "Teradata",
+        "Initio",
+        "Informatica",
+        "NoSQL",
+        "Gartner",
+        "Forrester",
+        "LinkedIn"
     ],
     "documentTypes": [
         "markdown",
