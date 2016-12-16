@@ -23,7 +23,12 @@
         "NoSQL",
         "Gartner",
         "Forrester",
-        "LinkedIn"
+        "LinkedIn",
+        "filesystem",
+        "HDFS",
+        "MapReduce",
+        "Lucene",
+        "ACLs"
     ],
     "documentTypes": [
         "markdown",
