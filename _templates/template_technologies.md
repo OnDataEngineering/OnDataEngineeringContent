@@ -6,7 +6,8 @@ vendor: A YAML list ([abc, def]) of technology vendor page titles or alt-titles 
 categories: A YAML list ([abc, def]) of technology category page titles or alt-titles that this technology should be included on
 tech-relationships: A YAML list of technology page titles or alt-titles that this technology is related to, with the first element being the type of relationship taken from _data/shared/tech_rel_types.yml (e.g. [runs on, Hadoop, Mesos]). For multiple relationships, use a list of lists (e.g. [[packages, Tech1], [uses, Tech2]]).  Feel free to propose additions to our tech_rel_types.
 type: The type of technology, taken from _data/shared/tech_types.yml.  See the descriptions in the file to work out the relevant one to use.
-last-updated: The month and year this information was last updated, and the major version of the technology at the time (e.g. November 2016 - v1.1) 
+date: The date (YYYY-MM-DD) this information was last updated
+version: The major version of the technology at the time this information was last updated (e.g. "v1.1") 
 ---
 
 All technology pages live within the  _technologies folder, and follow the standard Jekyll filename convention (the page title in lowercase with hyphens instead of spaces and any punctuation removed.

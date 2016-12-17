@@ -2,7 +2,7 @@
 title: The full name of the technology vendor, making sure the spelling, capitalisation and punctuation is correct
 description: A description of the vendor, including a very brief summary of it's history
 alt-titles: A YAML list ([abc, def]) of any other names the vendor is known by, e.g. abbreviations of their full name, or old historical names
-last-updated: The month and year (e.g. November 2016) this information was last updated
+date: The date (YYYY-MM-DD) this information was last updated
 ---
 
 The plan is to only create technology vendor pages for vendors that have broad (and complex) products. Vendors with only one or two products probably don't warrant their own vendor page.

@@ -8,7 +8,8 @@ layout: page
 {% include shared/validate_not_null attr="Description" value=page.description %}
 {% include shared/validate_not_null attr="Type" value=page.type %}
 {% include shared/validate_value attr="Type" value=page.type list=site.data.shared.tech_types %}
-{% include shared/validate_not_null attr="Last Updated" value=page.last-updated %}
+{% include shared/validate_not_null attr="Date" value=page.date %}
+{% include shared/validate_not_null attr="Version" value=page.version %}
 {% include shared/find_project_parent tech=page %}
 {% include shared/find_project_children tech=page %}
 
@@ -26,7 +27,8 @@ layout: page
     {% endfor %}</ul></li>
   {% endfor %}</ul></li>
   <li>Type: {{ page.type }}</li>
-  <li>Last Updated: {{ page.last-updated }}</li>
+  <li>Date: {{ page.date }}</li>
+  <li>Version: {{ page.version }}</li>
   <li>Parent Project: <a href="{{ parent_project.url }}">{{ parent_project.title }}</a></li>
   <li>Sub Projects:<ul>{% for p in sub_projects %}<li><a href="{{ p.url }}">{{ p.title | escape }}</a></li>{% endfor %}</ul></li>
 </ul>

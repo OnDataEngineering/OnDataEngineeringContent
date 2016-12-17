@@ -2,7 +2,7 @@
 title: "The Apache Software Foundation"
 description: "The Apache Software Foundation is a non-profit organisation that supports a wide range of open source projects, including providing and mandating a standard governance model (including the use of the Apache license), holding all trademarks for project names and logos, and providing legal protection to developers.  It was founded in 1999 and now oversees nearly 200 projects." 
 alt-titles: [Apache]
-last-updated: Dec 2016
+date: 2016-12-16
 ---
 
 ## Links

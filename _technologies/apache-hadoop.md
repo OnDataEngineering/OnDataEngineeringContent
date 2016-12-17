@@ -4,7 +4,8 @@ description: "A distributed storage and compute platform consisting of a distrib
 alt-titles: [Hadoop]
 vendors: [Apache]
 type: "Commercial Open Source"
-last-updated: "Dec 2016 - v2.7"
+date: 2016-12-16
+version: "v2.7"
 ---
 ## Links
 
