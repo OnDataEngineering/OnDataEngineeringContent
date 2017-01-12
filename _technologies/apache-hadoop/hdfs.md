@@ -4,7 +4,6 @@ description: "A highly resilient distributed cluster file system proven at extre
 alt-titles: [Hadoop Distributed File System]
 type: "Sub-Project"
 date: 2016-12-16
-version: "v2.7"
 ---
 ## Links
 

@@ -9,7 +9,9 @@ layout: page
 {% include shared/validate_not_null attr="Type" value=page.type %}
 {% include shared/validate_value attr="Type" value=page.type list=site.data.shared.tech_types %}
 {% include shared/validate_not_null attr="Date" value=page.date %}
-{% include shared/validate_not_null attr="Version" value=page.version %}
+{% if page.type != "Sub-Project" %}
+  {% include shared/validate_not_null attr="Version" value=page.version %}
+{% endif %}
 {% include shared/find_project_parent tech=page %}
 {% include shared/find_project_children tech=page %}
 

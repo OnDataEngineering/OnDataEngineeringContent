@@ -4,7 +4,6 @@ description: "Resource management and job scheduling & monitoring for the Hadoop
 alt-titles: [Yet Another Resource Negotiator]
 type: "Sub-Project"
 date: 2016-12-16
-version: "v2.7"
 ---
 ## Links
 

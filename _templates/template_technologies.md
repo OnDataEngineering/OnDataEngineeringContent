@@ -12,14 +12,14 @@ version: The major version of the technology at the time this information was la
 
 All technology pages live within the  _technologies folder, and follow the standard Jekyll filename convention (the page title in lowercase with hyphens instead of spaces and any punctuation removed.
 
-Where a given technology consists of a number of distinct sub-projects, a technology page should also be created for each sub-project, and placed in a sub-directory of _technologies named as per the filename of the parent technology (e.g. "apache-hadoop/yarn.md")
+Where a given technology consists of a number of distinct sub-projects, a technology page should also be created for each sub-project, and placed in a sub-directory of _technologies named as per the filename of the parent technology (e.g. "apache-hadoop/yarn.md").  Sub-projects should generally be significant distinct pieces of technology that are often referred to independently of the parent project.
 
 Technologies summaries should include the following:
 
 * A brief (1 or 2 sentence) description of the technology and it's major capabilities - this should describe what the technology does, not the problem it intends to solve (e.g. "a distributed cluster filesystem" rather than "a solution for the management of large datasets")
 * Whether it's a commercial or open source project, and if it's open source whether it falls under a governance organisation such as the Apache Software Foundation
 * For commercial projects, who the vendor is, when the project was first released, when it reached a 1.0 (or equivalent first stable production release), and a summary of an different editions it's distributed under (e.g. a free "lite" version and a "full" commercial version)
-* For Apache open source projects, when it was donated to Apache (and by who and from what previous product if any), when it graduated from incubation, when it reached a 1.0 (or equivalent first stable production release), if it has an major commercial backers (and whether they distribute and/or provide support), and whether it's still under active development
+* For Apache open source projects, when it was donated to the Apache foundation (and by who and from what previous product if any), when it graduated from incubation, when it reached a 1.0 (or equivalent first stable production release), if it has an major commercial backers (and whether they distribute and/or provide support), and whether it's still under active development
 * For other open source projects, which licence it's available under, when it was open sourced (and by who and from what previous product if any), when it reached a 1.0 (or equivalent first stable production release), if it has an major commercial backers (and whether they distribute and/or provide support), and whether it's still under active development
 
 If you haven't already see http://ondataengineering.net/site/contributing/ for information on contributing, including information on the use of Git, GitHub and Markdown.

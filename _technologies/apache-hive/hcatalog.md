@@ -4,7 +4,6 @@ description: "Libraries for MapReduce and Pig to read and write data to and from
 alt-titles: [WebHCat]
 type: "Sub-Project"
 date: 2017-01-06
-version: "v2.1"
 ---
 ## Links
 
