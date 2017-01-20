@@ -70,7 +70,21 @@
         "CNET",
         "Lucidworks",
         "PageRank",
-        "NiFi"
+        "NiFi",
+        "APIs",
+        "schemas",
+        "Schemas",
+        "runtime",
+        "Dremel",
+        "Trevni",
+        "Oozie",
+        "scalable",
+        "timestamp",
+        "integrations",
+        "stateful",
+        "deliverying",
+        "executables",
+        "parameterisation"
     ],
     "documentTypes": [
         "markdown",
