@@ -7,6 +7,6 @@ permalink: /posts/
 
 <ul>
 {% for post in site.posts %}
-  <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title | escape }}</a></li>
+  <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title | escape }}</a><br>{{ post.excerpt }}</li>
 {% endfor %}
 </ul>

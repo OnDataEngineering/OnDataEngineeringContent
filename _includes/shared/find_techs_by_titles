@@ -27,3 +27,5 @@ Returns:
     {% include shared/error msg="One or more invalid technologies" value=include.titles %}
   {% endif %}
 {% endif %}
+
+{% assign techs = techs | sort: 'id' %}

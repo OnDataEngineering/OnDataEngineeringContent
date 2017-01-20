@@ -16,3 +16,5 @@ Returns:
     {% assign techs = techs | push: t %}
   {% endif %}
 {% endfor %}
+
+{% assign techs = techs | sort: 'id' %}

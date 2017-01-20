@@ -6,7 +6,8 @@ permalink: /tech-categories/
 <h1>Tech Categories</h1>
 
 <ul>
-{% for cat in site.tech-categories %}
+{% assign cats = site.tech-categories | sort: 'title' %}
+{% for cat in cats %}
   <li><a href="{{ cat.url }}">{{ cat.title | escape }}</a></li>
 {% endfor %}
 </ul>

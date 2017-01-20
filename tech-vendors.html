@@ -6,7 +6,8 @@ permalink: /tech-vendors/
 <h1>Tech Vendors</h1>
 
 <ul>
-{% for vendor in site.tech-vendors %}
+{% assign vendors = site.tech-vendors | sort: 'title' %}
+{% for vendor in vendors %}
   <li><a href="{{ vendor.url }}">{{ vendor.title | escape }}</a></li>
 {% endfor %}
 </ul>
