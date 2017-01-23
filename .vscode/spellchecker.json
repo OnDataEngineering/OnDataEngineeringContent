@@ -84,7 +84,9 @@
         "stateful",
         "deliverying",
         "executables",
-        "parameterisation"
+        "parameterisation",
+        "interoperability",
+        "uncommented"
     ],
     "documentTypes": [
         "markdown",
