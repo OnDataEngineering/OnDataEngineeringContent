@@ -1,6 +1,7 @@
 ---
 title: The title of the technology category
 description: A description of the category, including a description of the functionality or features that a technology must have to be considered part of this category
+date: The date (YYYY-MM-DD) this information was last updated
 ---
 
 All technology category pages live within the _tech-categories folder, and follow the  standard Jekyll filename convention (the page title in lowercase with hyphens instead of spaces and any punctuation removed.
