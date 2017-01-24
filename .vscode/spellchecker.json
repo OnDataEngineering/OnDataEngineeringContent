@@ -86,7 +86,9 @@
         "executables",
         "parameterisation",
         "interoperability",
-        "uncommented"
+        "uncommented",
+        "RDDs",
+        "GridGain"
     ],
     "documentTypes": [
         "markdown",
