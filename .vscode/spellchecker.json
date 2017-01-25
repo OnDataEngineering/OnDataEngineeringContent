@@ -88,7 +88,9 @@
         "interoperability",
         "uncommented",
         "RDDs",
-        "GridGain"
+        "GridGain",
+        "Giraph",
+        "Pregel"
     ],
     "documentTypes": [
         "markdown",
