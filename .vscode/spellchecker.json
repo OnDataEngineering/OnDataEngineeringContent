@@ -93,7 +93,12 @@
         "Pregel",
         "Hama",
         "MRQL",
-        "DistBelief"
+        "DistBelief",
+        "Alluxio",
+        "centric",
+        "virtualised",
+        "GlusterFS",
+        "POSIX"
     ],
     "documentTypes": [
         "markdown",
