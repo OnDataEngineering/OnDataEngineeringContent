@@ -98,7 +98,17 @@
         "centric",
         "virtualised",
         "GlusterFS",
-        "POSIX"
+        "POSIX",
+        "dataset",
+        "filesystems",
+        "Morphlines",
+        "RCFile",
+        "SequenceFile",
+        "ProtoBuf",
+        "gzip",
+        "bzip2",
+        "Tika",
+        "embeddable"
     ],
     "documentTypes": [
         "markdown",
