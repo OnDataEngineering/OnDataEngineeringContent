@@ -108,7 +108,12 @@
         "gzip",
         "bzip2",
         "Tika",
-        "embeddable"
+        "embeddable",
+        "DataFu",
+        "UDFs",
+        "Javadoc",
+        "cardinality",
+        "sessionisation"
     ],
     "documentTypes": [
         "markdown",
