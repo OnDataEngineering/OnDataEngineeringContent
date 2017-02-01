@@ -113,7 +113,10 @@
         "UDFs",
         "Javadoc",
         "cardinality",
-        "sessionisation"
+        "sessionisation",
+        "SalesForce",
+        "Tephra",
+        "upserts"
     ],
     "documentTypes": [
         "markdown",
