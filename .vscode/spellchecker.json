@@ -116,7 +116,11 @@
         "sessionisation",
         "SalesForce",
         "Tephra",
-        "upserts"
+        "upserts",
+        "Tajo",
+        "Gruter",
+        "OpenStack",
+        "Qrytica"
     ],
     "documentTypes": [
         "markdown",
