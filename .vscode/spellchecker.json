@@ -120,7 +120,10 @@
         "Tajo",
         "Gruter",
         "OpenStack",
-        "Qrytica"
+        "Qrytica",
+        "Flink",
+        "codenamed",
+        "Samsara"
     ],
     "documentTypes": [
         "markdown",
