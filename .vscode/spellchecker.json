@@ -123,7 +123,10 @@
         "Qrytica",
         "Flink",
         "codenamed",
-        "Samsara"
+        "Samsara",
+        "alogirthms",
+        "ingestions",
+        "Kudu"
     ],
     "documentTypes": [
         "markdown",
