@@ -126,7 +126,15 @@
         "Samsara",
         "alogirthms",
         "ingestions",
-        "Kudu"
+        "Kudu",
+        "Acyclic",
+        "Malhar",
+        "DataTorrent",
+        "dtManage",
+        "dtIngest",
+        "dtAssemble",
+        "dtDashboard",
+        "testability"
     ],
     "documentTypes": [
         "markdown",
