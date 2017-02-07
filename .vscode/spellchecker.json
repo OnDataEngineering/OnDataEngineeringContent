@@ -134,7 +134,8 @@
         "dtIngest",
         "dtAssemble",
         "dtDashboard",
-        "testability"
+        "testability",
+        "FlumeJava"
     ],
     "documentTypes": [
         "markdown",
