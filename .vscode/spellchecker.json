@@ -135,7 +135,13 @@
         "dtAssemble",
         "dtDashboard",
         "testability",
-        "FlumeJava"
+        "FlumeJava",
+        "checkpointing",
+        "DataStream",
+        "DataSet",
+        "FlinkCEP",
+        "FlinkML",
+        "Gelly"
     ],
     "documentTypes": [
         "markdown",
