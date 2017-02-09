@@ -141,7 +141,8 @@
         "DataSet",
         "FlinkCEP",
         "FlinkML",
-        "Gelly"
+        "Gelly",
+        "natively"
     ],
     "documentTypes": [
         "markdown",
