@@ -1,6 +1,6 @@
 ---
 title: The Week That Was - 03/02/2017
-categories: [Site, Technologies]
+categories: [Technologies]
 tags: [Kite, Kite Data, Kite Maven Plugin, DataFu, DataFu Pig, DataFu Hourglass, Phoenix, Tajo, Mahout]
 date: 2017-02-03 16:50
 ---
