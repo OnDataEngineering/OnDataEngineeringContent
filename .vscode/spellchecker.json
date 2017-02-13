@@ -142,7 +142,13 @@
         "FlinkCEP",
         "FlinkML",
         "Gelly",
-        "natively"
+        "natively",
+        "PySpark",
+        "parameterising",
+        "Sqoop2",
+        "workspace",
+        "Django",
+        "parameterised"
     ],
     "documentTypes": [
         "markdown",
