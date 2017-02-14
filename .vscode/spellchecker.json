@@ -148,7 +148,13 @@
         "Sqoop2",
         "workspace",
         "Django",
-        "parameterised"
+        "parameterised",
+        "MathJax",
+        "ZeppelinHub",
+        "plugable",
+        "NFLabs",
+        "ZEPL",
+        "ZepplinHub"
     ],
     "documentTypes": [
         "markdown",
