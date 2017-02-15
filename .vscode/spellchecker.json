@@ -154,7 +154,10 @@
         "plugable",
         "NFLabs",
         "ZEPL",
-        "ZepplinHub"
+        "ZepplinHub",
+        "Quantcast",
+        "Kosmos",
+        "Kosmix"
     ],
     "documentTypes": [
         "markdown",
