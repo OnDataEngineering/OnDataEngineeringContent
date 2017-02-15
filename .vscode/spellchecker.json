@@ -142,7 +142,22 @@
         "FlinkCEP",
         "FlinkML",
         "Gelly",
-        "natively"
+        "natively",
+        "PySpark",
+        "parameterising",
+        "Sqoop2",
+        "workspace",
+        "Django",
+        "parameterised",
+        "MathJax",
+        "ZeppelinHub",
+        "plugable",
+        "NFLabs",
+        "ZEPL",
+        "ZepplinHub",
+        "Quantcast",
+        "Kosmos",
+        "Kosmix"
     ],
     "documentTypes": [
         "markdown",
