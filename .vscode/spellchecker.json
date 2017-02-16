@@ -157,7 +157,14 @@
         "ZepplinHub",
         "Quantcast",
         "Kosmos",
-        "Kosmix"
+        "Kosmix",
+        "Greenplum",
+        "OLAP",
+        "PostgreSQL",
+        "MADLib",
+        "PostGIS",
+        "PGCrypto",
+        "GPDB"
     ],
     "documentTypes": [
         "markdown",
