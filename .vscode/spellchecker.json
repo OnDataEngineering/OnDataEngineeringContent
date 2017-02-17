@@ -168,7 +168,9 @@
         "Cloudbreak",
         "Ambari",
         "repo",
-        "SmartSense"
+        "SmartSense",
+        "licenced",
+        "Jupyter"
     ],
     "documentTypes": [
         "markdown",
