@@ -164,7 +164,11 @@
         "MADLib",
         "PostGIS",
         "PGCrypto",
-        "GPDB"
+        "GPDB",
+        "Cloudbreak",
+        "Ambari",
+        "repo",
+        "SmartSense"
     ],
     "documentTypes": [
         "markdown",

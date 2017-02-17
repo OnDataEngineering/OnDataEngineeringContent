@@ -5,3 +5,11 @@ packages:
 uses:
   title: "Uses"
   reverse-title: "Is used by"
+
+add ons:
+  title: "Add ons"
+  reverse-title: "Add on to"
+
+manageable via:
+  title: "Manageable via"
+  reverse-title: "Manages"
