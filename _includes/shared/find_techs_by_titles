@@ -17,15 +17,20 @@ Returns:
   {% for t in site.technologies %}
     {% include shared/get_titles page=t %}
 
-    {% include shared/array_contains list1=include.titles list2=titles %}
-    {% if overlap %}
-      {% assign techs = techs | push: t %}
-    {% endif %}
+    {% for i in include.titles %}
+      {% if titles contains i %}
+        {% assign n = "" | split: "" | push: i | push: t %}
+        {% assign techs = techs | push: n %}
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 
-  {% if include.titles.size != techs.size %}
-    {% include shared/error msg="One or more invalid technologies" value=include.titles %}
-  {% endif %}
-{% endif %}
+  {% include shared/merge_results results=techs search=include.titles %}
 
-{% assign techs = techs | sort: 'id' %}
+  {% assign tmp = unmatched | sort %}
+  {% assign techs = matched | sort: 'id' %}
+  {% for i in tmp %}
+    {% assign techs = techs | push: i %}
+  {% endfor %}
+
+{% endif %}
