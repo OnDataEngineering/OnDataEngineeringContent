@@ -4,13 +4,14 @@ description: "An Apache open source distribution of Hadoop.  Packages up a numbe
 alt-titles: [Bigtop]
 vendors: [Apache]
 categories: [Hadoop Distributions]
-tech-relationships: [packages, Hadoop, Pig, Hive, Giraph, Hama, Flume, Spark, Sqoop, Crunch, Solr, HBase, Kafka, Zepplin, Hue, Ignite, Tez, Oozie, Datafu, Phoenix, Alluxio, Kite]
+tech-relationships: [packages, Hadoop, Pig, Hive, Giraph, Hama, Flume, Spark, Sqoop, Crunch, Solr, HBase, Kafka, Zeppelin, Hue, Ignite, Tez, Oozie, DataFu, Phoenix, Alluxio, Kite, ZooKeeper, Mahout, Flink, Tajo, Apex, QFS, GPDB]
 type: "Open Source - Active"
 date: 2017-01-23
 version: "v1.1"
 ---
 ## Release History
 
+| 1.2.0 | pending | | to date has added Flink, Tajo, Apex, QFS and GPDB
 | 1.1.0 | 17th Feb 2016 | <https://blogs.apache.org/bigtop/entry/release_1_1_0_is>
 | 1.0.0 | 17th Aug 2015 | <https://blogs.apache.org/bigtop/entry/not_just_yet_another_release> | based on Hadoop 2.6
 | 0.8.0 | 6th Oct 2014 | <https://blogs.apache.org/bigtop/entry/release_of_apache_bigtop_01>

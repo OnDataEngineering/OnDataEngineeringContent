@@ -17,13 +17,16 @@ Returns:
   {% for v in site.tech-vendors %}
     {% include shared/get_titles page=v %}
 
-    {% include shared/array_contains list1=include.titles list2=titles %}
-    {% if overlap %}
-      {% assign vendors = vendors | push: v %}
-    {% endif %}
+    {% for i in include.titles %}
+      {% if titles contains i %}
+        {% assign n = "" | split: "" | push: i | push: v %}
+        {% assign vendors = vendors | push: n %}
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 
-  {% if include.titles.size != vendors.size %}
-    {% include shared/error msg="One or more invalid tech vendors" value=include.titles %}
-  {% endif %}
+  {% include shared/merge_results results=vendors search=include.titles %}
+
+  {% assign vendors = res %}
+
 {% endif %}

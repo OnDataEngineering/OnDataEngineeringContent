@@ -21,11 +21,11 @@ layout: page
 
 <ul>
   <li>Other Names:<ul>{% for at in page.alt-titles %}<li>{{ at }}</li>{% endfor %}</ul></li>
-  <li>Vendors:<ul>{% for v in vendors %}<li><a href="{{ v.url }}">{{ v.title }}</a></li>{% endfor %}</ul></li>
+  <li>Vendors:<ul>{% for v in vendors %}<li>{% if v.url %}<a href="{{ v.url }}">{{ v.title }}</a>{% else %}{{ v }}{% endif %}</li>{% endfor %}</ul></li>
   <li>Categories:<ul>{% for c in categories %}<li><a href="{{ c.url }}">{{ c.title }}</a></li>{% endfor %}</ul></li>
   <li>Relationships:<ul>{% for tr in tech-rels %}
     <li>{{ tr[0] }}:<ul>{% for r in tr[1] %}
-      <li><a href="{{ r.url }}">{{ r.title }}</a></li>
+      <li>{% if r.url %}<a href="{{ r.url }}">{{ r.title }}</a>{% else %}{{ r }}{% endif %}</li>
     {% endfor %}</ul></li>
   {% endfor %}</ul></li>
   <li>Type: {{ page.type }}</li>

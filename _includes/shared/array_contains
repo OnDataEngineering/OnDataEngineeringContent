@@ -17,5 +17,6 @@ Returns:
 {% for i in include.list1 %}
   {% if include.list2 contains i %}
     {% assign overlap = true %}
+    {% assign match = i %}
   {% endif %}
 {% endfor %}

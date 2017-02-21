@@ -1,0 +1,14 @@
+  {% assign res = "" | split: "" %}
+  {% assign matched = "" | split: "" %}
+  {% assign unmatched = "" | split: "" %}
+
+  {% for t in include.search %}
+    {% assign v = include.results | where_exp: "v", "v[0] == t" %}
+    {% if v.size > 0 %}
+      {% assign res = res | push: v[0][1] %}
+      {% assign matched = matched | push: v[0][1] %}
+    {% else %}
+      {% assign res = res | push: t %}
+      {% assign unmatched = unmatched | push: t %}
+    {% endif %}
+  {% endfor %}
