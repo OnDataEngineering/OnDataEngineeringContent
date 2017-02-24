@@ -177,7 +177,15 @@
         "evaluators",
         "proxying",
         "extreemly",
-        "failover"
+        "failover",
+        "inMobi",
+        "validator",
+        "adapters",
+        "adapter",
+        "POJO",
+        "Optiq",
+        "Avatica",
+        "Memcached"
     ],
     "documentTypes": [
         "markdown",
