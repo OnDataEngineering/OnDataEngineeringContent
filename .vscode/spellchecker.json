@@ -174,7 +174,18 @@
         "Kerberos",
         "LDAP",
         "enrichers",
-        "evaluators"
+        "evaluators",
+        "proxying",
+        "extreemly",
+        "failover",
+        "inMobi",
+        "validator",
+        "adapters",
+        "adapter",
+        "POJO",
+        "Optiq",
+        "Avatica",
+        "Memcached"
     ],
     "documentTypes": [
         "markdown",
