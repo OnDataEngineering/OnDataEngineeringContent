@@ -192,7 +192,8 @@
         "BackType",
         "stdin",
         "stdout",
-        "StormSQL"
+        "StormSQL",
+        "boolean"
     ],
     "documentTypes": [
         "markdown",
