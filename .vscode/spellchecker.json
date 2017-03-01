@@ -185,7 +185,14 @@
         "POJO",
         "Optiq",
         "Avatica",
-        "Memcached"
+        "Memcached",
+        "topologies",
+        "Clojure",
+        "updatable",
+        "BackType",
+        "stdin",
+        "stdout",
+        "StormSQL"
     ],
     "documentTypes": [
         "markdown",
