@@ -195,7 +195,8 @@
         "StormSQL",
         "boolean",
         "SerDe",
-        "SDKs"
+        "SDKs",
+        "differentiations"
     ],
     "documentTypes": [
         "markdown",
