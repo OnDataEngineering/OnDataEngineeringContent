@@ -196,7 +196,9 @@
         "boolean",
         "SerDe",
         "SDKs",
-        "differentiations"
+        "differentiations",
+        "Hawq",
+        "GPORCA"
     ],
     "documentTypes": [
         "markdown",
