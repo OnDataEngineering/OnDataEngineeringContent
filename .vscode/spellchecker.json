@@ -198,7 +198,11 @@
         "SDKs",
         "differentiations",
         "Hawq",
-        "GPORCA"
+        "GPORCA",
+        "programmatically",
+        "Kerberization",
+        "Grafana",
+        "backend"
     ],
     "documentTypes": [
         "markdown",
