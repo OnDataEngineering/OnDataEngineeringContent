@@ -1,0 +1,6 @@
+---
+title: "Ambari Views"
+description: "Framework within Ambari that allows new applications or views to be added to Ambari, based on new client side code (HTML, JavaScript and CSS) supported by new backend code (Java) that exposes REST API end points for the UI to consume.  Comes with support for a number of views out of the box, including YARN Queue Manager (supports the creation and configuration of YARN capacity schedule queues), Files (supports copying and moving, uploading and setting permissions on files in HDFS), Falcon (supports defining, scheduling and monitoring data management pipelines), Hive (supports browsing databases, executing queries and viewing explain plans, saving queries, viewing query history and uploading data to Hive tables), Pig (supports executing Pig scripts and viewing execution history), SmartSense (supports capture and download of bundles), Storm (supports viewing cluster status, monitoring topologies, perform topology management and access metrics and logs) and Tez (supports viewing and debugging Tez jobs), along with technical previews of Workflow Designer, Zeppelin and Hue migration views.  Views can be deployed into a standalone Ambari instance to separate these from the primary Ambari management instance and to support scaling out."
+type: "Sub-Project"
+date: 2017-03-08 07:30
+---
