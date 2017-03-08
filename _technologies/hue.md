@@ -5,7 +5,7 @@ alt-titles: [Hue]
 vendors: [Cloudera]
 type: "Commercial Open Source"
 date: 2017-02-13
-version: "3.1"
+version: "3.12"
 ---
 ## Links
 
