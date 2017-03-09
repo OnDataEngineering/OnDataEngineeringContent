@@ -1,6 +1,8 @@
 {
     "language": "en_GB-ise",
     "ignoreWordsList": [
+        "Ambari",
+        "BackType",
         "OnDataEngineering",
         "blog",
         "hadoop",
@@ -166,7 +168,6 @@
         "PGCrypto",
         "GPDB",
         "Cloudbreak",
-        "Ambari",
         "repo",
         "SmartSense",
         "licenced",
@@ -189,7 +190,6 @@
         "topologies",
         "Clojure",
         "updatable",
-        "BackType",
         "stdin",
         "stdout",
         "StormSQL",
@@ -202,7 +202,9 @@
         "programmatically",
         "Kerberization",
         "Grafana",
-        "backend"
+        "backend",
+        "SequenceIQ",
+        "Kerberized"
     ],
     "documentTypes": [
         "markdown",
