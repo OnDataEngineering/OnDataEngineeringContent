@@ -4,7 +4,7 @@ description: "A distribution of Hadoop based on a commitment to the Apache open 
 alt-titles: [HDP]
 vendors: [Hortonworks]
 categories: [Hadoop Distributions]
-tech-relationships: [[packages, Hadoop, Hive, Tez, Pig, Storm, Spark, HBase, Accumulo, Atlas, Falcon, Oozie, Sqoop, Flume, Kafka, Knox, Ranger, ZooKeeper, Zeppelin, Slider, Phoenix, Calcite, DataFu, Mahout, Hue, Livy], [add ons, HDP Search, Hortonworks HDB], [manageable via, Ambari, Cloudbreak]]
+tech-relationships: [[packages, Hadoop, Hive, Tez, Pig, Storm, Spark, HBase, Accumulo, Atlas, Falcon, Oozie, Sqoop, Flume, Kafka, Knox, Ranger, ZooKeeper, Zeppelin, Slider, Phoenix, Calcite, DataFu, Mahout, Hue, Livy], [add ons, HDP Search, Hortonworks HDB, SmartSense], [manageable via, Ambari, Cloudbreak]]
 type: "Commercial Open Source"
 date: 2017-02-17 07:30
 version: "2.5"

@@ -204,7 +204,10 @@
         "Grafana",
         "backend",
         "SequenceIQ",
-        "Kerberized"
+        "Kerberized",
+        "Anonymisation",
+        "anonymisation",
+        "Installable"
     ],
     "documentTypes": [
         "markdown",
