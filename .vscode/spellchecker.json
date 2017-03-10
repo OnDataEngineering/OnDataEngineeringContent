@@ -207,7 +207,9 @@
         "Kerberized",
         "Anonymisation",
         "anonymisation",
-        "Installable"
+        "Installable",
+        "RedHat",
+        "premesis"
     ],
     "documentTypes": [
         "markdown",
