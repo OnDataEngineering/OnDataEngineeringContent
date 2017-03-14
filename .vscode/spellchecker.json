@@ -209,7 +209,11 @@
         "anonymisation",
         "Installable",
         "RedHat",
-        "premesis"
+        "premesis",
+        "MiNiFi",
+        "DataFlow",
+        "Onyara",
+        "aquisition"
     ],
     "documentTypes": [
         "markdown",
