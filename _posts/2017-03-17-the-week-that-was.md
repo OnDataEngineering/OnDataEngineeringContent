@@ -1,0 +1,22 @@
+---
+title: The Week That Was - 17/03/2017
+categories: [Tech Vendors, Technologies]
+tags: [Hortonworks, HDF, NiFi, MiNiFi, HDCloud for AWS]
+date: 2017-03-17 08:00
+---
+And another week passes...
+
+This week we've wrapped up the [Hortonworks](/tech-vendors/hortonworks) technology stack (give or take).  On Monday we'll review what we've found, and look ahead to our next destination - Cloudera.
+
+So what have we looked at this week? We took a spin through [Hortonworks DataFlow](/technologies/hortonworks-data-flow), Hortonworks' bundling of [Apache NiFi](/technologies/apache-nifi), [Apache Kafka](/technologies/apache-kafka) and [Apache Storm](/technologies/apache-storm).  We've looked at Kafka and Storm previously, but we paused this week to look at [Apache NiFi](/technologies/apache-nifi) and it's sub-project [MiNiFi](/technologies/apache-nifi/minifi) in more detail.
+
+And we finished off by looking at [HDCloud for AWS](/technologies/hortonworks-data-cloud-for-aws/).
+<!--more-->
+
+[Hortonworks DataFlow](/technologies/hortonworks-data-flow) (HDF to it's friends) is Hortonworks' big push into analytics on data in motion, and more specifically into analytics in the Internet of Things world (or Internet of Anything as they refer to it).  It's a compelling story - the ability to deploy key real time analytical technologies independently from your Hadoop cluster (which can now focus on the batch historical analytical use cases) - and comes with the introduction of a new technology - [Apache NiFi](/technologies/apache-nifi).
+
+What to say about [Apache NiFi](/technologies/apache-nifi)?  There's a use case here that I think NiFi fills almost unapproachably well - specifically getting batch (and probably mini batch) data to your analytical cluster.  Previously you'd be looking at a bunch of technologies - Sqoop for database unloads, and some combination of shell scripts, FTP transfers, custom jobs to pull data from queues etc. etc.  NiFi wraps all of this up - giving you a single solution to bring data from anywhere to a place where you can exploit it.  The visualisation of the data moving through your flows, the ability to view this data, to get detailed provenance of where every file came from and when, and to perform common file level transformations just make this a great fit for this use case (although I'm never entirely convinced by the develop, test, release and configuration management story of GUI based tools, but that's a discussion for another day).  Where I think it has stiffer competition, and where I'm not as wholly convinced, is in the high volume, low latency, real-time event data space.  There are a lot of well established technologies in this space (Logstash, FluentD and Heka for starters), and I'm not entirely convinced that NiFi is well architected for this use case.  Do I really want provenance and record level state tracking when I'm bringing in billions of records per day - that seems like a significant overhead to me.  By it's a space NiFi is targeting, both with [MiNiFi](/technologies/apache-nifi/minifi) (which supports collection, transformation and forwarding out at the edge), and with some bold claims about throughput.  I'm happy to accept I've missed something here, and I'd love to hear from anyone that can talk to this with some experience and evidence...
+
+I'm going to update the Hortonworks vendor page on Monday with more information about their product offerings, as their Cloud offerings are a little more complex and convoluted that I was expecting.  However [HDCloud for AWS](/technologies/hortonworks-data-cloud-for-aws/) is their only Hortonworks branded cloud offering - a tool that allows you to deploy and resize HDP clusters in AWS, but with a limited set of technologies, focusing on Hive, Spark and Zeppelin.  It's brand new, only coming out at the end of 2016, and it appears to overlap with a more general capability that [Cloudbreak](/technologies/cloudbreak) is targeting.  We'll keep an eye on these, as it feels like next year is going to see a lot of movement in the Hadoop on Cloud space.
+
+Right - back to the grindstone before the escape of the weekend.  See you all next week for our first looks at Cloudera's product offerings.
