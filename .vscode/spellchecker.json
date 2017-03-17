@@ -217,7 +217,8 @@
         "FlowFile",
         "FlowFiles",
         "cron",
-        "Prioritizers"
+        "Prioritizers",
+        "Analytics"
     ],
     "documentTypes": [
         "markdown",
