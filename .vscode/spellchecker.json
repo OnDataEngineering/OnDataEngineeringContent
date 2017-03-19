@@ -209,7 +209,18 @@
         "anonymisation",
         "Installable",
         "RedHat",
-        "premesis"
+        "premesis",
+        "MiNiFi",
+        "DataFlow",
+        "Onyara",
+        "aquisition",
+        "FlowFile",
+        "FlowFiles",
+        "cron",
+        "Prioritizers",
+        "Analytics",
+        "unapproachably",
+        "architected"
     ],
     "documentTypes": [
         "markdown",
