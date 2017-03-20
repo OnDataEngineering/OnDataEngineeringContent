@@ -6,7 +6,7 @@ vendors: [Hortonworks]
 categories: [Hadoop Distributions]
 tech-relationships: [[packages, Hadoop, Hive, Tez, Pig, Storm, HBase, Falcon, Oozie, Sqoop, Flume, Knox, Ranger, ZooKeeper, Slider, Phoenix, Calcite, DataFu, Mahout]]
 type: "Commercial Open Source"
-date: 2017-03-20 07:35
+date: 2017-03-20 07:30
 version: "2.4"
 ---
 ## Links
