@@ -10,7 +10,7 @@ Hortonworks have two primary offerings - [Hortonworks Data Platform](/technologi
 
 Both offerings are installed and managed through [Apache Ambari](/technologies/apache-ambari/), with Hortonworks Data Platform also including [Cloudbreak](/technologies/cloudbreak/), a technology for deploying and managing Hadoop clusters on cloud infrastructure.
 
-The [Hortonworks Data Platform](/technologies/hortonworks-data-platform/) is available for Windows, which uses a standard Windows installer rather than Ambari, and includes a more limited set of technologies.
+[HDP for Windows](/technologies/hortonworks-data-platform-for-windows) is a version of the Hortonworks Data Platform for Windows.
 
 The [Hortonworks Data Platform](/technologies/hortonworks-data-platform/) is also available as a number of managed cloud offerings - on Azure as HDInsight, a Microsoft branded offering, and on AWS as [Hortonworks Data Cloud for AWS](/technologies/hortonworks-data-cloud-for-aws/), available via the AWS Marketplace.
 
