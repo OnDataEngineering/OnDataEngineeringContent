@@ -5,6 +5,7 @@ tags: [Hortonworks, Cloudera]
 date: 2017-03-20 07:40
 ---
 Right - I think we're done with our trip through the [Hortonworks](/tech-vendors/hortonworks) technology stack, however there are two updates today before we move on.  Apologies in advance if this screws up either the RSS feeds or e-mail newsletters - I'm not entirely sure how these will handle updates to the site, but there's only one way to find out.
+<!--more-->
 
 Firstly, I've re-worked the [Hortonworks](/tech-vendors/hortonworks) page to better describe their product offerings.  The one thing I really like about Hortonworks is it's openness.  Normally when looking at commercial vendors there's a whole pile of exaggeration and misdirection about what their product is and what it can do and how it's so much better than any other option on the market, however because Hortonworks deal entirely in open source technologies they feel like a more open and transparent company, and actually understanding what they offer therefore feels a little more straightforward.  There are some big commercial vendors coming up on my list however where I don't have a huge amount of experience with their products, and I'm therefore holding out no hope of being able to understand the detail of what they offer, given the lack of any publicly available documentation and product websites that are little more than content-less flashy brochures. When I get to these, I'm definitely going to need some help.
 
