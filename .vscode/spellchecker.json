@@ -223,7 +223,10 @@
         "architected",
         "HDInsight",
         "Cloudera's",
-        "datasheet"
+        "datasheet",
+        "jclouds",
+        "interative",
+        "Netezza"
     ],
     "documentTypes": [
         "markdown",
