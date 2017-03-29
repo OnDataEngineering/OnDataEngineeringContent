@@ -226,7 +226,8 @@
         "datasheet",
         "jclouds",
         "interative",
-        "Netezza"
+        "Netezza",
+        "queryable"
     ],
     "documentTypes": [
         "markdown",
