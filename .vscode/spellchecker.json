@@ -227,7 +227,8 @@
         "jclouds",
         "interative",
         "Netezza",
-        "queryable"
+        "queryable",
+        "uris"
     ],
     "documentTypes": [
         "markdown",
