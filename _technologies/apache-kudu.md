@@ -11,6 +11,7 @@ version: "v1.3"
 
 * <https://kudu.apache.org/> - homepage
 * <https://kudu.apache.org/docs/> - documentation
+* <http://kudu.apache.org/kudu.pdf> - whitepaper including comparison to Parquet/HDFS and Phoenix/HBase 
 * <https://www.cloudera.com/products/open-source/apache-hadoop/apache-kudu.html> - Cloudera information
 * <https://www.cloudera.com/documentation/kudu/latest.html> - Cloudera documentation
 
