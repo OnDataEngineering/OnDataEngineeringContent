@@ -4,7 +4,6 @@ description: "Solution for managing data on a CDH Hadoop cluster. Automatically 
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-04-11 07:30
-version: "v2.9"
 ---
 ## Links
 
