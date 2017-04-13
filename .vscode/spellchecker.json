@@ -235,7 +235,9 @@
         "Optimizer",
         "namespaces",
         "lifecycle",
-        "Gazzang"
+        "Gazzang",
+        "vSphere",
+        "VMWare"
     ],
     "documentTypes": [
         "markdown",
