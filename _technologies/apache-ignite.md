@@ -5,8 +5,14 @@ alt-titles: [Ignite, GridGain]
 vendors: [Apache, GridGain]
 type: "Commercial Open Source"
 date: 2017-01-24
-version: "v1.8.0 (Ignite), v7.7 (GridGain)"
+last_updated: 2017-04-19
+version: "v1.9 (Ignite), v7.8 (GridGain Enterprise)"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.9 | 2017-03-07 | [Ignite announcement](https://blogs.apache.org/ignite/entry/apache-ignite-1-9-released) [GridGain Professional announcement](https://www.gridgain.com/resources/blog/gridgain-professional-edition-19-improves-performance-adds-kubernetesr-support-and) [GridGain Enterprise announcement](https://www.gridgain.com/resources/blog/gridgain-enterprise-edition-78-adds-support-memory-sql-grid-and-advanced-gridgain) |
+
 ## Links
 
 * <https://ignite.apache.org/> - home page

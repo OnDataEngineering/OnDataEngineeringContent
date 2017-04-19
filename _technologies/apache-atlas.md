@@ -5,8 +5,14 @@ alt-titles: [Atlas]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-20
-version: "v0.7"
+last_updated: 2017-04-19
+version: "v0.8"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 0.8 | 2017-03-31 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201703.mbox/%3C8634D8C3-56D3-4E13-B292-B6C51F6AD5CC%40apache.org%3E) |
+
 ## Links
 
 * <http://atlas.incubator.apache.org/> - homepage

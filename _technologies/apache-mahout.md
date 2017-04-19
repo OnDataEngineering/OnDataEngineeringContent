@@ -5,8 +5,14 @@ alt-titles: [Mahout]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-03
-version: "0.12"
+last_updated: 2017-04-19
+version: "0.13"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 0.13 | 2017-04-17 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201704.mbox/%3CCANg8BGBe%2BWwdZC6z6BAm3hqTOMjA2ma76y0dig0Jf5LHtgF56g%40mail.gmail.com%3E) |
+
 ## Links
 
 * <https://mahout.apache.org/> - homepage

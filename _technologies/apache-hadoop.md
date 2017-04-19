@@ -5,8 +5,14 @@ alt-titles: [Hadoop]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2016-12-16
-version: "v2.7"
+last_updated: 2017-04-19
+version: "v2.8"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 2.8 | 2017-03-22 | [summary](http://hadoop.apache.org/docs/r2.8.0/index.html) |
+
 ## Links
 
 * <http://hadoop.apache.org/> - Project Homepage

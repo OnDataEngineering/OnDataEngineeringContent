@@ -5,8 +5,14 @@ alt-titles: [Phoenix]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-01
-version: "v4.9"
+last_updated: 2017-04-19
+version: "v4.10"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 4.10 | 2017-03-23 | [announcement](https://blogs.apache.org/phoenix/entry/announcing-phoenix-4-10-released) |
+
 ## Links
 
 * <http://phoenix.apache.org/> - home page

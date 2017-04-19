@@ -5,8 +5,14 @@ alt-titles: [Apex, DataTorrent RTS]
 vendors: [Apache, DataTorrent]
 type: "Commercial Open Source"
 date: 2017-02-06
-version: "v3.5 (Apex Core), v3.6 (Apex Malhar), v3.7 (DataTorrent RTS)"
+last_updated: 2017-04-19
+version: "v3.5 (Apex Core), v3.7 (Apex Malhar), v3.7 (DataTorrent RTS)"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 3.7 (Apex Malhar) | 2017-04-05 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201704.mbox/%3CCA%2B5xAo3BSDaYtk8WCFTdLNpPF83hXUfy9DzobMXDC5%3DZ9GYY0Q%40mail.gmail.com%3E) |
+
 ## Links
 
 * <https://apex.apache.org/> - Apex homepage

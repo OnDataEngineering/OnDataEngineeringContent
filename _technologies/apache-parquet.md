@@ -5,8 +5,14 @@ alt-titles: [Parquet]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-20
-version: "v1.9"
+last_updated: 2017-04-19
+version: "v1.9 (Parquet MR), v2.3 (Parquet Format), v1.0 (Parquet C++)"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.0 (Parquet C++) | 2017-03-17 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201703.mbox/%3C1489763208.180625.914669528.4C3F126B%40webmail.messagingengine.com%3E) |
+
 ## Links
 
 * <http://parquet.apache.org/> - home page

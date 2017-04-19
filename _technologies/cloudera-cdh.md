@@ -6,11 +6,17 @@ vendors: [Cloudera]
 tech-relationships: [[packages, Flume, HBase, Hadoop, Hive, Hue, Impala, Oozie, Sentry, Cloudera Search, Spark, Sqoop, ZooKeeper, Avro, Crunch, DataFu, Kite, Llama, Mahout, Parquet, Pig, Whirr], [add ons, Accumulo, Kafka, Kudu, RecordService, Cloudera Navigator], [manageable via, Cloudera Manager, Cloudera Director]]
 type: "Commercial"
 date: 2017-03-21 07:00
-version: "v5.10"
+last_updated: 2017-04-19
+version: "v5.11"
 ---
 ## Further Information
 
 Details of the Apache project versions bundled with each version of CDH are available under [this page](https://www.cloudera.com/documentation/enterprise/release-notes/topics/cdh_vd_cdh_package_tarball.html) of the CDH release notes.  Deprecated items and projects are detailed on [this page](https://www.cloudera.com/documentation/enterprise/release-notes/topics/rg_deprecated.html).  New features, known issues and fixed issues are available under [this page](https://www.cloudera.com/documentation/enterprise/release-notes/topics/rg_release_notes_cdh.html).  See some of the links below for details on the different Cloudera versions and options.
+
+## Release History
+
+| version | release date | release links | release comment
+| 5.11 | 2017-04-18 | [announcement](http://community.cloudera.com/t5/Community-News-Release/Announce-Cloudera-Enterprise-5-11-is-Now-Available/m-p/53808#M170) |
 
 ## Links
 

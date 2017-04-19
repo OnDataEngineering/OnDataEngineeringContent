@@ -7,7 +7,8 @@ categories: [Hadoop Distributions]
 tech-relationships: [[packages, Hadoop, Hive, Tez, Pig, Storm, Spark, HBase, Accumulo, Atlas, Falcon, Oozie, Sqoop, Flume, Kafka, Knox, Ranger, ZooKeeper, Zeppelin, Slider, Phoenix, Calcite, DataFu, Mahout, Hue, Livy], [add ons, HDP Search, Hortonworks HDB, SmartSense], [manageable via, Ambari, Cloudbreak]]
 type: "Commercial Open Source"
 date: 2017-02-17 07:30
-version: "2.5"
+last_updated: 2017-04-19
+version: "2.6"
 ---
 ## Further Information
 
@@ -20,6 +21,11 @@ Note that:
 * Although Solr is referenced on the HDP home page and in the release note, it is only available via the HDP Search add-on to HDP
 * Hortonworks HDB is Pivotal HDB, with support and consultancy provided by Hortonworks, and is distributed as an add-on to HDP
 * Cascading is referenced in the release notes, but isn't part of HDP (it's not in the HDP repo and isn't covered by the installation guide)
+
+## Release History
+
+| version | release date | release links | release comment
+| 2.6 | 2017-02-28 | [wiki page](https://cwiki.apache.org/confluence/display/RANGER/0.7.0+Release+-+Apache+Ranger) |
 
 ## Links
 

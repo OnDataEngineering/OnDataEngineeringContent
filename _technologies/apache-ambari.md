@@ -5,8 +5,14 @@ alt-titles: [Ambari]
 vendors: [Apache, Hortonworks]
 type: "Commercial Open Source"
 date: 2017-03-07 07:30
-version: "v2.4"
+last_updated: 2017-04-19
+version: "v2.5"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 2.5 | 2017-03-24 | [release notes](https://docs.hortonworks.com/HDPDocuments/Ambari-2.5.0.3/bk_ambari-release-notes/content/ch_relnotes-ambari-2.5.0.3.html) |
+
 ## Links
 
 * <http://ambari.incubator.apache.org/> - homepage
