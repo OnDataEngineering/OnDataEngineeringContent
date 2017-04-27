@@ -14,6 +14,7 @@ Details of the component versions can be found in the release notes, along with 
 
 ## Links
 
+* <https://mapr.com/products/mapr-ecosystem-pack/> - homepage
 * <http://maprdocs.mapr.com/home/c_ecosystem_intro.html> - documentation
 * <http://maprdocs.mapr.com/home/EcosystemRN/EcoPackRN.html> - release notes
 * <http://maprdocs.mapr.com/home/InteropMatrix/r_release_mep_dates.html> - release history
