@@ -29,4 +29,5 @@ The details of the Apache projects distributed as part of Hortonworks DataFlow a
 
 ## News
 
-* <https://hortonworks.com/blog/category/hdf/> - blog posts
+* <http://docs.hortonworks.com/index.html> - shows latest Hortonworks release version
+* <https://hortonworks.com/blog/category/hdf/> - Hortonworks blog posts

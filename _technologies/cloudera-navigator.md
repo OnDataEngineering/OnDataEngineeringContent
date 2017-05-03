@@ -4,8 +4,14 @@ description: "A suite of solutions covering Data Management (technical metadata 
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-04-11 07:30
-version: "v2.9"
+last_updated: 2017-05-03
+version: "v2.10"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 2.10 | 2017-04-18 | See [CDH](/technologies/cloudera-cdh/) 5.11 release links | CDH 5.11
+
 ## Links
 
 * <https://www.cloudera.com/products/product-components/cloudera-navigator.html> - Cloudera Navigator homepage

@@ -4,8 +4,14 @@ description: "Platform for installing, managing and monitoring Cloudera CDH Hado
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-04-10 07:30
-version: "v5.10"
+last_updated: 2017-05-03
+version: "v5.11"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 5.11 | 2017-04-18 | See [CDH](/technologies/cloudera-cdh/) 5.11 release links | CDH 5.11
+
 ## Links
 
 * <https://www.cloudera.com/products/product-components/cloudera-manager.html> - Cloudera Manager homepage

@@ -25,14 +25,15 @@ Note that:
 ## Release History
 
 | version | release date | release links | release comment
-| 2.6 | 2017-02-28 | [wiki page](https://cwiki.apache.org/confluence/display/RANGER/0.7.0+Release+-+Apache+Ranger) |
+| 2.6 | 2017-02-28 | [announcement](https://hortonworks.com/blog/announcing-the-general-availability-of-hortonworks-data-platform-2-6/) [new features](http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.0/bk_release-notes/content/new_features.html) |
 
 ## Links
 
 * <http://hortonworks.com/products/data-center/hdp/> - homepage
-* <http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.5.0/index.html> - HDP 2.5.0 documentation
-* <http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.5.0/bk_release-notes/content/ch_relnotes_v250.html> - HDP 2.5.0 release notes
+* <http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.0/index.html> - HDP 2.6.0 documentation
+* <http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.0/bk_release-notes/content/ch_relnotes.html> - HDP 2.6.0 release notes
 
 ## News
 
-* <http://hortonworks.com/blog/> - Hortonworks Blog
+* <http://docs.hortonworks.com/index.html> - shows latest Hortonworks release version
+* <https://hortonworks.com/blog/category/hdp/> - Hortonworks blog posts

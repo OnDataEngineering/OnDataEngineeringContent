@@ -4,8 +4,14 @@ description: "Solution for deploying and managing Cloudera CDH Hadoop clusters o
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-04-13 07:30
-version: "v2.3"
+last_updated: 2017-05-03
+version: "v2.4"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 2.4 | 2017-04-18 | [announcement](http://blog.cloudera.com/blog/2017/04/whats-new-in-cloudera-director-2-4/) | CDH 5.11
+
 ## Links
 
 * <https://www.cloudera.com/products/product-components/cloudera-director.html> - homepage

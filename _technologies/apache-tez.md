@@ -17,4 +17,3 @@ version: "0.8"
 ## News
 
 * <https://tez.apache.org/releases/index.html> - release history
-* Other news available via Hortonworks blog

@@ -13,8 +13,7 @@ version: "v1.1"
 * <http://nifi.apache.org/docs.html> - documentation
 * <https://hortonworks.com/apache/nifi/> - Hortonworks information, including tutorials and blog posts
 * <http://docs.hortonworks.com/HDPDocuments/HDF2/HDF-2.1.0/index.html> - Hortonworks documentation (as part of HDF)
-* <https://cwiki.apache.org/confluence/display/NIFI/Release+Notes> - release notes
 
 ## News
 
-* Blog updates via the Hortonworks blog
+* <https://cwiki.apache.org/confluence/display/NIFI/Release+Notes> - release notes

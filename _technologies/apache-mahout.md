@@ -11,7 +11,7 @@ version: "0.13"
 ## Release History
 
 | version | release date | release links | release comment
-| 0.13 | 2017-04-17 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201704.mbox/%3CCANg8BGBe%2BWwdZC6z6BAm3hqTOMjA2ma76y0dig0Jf5LHtgF56g%40mail.gmail.com%3E) |
+| 0.13 | 2017-04-17 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201704.mbox/%3CCANg8BGBe%2BWwdZC6z6BAm3hqTOMjA2ma76y0dig0Jf5LHtgF56g%40mail.gmail.com%3E) [Apache announcement](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces9) |
 
 ## Links
 

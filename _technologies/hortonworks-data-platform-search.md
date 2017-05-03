@@ -6,14 +6,13 @@ vendors: [Hortonworks, Lucidworks]
 tech-relationships: [packages, Solr, Banana]
 type: "Commercial Open Source"
 date: 2017-03-03 07:30
-version: "v2.5"
 ---
 ## Links
 
-* <https://doc.lucidworks.com/lucidworks-hdpsearch/2.5/index.html> - Documentation
-* <http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.5.3/bk_solr-search-installation/content/ch_hdp-search.html> - Hortonworks installation documentation
+* <https://doc.lucidworks.com/lucidworks-hdpsearch/2.6/index.html> - Documentation
+* <http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.0/bk_solr-search-installation/content/ch_hdp-search.html> - Hortonworks installation documentation
 * <https://hortonworks.com/blog/bringing-enterprise-search-enterprise-hadoop/> - Partnership announcement blog post
 
 ## News
 
-* News via the Hortonworks blog
+* See HDP updates - HDP Search tracks HDP releases

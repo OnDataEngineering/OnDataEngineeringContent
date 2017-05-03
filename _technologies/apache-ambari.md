@@ -11,7 +11,7 @@ version: "v2.5"
 ## Release History
 
 | version | release date | release links | release comment
-| 2.5 | 2017-03-24 | [release notes](https://docs.hortonworks.com/HDPDocuments/Ambari-2.5.0.3/bk_ambari-release-notes/content/ch_relnotes-ambari-2.5.0.3.html) |
+| 2.5 | 2017-03-24 | [release notes](https://docs.hortonworks.com/HDPDocuments/Ambari-2.5.0.3/bk_ambari-release-notes/content/ch_relnotes-ambari-2.5.0.3.html) [changes](http://docs.hortonworks.com/posts/2017/04/13/ambari-25-operations-views.html) |
 
 ## Links
 
@@ -22,4 +22,5 @@ version: "v2.5"
 
 ## News
 
-* Blog updates via the Hortonworks blog
+* <https://ambari.apache.org/> - shows latest release version
+* <http://docs.hortonworks.com/index.html> - shows latest Hortonworks release version

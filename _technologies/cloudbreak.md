@@ -16,4 +16,4 @@ version: "v1.6"
 
 ## News
 
-* Blog updates via the Hortonworks blog
+* <http://docs.hortonworks.com/index.html> - shows latest Hortonworks release version

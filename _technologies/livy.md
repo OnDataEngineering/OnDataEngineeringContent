@@ -10,6 +10,7 @@ version: "v0.3"
 * <http://livy.io/> - homepage
 * <https://github.com/cloudera/livy> - code repository
 * <https://www.cloudera.com/more/news-and-events/press-releases/2016-06-06-cloudera-microsoft-lead-development-open-source-project-livy-for-easy-use-spark-end-user-applications.html> - original announcement
+* <https://hortonworks.com/blog/livy-a-rest-interface-for-apache-spark/> - Hortonworks view
 
 ## News
 
