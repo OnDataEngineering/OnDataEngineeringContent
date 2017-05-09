@@ -3,6 +3,7 @@ title: "Cloudera CDH"
 description: "A distribution of Hadoop based on the addition of a number of closed source products, including Cloudera Manager (for installing and managing clusters) and Cloudera Navigator (for managing metadata and the encryption of data).  Bundled projects tend to lag the open source versions and pull forward more patches than other distributions.  Also comes with a number of add-ons, including ODBC and JDBC drivers for Hive and Impala, and a number of Apache projects that aren't (yet) part of the core distribution.  Available via RPMs, or can be installed using Cloudera Manager (for local installs) or Cloudera Director (for installation on cloud platforms) as Cloudera Enterprise (under an annual per node or elastic cloud licence model with commercial support) or Cloudera Express (a free version without some enterprise features), with Cloudera Enterprise coming in a range of licence options (listed on the Cloudera website under products) which each including support for different Apache products.  First released in March 2009."
 alt-titles: [CDH, Cloudera Express, Cloudera Enterprise]
 vendors: [Cloudera]
+categories: [Hadoop Distributions]
 tech-relationships: [[packages, Flume, HBase, Hadoop, Hive, Hue, Impala, Oozie, Sentry, Cloudera Search, Spark, Sqoop, ZooKeeper, Avro, Crunch, DataFu, Kite, Llama, Mahout, Parquet, Pig, Whirr], [add ons, Accumulo, Kafka, Kudu, RecordService, Cloudera Navigator], [manageable via, Cloudera Manager, Cloudera Director]]
 type: "Commercial"
 date: 2017-03-21 07:00

@@ -7,7 +7,7 @@ no-vendor-techs: true
 ## Vendor Technologies
 Cloudera's offerings are based around [CDH](/technologies/cloudera-cdh/), their distribution of Apache Hadoop, which includes a number of commercial components, [Cloudera Manager](/technologies/cloudera-manager/) (for creating and managing clusters), [Cloudera Navigator](/technologies/cloudera-navigator/) (a data management and encryption solution) and [Cloudera Director](/technologies/cloudera-director/) (for installing CDH on cloud based platforms), and comes in a number of editions, including a free version as "Cloudera Express".
 
-[CDH](/technologies/cloudera-cdh/) is also available on AWS as a [Cloudera EDH AWS Quick Start](https://aws.amazon.com/quickstart/architecture/cloudera/), and via [Cloudera Director on the Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/cloudera.director-on-azure?tab=Overview).  Their best practice and guidance for running CDH in hte Cloud is available at <https://www.cloudera.com/documentation/director/cloud.html>.
+[CDH](/technologies/cloudera-cdh/) is also available on AWS as a [Cloudera EDH AWS Quick Start](https://aws.amazon.com/quickstart/architecture/cloudera/), and via [Cloudera Director on the Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/cloudera.director-on-azure?tab=Overview).  Their best practice and guidance for running CDH in the Cloud is available at <https://www.cloudera.com/documentation/director/cloud.html>.
 
 ## Links
 * <https://www.cloudera.com/> - homepage
