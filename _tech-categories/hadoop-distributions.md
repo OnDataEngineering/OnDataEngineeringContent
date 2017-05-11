@@ -7,7 +7,7 @@ date: 2017-05-09
 ---
 ## Further Information
 
-See also our [comparison of Hadoop distributions](/tech-categories/hadoop-distributions/distribution-comparison/)
+See also our [comparison of Hadoop distributions](/tech-categories/hadoop-distributions/distribution-comparison/), and our Hadoop (HDFS and YARN) [ecosystem diagrams](/tech-categories/hadoop-distributions/ecosystem/).
 
 ## Technologies
 
