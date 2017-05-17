@@ -5,8 +5,14 @@ alt-titles: [NiFi]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-03-15 07:30
-version: "v1.1"
+last_updated: 2017-05-17
+version: "v1.2"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.2 | 2017-05-08 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.2.0) |
+
 ## Links
 
 * <http://nifi.apache.org/> - home page
