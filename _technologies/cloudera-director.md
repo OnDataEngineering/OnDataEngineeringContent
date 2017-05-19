@@ -7,6 +7,10 @@ date: 2017-04-13 07:30
 last_updated: 2017-05-03
 version: "v2.4"
 ---
+## Further Information
+
+Cloudera Director is available on AWS as [Cloudera EDH AWS Quick Start](https://aws.amazon.com/quickstart/architecture/cloudera/), and as [Cloudera Director on the Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/cloudera.director-on-azure?tab=Overview).
+
 ## Release History
 
 | version | release date | release links | release comment
