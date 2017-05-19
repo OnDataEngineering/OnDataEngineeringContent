@@ -9,11 +9,9 @@ no-vendor-techs: true
 
 Hortonworks have two primary offerings - [Hortonworks Data Platform](/technologies/hortonworks-data-platform/), a fully open source distribution of Hadoop, and [Hortonworks Data Flow](/technologies/hortonworks-data-flow/), a distribution of (primarily) Apache NiFi, Kafka and Storm for processing data in motion.
 
-Both offerings are installed and managed through [Apache Ambari](/technologies/apache-ambari/), with Hortonworks Data Platform also including [Cloudbreak](/technologies/cloudbreak/), a technology for deploying and managing Hadoop clusters on cloud infrastructure.
+Hortonworks have donated a number of projects to the Apache Foundation including [Ambari](/technologies/apache-ambari), [Tez](/technologies/apache-tez), [Knox](/technologies/apache-knox), [Ranger](/technologies/apache-ranger) and [Slider](/technologies/apache-slider).  [Cloudbreak](/technologies/cloudbreak) is an open source tool, and Hortonworks have suggested that they plan to donate it to the Apache Foundation.
 
-The [Hortonworks Data Platform](/technologies/hortonworks-data-platform/) is also available as a number of managed cloud offerings - on Azure as HDInsight, a Microsoft branded offering, and on AWS as [Hortonworks Data Cloud for AWS](/technologies/hortonworks-data-cloud-for-aws/), available via the AWS Marketplace.
-
-A version of the Hortonworks Data Platform for Windows ([HDP for Windows](/technologies/hortonworks-data-platform-for-windows)) was available, however was discontinued in August 2016 with the last release being HDP 2.4.
+Hortonworks have one proprietary component, [SmartSense](/technologies/hortonworks-smartsense), a tool used capture diagnostic information from Hadoop clusters and send this to Hortonworks support.
 
 ## Links
 
