@@ -13,12 +13,12 @@ See also our [comparison of Hadoop distributions](/tech-categories/hadoop-distri
 
 Distributions from major commercial vendors that are available for installation on-premises or on most major clouds:
 
-| [Cloudera CDH](/technologies/cloudera-cdh/) | A distribution of Hadoop based on the addition of a number of closed source products, including Cloudera Manager (for installing and managing clusters) and Cloudera Navigator (for managing metadata and the encryption of data).
-| [Hortonworks Data Platform](/technologies/hortonworks-data-platform/) | A distribution of Hadoop based on a commitment to the Apache open source ecosystem, utilising only open source products with minimal extra patching.
-| [MapR Converged Data Platform](/technologies/mapr-converged-data-platform/) | A data platform built around MapR-FS (along with MapR-DB and MapR-Streams) that provides Hadoop compatibility (via YARN and the MapR-FS HDFS compatible API) and is bundled with a package of Hadoop projects via the MapR Ecosystem Pack.
+| [Cloudera CDH](/technologies/cloudera-cdh/) | A distribution of Hadoop based on the addition of a number of closed source products, including Cloudera Manager (for installing and managing clusters) and Cloudera Navigator (for managing metadata and the encryption of data).  Available in free and commercial editions.
+| [Hortonworks Data Platform](/technologies/hortonworks-data-platform/) | A distribution of Hadoop based on a commitment to the Apache open source ecosystem, utilising only open source products with minimal extra patching.  Free to use with commercial support available.
+| [MapR Converged Data Platform](/technologies/mapr-converged-data-platform/) | A data platform built around MapR-FS (along with MapR-DB and MapR-Streams) that provides Hadoop compatibility (via YARN and the MapR-FS HDFS compatible API) and is bundled with a package of Hadoop projects via the MapR Ecosystem Pack.  Available in free and commercial editions.
 | IBM InfoSphere BigInsights | <https://www.ibm.com/us-en/marketplace/biginsights>
 
-Distributions from major commercial vendors that are available as a cloud / service offering:
+Distributions from major commercial vendors as a cloud / service offerings\s:
 
 | Amazon EMR | <https://aws.amazon.com/emr/>
 | Microsoft Azure HD Insight | Based on Hortonworks HDP - <https://azure.microsoft.com/en-us/services/hdinsight/>
