@@ -18,7 +18,7 @@ Distributions from major commercial vendors that are available for installation 
 | [MapR Converged Data Platform](/technologies/mapr-converged-data-platform/) | A data platform built around MapR-FS (along with MapR-DB and MapR-Streams) that provides Hadoop compatibility (via YARN and the MapR-FS HDFS compatible API) and is bundled with a package of Hadoop projects via the MapR Ecosystem Pack.  Available in free and commercial editions.
 | IBM InfoSphere BigInsights | <https://www.ibm.com/us-en/marketplace/biginsights>
 
-Distributions from major commercial vendors as a cloud / service offerings\s:
+Distributions from major commercial vendors as a cloud / service offering:
 
 | Amazon EMR | <https://aws.amazon.com/emr/>
 | Microsoft Azure HD Insight | Based on Hortonworks HDP - <https://azure.microsoft.com/en-us/services/hdinsight/>
