@@ -1,6 +1,7 @@
 ---
 title: Object Stores Wrap-Up
 categories: [Tech Categories]
+tags: [Object Stores]
 date: 2017-06-09 08:00
 ---
 I've not quite settled into our pivot to looking at technologies by category, but I think we're getting somewhere.  Again, I feel like I've picked some really nasty areas to start with, but I'm hoping what we've ended up with is going to provide some value.
