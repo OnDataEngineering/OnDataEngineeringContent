@@ -2,6 +2,10 @@ packages:
   title: "Packages"
   reverse-title: "Is packaged by"
 
+packages (but deprecated):
+  title: "Packages (but deprecated)"
+  reverse-title: "Is packaged by (but deprecated)"
+
 uses:
   title: "Uses"
   reverse-title: "Is used by"
