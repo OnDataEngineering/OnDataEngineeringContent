@@ -5,13 +5,14 @@ alt-titles: [HDCloud for AWS]
 vendors: [Hortonworks]
 type: "Commercial"
 date: 2017-03-17 07:30
-last_updated: 2017-05-03
-version: "v1.14"
+last_updated: 2017-06-14
+version: "v1.16"
 ---
 ## Release History
 
 | version | release date | release links | release comment |
-| 1.14 | 2017-04-05 | [announcement](https://hortonworks.com/blog/announcing-hortonworks-data-cloud-for-aws-1-14-1/) [summary](http://docs.hortonworks.com/HDPDocuments/HDCloudAWS/HDCloudAWS-1.14.1/index.html) | HDP 2.6 |
+| 1.14 | 2017-04-05 | [announcement](https://hortonworks.com/blog/announcing-hortonworks-data-cloud-for-aws-1-14-1/) [summary](https://docs.hortonworks.com/HDPDocuments/HDCloudAWS/HDCloudAWS-1.14.1/bk_hdcloud-aws/content/releasenotes/index.html) | HDP 2.6 |
+| 1.16 | 2017-05-?? | [summary](https://docs.hortonworks.com/HDPDocuments/HDCloudAWS/HDCloudAWS-1.16.0/bk_hdcloud-aws/content/releasenotes/index.html)
 
 ## Links
 
