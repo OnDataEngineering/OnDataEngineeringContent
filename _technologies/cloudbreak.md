@@ -4,8 +4,14 @@ description: "Solution for deploying and managing Hadoop clusters on cloud infra
 vendors: [Hortonworks]
 type: "Commercial Open Source"
 date: 2017-03-09 07:30
-version: "v1.6"
+last_updated: 2017-06-14
+version: "v1.14"
 ---
+## Release History
+
+| version | release date | release links | release comment |
+| 1.14 | 2017-04-05 | [release notes](http://sequenceiq.com/cloudbreak-docs/release-1.14.0/releasenotes/) 
+
 ## Links
 
 * <http://sequenceiq.com/cloudbreak-docs/latest/> - Documentation
