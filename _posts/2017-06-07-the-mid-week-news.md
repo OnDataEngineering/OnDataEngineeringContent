@@ -1,7 +1,7 @@
 ---
 title: The Mid Week News - 07/06/2017
 categories: [Technologies]
-kjshfdkjhwdf hwef tags: [Apex, MiNiFi, Flink, Hadoop, NiFi, Ignite, Solr, HDFS, Spark SQL, Spark, Cloudera Director, Flink, HDP, Kafka]
+tags: [Apex, MiNiFi, Flink, Hadoop, NiFi, Ignite, Solr, HDFS, Spark SQL, Spark, Cloudera Director, Flink, HDP, Kafka]
 date: 2017-06-07 07:30
 ---
 We interupt the current broadcast for another (semi regular) catchup up on the news...
