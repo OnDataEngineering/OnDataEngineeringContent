@@ -16,7 +16,6 @@ Distributions from major commercial vendors that are available for installation 
 | [Cloudera CDH](/technologies/cloudera-cdh/) | A distribution of Hadoop based on the addition of a number of closed source products, including Cloudera Manager (for installing and managing clusters) and Cloudera Navigator (for managing metadata and the encryption of data).  Available in free and commercial editions.
 | [Hortonworks Data Platform](/technologies/hortonworks-data-platform/) | A distribution of Hadoop based on a commitment to the Apache open source ecosystem, utilising only open source products with minimal extra patching.  Free to use with commercial support available.
 | [MapR Converged Data Platform](/technologies/mapr-converged-data-platform/) | A data platform built around MapR-FS (along with MapR-DB and MapR-Streams) that provides Hadoop compatibility (via YARN and the MapR-FS HDFS compatible API) and is bundled with a package of Hadoop projects via the MapR Ecosystem Pack.  Available in free and commercial editions.
-| IBM InfoSphere BigInsights | <https://www.ibm.com/us-en/marketplace/biginsights>
 
 Distributions from major commercial vendors as a cloud / service offering:
 
@@ -47,3 +46,4 @@ Historical or legacy distributions that are no longer available, or are now simp
 
 | Intel Distribution for Apache Hadoop | Focused on optimisations for Intel processors, SSD disks and networking kit; ceased when Intel invested into Cloudera - see [announcement](https://newsroom.intel.com/news-releases/cloudera-intel-commit-to-accelerate-and-transform-how-enterprises-use-big-data-intel-makes-significant-equity-investment-in-cloudera/)
 | Pivotal HD | Pivotal has now partnered with Hortonworks - see [announcement](https://hortonworks.com/press-releases/hortonworks-pivotal-expand-relationship-deliver-enterprise-ready-modern-data-platforms-data-management-analytics/)
+| IBM InfoSphere BigInsights | IBM has now partnered with Hortonworks - see [announcement](https://hortonworks.com/blog/data-met-science-anything-became-possible/)
