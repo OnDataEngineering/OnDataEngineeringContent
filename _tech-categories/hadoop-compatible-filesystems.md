@@ -32,7 +32,7 @@ There are also a number of in memory data grids / storage layers that provide Ha
 
 Azure has an Hadoop compatible filesystem as a service:
 
-| Azure Data Lake Store | Cloud based massively scalable HDFS compatible filesystem - <https://azure.microsoft.com/en-us/services/data-lake-store/>; <https://hadoop.apache.org/docs/current/hadoop-azure-datalake/index.html>
+| [Azure Data Lake Store](/technologies/microsoft-azure-data-lake-store) | Cloud based massively scalable HDFS compatible filesystem based on Microsoft Cosmos
 
 ## Other Technologies
 
