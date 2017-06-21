@@ -5,8 +5,14 @@ alt-titles: [Kudu]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-03-29 07:30
-version: "v1.3"
+last_updated: 2017-06-21
+version: "v1.4"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.4 | 2017-06-13 | [summary](http://kudu.apache.org/releases/1.4.0/docs/release_notes.html) 
+
 ## Links
 
 * <https://kudu.apache.org/> - homepage
