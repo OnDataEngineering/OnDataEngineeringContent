@@ -11,8 +11,10 @@ version: "v1.16"
 ## Release History
 
 | version | release date | release links | release comment |
-| 1.14 | 2017-04-05 | [announcement](https://hortonworks.com/blog/announcing-hortonworks-data-cloud-for-aws-1-14-1/) [summary](https://docs.hortonworks.com/HDPDocuments/HDCloudAWS/HDCloudAWS-1.14.1/bk_hdcloud-aws/content/releasenotes/index.html) | HDP 2.6 |
-| 1.16 | 2017-05-?? | [summary](https://docs.hortonworks.com/HDPDocuments/HDCloudAWS/HDCloudAWS-1.16.0/bk_hdcloud-aws/content/releasenotes/index.html)
+| 1.14 | 2017-04-05 | [announcement](https://hortonworks.com/blog/announcing-hortonworks-data-cloud-for-aws-1-14-1/); [summary](https://docs.hortonworks.com/HDPDocuments/HDCloudAWS/HDCloudAWS-1.14.1/bk_hdcloud-aws/content/releasenotes/index.html) | HDP 2.6 |
+| 1.16 | 2017-06-15 | [announcement](https://hortonworks.com/blog/plenty-hortonworks-data-cloud/); [summary](https://docs.hortonworks.com/HDPDocuments/HDCloudAWS/HDCloudAWS-1.16.0/bk_hdcloud-aws/content/releasenotes/index.html)
+
+See [here](https://hortonworks.com/blog/plenty-hortonworks-data-cloud/) for details on the 2.0 technical preview
 
 ## Links
 
