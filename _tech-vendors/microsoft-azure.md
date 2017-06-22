@@ -4,6 +4,7 @@ description: "A cloud computing service operated by Microsoft, with support for 
 alt-titles: [Azure]
 date: 2017-06-21 07:30
 no-vendor-techs: true
+draft-banner: true
 ---
 ## Infrastructure Services
 
@@ -13,8 +14,8 @@ no-vendor-techs: true
 ## Storage Services
 
 | Azure File Storage | Network storage, mountable on multiple machines over REST and SMB - <https://azure.microsoft.com/en-us/services/storage/files/>
-| [Azure Blob Storage](/technologies/microsoft-azure-blob-storage) | Highly scalable and resilient object storage
-| [Azure Data Lake Store](/technologies/microsoft-azure-data-lake-store) | Massively scalable HDFS compatible filesystem as a service, based on Microsoft's Cosmos technology
+| [Azure Blob Storage](/technologies/microsoft-azure-blob-storage/) | Highly scalable and resilient object storage
+| [Azure Data Lake Store](/technologies/microsoft-azure-data-lake-store/) | Massively scalable HDFS compatible filesystem as a service, based on Microsoft's Cosmos technology
 
 ## Compute Services
 
@@ -28,7 +29,7 @@ no-vendor-techs: true
 | Azure Database for MySQL | MySQL as a service - <https://azure.microsoft.com/en-us/services/mysql/>
 | Azure Database for PostgreSQL | PostgreSQL as a service - <https://azure.microsoft.com/en-us/services/postgresql/>
 | Azure SQL Data Warehouse | Scalable analytical database - <https://azure.microsoft.com/en-us/services/sql-data-warehouse/>
-| Azure Redis Cache | Redis as a service - <https://azure.microsoft.com/en-us/services/cache/> 
+| Azure Redis Cache | Redis as a service - <https://azure.microsoft.com/en-us/services/cache/>
 | Azure Table Storage | A NoSQL wide column store service - <https://azure.microsoft.com/en-us/services/storage/tables/>
 | Azure Cosmos DB | Massively scalable, low latency multi-model (key-value, graph and document) NoSQL database, previously known as Azure DocumentDB - <https://azure.microsoft.com/en-us/services/cosmos-db/>
 | Azure Search | Search service - <https://azure.microsoft.com/en-us/services/search/>
@@ -37,7 +38,7 @@ no-vendor-techs: true
 
 | Azure Data Lake Analytics | Massively parallel analytics job service, with support for U-SQL, R, Python, and .NET - <https://azure.microsoft.com/en-us/services/data-lake-analytics/>
 | Azure Data Catalog | A metadata catalog service - <https://azure.microsoft.com/en-us/services/data-catalog/>
-| Azure Time Series Insights | Storage, analytics and visualisation service for time series data, currently in preview - <https://azure.microsoft.com/en-us/services/time-series-insights>
+| Azure Time Series Insights | Storage, analytics and visualisation service for time series data, currently in preview - <https://azure.microsoft.com/en-us/services/time-series-insights/>
 
 ## Streaming Data Services
 
@@ -56,7 +57,7 @@ no-vendor-techs: true
 
 ## Links
 
-* <https://azure.microsoft.com> - Amazon Web Services homepage
+* <https://azure.microsoft.com/> - Amazon Web Services homepage
 * <https://azure.microsoft.com/en-us/services/> - products homepage
 
 ## News
