@@ -9,9 +9,9 @@ no-vendor-techs: true
 
 Hortonworks have two primary offerings - [Hortonworks Data Platform](/technologies/hortonworks-data-platform/), a fully open source distribution of Hadoop, and [Hortonworks Data Flow](/technologies/hortonworks-data-flow/), a distribution of (primarily) Apache NiFi, Kafka and Storm for processing data in motion.  The linked technology pages include further information of the options for deploying and managing these products.
 
-Hortonworks have donated a number of projects to the Apache Foundation including [Ambari](/technologies/apache-ambari), [Tez](/technologies/apache-tez), [Knox](/technologies/apache-knox), [Ranger](/technologies/apache-ranger) and [Slider](/technologies/apache-slider).  [Cloudbreak](/technologies/cloudbreak) is an open source tool, and Hortonworks have suggested that they plan to donate it to the Apache Foundation.
+Hortonworks have donated a number of projects to the Apache Foundation including [Ambari](/technologies/apache-ambari), [Tez](/technologies/apache-tez), [Knox](/technologies/apache-knox), [Ranger](/technologies/apache-ranger) and [Slider](/technologies/apache-slider).  They also have a number of non-Apache open source tools including [Cloudbreak](/technologies/cloudbreak), [Schema Resgistry](/technologies/schema-registry/) and [Streaming Analytics Manager](/technologies/streaming-analytics-manager), all of which Hortonworks have suggested they will donate it to the Apache Foundation.
 
-Hortonworks have one proprietary component, [SmartSense](/technologies/hortonworks-smartsense), a tool used capture diagnostic information from Hadoop clusters and send this to Hortonworks support.
+Hortonworks have one proprietary component, [Hortonworks SmartSense](/technologies/hortonworks-smartsense), a tool used capture diagnostic information from Hadoop clusters and send this to Hortonworks support.
 
 ## Links
 
