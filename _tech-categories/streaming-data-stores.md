@@ -11,7 +11,7 @@ The following are open source Streaming Data Store technologies:
 
 | [Apache Kafka](/technologies/apache-kafka/) | Technology for buffering and storing real-time streams of data between publishers to subscribers, with a focus on high throughput at low latency.  Apache Kafka is also available bundled as part of a number of open source products (see below).
 | Confluent Open Source | [Apache Kafka](/technologies/apache-kafka/) bundled with a Schema Registry plus extra clients and connectors - <https://www.confluent.io/product/confluent-open-source/>
-| Pravega | <http://pravega.io/>
+| [Pravega](/technologies/pravega/) | Technology for the buffering and long term storage of streaming data, designed for low latency and high throughput, with support for exactly once semantics, durable writes, strict ordering, dynamic scaling, transactions and long term storage backed by HDFS.
 
 ## Commercial Technologies
 
