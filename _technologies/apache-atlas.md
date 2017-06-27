@@ -1,11 +1,11 @@
 ---
 title: "Apache Atlas"
-description: "A metadata and data governance solution for Hadoop.  Supports an extensible metadata model with out of the box support for Hive datasets and data lineage from Hive queries and Sqoop imports, with limited support for Falcon, Storm and Kafka.  Allows datasets and data items to be tagged (and for these tags to be used for access control by Apache Ranger), and includes support for business taxonomies as a technical preview.  Implemented as a graph based database using Titan (which by default uses HBase and Solr), with a web based user interface and a REST API for searching and visualising/retrieving metadata, and Kafka topics for the ingest of metadata (primarily from hooks in metadata sources such as Hive or Sqoop) and the publishing of metadata change events.  An incubating Apache project, donated to the Apache Foundation in May 2015 by the Hortonworks Data Governance Initiative in partnership with Aetna, Merck, Target, Schlumberger and SAS.  Has not yet reached a v1.0 milestone or graduated as a top level Apache project, but is still under active development."
+description: "A metadata and data governance solution for Hadoop.  Supports an extensible metadata model with out of the box support for Hive datasets and data lineage from Hive queries and Sqoop imports, with limited support for Falcon, Storm and Kafka.  Allows datasets and data items to be tagged (and for these tags to be used for access control by Apache Ranger), and includes support for business taxonomies as a technical preview.  Implemented as a graph based database using Titan (which by default uses HBase and Solr), with a web based user interface and a REST API for searching and visualising/retrieving metadata, and Kafka topics for the ingest of metadata (primarily from hooks in metadata sources such as Hive or Sqoop) and the publishing of metadata change events.  Donated to the Apache Foundation in May 2015 by the Hortonworks Data Governance Initiative in partnership with Aetna, Merck, Target, Schlumberger and SAS, graduating in June 2017.  Has not yet reached a v1.0 milestone, but is still under active development."
 alt-titles: [Atlas]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-20
-last_updated: 2017-04-19
+last_updated: 2017-06-27
 version: "v0.8"
 ---
 ## Release History
@@ -22,4 +22,4 @@ version: "v0.8"
 
 ## News
 
-* Blog updates via the Hortonworks and Apache blogs* 
+* Blog updates via the Hortonworks and Apache blogs
