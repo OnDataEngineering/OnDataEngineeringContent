@@ -10,8 +10,6 @@ version: "v3.2"
 ## Links
 
 * <https://www.confluent.io/product/confluent-open-source/> - home page
-* <https://www.confluent.io/clients/> - list of available clients
-* <https://www.confluent.io/product/connectors/> - list of available connectors (including a number of certified and community connectors not bundled with the Confluent Platform)
 * <http://docs.confluent.io/current/> - Confluent Platform documentation
 * <https://github.com/confluentinc> - Confluent GitHub home
 
