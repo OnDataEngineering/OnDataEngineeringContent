@@ -7,5 +7,6 @@ date: 2017-01-20
 ## Links
 
 * <http://kafka.apache.org/documentation/streams> - documentation
+* <http://docs.confluent.io/current/streams/index.html> - Confluent documentation
 * <https://www.confluent.io/product/kafka-streams/> - Confluent information page
 * <https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/> - introduction blog post
