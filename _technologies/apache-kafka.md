@@ -5,8 +5,14 @@ alt-titles: [Kafka]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-20
-version: "v0.10"
+last_updated: 2017-07-05
+version: "v0.11"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 0.11 | 2017-06-29 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201706.mbox/%3CCAD5tkZZx3uGrLEYyjZte8aCTq=OYVLAiFz1uwMaxdO3yRoraBg@mail.gmail.com%3E) | Includes support for exactly once semantics - see [Confluent blog post](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/) 
+
 ## Links
 
 * <http://kafka.apache.org> - project home page
