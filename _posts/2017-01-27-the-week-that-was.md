@@ -1,7 +1,7 @@
 ---
 title: The Week That Was - 27/01/2017
 categories: [Site, Technologies, Tech Categories]
-tags: [Giraph, Hama, Ignite, Alluxio, Bigtop, Hadoop Distributions]
+tags: [Giraph, Hama, Ignite, Alluxio, Bigtop]
 ---
 So rather than waiting until we've finished looking at all the technologies included in Apache Bigtop before talking about them, let's try wrapping up each week with a blog post summarising what we've looked at, and maybe at some point summarising some of the news of the week.
 <!--more-->

@@ -5,14 +5,21 @@ alt-titles: [Flink]
 vendors: [Apache, Data Artisans]
 type: "Commercial Open Source"
 date: 2017-02-08
-version: "1.2"
+last_updated: 2017-06-07
+version: "1.3"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.3 | 2017-06-01 | [summary](http://flink.apache.org/news/2017/06/01/release-1.3.0.html) |
+
 ## Links
 
 * <http://flink.apache.org/> - homepage
 * <http://ci.apache.org/projects/flink/flink-docs-release-1.2> - 1.2 release documentation
 * <http://www.slideshare.net/KostasTzoumas/apache-flink-at-strata-san-jose-2016> - good intro slides, including comparison to other technologies
 * <http://data-artisans.com/> - Data Artisans homepage
+* <https://data-artisans.com/blog/apache-flink-1-3-0-evolution-stream-processing> - history of Flink
 
 ## News
 

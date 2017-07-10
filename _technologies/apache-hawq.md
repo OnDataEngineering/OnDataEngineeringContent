@@ -21,4 +21,5 @@ version: "2.1"
 
 ## News
 
-* News via Hortonworks and Pivotal blogs
+* News via Pivotal blog
+* Latest release detailed on Pivotal HDB documentation page

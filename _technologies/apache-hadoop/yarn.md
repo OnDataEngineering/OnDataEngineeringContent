@@ -6,6 +6,10 @@ tech-relationships: [[add ons, Slider]]
 type: "Sub-Project"
 date: 2016-12-16
 ---
+## YARN Ecosystem
+
+![YARN Ecosystem](/images/yarn-ecosystem.png)
+
 ## Links
 
 * <http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html> - YARN architecture overview and documentation
