@@ -5,8 +5,14 @@ vendors: [Elastic]
 tech-relationships: [[add ons, X-Pack, Elasticsearch-Hadoop], [manageable via, Elastic Cloud]]
 type: "Commercial Open Source"
 date: 2017-07-04 07:30
-version: "v5.4"
+last_updated: 2017-07-12
+version: "v5.5"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 5.5 | 2017-07-06 | [announcement](https://www.elastic.co/blog/elasticsearch-5-5-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/current/release-notes-5.5.0.html) | Windows installer |
+
 ## Links
 
 * <https://www.elastic.co/products/elasticsearch> - home page
