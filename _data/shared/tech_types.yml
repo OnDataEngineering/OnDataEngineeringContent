@@ -1,6 +1,9 @@
 Commercial:
   description: "A closed source commercial project, developed, maintained, sold and supported by a commercial organisation"
 
+Commercial Discontinued:
+  description: "A commercial project that's no longer available'"
+
 Commercial Open Source:
   description: "An open source project backed by one or more organisations that either sell packaged versions of the software or provide commercial support, and therefore have a vested interest in the on-going development and maintenance of the technology"
 

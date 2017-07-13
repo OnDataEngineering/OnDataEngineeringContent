@@ -5,8 +5,14 @@ alt-titles: [Crunch]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-07
-version: "0.14"
+last_updated: 2017-04-19
+version: "0.15"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 0.15 | 2017-02-26 | [GitHub release page](https://github.com/apache/crunch/releases/tag/apache-crunch-0.15.0) |
+
 ## Links
 
 * <https://crunch.apache.org/> - homepage

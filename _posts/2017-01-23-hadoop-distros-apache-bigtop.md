@@ -1,7 +1,7 @@
 ---
 title: "Hadoop Distros: Apache Bigtop"
 categories: [Tech Categories, Technologies]
-tags: [Bigtop, Hadoop Distributions]
+tags: [Bigtop]
 date: 2017-01-23 18:00
 ---
 And so to our first (hopefully of many) daily technology summary.

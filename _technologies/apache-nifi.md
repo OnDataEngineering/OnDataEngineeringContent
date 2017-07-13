@@ -5,16 +5,22 @@ alt-titles: [NiFi]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-03-15 07:30
-version: "v1.1"
+last_updated: 2017-06-14
+version: "v1.3"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.2 | 2017-05-08 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.2.0); [processing large volumes of records more efficiently](https://blogs.apache.org/nifi/entry/record-oriented-data-with-nifi); [running SQL on event streams](https://blogs.apache.org/nifi/entry/real-time-sql-on-event) |
+| 1.3 | 2017-06-08 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.3.0) |
+
 ## Links
 
 * <http://nifi.apache.org/> - home page
 * <http://nifi.apache.org/docs.html> - documentation
 * <https://hortonworks.com/apache/nifi/> - Hortonworks information, including tutorials and blog posts
 * <http://docs.hortonworks.com/HDPDocuments/HDF2/HDF-2.1.0/index.html> - Hortonworks documentation (as part of HDF)
-* <https://cwiki.apache.org/confluence/display/NIFI/Release+Notes> - release notes
 
 ## News
 
-* Blog updates via the Hortonworks blog
+* <https://cwiki.apache.org/confluence/display/NIFI/Release+Notes> - release notes
