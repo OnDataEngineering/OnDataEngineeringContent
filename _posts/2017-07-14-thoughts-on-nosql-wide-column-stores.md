@@ -6,7 +6,7 @@ date: 2017-07-14 08:00
 Right - it's the end of another week and another (quick) review of a technology category is done - this time [NoSQL Wide Column Stores](/tech-categories/nosql-wide-column-stores/).  Let's review what we've discovered.
 <!--more-->
 
-NoSQL Wide Column Stores are all based on the Bigtable paper from Google, and in terms of available technologies is not a huge pool, being dominated by [Apache Cassandra](/technologis/apache-cassandra/), [Apache HBase](/technologies/apache-hbase/) and [Apache Accumulo](/technologies/apache-accumulo/) in the open source space, and Azure Table Storage and Google Cloud Bigtable in the cloud space.
+NoSQL Wide Column Stores are all based on the Bigtable paper from Google, and in terms of available technologies is not a huge pool, being dominated by [Apache Cassandra](/technologies/apache-cassandra/), [Apache HBase](/technologies/apache-hbase/) and [Apache Accumulo](/technologies/apache-accumulo/) in the open source space, and Azure Table Storage and Google Cloud Bigtable in the cloud space.
 
 All the open source technologies are great technologies, firmly established, proven a huge scale, with significant backing, and with a range of commercial and managed service offerings available.  ScyllaDB (<http://www.scylladb.com/>) is worth called out - a C++ re-write (effectively) of Apache Cassandra, giving 100% compatibility but performing a lower latencies with more consistency.  Definitely one to look at if you use or are consider using Cassandra.
 
