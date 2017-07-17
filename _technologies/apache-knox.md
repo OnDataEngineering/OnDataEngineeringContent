@@ -5,8 +5,14 @@ alt-titles: [Knox]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-22
-version: "v0.11"
+last_updated: 2017-04-19
+version: "v0.12"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 0.12 | 2017-03-20 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201703.mbox/%3CCA%2BTBRctuHBLB%3DC4gHggQJaGjzPaMUMprcXx-P_mmSnLvf-55OQ%40mail.gmail.com%3E) |
+
 ## Links
 
 * <http://knox.apache.org/> - homepage

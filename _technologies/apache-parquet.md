@@ -1,12 +1,18 @@
 ---
 title: "Apache Parquet"
 description: "Data serialisation framework that supports a columnar storage format to enable efficient querying of data.  Built using Apache Thrift, and supports complex nested data structures, using techniques from the Google Dremel paper.  Consists of three sub-projects, the specification and Thrift definitions (Parquet Format), the Java and Hadoop libraries (Parquet MR) and the C++ implementation (Parquet CPP).  Created as a joint effort between Twitter and Cloudera based on work started as part of Avro Trevni, with an initial v1.0 release in July 2013.  Donated to the Apache Foundation in May 2014, graduating in April 2015.  Has seen significant adoption in the Hadoop ecosystem."
-alt-titles: [Avro]
+alt-titles: [Parquet]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-20
-version: "v1.9"
+last_updated: 2017-04-19
+version: "v1.9 (Parquet MR), v2.3 (Parquet Format), v1.0 (Parquet C++)"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.0 (Parquet C++) | 2017-03-17 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201703.mbox/%3C1489763208.180625.914669528.4C3F126B%40webmail.messagingengine.com%3E) |
+
 ## Links
 
 * <http://parquet.apache.org/> - home page

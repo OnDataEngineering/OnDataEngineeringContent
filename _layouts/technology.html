@@ -29,7 +29,8 @@ layout: page
     {% endfor %}</ul></li>
   {% endfor %}</ul></li>
   <li>Type: {{ page.type }}</li>
-  <li>Date: {{ page.date }}</li>
+  <li>Created Date: {{ page.date }}</li>
+  <li>Last Updated: {{ page.last_updated }}</li>
   <li>Version: {{ page.version }}</li>
   <li>Parent Project: <a href="{{ parent_project.url }}">{{ parent_project.title }}</a></li>
   <li>Sub Projects:<ul>{% for p in sub_projects %}<li><a href="{{ p.url }}">{{ p.title | escape }}</a></li>{% endfor %}</ul></li>
