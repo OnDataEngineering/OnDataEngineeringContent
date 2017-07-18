@@ -7,8 +7,8 @@ categories: [Hadoop Distributions]
 tech-relationships: [[packages, Flume, HBase, Hadoop, Hive, Hue, Impala, Oozie, Sentry, Cloudera Search, Spark, Sqoop, ZooKeeper, Avro, Crunch, Kite, Parquet, Pig], [packages (but deprecated), Llama, DataFu, Whirr, Mahout], [add ons, Accumulo, Kafka, Kudu, RecordService, Cloudera Navigator], [manageable via, Cloudera Manager, Cloudera Director]]
 type: "Commercial"
 date: 2017-03-21 07:00
-last_updated: 2017-06-14
-version: "v5.11"
+last_updated: 2017-07-18
+version: "v5.12"
 ---
 ## Further Information
 
@@ -24,6 +24,7 @@ As of CDH 5.5, [Llama](/technologies/llama), [Whirr](/technologies/apache-whirr)
 
 | version | release date | release links | release comment
 | 5.11 | 2017-04-18 | [announcement](http://community.cloudera.com/t5/Community-News-Release/Announce-Cloudera-Enterprise-5-11-is-Now-Available/m-p/53808#M170) |
+| 5.12 | 2017-07-13 | [announcement](http://community.cloudera.com/t5/Community-News-Release/Cloudera-Enterprise-5-12-is-Now-Available/m-p/57359#M184) |
 
 ## Links
 
