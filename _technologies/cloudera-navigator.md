@@ -4,13 +4,14 @@ description: "A suite of solutions covering Data Management (technical metadata 
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-04-11 07:30
-last_updated: 2017-05-03
-version: "v2.10"
+last_updated: 2017-07-19
+version: "v2.11"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 2.10 | 2017-04-18 | See [CDH](/technologies/cloudera-cdh/) 5.11 release links | CDH 5.11
+| 2.11 | 2017-07-13 | See [CDH](/technologies/cloudera-cdh/) 5.12 release links | CDH 5.12
 
 ## Links
 
