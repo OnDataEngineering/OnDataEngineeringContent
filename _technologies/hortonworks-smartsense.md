@@ -5,8 +5,14 @@ alt-titles: [SmartSense]
 vendors: [Hortonworks]
 type: "Commercial"
 date: 2017-03-10 07:30
-version: "v1.3"
+last_updated: 2017-04-19
+version: "v1.4"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.4 | 2017-04-13 | [release notes](https://docs.hortonworks.com/HDPDocuments/SS1/SmartSense-1.4.0/bk_release-notes/content/ch_relnotes_smartsense.html) |
+
 ## Links
 
 * <https://hortonworks.com/services/support/smartsense/> - homepage
@@ -14,4 +20,4 @@ version: "v1.3"
 
 ## News
 
-* Blog updates via the Hortonworks blog
+* <http://docs.hortonworks.com/index.html> - shows latest Hortonworks release version

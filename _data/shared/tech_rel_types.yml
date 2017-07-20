@@ -1,6 +1,10 @@
 packages:
-  title: Packages
-  reverse-title: Is packaged by
+  title: "Packages"
+  reverse-title: "Is packaged by"
+
+packages (but deprecated):
+  title: "Packages (but deprecated)"
+  reverse-title: "Is packaged by (but deprecated)"
 
 uses:
   title: "Uses"
@@ -13,3 +17,7 @@ add ons:
 manageable via:
   title: "Manageable via"
   reverse-title: "Manages"
+
+also available as:
+  title: "Also available as"
+  reverse-title: "Instance of"

@@ -5,6 +5,10 @@ alt-titles: [Hadoop Distributed File System]
 type: "Sub-Project"
 date: 2016-12-16
 ---
+## HDFS Ecosystem
+
+![HDFS Ecosystem](/images/hdfs-ecosystem.png)
+
 ## Links
 
 * <http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html> - HDFS documentation home

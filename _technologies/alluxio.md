@@ -5,8 +5,14 @@ alt-titles: [Alluxio, Tachyon]
 vendors: [Alluxio]
 type: "Commercial Open Source"
 date: 2017-01-27
-version: "v1.4"
+last_updated: 2017-06-14
+version: "v1.5"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.5 | 2017-06-12 | |
+
 ## Links
 
 * <http://alluxio.org/> - product home page
