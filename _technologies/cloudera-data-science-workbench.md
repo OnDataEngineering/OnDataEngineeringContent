@@ -4,12 +4,14 @@ description: "A web based notebook for interactive data analytics that uses dock
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-05-04 07:30
-version: "v1.0"
+last_updated: 2017-07-19
+version: "v1.1"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 1.0 | 2017-04-26 | [announcement](http://community.cloudera.com/t5/Community-News-Release/Announce-Cloudera-Data-Science-Workbench-is-now-available/m-p/54177#M173) | Initial release
+| 1.1 | 2017-07-18 | [blog post](http://vision.cloudera.com/cloudera-data-science-workbench-release-1-1/)
 
 ## Links
 
