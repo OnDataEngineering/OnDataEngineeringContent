@@ -9,6 +9,7 @@ draft-banner: true
 ## Infrastructure Services
 
 | Azure Virtual Machines | Virtual servers with support for a range of operating systems and pre-build images, and for management at scale (Virtual Machine Scale Sets) - <https://azure.microsoft.com/en-us/services/virtual-machines/>
+| Azure Container Service | Container service using DC/OS, Docker Swarm or Kubernetes - <https://azure.microsoft.com/en-gb/services/container-service/>
 | Azure Disk Storage | Persistent disk storage to support virtual machines - <https://azure.microsoft.com/en-us/services/storage/unmanaged-disks/>
 
 ## Storage Services
