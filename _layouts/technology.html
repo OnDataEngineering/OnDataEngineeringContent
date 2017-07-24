@@ -29,9 +29,9 @@ layout: page
   <li>Other Names:<ul>{% for at in page.alt-titles %}<li>{{ at }}</li>{% endfor %}</ul></li>
   <li>Vendors:<ul>{% for v in page.x_vendors %}<li>{{ v.href }}</li>{% endfor %}</ul></li>
   <li>Categories:<ul>{% for c in page.x_categories %}<li>{{ c.href }}</li>{% endfor %}</ul></li>
-  <li>Relationships:<ul>{% for tr in tech-rels %}
-    <li>{{ tr[0] }}:<ul>{% for r in tr[1] %}
-      <li>{% if r.url %}<a href="{{ r.url }}">{{ r.title }}</a>{% else %}{{ r }}{% endif %}</li>
+  <li>Relationships:<ul>{% for tr in page.x_tech_rels %}
+    <li>{{ tr[0].title }}:<ul>{% for r in tr[1] %}
+      <li>{{ r.href }}</li>
     {% endfor %}</ul></li>
   {% endfor %}</ul></li>
   <li>Type: {{ page.type }}</li>
