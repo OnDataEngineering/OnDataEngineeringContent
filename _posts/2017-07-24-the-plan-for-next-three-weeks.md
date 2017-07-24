@@ -1,5 +1,5 @@
 ---
-title: The Plan For he Next Three Weeks - 24/07/2017
+title: The Plan For The Next Three Weeks - 24/07/2017
 date: 2017-07-24 07:30
 ---
 It's time for me to take a short break, both to recharge and try and get ahead of the upcoming content for the site, but also to do some work on the site itself which is starting to accumulate a few to many bodges and hacks (and an exponentially increasing build time!)
