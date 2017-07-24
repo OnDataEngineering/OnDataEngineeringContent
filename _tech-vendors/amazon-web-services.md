@@ -8,7 +8,8 @@ draft-banner: true
 ---
 ## Infrastructure Services
 
-| Amazon EC2 | Virtual servers, with options to support native hosting of docker containers (Amazon EC2 Container Service) - <https://aws.amazon.com/ec2/>
+| Amazon EC2 | Virtual servers - <https://aws.amazon.com/ec2/>
+| Amazon EC2 Container Services | Docker based container service- <https://aws.amazon.com/ecs/>
 | Amazon EBS | Block storage, used to provide local storage for virtual machine - <https://aws.amazon.com/ebs/>
 
 ## Storage Services
