@@ -30,8 +30,8 @@ layout: page
   <li>Vendors:<ul>{% for v in page.x_vendors %}<li>{{ v.href }}</li>{% endfor %}</ul></li>
   <li>Categories:<ul>{% for c in page.x_categories %}<li>{{ c.href }}</li>{% endfor %}</ul></li>
   <li>Relationships:<ul>{% for tr in page.x_tech_rels %}
-    <li>{{ tr[0].title }}:<ul>{% for r in tr[1] %}
-      <li>{{ r.href }}</li>
+    <li>{{ tr[0] }}:<ul>{% for t in tr[1] %}
+      <li>{{ t.href }}</li>
     {% endfor %}</ul></li>
   {% endfor %}</ul></li>
   <li>Type: {{ page.type }}</li>

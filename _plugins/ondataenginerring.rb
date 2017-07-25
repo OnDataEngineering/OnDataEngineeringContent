@@ -39,8 +39,8 @@ module OnDataEngineering
         title = doc.data["title"]
         lookup[title] = { "raw" => title, "title" => title, "doc" => doc, "href" => create_href(title, doc.url) }
         if doc.data["alt-titles"]
-          doc.data["alt-titles"].each do |altt|
-            lookup[altt] = { "raw" => altt, "title" => title, "doc" => doc, "href" => create_href(title, doc.url) }
+          doc.data["alt-titles"].each do |alttitle|
+            lookup[alttitle] = { "raw" => alttitle, "title" => title, "doc" => doc, "href" => create_href(title, doc.url) }
           end
         end
       end
@@ -53,6 +53,7 @@ module OnDataEngineering
     #   doc - the Jekyll document to process. Has an x_<var> variable added - a list of Hash objects containing
     #     raw - the original title/alt-title from the input array
     #     title - the title of the resolved document
+    #     doc - the document (not present if title/alt-title can't be resolved)
     #     href - an HTML href tag to link to the document
     #   var - (string) the name of the Jekyll variable containing the array of titles/alt-titles to resolve to documents
     #   lookup - a Hash mapping titles/alt-titles to documents
@@ -62,14 +63,34 @@ module OnDataEngineering
       return unless doc.data[var]
       doc.data["x_"+var] = doc.data[var].map { |name| lookup[name] || { "raw" => name, "title" => name, "href" => name }} 
     end
+
+    # Function to add a technology relationship to a document
+    # Params
+    #   doc - the Jekyll document to add the tech relationship to
+    #   reltype - (string) the type of relationship to add
+    #   target - the info hash of the document that's the target of the tech relationship
+    # Returns
+    #   nothing
+    def add_tech_rel(doc, reltype, target)
+      doc.data["x_tech_rels"] = Hash.new unless doc.data["x_tech_rels"]
+      doc.data["x_tech_rels"][reltype] = [] unless doc.data["x_tech_rels"][reltype]
+      doc.data["x_tech_rels"][reltype] << target
+    end
     
+    # Function to process the technology relationships for a document
+    # Params
+    #   doc - the Jekyll document to process
+    #   site - the Jekyll root site object as passed to generate()
+    #   techs - the lookup of titles/alt-titles to technologies
+    # Returns
+    #   nothing
+    # Side effects
+    #   Calls add_tech_rel for every reltype and target document pair in doc, as well as for the reverse relationship from the target to the doc
     def resolve_tech_rels(doc, site, techs)
       
       tech_rels = doc.data["tech-relationships"]
       return unless tech_rels  # Do nothing if there are no tech rels specified
 
-      out = []
-      
       raise "ERR" unless tech_rels.is_a?(Array)  # Check tech rels is an array
       
       tech_rels = [tech_rels] unless tech_rels[0].is_a?(Array)  # If tech rels is a one dimensional array, turn into a two dimensional
@@ -77,15 +98,16 @@ module OnDataEngineering
       tech_rels.each do |rel|
         raise "ERR" if rel.size < 2  # Each set of tech rels must be a tech rel type and at least one tech
 
-        reltype = site.data["shared"]["tech_rel_types"][rel[0]] # Lookup tech rel type
-        raise "ERR" unless reltype # tech rel type must be valid
+        reltype = site.data["shared"]["tech_rel_types"][rel[0]] # Lookup tech rel type object (title, reverse-title)
+        raise "ERR" unless reltype # tech rel type must be valid  
 
-        reltechs = rel[1..-1].map { |name| techs[name] || { "raw" => name, "title" => name, "href" => name }}
-
-        out << [reltype, reltechs]
+        rel[1..-1].each do |name|
+          tech = techs[name] ||  { "raw" => name, "title" => name, "href" => name }
+          add_tech_rel(doc, reltype["title"], tech)
+          add_tech_rel(tech["doc"], reltype["reverse-title"], techs[doc.data["title"]]) if tech["doc"]
+        end
       end
 
-      doc.data["x_tech_rels"] = out
     end
 
     def generate(site)
@@ -102,25 +124,8 @@ module OnDataEngineering
         resolve_tech_rels(doc, site, techs)
       end
 
-      # TODO: add href to vendor has and remove logic from layout
-
-
-      # site.collections.each do |_, coll|
-      #   next unless ["technologies", "tech-categories", "tech-vendors"].include? coll.label
-
-      #   coll.docs.each do |doc|
-      #     doc.data["all_names"] = Hash.new
-      #     doc.data["all_names"][doc.data["title"]] = doc.data["title"]
-      #     if doc.data["alt-titles"]
-      #       doc.data["alt-titles"].each do |altt|
-      #         doc.data["all_names"][altt] = doc.data["title"]
-      #         end
-      #       end
-      #   end
-      #  end
-      # end
-
-    #  binding.pry
+      #d = techs["Hadoop"]
+      #binding.pry
 
     end
   end
