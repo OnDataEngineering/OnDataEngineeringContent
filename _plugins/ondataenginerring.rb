@@ -110,6 +110,18 @@ module OnDataEngineering
 
     end
 
+    def error(doc, msg, var, value)
+      puts "#{doc.data["title"]}: #{msg}: #{var}"
+    end
+
+    def validate_not_null(doc, var)
+      error(doc, "Attribute not set", var, "") unless doc.data[var]
+    end
+
+    def validate_value(doc, var, valid_list)
+      error(doc, "Invalid value", var, doc.data[var]) unless valid_list.include?(doc.data[var])
+    end
+
     def generate(site)
 
       # Generate maps for tech-vendor, tech-category and technology titles/alt-titles to documents
@@ -122,6 +134,11 @@ module OnDataEngineering
         resolve_names(doc, "vendors", vendors)
         resolve_names(doc, "categories", categories)
         resolve_tech_rels(doc, site, techs)
+        validate_not_null(doc, "description")
+        validate_not_null(doc, "type")
+        validate_value(doc, "type", site.data["shared"]["tech_types"].keys)
+        validate_not_null(doc, "date")
+        validate_not_null(doc, "version") unless doc.data["type"] == "Sub-Project"
       end
 
       #d = techs["Hadoop"]

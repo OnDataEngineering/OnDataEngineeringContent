@@ -2,28 +2,12 @@
 layout: page
 ---
 
-{% include shared/find_tech_vendors_by_titles titles=page.vendors %}
-{% include shared/find_tech_categories_by_titles titles=page.categories %}
-{% include shared/find_tech_relationships page=page %}
-{% include shared/validate_not_null attr="Description" value=page.description %}
-{% include shared/validate_not_null attr="Type" value=page.type %}
-{% include shared/validate_value attr="Type" value=page.type list=site.data.shared.tech_types %}
-{% include shared/validate_not_null attr="Date" value=page.date %}
-{% if page.type != "Sub-Project" %}
-  {% include shared/validate_not_null attr="Version" value=page.version %}
-{% endif %}
 {% include shared/find_project_parent tech=page %}
 {% include shared/find_project_children tech=page %}
 
 <p>{{ page.description }}</p>
 
-{% comment %}
-<p>{{ site.vendors }}</p>
-<p>{{ site.vendors.Apache }}</p>
-<p>{{ site.vendors.Apache[0] }}</p>
-<p>{{ site.vendors.Apache[1] }}</p>
-<p>{{ site.vendors.Apache[1] }}</p>
-{% endcomment %}<h2>Metadata</h2>
+<h2>Metadata</h2>
 
 <ul>
   <li>Other Names:<ul>{% for at in page.alt-titles %}<li>{{ at }}</li>{% endfor %}</ul></li>
