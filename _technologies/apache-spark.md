@@ -5,8 +5,14 @@ alt-titles: [Spark]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-13
-version: "v2.1"
+last_updated: 2017-07-19
+version: "v2.2"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 2.2 | 2017-07-11 | [release notes](http://spark.apache.org/releases/spark-release-2-2-0.html); [databricks view](https://databricks.com/blog/2017/07/11/introducing-apache-spark-2-2.html)
+
 ## Links
 
 * <http://spark.apache.org/> - home page
