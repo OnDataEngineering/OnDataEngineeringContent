@@ -150,6 +150,15 @@ module OnDataEngineering
       categories = create_doc_lookups(site, "tech-categories")
 
       techs_by_id = create_lookup_by_id(site, "technologies")
+
+      site.posts.docs.each do |p|
+        p.data["tags"].each do |tag|
+          tech = techs[tag]
+          next unless tech
+          tech["doc"].data["x_posts"] = [] unless tech["doc"].data["x_posts"]
+          tech["doc"].data["x_posts"] << p
+        end
+      end
       
       # Process technology pages
       site.collections["technologies"].docs.each do |doc|
