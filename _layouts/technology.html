@@ -1,10 +1,6 @@
 ---
 layout: page
 ---
-
-{% include shared/find_project_parent tech=page %}
-{% include shared/find_project_children tech=page %}
-
 <p>{{ page.description }}</p>
 
 <h2>Metadata</h2>
@@ -21,8 +17,8 @@ layout: page
   <li>Type: {{ page.type }}</li>
   <li>Date: {{ page.date }}</li>
   <li>Version: {{ page.version }}</li>
-  <li>Parent Project: <a href="{{ parent_project.url }}">{{ parent_project.title }}</a></li>
-  <li>Sub Projects:<ul>{% for p in sub_projects %}<li><a href="{{ p.url }}">{{ p.title | escape }}</a></li>{% endfor %}</ul></li>
+  <li>Parent Project: {{ page.x_parent_project.href }}</li>
+  <li>Sub Projects:<ul>{% for p in page.x_sub_projects %}<li>{{ p.href }}</li>{% endfor %}</ul></li>
 </ul>
 
 {{ content }}

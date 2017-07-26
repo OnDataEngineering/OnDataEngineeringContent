@@ -48,6 +48,14 @@ module OnDataEngineering
       return lookup
     end
 
+    def create_lookup_by_id(site, coll)
+      lookup = Hash.new
+      site.collections[coll].docs.each do |doc|
+        lookup[doc.id] = doc
+      end
+      return lookup
+    end
+
     # Function to take an array of titles/alt-titles in a document and resolve them to documents
     # Params
     #   doc - the Jekyll document to process. Has an x_<var> variable added - a list of Hash objects containing
@@ -107,7 +115,19 @@ module OnDataEngineering
           add_tech_rel(tech["doc"], reltype["reverse-title"], techs[doc.data["title"]]) if tech["doc"]
         end
       end
+    end
 
+    def resolve_project_parent(doc, techs_by_id)
+      parent_id = doc.id.rpartition("/").first
+      parent = techs_by_id[parent_id]
+      raise "Cannot find parent project" unless parent
+      doc.data["x_parent_project"] = { "doc" => parent, "href" => create_href(parent.data["title"], parent.url) }
+    end
+
+    def resolve_project_children(doc, techs_by_id)
+      page_root = doc.id + "/"
+      children = techs_by_id.select { |k, v| k.start_with?(page_root) }
+      doc.data["x_sub_projects"] = children.values.map { |x| { "doc" => x, "href" => create_href(x.data["title"], x.url) } }
     end
 
     def error(doc, msg, var, value)
@@ -128,12 +148,17 @@ module OnDataEngineering
       vendors = create_doc_lookups(site, "tech-vendors")
       techs = create_doc_lookups(site, "technologies")
       categories = create_doc_lookups(site, "tech-categories")
+
+      techs_by_id = create_lookup_by_id(site, "technologies")
       
       # Process technology pages
       site.collections["technologies"].docs.each do |doc|
         resolve_names(doc, "vendors", vendors)
         resolve_names(doc, "categories", categories)
         resolve_tech_rels(doc, site, techs)
+        resolve_project_parent(doc, techs_by_id) if doc.data["type"] == "Sub-Project"
+        resolve_project_children(doc, techs_by_id)
+
         validate_not_null(doc, "description")
         validate_not_null(doc, "type")
         validate_value(doc, "type", site.data["shared"]["tech_types"].keys)
