@@ -175,6 +175,20 @@ module OnDataEngineering
         end
       end
 
+      # Tech-category relationship lookup (both ways)
+      site.collections["technologies"].docs.each do |doc|
+        var = "categories"
+        next unless doc.data[var]
+        doc.data["x_"+var] = []
+        doc.data[var].each do |name|
+          category = categories[name]
+          doc.data["x_"+var] << category || { "raw" => name, "title" => name, "href" => name }
+          next unless category
+          category["doc"].data["x_technologies"] = [] unless category["doc"].data["x_technologies"]
+          category["doc"].data["x_technologies"] << techs[doc.data["title"]]
+        end
+      end
+
       # Posts to tech/vendor/category lookup
       site.posts.docs.each do |p|
         p.data["tags"].each do |tag|
@@ -205,6 +219,12 @@ module OnDataEngineering
         validate_not_null(doc, "description")
         validate_not_null(doc, "date")
         # find_techs_by_vendor
+      end
+
+      # Process tech category pages
+      site.collections["tech-categories"].docs.each do |doc|
+        validate_not_null(doc, "description")
+        # find_techs_by_category
       end
 
       #d = techs["Hadoop"]
