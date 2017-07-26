@@ -1,18 +1,13 @@
 ---
 layout: page
 ---
-
-{% include shared/find_post_categories categories=page.categories %}
-{% include shared/find_post_tags tags=page.tags %}
-{% include shared/find_post_author author=page.author %}
-
 <h2>Metadata</h2>
 
 <ul>
   <li>Date: {{ page.date }}</li>
-  <li>Categories:<ul>{% for c in categories %}<li><a href="{{ c.url }}">{{ c.title }}</a></li>{% endfor %}</ul></li>
-  <li>Tags:<ul>{% for t in pages %}<li><a href="{{ t.url }}">{{ t.title }}</a></li>{% endfor %}</ul></li>
-  <li>Author: <a href="{{ author.uri }}">{{ author.name }}</a></li>
+  <li>Categories:<ul>{% for c in page.x_categories %}<li><a href="{{ c.url }}">{{ c.title }}</a></li>{% endfor %}</ul></li>
+  <li>Tags:<ul>{% for t in page.x_content %}<li>{{ t.href }}</li>{% endfor %}</ul></li>
+  <li>Author: <a href="{{ page.x_author.uri }}">{{ page.x_author.name }}</a></li>
 </ul>
 
 {{ content }}

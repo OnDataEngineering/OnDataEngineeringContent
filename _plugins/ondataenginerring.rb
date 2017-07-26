@@ -189,14 +189,35 @@ module OnDataEngineering
         end
       end
 
-      # Posts to tech/vendor/category lookup
+      # Posts to tech/vendor/category lookup (both ways)
       site.posts.docs.each do |p|
+        next unless p.data["tags"]
+        p.data["x_content"] = []
         p.data["tags"].each do |tag|
           tech = techs[tag] || vendors[tag] || categories[tag]
+          p.data["x_content"] << (tech || { "raw" => tag, "title" => tag, "href" => tag })
           next unless tech
           tech["doc"].data["x_posts"] = [] unless tech["doc"].data["x_posts"]
           tech["doc"].data["x_posts"] << p
         end
+      end
+
+      # Posts to categories (TODO: doesn't return the usual hash)
+      site.posts.docs.each do |p|
+        next unless p.data["categories"]
+        p.data["x_categories"] = []
+        p.data["categories"].each do |cat|
+          cat2 = site.data["shared"]["post_categories"][cat]
+          raise "ERR" unless cat2
+          p.data["x_categories"] << cat2
+        end
+      end
+
+      # Posts to authors (TODO: doesn't return the usual hash)
+      site.posts.docs.each do |p|
+        author = site.data["shared"]["authors"][p.data["author"]]
+        raise "ERR" unless author
+        p.data["x_author"] = author
       end
       
       # Process technology pages
