@@ -13,6 +13,17 @@ require 'pry'
 module OnDataEngineering
   class Generator < Jekyll::Generator
 
+    # TODO
+    #   New class for holding hash objects (raw, title, doc, href)
+    #   Get rid of hash object (move href to doc, raw is hash key (but not when converted to array - use hash instead), title is on doc)
+    #   Add default function to hashes and remove all manual handling of missing keys
+    #   Remove addition of lookups to site payload
+    #   Fix ordering of resolved lists - need to generate first, then sort and add to document?
+    #   Re-architect to
+    #     generate useful lookups (rename create_doc_lookups)
+    #     do all resolution of foreign keys (tech->vendor, tech->cat, tech->tech (rels), tech->tech (parent), posts->content), including setting reverse relationships
+    #     do all validation
+
     # Function to convert a document title and url to a standard HTML href
     # Params
     #   title - (string) the title of the document
@@ -148,12 +159,26 @@ module OnDataEngineering
       vendors = create_doc_lookups(site, "tech-vendors")
       techs = create_doc_lookups(site, "technologies")
       categories = create_doc_lookups(site, "tech-categories")
-
       techs_by_id = create_lookup_by_id(site, "technologies")
 
+      # Tech-vendor relationship lookup (both ways)
+      site.collections["technologies"].docs.each do |doc|
+        var = "vendors"
+        next unless doc.data[var]
+        doc.data["x_"+var] = []
+        doc.data[var].each do |name|
+          vendor = vendors[name]
+          doc.data["x_"+var] << vendor || { "raw" => name, "title" => name, "href" => name }
+          next unless vendor
+          vendor["doc"].data["x_technologies"] = [] unless vendor["doc"].data["x_technologies"]
+          vendor["doc"].data["x_technologies"] << techs[doc.data["title"]]
+        end
+      end
+
+      # Posts to tech/vendor/category lookup
       site.posts.docs.each do |p|
         p.data["tags"].each do |tag|
-          tech = techs[tag]
+          tech = techs[tag] || vendors[tag] || categories[tag]
           next unless tech
           tech["doc"].data["x_posts"] = [] unless tech["doc"].data["x_posts"]
           tech["doc"].data["x_posts"] << p
@@ -173,6 +198,13 @@ module OnDataEngineering
         validate_value(doc, "type", site.data["shared"]["tech_types"].keys)
         validate_not_null(doc, "date")
         validate_not_null(doc, "version") unless doc.data["type"] == "Sub-Project"
+      end
+
+      # Process tech vendor pages
+      site.collections["tech-vendors"].docs.each do |doc|
+        validate_not_null(doc, "description")
+        validate_not_null(doc, "date")
+        # find_techs_by_vendor
       end
 
       #d = techs["Hadoop"]

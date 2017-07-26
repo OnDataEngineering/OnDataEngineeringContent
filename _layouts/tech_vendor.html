@@ -2,10 +2,6 @@
 layout: page
 ---
 
-{% include shared/validate_not_null attr="Description" value=page.description %}
-{% include shared/validate_not_null attr="Date" value=page.date %}
-{% include shared/find_techs_by_vendor vendor=page %}
-
 <p>{{ page.description }}</p>
 
 <h2>Metadata</h2>
@@ -13,16 +9,15 @@ layout: page
 <ul>
   <li>Other Names:<ul>{% for at in page.alt-titles %}<li>{{ at }}</li>{% endfor %}</ul></li>
   <li>Date: {{ page.date }}</li>
-  <li>Technologies:<ul>{% for t in techs %}<li><a href="{{ t.url }}">{{ t.title | escape }}</a></li>{% endfor %}</ul></li>
+  <li>Technologies:<ul>{% for t in page.x_technologies %}<li>{{ t.href }}</li>{% endfor %}</ul></li>
 </ul>
 
 {{ content }}
 
 <h2>Blog Posts</h2>
 
-{% include shared/find_posts_by_tag_titles page=page %}
 <ul>
-  {% for p in posts %}
+  {% for p in page.x_posts %}
     <li><a href="{{ p.url }}">{{ p.title }}</a></li>
   {% endfor %}
 </ul>
