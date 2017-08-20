@@ -5,8 +5,14 @@ alt-titles: [Drill]
 vendors: [Apache]
 type: "Commerical Open Source"
 date: 2017-04-21 07:30
-version: "v1.10"
+last_updated: 2017-08-16
+version: "v1.11"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.11 | 2017-07-31 | [announcement](http://drill.apache.org/blog/2017/07/31/drill-1.11-released/)
+
 ## Links
 
 * <http://drill.apache.org/> - homepage
