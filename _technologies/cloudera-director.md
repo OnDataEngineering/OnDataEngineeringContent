@@ -15,7 +15,7 @@ Cloudera Director is available on AWS as [Cloudera EDH AWS Quick Start](https://
 
 | version | release date | release links | release comment
 | 2.4 | 2017-04-18 | [announcement](http://blog.cloudera.com/blog/2017/04/whats-new-in-cloudera-director-2-4/) | CDH 5.11
-| 2.5 | 2017-07-14 | [announcement](http://blog.cloudera.com/blog/2017/07/whats-new-in-cloudera-director-2-5/) | 
+| 2.5 | 2017-07-14 | [announcement](http://blog.cloudera.com/blog/2017/07/whats-new-in-cloudera-director-2-5/) [AWS Spot instance support](http://blog.cloudera.com/blog/2017/08/cloudera-director-and-spot-instances-resilience-and-repair/) | 
 
 ## Links
 

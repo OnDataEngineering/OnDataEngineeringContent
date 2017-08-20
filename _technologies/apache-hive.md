@@ -5,8 +5,15 @@ alt-titles: [Hive]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-06
-version: "v2.1"
+last_updated: 2017-08-16
+version: "v2.3"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 2.2 | 2017-07-25
+| 2.3 | 2017-07-17 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201707.mbox/%3CCAMs4YUf67_AWvJ+m=fE12EtiaD2XinasMuhvjkVtbNy4E8YXwA@mail.gmail.com%3E)
+
 ## Links
 
 * <http://hive.apache.org/> - home page
