@@ -5,8 +5,14 @@ alt-titles: [Tez]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-09
-version: "0.8"
+last_updated: 2017-08-16
+version: "0.9"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 0.9 | 2017-07-27 | [announcement]( https://tez.apache.org/releases/apache-tez-0-9-0.html)
+
 ## Links
 
 * <https://tez.apache.org/> - homepage

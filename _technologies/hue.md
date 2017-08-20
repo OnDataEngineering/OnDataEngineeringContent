@@ -5,8 +5,14 @@ alt-titles: [Hue]
 vendors: [Cloudera]
 type: "Commercial Open Source"
 date: 2017-02-13
-version: "3.12"
+last_updated: 2017-07-19
+version: "4.0"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 4.0 | 2017-07-31 | [announcement](http://gethue.com/hue-4-and-its-new-interface-is-out/) [UI details](http://gethue.com/the-hue-4-user-interface-in-detail/) | New UI
+
 ## Links
 
 <http://gethue.com/> - homepage
