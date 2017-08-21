@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+#ruby=2.3.3
+#ruby-gemset=ode_2_3_3
+
 gem 'jekyll'
 gem 'jekyll-paginate'
 gem "minima"
