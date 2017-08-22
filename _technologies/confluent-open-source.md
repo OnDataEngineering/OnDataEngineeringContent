@@ -5,8 +5,14 @@ vendors: [Confluent]
 tech-relationships: [[packages, Kafka]]
 type: "Commercial Open Source"
 date: 2017-06-29 07:30
-version: "v3.2"
+last_updated: 2017-08-16
+version: "v3.3"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 3.3 | 2017-08-01 | [announcement](https://www.confluent.io/blog/we-will-say-exactly-confluent-platform-3-3-available-now/)
+
 ## Links
 
 * <https://www.confluent.io/product/confluent-open-source/> - home page
