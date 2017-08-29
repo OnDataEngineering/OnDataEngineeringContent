@@ -18,7 +18,7 @@ draft-banner: true
 | [Impala (Incubating)](/technologies/apache-impala/) | An MPP query engine that supports the execution of SQL queries over in HDFS, HBase, Kudu and S3 based on tables defined in the Hive Metastore
 | [Drill](/technologies/apache-drill/) | An MPP query engine that supports queries over one or more underlying databases or datasets without first defining a schema and with the ability to join data from multiple datastores together.
 | Lens | Provides a federated view over multiple data stores using a single shared schema server based on the Hive Metastore - <http://lens.apache.org/>
-| Kylin | Supports the creation and querying of OLAP cubes on Hadoop, building cubes from star schema data in Hive into HBase, and then providing a SQL interface that queries across Hive and HBase as required - <http://kylin.apache.org/ >
+| [Kylin](/technologies/apache-kylin/) | Supports the creation and querying of OLAP cubes on Hadoop, building cubes from star schema data in Hive into HBase, and then providing a SQL interface that queries across Hive and HBase as required - <http://kylin.apache.org/ >
 
 ## Analytical Search Capabilities
 
@@ -116,8 +116,9 @@ draft-banner: true
 | [Storm](/technologies/apache-storm/) | Specialised distributed stream processing technology based on a single record (not micro batch) model with at least once processing semantics.
 | [Flink](/technologies/apache-flink/) | Specialised stream processing technology inspired by the Google Data Flow model based on a single record (not micro batch) model, with exactly once processing semantics (for supported sources and sinks) via light weight checkpointing and support for batch processing.
 | [Spark/Streaming](/technologies/apache-spark/streaming/) | Spark library for continuous stream processing, that allows stream and batch processing (including Spark SQL and MLlib operations) to be combined
-| Beam | Model and SDKs for running batch and streaming workflows over Apex, Flink, Spark and Google Dataflow - <https://beam.apache.org/>
+| [Beam](/technologies/apache-beam) | Model and SDKs for running batch and streaming workflows over Apex, Flink, Spark and Google Dataflow - <https://beam.apache.org/>
 | [Apex](/technologies/apache-apex/) | Data transformation engine based on Directed Acyclic Graph (DAG) flows configured through a Java API or via JSON that runs over YARN and HDFS with native support for both micro-batch streaming and batch uses cases
+| Heron | The stream processing framework that Twitter built after Storm, with a Storm compatible API
 | Samza | Stream processing framework built on Kafka and YARN - <http://samza.apache.org/>
 | Bahir | A suite of streaming connectors for Spark and Flink, including support for Akka, MQTT, Twitter and ZeroMQ - <http://bahir.apache.org/>
 | Gearpump (Incubating) | Real-time streaming engine based on the micro-service Actor model - <http://gearpump.apache.org/>
