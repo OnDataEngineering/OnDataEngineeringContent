@@ -5,13 +5,20 @@ alt-titles: [Beam]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-08-22 07:30
-version: "2.0.0"
+last_updated: 2017-08-30
+version: "2.1"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 2.1 | 2017-08-24 | [release notes](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12319527&version=12340528) |
+
 ## Links
 
 * <https://beam.apache.org> - product home page
 * <https://beam.apache.org/documentation/> - documentation
 * <https://beam.apache.org/documentation/runners/capability-matrix/> - defines capabilities of individual runners
+* <https://cloud.google.com/blog/big-data/2016/05/why-apache-beam-a-google-perspective> - motivation behind Beam
 
 ## News
 
