@@ -11,17 +11,9 @@ DB Engines maintain a list of time series databases along with their current pop
 
 From Steven Acreman on the Outlyer blog, a review of Time Series Databases from August 2016, some interesting thoughts, and a detailed analysis Google spreadsheet: <https://blog.outlyer.com/top10-open-source-time-series-databases>
 
-## Commercial Open Source
-
-| [InfluxDB](/technologies/influxdb/) | Implemented in Go, with commercial and cloud versions also available |
-| Axibase | Time Series DB built on HDFS, with a commercial Enterprise edition available - <https://axibase.com/>
-| Riak TS | Time Series DB built on the core of Riak KV, and available in a number of commercial editions   - <http://basho.com/products/riak-ts/>
-| TimescaleDB | Plugin to PostgreSQL to add time series data storage - <https://www.timescale.com/>
-
 ## Open Source over external data stores
 
 | [OpenTSDB](/technologies/opentsdb/) | Time Series DB that runs over Apache HBase |
-| DalmatinerDB | High performance Time Series DB written in Erlang and based on Riak Core that runs over ZFS - <https://dalmatiner.io/>
 | KairosDB | Fork of OpenTSDB that runs over Apache Cassandra - <https://kairosdb.github.io/> |
 | Chronix | Time Series DB that runs over Apache Solr - <http://www.chronix.io/>
 | Heroic | Time Series DB from Spotify based on Bigtable/Cassandra, and Elasticsearch - <https://github.com/spotify/heroic>
@@ -33,22 +25,24 @@ From Steven Acreman on the Outlyer blog, a review of Time Series Databases from 
 
 | RRDtool | Open source data logging and graphing for time series data, originally created in 1999 - <https://oss.oetiker.ch/rrdtool/>
 | [Druid](/technologies/druid) | Runs over HDFS/S3 and supports real time aggregations of streaming data
+| DalmatinerDB | High performance Time Series DB written in Erlang and based on Riak Core that runs over ZFS - <https://dalmatiner.io/>
 | Beringei | In memory Time Series DB from Facebook - <https://github.com/facebookincubator/beringei> |
 | Atlas | In memory Time Series DB from Netflix - <https://github.com/Netflix/atlas/wiki/Overview> |
 | SiriDB | Open source Time Series DB - <http://siridb.net/> |
 | Akumuli | C++ Time Series DB that can be used as an embedded library - <http://akumuli.org/>
 | Gnocchi | Open source Time Series DB that was spun off from the OpenStack Ceilometer project - <http://gnocchi.xyz/>
 
-## Commercial
+## Commercial Open Source
+
+| [InfluxDB](/technologies/influxdb/) | Implemented in Go, with commercial and cloud versions also available |
+| Axibase | Time Series DB built on HDFS, with a commercial Enterprise edition available - <https://axibase.com/>
+| Riak TS | Time Series DB built on the core of Riak KV, and available in a number of commercial editions   - <http://basho.com/products/riak-ts/>
+| TimescaleDB | Plugin to PostgreSQL to add time series data storage - <https://www.timescale.com/>
+
+## Commercial Closed Source
 
 | MachBase | Commercial Time Series DB previously known as InfiniFlux - <http://www.infiniflux.com/machbase/>
 | KDB+ | Time Series DB from KX Systems that used heavily in financial organisations - <https://kx.com/discover/#time-series-database>
-
-## Supporting Capabilities
-
-If you're looking to push metrics to a time series database, [StatsD](https://github.com/etsy/statsd) or one of it's alternative implementations may be worth considering.  See the original [Etsy blog post](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/).
-
-And you're going to want a way to visualise your data.  There are a thousand options here, but [Grafana](https://grafana.com/) is the obvious place to start.
 
 ## Monitoring Stacks (open source)
 
