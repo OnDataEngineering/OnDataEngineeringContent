@@ -126,6 +126,9 @@ draft-banner: true
 ## Streaming Data Stores
 
 | [Kafka](/technologies/apache-kafka/) | Technology for buffering and storing real-time streams of data between producers and consumers, with a focus on high throughput at low latency.
+| DistributedLog | Distributed log service from Twitter supporting durability, replication and strong consistency built over Apache BookKeeper
+| Pulsar | Distributed pub-sub messaging from Yahoo, with persistent message storage based on Apache BookKeeper
+| BookKeeper | Distributed log storage service from Yahoo
 
 ## Workflow Management
 
