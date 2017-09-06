@@ -13,7 +13,7 @@ version: "v6.6"
 | version | release date | release links | release comment
 | 6.4 | 2017-01-23 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201701.mbox/%3CCAKUpjcSRFuD_hD%2B-Zj4fbjr-dL1tA8AZO8q6An6kgJGkTB7UbQ@mail.gmail.com%3E) [Solr 'n Stuff summary](http://yonik.com/solr-6-4/) |
 | 6.5 | 2017-03-27 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201703.mbox/%3CCAKUpjcQijk5pwbAVAW6Zfc1fz-cARMDUJyW5L67RGov%2BTcd%2B5w%40mail.gmail.com%3E) [Solr 'n Stuff summary](http://yonik.com/solr-6-5/) |
-| 6.6 | 2017-06-06 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201706.mbox/%3CCAHPRk5GFOA=gZOzU6PVJ+N4Mmj64V3UKthP+45xQmp08mCN8nw@mail.gmail.com%3E) |
+| 6.6 | 2017-06-06 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201706.mbox/%3CCAHPRk5GFOA=gZOzU6PVJ+N4Mmj64V3UKthP+45xQmp08mCN8nw@mail.gmail.com%3E) [Solr 'n Stuff summary](http://yonik.com/solr-6-6/)|
 
 ## Links
 
