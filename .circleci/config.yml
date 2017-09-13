@@ -51,7 +51,7 @@ jobs:
           name: Build
           no_output_timeout: 30m
           command: |
-            ./build.sh
+            ./build.sh --future
 
       - run:
           name: Commit
