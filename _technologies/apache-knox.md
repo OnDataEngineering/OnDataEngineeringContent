@@ -12,7 +12,7 @@ version: "v0.13"
 
 | version | release date | release links | release comment
 | 0.12 | 2017-03-20 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201703.mbox/%3CCA%2BTBRctuHBLB%3DC4gHggQJaGjzPaMUMprcXx-P_mmSnLvf-55OQ%40mail.gmail.com%3E) |
-| 0.13 | 2017-08-19 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201708.mbox/%3CCACRbFyhaO6vfUn66toWKVuOhoPKeab9G0AOZPWcHRjjN+zaWQg@mail.gmail.com%3E) |
+| 0.13 | 2017-08-19 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201708.mbox/%3CCACRbFyhaO6vfUn66toWKVuOhoPKeab9G0AOZPWcHRjjN+zaWQg@mail.gmail.com%3E); [post](https://cwiki.apache.org/confluence/display/KNOX/News#News-2017-08-19ApacheKnoxGateway0.13.0Released!) |
 
 ## Links
 
