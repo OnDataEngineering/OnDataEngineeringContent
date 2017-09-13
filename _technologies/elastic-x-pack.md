@@ -5,13 +5,14 @@ alt-titles: [X-Pack]
 vendors: [Elastic]
 type: "Commercial"
 date: 2017-07-05 07:30
-last_updated: 2017-07-12
-version: "v5.5"
+last_updated: 2017-09-13
+version: "v5.6"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 5.5 | 2017-07-06 | [change notes](https://www.elastic.co/guide/en/x-pack/current/xpack-change-list.html#xpack-5.5.0) | Machine Learning GA |
+| 5.6 | 2017-09-11 | [change notes](https://www.elastic.co/guide/en/x-pack/current/xpack-change-list.html#release-notes-5.6.0) 
 
 ## Links
 
