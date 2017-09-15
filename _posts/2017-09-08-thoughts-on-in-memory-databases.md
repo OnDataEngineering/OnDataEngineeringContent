@@ -5,7 +5,7 @@ date: 2017-09-08 07:45
 ---
 So this week has been a bit of a mess, with late posts and no technology summaries.  My apologies - I'm going to blame technology issues, and promise that it won't happen again (even though it undoubtedly will).
 
-Anyway, this week I've been looking at [In Memory Databases](/technologies/in-memory-databases/), and I'll warn you in advance that there's going to be heavy use of quotes around "in memory"...
+Anyway, this week I've been looking at [In Memory Databases](/tech-categories/in-memory-databases/), and I'll warn you in advance that there's going to be heavy use of quotes around "in memory"...
 <!--more-->
 
 I guess my first thought is that this probably isn't a technology category in it's own right - all the technologies on the technology category page ([here](/technologies/in-memory-databases/) if you missed the link in the paragraph above) are in memory versions of other technology categories - primarily relational databases, NoSQL key value stores and Hadoop compatible filesystems.  So, don't be surprised at some point if this technology category disappears as all the technologies on it get added to other technology category pages.
