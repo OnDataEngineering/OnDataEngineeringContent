@@ -1,0 +1,23 @@
+---
+title: Thoughts on Data Virtualization
+tags: [Data Virtualization]
+date: 2017-09-15 07:45
+---
+That's another week down (don't worry, there are plenty to go), so let's talk about [Data Virtualization](/tech-categories/data-virtualization/), our topic for the week...
+<!--more-->
+
+My personal view is that Data Virtualization is a really powerful component in your data integration story, but it's probably not well known or understood.  It's also the first technology category we've looked at where the open source offerings significantly lag the commercial ones, with the first commercial technologies (Composite and Denodo) having been round since the turn of the millennium and a wide range of commercial offerings now available, whereas the open source offerings tend to focus on a slightly narrower use case and are relatively new.
+
+So what is Data Virtualization (some times also known as Data Federation / Enterprise Information Integration)?  It's a technology that allows you to run analytics (queries) over data in multiple disparate sources, allowing that data to be exploited as an integrated set without having to physically move it into a single database or data store.  Most technologies in this space also allow the definition of a logical schema or semantic model over the source data so that users don't have to understand the complexities of the source data, in addition to being able to run ad-hoc queries over the raw source data.  Fundamentally it's a data integration tool - bringing multiple data sources together so they can be exploited as a single integrated data set.
+
+So why are these tools useful?
+
+Firstly, for some use cases you might be able to avoid having any analytical platform whatsoever - if you can generate all the analytics you want over the data in it's original source, that's a huge win.  However, that obviously puts extra load on those sources, and all of the complexity in integrating the source data together is now embedded in your data virtualization layer and the cost of this is going to be incurred at query time.
+
+The first of these issues (the load on the sources) can be addressed by moving the data from it's original source into an analytical platform that can support this query load (let's call this a Data Lake for arguments sake).  No transformation or integration, but it's now somewhere that can support the level and types of data access that our analytics via our virtualization layer requires.
+
+The second of these issues can be addressed in two ways.  Firstly, many of these technologies (including [Denodo](/technologies/denodo-platform/), the technology we looked at in more detail this week), can cache tables defined within their semantic layer (and update these on an incremental or scheduled basis).  So we now have a tool in which we define the rules and logic for integrating our set of data sources, which will then ensure that a materialised physical copy of the results of this logic is available at all times for querying.  And that sounds exactly like what we would traditionally try to achieve with a traditional data integration tool.
+
+And although there will be limits to the complexity of the data transformation and integration that a Data Virtualization tool can support that might require you to break out custom data transformation pipelines (and tools like Denodo support the use of external technologies for generating data in it's materialised cache), it will generally always be quicker and easier to integrate data using a Data Virtualization tool, and therefore there is likely always a role for them to pay in either prototyping or the rapid development of some integrations (which some call Agile ETL).
+
+By the second (and probably more important) reason that these tools are useful is that they allow you to run ad-hoc queries and analytics across data that hasn't been integrated and prepared for analytics.  No matter how much data preparation and integration you do, there will always be some ad-hoc questions you want to ask that aren't supported by your integrated and prepared data.  So what's your option now - spend the time and effort integrating that data in (when perhaps you don't yet know how valuable it's going to be) or do a pile of bespoke one off integration work?  And this is where (for me) a lot of the value of Data Virtualization tools lie - they allow analysts (for what of a better term) to run these exploratory ad-hoc analytics over raw (or rawer) source data without having to do a pile of painful and expensive integration work.  And that can be an enormous win in exploring and understanding where the value is in your data, and where you should focus your efforts on pre integrating and preparing data.
