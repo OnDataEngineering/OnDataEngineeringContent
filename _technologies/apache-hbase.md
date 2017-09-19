@@ -12,7 +12,7 @@ version: "v1.3"
 
 | version | release date | release links | release comment
 | 1.3 | 2017-01-17 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201701.mbox/%3CCAHxLZBWn6eLPTjLG7NxpVNQzf-M1T984N90W9bswSUVDk5vYPA@mail.gmail.com%3E) [infoq summary](https://www.infoq.com/news/2017/01/apache-hbase-1.3) |
-| 2.0 | tbc | [2.0 details presentation](https://www.slideshare.net/enissoz/meet-hbase-20); [alpha-2 release announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201708.mbox/%3CCADcMMgFzmX0xYYso-UAYbU7V8z-Obk1J4pxzbGkRzbP5Hps+iA@mail.gmail.com%3E) |
+| 2.0 | tbc | [2.0 details presentation](https://www.slideshare.net/enissoz/meet-hbase-20); [alpha-3 release announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201709.mbox/%3CCADcMMgH4O7YhAjP=JxuKbMg_3h8gguX4pyzCinn8Be9Oa+9naw@mail.gmail.com%3E) |
 
 ## Links
 
