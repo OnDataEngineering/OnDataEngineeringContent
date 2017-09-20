@@ -12,7 +12,7 @@ version: "v5.6"
 
 | version | release date | release links | release comment
 | 5.5 | 2017-07-06 | [announcement](https://www.elastic.co/blog/elasticsearch-5-5-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/current/release-notes-5.5.0.html) | Windows installer |
-| 5.6 | 2017-09-11 | [announcement](https://www.elastic.co/blog/elasticsearch-5-6-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/current/release-notes-5.6.0.html)
+| 5.6 | 2017-09-11 | [announcement](https://www.elastic.co/blog/elasticsearch-5-6-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/current/release-notes-5.6.0.html) | [High Level REST Client](https://www.elastic.co/blog/the-elasticsearch-java-high-level-rest-client-is-out)
 
 ## Links
 
