@@ -16,10 +16,10 @@ Technology updates (details are on the relevant technology pages):
 Technology news:
 
 * [Details](https://azure.microsoft.com/en-us/blog/events-data-points-and-messages-choosing-the-right-azure-messaging-service-for-your-data/) from Microsoft on the different messaging services in [Azure](/tech-vendors/microsoft-azure/)
-* Another from Confluent trying to explain how technologies like Kafka might change the analytics space, this time on [why it's ok to store data in Kafka long term](https://www.confluent.io/blog/okay-store-data-apache-kafka/)
+* Another from Confluent trying to explain how technologies like [Kafka](/technologies/apache-kafka) might change the analytics space, this time on [why it's ok to store data in Kafka long term](https://www.confluent.io/blog/okay-store-data-apache-kafka/)
 * Again from Confluent, and this is always interesting - details on [how they test Kafka](https://www.confluent.io/blog/apache-kafka-tested/)
 * So it's an advert for Waterline, but I think the principles are probably sound.  From MapR - [Why Atlas and Navigator don't cut it](https://mapr.com/blog/why-atlas-and-navigator-dont-cut-it/)
 * [CVE-2017-903](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-9803) - Solr Kerberos issues with delegation tokens when using SecurityAwareZkACLProvider type of ACL provider e.g. SaslZkACLProvider
 * The [Hortonworks download page](https://hortonworks.com/downloads/) now includes links for IBM Data Science and IBM Big SQL
 * Fight time!  Hortonworks have [YCSB benchmark results](https://hortonworks.com/blog/hbase-cassandra-benchmark/) for HBase vs Cassandra
-* [Thoughts from ZDNet](http://www.zdnet.com/article/pivotal-greenplum-is-alive-and-kicking/) on Greenplum (which has just seen a 5.0 release)
+* [Thoughts from ZDNet](http://www.zdnet.com/article/pivotal-greenplum-is-alive-and-kicking/) on [Greenplum](/technologies/greenplum) (which has just seen a 5.0 release)
