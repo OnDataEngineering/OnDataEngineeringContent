@@ -6,6 +6,12 @@ vendor: "InfluxData"
 date: 2017-08-31 07:30
 version: "v1.3"
 ---
+---
+## Release History
+
+| version | release date | release links | release comment
+| 1.4 | tbc | tbc | [Prometheus compatible API](https://www.influxdata.com/blog/influxdb-now-supports-prometheus-remote-read-write-natively/)
+
 ## Links
 
 * <https://www.influxdata.com/time-series-platform/influxdb/> - homepage
