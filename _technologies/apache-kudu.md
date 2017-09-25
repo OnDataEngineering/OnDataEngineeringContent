@@ -5,13 +5,14 @@ alt-titles: [Kudu]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-03-29 07:30
-last_updated: 2017-06-21
-version: "v1.4"
+last_updated: 2017-09-20
+version: "v1.5"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 1.4 | 2017-06-13 | [summary](http://kudu.apache.org/releases/1.4.0/docs/release_notes.html) 
+| 1.5 | 2017-09-08 | [summary](http://kudu.apache.org/releases/1.5.0/docs/release_notes.html) [blog post](https://kudu.apache.org/2017/09/08/apache-kudu-1-5-0-released.html)
 
 ## Links
 

@@ -5,13 +5,15 @@ alt-titles: [ES-Hadoop]
 vendors: [Elastic]
 type: "Commercial Open Source"
 date: 2017-07-06 07:30
-last_updated: 2017-07-12
-version: "v5.5"
+last_updated: 2017-09-13
+version: "v5.6"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 5.5 | 2017-07-06 | [announcement](https://www.elastic.co/blog/es-hadoop-5-5-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/eshadoop-5.5.0.html) | Hadoop 1.x and Elasticsearch of YARN Beta deprecated |
+| 5.5 | 2017-07-06 | [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/eshadoop-5.6.0.html)
+
 
 ## Links
 

@@ -5,13 +5,14 @@ alt-titles: [Impala]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-03-24 07:30
-last_updated: 2017-06-21
-version: "v2.9"
+last_updated: 2017-09-20
+version: "v2.10"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 2.9 | 2017-06-17 | [changelog](https://impala.incubator.apache.org/docs/changelog-2.9.html)
+| 2.10 | 2017-09-15 | [changelog](https://impala.incubator.apache.org/docs/changelog-2.10.html)
 
 ## Links
 

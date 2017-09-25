@@ -25,7 +25,7 @@ See our [Hadoop Distributions](/tech-categories/hadoop-distributions/) page for 
 
 There are also a number of in memory data grids / storage layers that provide Hadoop compatibility and the option to run Hadoop jobs entirely in memory or across tiered storage:
 
-| [Apache Alluxio](/technologies/apache-alluxio) | Distributed virtual storage layer over memory and tiered storage with support for a range of interfaces. Previously known as Tachyon
+| [Alluxio](/technologies/alluxio/) | Distributed virtual storage layer over memory and tiered storage with support for a range of interfaces. Previously known as Tachyon
 | [GridGain/Apache Ignite](/technologies/apache-ignite) | Distributed in-memory data fabric/grid, including support for an in-memory Hadoop compatible filesystem
 
 ## Cloud Hadoop Compatible Filesystems

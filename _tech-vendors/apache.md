@@ -126,6 +126,9 @@ draft-banner: true
 ## Streaming Data Stores
 
 | [Kafka](/technologies/apache-kafka/) | Technology for buffering and storing real-time streams of data between producers and consumers, with a focus on high throughput at low latency.
+| DistributedLog | Distributed log service from Twitter supporting durability, replication and strong consistency built over Apache BookKeeper
+| Pulsar | Distributed pub-sub messaging from Yahoo, with persistent message storage based on Apache BookKeeper
+| BookKeeper | Distributed log storage service from Yahoo
 
 ## Workflow Management
 
@@ -148,6 +151,7 @@ draft-banner: true
 | [Superset (Incubating)](/technologies/apache-superset/) | Web based tool for interactive exploration for OLAP style data, supporting interactive drag and drop querying, composable dashboards and a SQL workspace (SQL Lab).
 | [Zeppelin](/technologies/apache-zeppelin/) | A web based notebook for interactive data analytics.
 | Commons Compress | Suite of Java libraries for working with a range of compression and packaging formats - <https://commons.apache.org/proper/commons-compress/>
+| Commons CSV | Suite of Java libraries for workng with CSV files - <https://commons.apache.org/proper/commons-csv/>
 | Griffin (Incubating) | Data Quality Service platform built on Apache Hadoop and Apache Spark - <http://griffin.incubator.apache.org/>
 | Tika | Toolkit for extracting text from a wide range of document formats - <http://tika.apache.org/>
 | UIMA | Framework for unstructured data analysis - <http://uima.apache.org/>
