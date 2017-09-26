@@ -13,9 +13,9 @@ DB Engines has a list of RDF databases at <https://db-engines.com/en/ranking/rdf
 
 The Forrester Graph Databases Market Overview (<https://www.forrester.com/report/Market+Overview+Graph+Databases/-/E-RES121473>) covers a number of RDF databases, including StarDog, AllegroGraph and Oracle, and has a good introduction to RDF and Graph databases.
 
-And Bloor have a primer on graph technologies (<http://www.bloorresearch.com/research/spotlight/all-about-graphs-a-primer/>), a 2016 Graph and RDF Databases Market Report (<http://www.bloorresearch.com/research/market-report/graph-and-rdf-databases-2016/>) and a 2016 Graph and RDF Databases Market Update (<http://www.bloorresearch.com/research/market-update/graph-and-rdf-databases-market-update-2016/>), which cover a number of RDF databases including AllegroGraph, BlazeGraph, Cray, GraphDB, MarkLogic, Stardog and Virtuoso, all of which are free to download for personal non-commercial use.
+And Bloor have a primer on graph technologies (<http://www.bloorresearch.com/research/spotlight/all-about-graphs-a-primer/>), a 2016 Graph and RDF Databases Market Report (<http://www.bloorresearch.com/research/market-report/graph-and-rdf-databases-2016/>) and a 2016 Graph and RDF Databases Market Update (<http://www.bloorresearch.com/research/market-update/graph-and-rdf-databases-market-update-2016/>), all of which are free to download for personal non-commercial use, and which cover a number of RDF databases including AllegroGraph, BlazeGraph, Cray, GraphDB, MarkLogic, Stardog and Virtuoso.
 
-# RDF Frameworks
+## RDF Frameworks
 
 | Eclipse RDF4J | An Eclipse open source project for working with RDF data, including provision of a standard SPARQL interface that can be integrated with backend databases.  Previously known as Sesame - <http://rdf4j.org/>
 | Jena | Framework for developing Semantic Web and Linked Data applications in Java - <http://jena.apache.org/>
@@ -45,3 +45,7 @@ And Bloor have a primer on graph technologies (<http://www.bloorresearch.com/res
 | BrightstarDB | Open Source RDF database for the .NET platform - <http://brightstardb.com/>
 | Strabon | Spatiotemporal RDF store - <http://www.strabon.di.uoa.gr/>
 | Rya (Incubating) | RDF triple store built on Apache Accumulo - <http://rya.apache.org/>
+
+## Data Virtualization
+
+A number of [Data Virtualization](/tech-categories/data-virtualization/) support the exposure of data through RDF data models
