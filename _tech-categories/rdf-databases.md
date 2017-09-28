@@ -41,7 +41,7 @@ And Bloor have a primer on graph technologies (<http://www.bloorresearch.com/res
 | BlazeGraph | Open Source RDF graph database with property graph features, queryable via SPARQL and Tinkerpop - <https://www.blazegraph.com/>
 | 4store | <https://github.com/4store/4store>
 | RedStore | <https://www.aelius.com/njh/redstore/>
-| Mulgara | Open source java RDF database - <http://mulgara.org/>F
+| Mulgara | Open source java RDF database - <http://mulgara.org/>
 | BrightstarDB | Open Source RDF database for the .NET platform - <http://brightstardb.com/>
 | Strabon | Spatiotemporal RDF store - <http://www.strabon.di.uoa.gr/>
 | Rya (Incubating) | RDF triple store built on Apache Accumulo - <http://rya.apache.org/>
