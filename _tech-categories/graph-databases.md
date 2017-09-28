@@ -7,6 +7,8 @@ date: 2017-09-26 07:30
 ---
 ## Further Information
 
+The Morning Paper review of the "Do we need specialized graph databases? Benchmarking real-time social networking applications" paper from the University of Waterloo, Ontario from May 2017 is worth a read before you go any further - this covers a number of use cases where relational databases perform better than dedicated graph databases, and also looks at the performance impact of using TinkerPop over a native API - <https://blog.acolyer.org/2017/07/07/do-we-need-specialized-graph-databases-benchmarking-real-time-social-networking-applications/>
+
 DB Engines has a list of graph databases at <https://db-engines.com/en/ranking/graph+dbms>
 
 The Forrester Graph Databases Market Overview (<https://www.forrester.com/report/Market+Overview+Graph+Databases/-/E-RES121473>) covers a number of graph databases, including DataStax Enterprise, FlockDB, Neo4j and OrientDB, and has a good introduction to RDF and Graph databases.
@@ -28,6 +30,7 @@ And Neo4j have a number of eBooks available for free download from <https://neo4
 | DataStax Enterprise | Commercial product built on Apache Cassandra with the addition of graph and search capabilities - <https://www.datastax.com/>
 | OrientDB | Multi-model (key-value, graph and document) NoSQL database with TinkerPop Gremlin compatibility and both community and enterprise editions - <http://orientdb.com/graph-database/>
 | ArrangoDB | Multi-model (key-value, graph and document) NoSQL database with ACID transactions, TinkerPop compatibility and it's own AQL query language with support for cluster deployments (including running over Mesos) - <http://www.arangodb.com>
+| TigerGraph | Commercial hybrid OLTP/OLAP graph database that claims order of magnitude performance and scalability improvements over it's competitors; previously known as GraphSQL - <http://www.tigergraph.com>, <http://www.zdnet.com/article/tigergraph-a-graph-database-born-to-roar/>
 | Sparksee | Graph database formally known as DEX, with support for a range of languages and use on mobile devices and TinkerPop support- <http://www.sparsity-technologies.com/>
 | GraphBase | Commercial graph database designed for use in AI applications - <https://graphbase.ai/>
 | AgensGraph | Commercial multi-model (relational and graph) databases - <http://www.agensgraph.com/>
