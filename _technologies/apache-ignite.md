@@ -5,15 +5,16 @@ alt-titles: [Ignite, GridGain]
 vendors: [Apache, GridGain]
 type: "Commercial Open Source"
 date: 2017-01-24
-last_updated: 2017-08-16
-version: "v2.1 (Ignite / GridGain Professional), v7.8 (GridGain Enterprise)"
+last_updated: 2017-09-27
+version: "v2.2"
 ---
 ## Release History
 
 | version | release date | release links | release comment
-| 1.9 | 2017-03-07 | [Ignite announcement](https://blogs.apache.org/ignite/entry/apache-ignite-1-9-released) [GridGain Professional announcement](https://www.gridgain.com/resources/blog/gridgain-professional-edition-19-improves-performance-adds-kubernetesr-support-and) [GridGain Enterprise announcement](https://www.gridgain.com/resources/blog/gridgain-enterprise-edition-78-adds-support-memory-sql-grid-and-advanced-gridgain) |
+| 1.9 | 2017-03-07 | [Ignite announcement](https://blogs.apache.org/ignite/entry/apache-ignite-1-9-released) [GridGain Professional announcement](https://www.gridgain.com/resources/blog/gridgain-professional-edition-19-improves-performance-adds-kubernetesr-support-and) |
 | 2.0 | 2017-05-05 | [Ignite announcement](https://blogs.apache.org/ignite/entry/apache-ignite-2-0-redesigned) [GridGain Professional announcement](https://www.gridgain.com/resources/blog/gridgain-professional-edition-20-released-today) | [post](https://www.gridgain.com/resources/blog/what-you-need-know-about-apacher-ignitetm-20-21) on upgrading to 2.0 or 2.1
 | 2.1 | 2017-07-27 | [Ignite announcement](https://blogs.apache.org/ignite/entry/apache-ignite-2-1-a) | Adds persistent storage of data held in memory - see [post](https://www.gridgain.com/resources/blog/apacher-ignitetm-native-persistence-what-about-data-recovery-solved) |
+| 2.2 | 2017-09-21 | [Ignite announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201709.mbox/%3C68C2E42E-117B-46CF-A854-2C0D89172E9B@apache.org%3E)
 
 ## Links
 
