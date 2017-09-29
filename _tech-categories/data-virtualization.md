@@ -45,6 +45,7 @@ The following are capabilities from specialist vendors:
 
 | Capsenta Ultrawrap | Virtualizes relational databases as an RDF semantic web data source - <https://capsenta.com/>
 | D2RQ | Opens source platform for accessing relational databases as an RDF graph - <http://d2rq.org/>
+| Complexible Stardog | RDF database that also support property graphs and data virtualisation - <http://www.stardog.com/>
 
 ## Open Source Technologies
 
