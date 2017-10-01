@@ -5,13 +5,14 @@ alt-titles: [HBase]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-06
-last_updated: 2017-04-19
+last_updated: 2017-08-23
 version: "v1.3"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 1.3 | 2017-01-17 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201701.mbox/%3CCAHxLZBWn6eLPTjLG7NxpVNQzf-M1T984N90W9bswSUVDk5vYPA@mail.gmail.com%3E) [infoq summary](https://www.infoq.com/news/2017/01/apache-hbase-1.3) |
+| 2.0 | tbc | [2.0 details presentation](https://www.slideshare.net/enissoz/meet-hbase-20); [alpha-3 release announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201709.mbox/%3CCADcMMgH4O7YhAjP=JxuKbMg_3h8gguX4pyzCinn8Be9Oa+9naw@mail.gmail.com%3E) |
 
 ## Links
 

@@ -18,7 +18,7 @@ draft-banner: true
 | [Impala (Incubating)](/technologies/apache-impala/) | An MPP query engine that supports the execution of SQL queries over in HDFS, HBase, Kudu and S3 based on tables defined in the Hive Metastore
 | [Drill](/technologies/apache-drill/) | An MPP query engine that supports queries over one or more underlying databases or datasets without first defining a schema and with the ability to join data from multiple datastores together.
 | Lens | Provides a federated view over multiple data stores using a single shared schema server based on the Hive Metastore - <http://lens.apache.org/>
-| Kylin | Supports the creation and querying of OLAP cubes on Hadoop, building cubes from star schema data in Hive into HBase, and then providing a SQL interface that queries across Hive and HBase as required - <http://kylin.apache.org/ >
+| [Kylin](/technologies/apache-kylin/) | Supports the creation and querying of OLAP cubes on Hadoop, building cubes from star schema data in Hive into HBase, and then providing a SQL interface that queries across Hive and HBase as required - <http://kylin.apache.org/ >
 
 ## Analytical Search Capabilities
 
@@ -116,8 +116,9 @@ draft-banner: true
 | [Storm](/technologies/apache-storm/) | Specialised distributed stream processing technology based on a single record (not micro batch) model with at least once processing semantics.
 | [Flink](/technologies/apache-flink/) | Specialised stream processing technology inspired by the Google Data Flow model based on a single record (not micro batch) model, with exactly once processing semantics (for supported sources and sinks) via light weight checkpointing and support for batch processing.
 | [Spark/Streaming](/technologies/apache-spark/streaming/) | Spark library for continuous stream processing, that allows stream and batch processing (including Spark SQL and MLlib operations) to be combined
-| Beam | Model and SDKs for running batch and streaming workflows over Apex, Flink, Spark and Google Dataflow - <https://beam.apache.org/>
+| [Beam](/technologies/apache-beam) | Model and SDKs for running batch and streaming workflows over Apex, Flink, Spark and Google Dataflow - <https://beam.apache.org/>
 | [Apex](/technologies/apache-apex/) | Data transformation engine based on Directed Acyclic Graph (DAG) flows configured through a Java API or via JSON that runs over YARN and HDFS with native support for both micro-batch streaming and batch uses cases
+| Heron | The stream processing framework that Twitter built after Storm, with a Storm compatible API
 | Samza | Stream processing framework built on Kafka and YARN - <http://samza.apache.org/>
 | Bahir | A suite of streaming connectors for Spark and Flink, including support for Akka, MQTT, Twitter and ZeroMQ - <http://bahir.apache.org/>
 | Gearpump (Incubating) | Real-time streaming engine based on the micro-service Actor model - <http://gearpump.apache.org/>
@@ -125,6 +126,9 @@ draft-banner: true
 ## Streaming Data Stores
 
 | [Kafka](/technologies/apache-kafka/) | Technology for buffering and storing real-time streams of data between producers and consumers, with a focus on high throughput at low latency.
+| DistributedLog | Distributed log service from Twitter supporting durability, replication and strong consistency built over Apache BookKeeper
+| Pulsar | Distributed pub-sub messaging from Yahoo, with persistent message storage based on Apache BookKeeper
+| BookKeeper | Distributed log storage service from Yahoo
 
 ## Workflow Management
 
@@ -147,6 +151,7 @@ draft-banner: true
 | [Superset (Incubating)](/technologies/apache-superset/) | Web based tool for interactive exploration for OLAP style data, supporting interactive drag and drop querying, composable dashboards and a SQL workspace (SQL Lab).
 | [Zeppelin](/technologies/apache-zeppelin/) | A web based notebook for interactive data analytics.
 | Commons Compress | Suite of Java libraries for working with a range of compression and packaging formats - <https://commons.apache.org/proper/commons-compress/>
+| Commons CSV | Suite of Java libraries for workng with CSV files - <https://commons.apache.org/proper/commons-csv/>
 | Griffin (Incubating) | Data Quality Service platform built on Apache Hadoop and Apache Spark - <http://griffin.incubator.apache.org/>
 | Tika | Toolkit for extracting text from a wide range of document formats - <http://tika.apache.org/>
 | UIMA | Framework for unstructured data analysis - <http://uima.apache.org/>

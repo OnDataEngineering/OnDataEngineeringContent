@@ -1,0 +1,31 @@
+---
+title: Thoughts on Graph Technologies
+tags: [RDF Databases, Graph Databases, Graph Analytics]
+date: 2017-09-29 07:30
+---
+So, I said four technology categories and three technology summaries this week.  One day you'll learn.
+
+But let's talk about what we did manage to achieve this week, specifically technology category pages on [RDF Databases](/technologies/rdf-databases/), [Graph Databases](/technologies/graph-databases/) and [Graph Analytics](/technologies/graph-analytics/)...
+<!--more-->
+
+So I'm not going to go over what a graph is, but suffice it to say that if you have data that's modelled (or can be modelled) as a graph, then you might want to consider using some graph technologies.
+
+However, given it's still just data, the primary use cases are exactly the same as any other type of data.  We want to manage and master the data in some sort of operational system (giving us fine grained ACID transactions at the entity/relationship level - the so-called OLTP use case), and we want to analytics over the data (large scans over lots of data to generates insight - the so-called OLAP use case).
+
+And as per other operational databases, we need to be able to query the data as well as create/update it.  For operational graph databases this focuses on graph traversals - essentially finding a set of nodes and relationships that match a pattern (all books by an author named John Smith) by finding an initial subset of nodes (the name John Smith), and then following relationships to match the pattern (named and then wrote), with maybe some aggregations at the end.
+
+For the operational management of graph data there are two primary technology categories:
+
+[RDF Databases](/technologies/rdf-databases/) implement the W3C RDF data model standard that describes data as subject–predicate–object expressions (or triples), with support for ontologies that define the list of valid subject/object and predicate types.  The benefit of RDF databases is their maturity (they've been around forever in technology terms, with a wide range of commercial and open source technologies), but also the standardisation driven by the W3C.  There's a W3C standard query language (SPARQL) that all RDF databases support, there are standard ontologies (OWL and RDFS), and there are a vast range of RDF creation, extraction, processing and visualisation tools that will work with your data. There's a vast amount more here around RDF and the semantic web (that allows exploitation of text content as RDF data) that I'd love to come back to one day.
+
+Then you have your [Graph Databases](/technologies/graph-databases/).  Again, these are operational databases, but they have a slightly more expressive data model that RDF databases by supporting both labels (or types, although RDF nodes are also typed) and properties (name/value pairs) against nodes and link, resulting in the term "labelled property graph".  That's not to say you can't do properties in RDF graphs (they're just more relationships and nodes), however there are a number of RDF databases that explicitly support properties, as well as a number of graph databases that also support RDF/SPARQL.  There's no one standard query language for graph databases, however there are two popular options.  The first is Cypher, the language used by Neo4j, which now has an open source specification (<http://www.opencypher.org/>) and has been adopted by a number of graph databases.  The second is TinkerPop Gremlin (part of the Apache TinkerPop project), however rather than a language specification this is an entire abstraction layer that can be bolted on top of a graph database, with all the associated performance implications.  Neo4j is the big cheese in the graph databases space, but it's an active thriving technology area with a wide range of commercial and open source technologies to choose from.
+
+However, before you piling into graph databases, have a look at [The Morning Paper review of the "Do we need specialized graph databases? Benchmarking real-time social networking applications" paper from the University of Waterloo, Ontario from May 2017](https://blog.acolyer.org/2017/07/07/do-we-need-specialized-graph-databases-benchmarking-real-time-social-networking-applications/).  Considering the technologies you already have before introducing a new one is never bad advice, and the paper looks at a number of graph use cases where relational databases actually perform better than dedicated graph databases.  It also looks at the performance impact of using TinkerPop Gremlin over a native API, and the results aren't good.
+
+And so on to graph analytics.  As per other types of data, there are options here for analytical databases (that focus on large scanning aggregation rather than transactional workloads) as well as analytical processing engines (batch engines that run over external data, for example MapReduce/Spark over HDFS for structured data).
+
+Pragel feels like the originator here - Google's technology that executed its PageRank algorithm.  This implemented (and probably popularised) the BSP execution model (which can very crudely be describes as an equivalent of MapReduce for graph data).  It's another iterative model that can be distributed across a cluster, with each iteration generating "messages" between nodes that are used as the input for the next iteration.
+
+Unlike batch analytics over structured data however, the use case for batch analytics over graph data is less clear.  The specialist tools that have been created that implement the BSP modek (Giraph, Hama, GraphX) have never really taken off, and all are seeing limited active development.  There are a number of analytical databases (Greenplum and Aster for starters) that support graph queries using a BSP execution model, but again this hasn't seen widespread adoption in this space.  And although TinkerPop now has a graph compute model, this is only supported by a limited number of databases.
+
+It feels like time will tell in this space - there doesn't appear to be clear use cases driving new technical capabilities at the moment, but maybe machine learning will change that.

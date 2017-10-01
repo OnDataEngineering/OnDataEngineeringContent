@@ -1,0 +1,59 @@
+version: 2
+jobs:
+  build:
+    docker:
+       - image: circleci/ruby:2.3
+      
+    branches:
+      only:
+        - master
+
+    environment:
+      TZ: "/usr/share/zoneinfo/Europe/London"
+
+    steps:  
+      - checkout:
+          path: ~/content
+
+      - run:
+          name: Checkout site
+          command: |
+            git clone "$ODE_SITE_REPO" .
+ 
+      - run:
+          name: Checkout target
+          command: |
+            git clone "$ODE_TARGET_REPO" ~/site
+
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "Gemfile.lock" }}
+          - v1-dependencies-
+
+      - run:
+          name: Install Dependencies
+          command: |
+            sudo apt-get install time
+            gem install bundler
+            bundle install --jobs=4 --retry=3 --path .vendor/bundle
+
+      - save_cache:
+          paths:
+            - ./.vendor/bundle
+          key: v1-dependencies-{{ checksum "Gemfile.lock" }}
+
+      - run:
+          name: Setup
+          command: |
+            ./setup.sh ~/content ~/site
+
+      - run:
+          name: Build
+          no_output_timeout: 30m
+          command: |
+            ./build.sh --future
+
+      - run:
+          name: Commit
+          command: |
+            ./publish.sh
