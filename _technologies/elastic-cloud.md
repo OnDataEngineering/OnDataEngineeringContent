@@ -1,11 +1,16 @@
 ---
 title: "Elastic Cloud"
-description: "Solution for provisioning, managing and monitoring Elasticsearch clusters (including Kibana and X-Pack) either on AWS as a managed service under a subscription model (Elastic Cloud) or on your own physical or cloud infrastructure (Elastic Cloud Enterprise).  Includes support for scripting and plugins, high availability across multiple AWS zones, and supports automated security configuration, upgrades, scaling and backups through a management web UI (Elastic Cloud Console / Cloud UI).  Elastic Cloud Enterprise supports the same capability on your own infrastructure, and includes an API in addition to the web UI for configuring and managing clusters, with Elasticsearch and Kibana provisioned using Docker containers.  Elastic Cloud is available under a range of subscription licence tiers with differing levels of support and some feature differences; Elastic Cloud Enterprise is freely available but requires you to provide your own Elasticsearch licences.  Elastic Cloud was launched in July 2015; Elastic Cloud Enterprise was first released as alpha in December 2016, with a 1.0 GA release in May 2017.  Elastic Cloud is the only Elasticsearch service offering that includes X-Pack."
+description: "Solution for provisioning, managing and monitoring Elasticsearch clusters (including Kibana and X-Pack) either on AWS or Google Cloud Platform as a managed service under a subscription model (Elastic Cloud) or on your own physical or cloud infrastructure (Elastic Cloud Enterprise).  Includes support for scripting and plugins, high availability across multiple AWS zones, and supports automated security configuration, upgrades, scaling and backups through a management web UI (Elastic Cloud Console / Cloud UI).  Elastic Cloud Enterprise supports the same capability on your own infrastructure, and includes an API in addition to the web UI for configuring and managing clusters, with Elasticsearch and Kibana provisioned using Docker containers.  Elastic Cloud is available under a range of subscription licence tiers with differing levels of support and some feature differences; Elastic Cloud Enterprise is freely available but requires you to provide your own Elasticsearch licences.  Elastic Cloud was launched in July 2015; Elastic Cloud Enterprise was first released as alpha in December 2016, with a 1.0 GA release in May 2017.  Elastic Cloud is the only Elasticsearch service offering that includes X-Pack."
 vendors: [Elastic]
 type: "Commercial"
 date: 2017-07-06 07:30
+last_updated: 2017-10-04
 version: "v1.0"
 ---
+## History
+
+| 2017-04-06 | [Support for GCP added](https://www.elastic.co/blog/elastic-google-partner-to-deliver-elastic-cloud-on-gcp)
+
 ## Links
 
 * <https://www.elastic.co/cloud> - homepage
