@@ -20,3 +20,8 @@ Peter:
   uri: http://ondataengineering.net/
   discourse_username: "Peter"
   twitter: OnDataEng
+
+Jeff:
+  name: "Jeff Moszuti"
+  siteroles: "maintainer"
+  discourse_username: "moszutij"
