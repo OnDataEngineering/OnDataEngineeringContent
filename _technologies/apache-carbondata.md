@@ -15,4 +15,4 @@ version: "1.2.0"
 ## News
 
 * <https://blogs.apache.org/carbondata> - CarbonData blog
-* <https://github.com/apache/carbondata/releases> - details of releases
+* <https://cwiki.apache.org/confluence/display/CARBONDATA/Releases> - details of releases

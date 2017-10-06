@@ -18,4 +18,4 @@ version: "v0.7"
 ## News
 
 * <https://arrow.apache.org/blog/> - blog
-* <https://github.com/apache/arrow/releases> - release and change summary
+* <https://arrow.apache.org/release/> - release and change summary
