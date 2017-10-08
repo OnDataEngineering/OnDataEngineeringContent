@@ -5,8 +5,8 @@ alt-titles: [Marathon]
 vendor:  [Mesosphere]
 tech-relationships: [[uses, Zookeeper]]
 type: "Commercial Open Source"
-date:  2017-07-19 07:45
-version: "v1.4"
+date:  2017-10-08
+version: "v1.5.1"
 ---
 ## Links
 
