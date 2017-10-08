@@ -4,8 +4,8 @@ description: "In-memory data structure specification for building columnar based
 alt-titles: [Arrow]
 vendors: [Apache]
 type: "Commercial Open Source"
-date: 2017-10-02 07:45
-version: "v0.7"
+date: 2017-10-08
+version: "v0.7.1"
 ---
 # Links
 
