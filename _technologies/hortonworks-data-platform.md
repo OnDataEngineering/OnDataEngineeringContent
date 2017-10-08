@@ -22,7 +22,7 @@ The base Apache project versions bundled with each version of HDP are shown on t
 
 As of HDP 2.6:
 * [Druid](/technologies/druid) was added in tech preview
-* The following components were deprecated and will be removed in HDP 3.0: [Apache Falcon](/technologies/apache-falcon), [Apache Flume](/technologies/apache-flume) (advice is to consider [HDF](/technologies/hortonworks-data-flow) instead), [Apache Mahout](/technologies/apache-mahout) (advice is to consider [Spark MLLib](/technologies/spark/mllib) instead), [Apache Slider](/technologies/apache-slider) (being folded into YARN) and [Hue](/technologies/hue) (advice is to consider [Ambari Views](/technologies/apache-ambari/ambari-views) instead).
+* The following components were deprecated and will be removed in HDP 3.0: [Apache Falcon](/technologies/apache-falcon), [Apache Flume](/technologies/apache-flume) (advice is to consider [HDF](/technologies/hortonworks-data-flow) instead), [Apache Mahout](/technologies/apache-mahout) (advice is to consider [Spark MLLib](/technologies/apache-spark/mllib) instead), [Apache Slider](/technologies/apache-slider) (being folded into YARN) and [Hue](/technologies/hue) (advice is to consider [Ambari Views](/technologies/apache-ambari/ambari-views) instead).
 * The following components were deprecated from HDP as they're being moved into other Hortonworks products/offerings: [Apache Accumulo](/technologies/apache-accumulo), [Apache Kafka](/technologies/apache-kafka) and [Apache Storm](/technologies/apache-storm).
 
 Note that:

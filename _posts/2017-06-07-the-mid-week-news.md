@@ -12,7 +12,7 @@ New technology releases (details are on the relevant technology pages):
 * [Apache Apex and DataTorrent RTS](/technologies/apache-apex/) have both seen new releases
 * [MiNiFi](/technologies/apache-nifi/minifi) has seen 0.2 releases of it's Java and C++ versions
 * [Apache Flink](/technologies/apache-flink) has seen a 1.3 release
-* [Hadoop](/technologies/hadoop) has seen it's latest (alpha3) release of 3.0 - details [here](http://hadoop.apache.org/docs/r3.0.0-alpha3/index.html) 
+* [Hadoop](/technologies/apache-hadoop) has seen it's latest (alpha3) release of 3.0 - details [here](http://hadoop.apache.org/docs/r3.0.0-alpha3/index.html) 
 
 Other technology news:
 

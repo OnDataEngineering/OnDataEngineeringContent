@@ -6,12 +6,12 @@ date: 2017-03-24 08:00
 ---
 So this week we started our journey into the Cloudera technology stack.  I covered the final Hortonworks bits [on Monday](/blog/2017/03/20/hortonworks-to-cloudera/), but what have we looked at since then?
 
-We started off by looking at Cloudera's Hadoop distribution [CDH](/technologies/cloudera-cdh.md) and the technologies it bundles.  We've covered a lot of these already (Hadoop being Hadoop there's plenty of overlap between the various distributions), but there's still plenty of new stuff here to keep us busy for a couple of weeks.
+We started off by looking at Cloudera's Hadoop distribution [CDH](/technologies/cloudera-cdh/) and the technologies it bundles.  We've covered a lot of these already (Hadoop being Hadoop there's plenty of overlap between the various distributions), but there's still plenty of new stuff here to keep us busy for a couple of weeks.
 
 We then moved on to look at [Llama](/technologies/llama), a small piece of open source technology created to support Impala running over YARN, [Apache Whirr](/technologies/apache-whirr), a now retired Apache open source project for deploying a number of technologies onto cloud platforms, and [Apache Impala](/technologies/apache-impala), Cloudera's SQL on Hadoop engine for low latency interactive queries.
 <!--more-->
 
-I'm not sure there's much to say about [CDH](/technologies/cloudera-cdh.md) right now - it's a great Hadoop distribution, and although it's a significantly more commercial offering that Hortonworks, you can get most of it for free (including Cloudera Manager minus some enterprise bits).  There's pros and cons all over the stack if you're comparing it against the other distributions, but we'll take a deeper look at this in a couple of weeks time.
+I'm not sure there's much to say about [CDH](/technologies/cloudera-cdh/) right now - it's a great Hadoop distribution, and although it's a significantly more commercial offering that Hortonworks, you can get most of it for free (including Cloudera Manager minus some enterprise bits).  There's pros and cons all over the stack if you're comparing it against the other distributions, but we'll take a deeper look at this in a couple of weeks time.
 
 There's not much to say about [Llama](/technologies/llama) - it was a piece of technology created by Cloudera to allow Impala to play nicely with YARN, but it's not be adopted outside of Cloudera, who have themselves now deprecated it and will no longer be including it in CDH from v6.0 onwards (this wasn't originally referenced in the technology summary so I've since updated it).
 

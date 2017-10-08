@@ -9,7 +9,7 @@ Technology updates (details are on the relevant technology pages):
 
 * [Apache Solr](/technologies/apache-solr/) has hit 7.0
 * [Alluxio](/technologies/alluxio/) is up to 1.6
-* [Apache Ingite](/technologies/ignite/) is up to 2.2
+* [Apache Ingite](/technologies/apache-ignite/) is up to 2.2
 * [Apache Parquet](/technologies/apache-parquet/) C++ is up to 1.3
 
 Cloudera/Hortonworks technology news:
@@ -23,5 +23,5 @@ Other technology news:
 * [MapR DB](/technologies/mapr-file-system/mapr-db/) 6.0 has [been announced](https://community.mapr.com/community/products/blog/2017/09/25/mapr-db-60-the-modern-database-for-global-data-intensive-applications) and will be available Q4 2017.  There's been a bunch of changes in the MapR stack over the last couple of months that I've not been keeping up to date with (the introduction of MapR XD for starters), so we'll loop back round in a couple of weeks to refresh our MapR information.
 * Hortonworks are [crowing](https://hortonworks.com/blog/3x-faster-interactive-query-hive-llap/) about the increase in [Hive](/technologies/apache-hive/) performance in HDP 2.6 and its support for the full suite of 99 TPC-DS queries
 * [Part 1](https://kudu.apache.org/2017/09/18/kudu-consistency-pt1.html) on the [Apache Kudu](/technologies/apache-kudu/) consitency model
-* Looks like Hortonworks' [are proud](https://hortonworks.com/blog/yinception-yarn-based-container-cloud-certify-hadoop-hadoop/) of the fact they run docker containers on [YARN](/technologies/apache-yarn/)
+* Looks like Hortonworks' [are proud](https://hortonworks.com/blog/yinception-yarn-based-container-cloud-certify-hadoop-hadoop/) of the fact they run docker containers on [YARN](/technologies/apache-hadoop/yarn/)
 * [An introduction](https://www.influxdata.com/blog/introduction-to-influxdatas-influxdb-and-tick-stack/) from InfluxData on [InfluxDB](/technologies/influxdb/) and the TICK stack

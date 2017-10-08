@@ -52,7 +52,7 @@ draft-banner: true
 
 ## Data Processing
 
-| [Hadoop/MapReduce](/technologies/apache-hadoop/mapreduce/) | A data transformation and aggregation technology proven at extreme scale that works on key value pairs
+| [Hadoop/MapReduce](/technologies/apache-hadoop/map-reduce/) | A data transformation and aggregation technology proven at extreme scale that works on key value pairs
 | [Spark](/technologies/apache-spark/) | A high performance general purpose distributed data processing engine based on directed acyclic graphs that primarily runs in memory, but can spill to disk if required
 | [Tez](/technologies/apache-tez/) | Data processing framework based on Directed Acyclic Graphs (DAGs), that runs natively on YARN and was designed to be a replacement for the use of MapReduce within Hadoop analytical tools
 | Gobblin (Incubating) | Framework for managing big data integration, including replication, organization and lifecycle management - <http://gobblin.apache.org/>
@@ -115,7 +115,7 @@ draft-banner: true
 
 | [Storm](/technologies/apache-storm/) | Specialised distributed stream processing technology based on a single record (not micro batch) model with at least once processing semantics.
 | [Flink](/technologies/apache-flink/) | Specialised stream processing technology inspired by the Google Data Flow model based on a single record (not micro batch) model, with exactly once processing semantics (for supported sources and sinks) via light weight checkpointing and support for batch processing.
-| [Spark/Streaming](/technologies/apache-spark/streaming/) | Spark library for continuous stream processing, that allows stream and batch processing (including Spark SQL and MLlib operations) to be combined
+| [Spark/Streaming](/technologies/apache-spark/spark-streaming/) | Spark library for continuous stream processing, that allows stream and batch processing (including Spark SQL and MLlib operations) to be combined
 | [Beam](/technologies/apache-beam) | Model and SDKs for running batch and streaming workflows over Apex, Flink, Spark and Google Dataflow - <https://beam.apache.org/>
 | [Apex](/technologies/apache-apex/) | Data transformation engine based on Directed Acyclic Graph (DAG) flows configured through a Java API or via JSON that runs over YARN and HDFS with native support for both micro-batch streaming and batch uses cases
 | Heron | The stream processing framework that Twitter built after Storm, with a Storm compatible API

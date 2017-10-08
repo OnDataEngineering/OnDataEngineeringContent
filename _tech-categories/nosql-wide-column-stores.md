@@ -11,7 +11,7 @@ NoSQL Wide Column stores are all based on the original design paper for Google B
 
 ## Open Source Options
 
-| [Apache Cassandra](/technologis/apache-cassandra/) | NoSQL wide-column datastore based on Amazon Dynamo and Google BigTable, focusing on fault tolerance, linear scalability and operational simplicity with zero downtime based on a distributed masterless node and peer-to-peer design
+| [Apache Cassandra](/technologies/apache-cassandra/) | NoSQL wide-column datastore based on Amazon Dynamo and Google BigTable, focusing on fault tolerance, linear scalability and operational simplicity with zero downtime based on a distributed masterless node and peer-to-peer design
 | [Apache HBase](/technologies/apache-hbase/) | NoSQL wide-column datastore based on Google BigTable, with deep integration to the Apache Hadoop ecosystem.
 | [Apache Accumulo](/technologies/apache-accumulo/) | NoSQL wide-column datastore based on BigTable, supporting cell based access control (based on arbitrary boolean expressions of user security labels) and atomic mutation operators.
 | ScyllaDB | Cassandra-compatible data store re-written in C++ with the aim to provider higher throughput at lower latency, open sourced under an AGPL licence - <http://www.scylladb.com/>

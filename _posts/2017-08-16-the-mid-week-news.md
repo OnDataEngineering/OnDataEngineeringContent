@@ -8,7 +8,7 @@ Bumper week this week given we've been off for a while - let's crack on...
 Technology updates (details are on the relevant technology pages):
 
 * The [Apache Parquet](/technologies/apache-parquet) C++ library has hit 1.2
-* Confluent [Open Source](/technologies/confluent-open-source/) and [Enterprise](/technologies/conflient-enterprise) have hit 3.3
+* Confluent [Open Source](/technologies/confluent-open-source/) and [Enterprise](/technologies/confluent-enterprise) have hit 3.3
 * [Apache Ignite](/technologies/apache-ignite) is up to 2.1
 * [Apache Drill](/technologies/apache-drill) is up to 1.11
 * [Apache Tez](/technologies/apache-tez) has hit 0.9

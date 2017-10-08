@@ -15,7 +15,7 @@ Technology updates (details are on the relevant technology pages):
   * [Cloudera Data Science Workbench](/technologies/cloudera-data-science-workbench/) is up to 1.1
 * [Apache Spark](/technologies/apache-spark/) has hit 2.2, and it seems like our technology summaries are a bit out of date, so we'll revisit them soon
 * [Apache HAWQ](/technologies/apache-hawq/) still seems to be going, with a 2.2 release
-* [Apache Hue](/technologies/apache-hue/) has hit 4.0, with a new UI
+* [Hue](/technologies/hue/) has hit 4.0, with a new UI
 
 Technology news:
 
@@ -27,4 +27,4 @@ Technology news:
 * There's now [a web GUI](https://www.swiftstack.com/blog/2017/07/11/swiftstack-client-new-easy-way-interact-swiftstack-storage/) "that an end user can use to view, upload, download, share, and manage their data in a SwiftStack cluster"
 * Oh my word, it never ends!  [Part 6](https://www.gridgain.com/resources/blog/getting-started-apacher-ignitetm-part-6) of GridGain's intro to [Apache Ignite](/technologies/apache-ignite/) is now up.
 * An [article from Databricks](https://databricks.com/blog/2017/07/12/benchmarking-big-data-sql-platforms-in-the-cloud.html) on how much faster Databrinks in the cloud is that vanilla [Spark](/technologies/apache-spark) on AWS
-* Via [The Register](https://www.theregister.co.uk/2017/07/13/scality_zenko/), Scality have released [Zenko](http://www.zenko.io/), an open source S3 gateway that can federate across multiple cloud and on premise object stores, with support to come for metadata attribute search and data management, replication and workflows.  Sounds like we should look into [object storage](/tech-categories/object-storage/) gateways at some point.
+* Via [The Register](https://www.theregister.co.uk/2017/07/13/scality_zenko/), Scality have released [Zenko](http://www.zenko.io/), an open source S3 gateway that can federate across multiple cloud and on premise object stores, with support to come for metadata attribute search and data management, replication and workflows.  Sounds like we should look into [object storage](/tech-categories/object-stores/) gateways at some point.

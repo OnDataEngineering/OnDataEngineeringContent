@@ -16,7 +16,7 @@ Excellent list of object stores including their history: <http://www.theregister
 The three major cloud vendors all have object store services as follows:
  
 | [Amazon S3](/technologies/amazon-s3/) | Eventually consistent object store service
-| [Azure Blob Storage](/technologies/azure-blob-storage/) | Strongly consistent object store service, with support for multiple object types (block, page and append)
+| [Azure Blob Storage](/technologies/microsoft-azure-blob-storage/) | Strongly consistent object store service, with support for multiple object types (block, page and append)
 | [Google Cloud Storage](/technologies/google-cloud-storage/) | Strongly consistent object store service
 
 All other "Enterprise" cloud vendors will also have a comparable offering, generally including Amazon S3 compatibility.  Many are based on [OpenStack Swift](/technologies/openstack-swift), including IBM Bluemix Object Storage and Rackspace Cloud Files.
