@@ -4,8 +4,14 @@ description: "Open source, storage management solution providing containers to a
 vendors: [Dell EMC]
 type: "Open Source - Active"
 date: 2017-08-23 07:45
-version: "0.9"
+last_updated: 2017-10-11
+version: "0.10"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 0.10 | 2017-09-11 | [release notes](https://rexray.readthedocs.io/en/stable/about/release-notes/#version-0100-20170911)
+
 ## Links
 
 * <https://rexray.codedellemc.com/> - Home

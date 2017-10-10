@@ -6,8 +6,14 @@ vendor:  [Mesosphere]
 tech-relationships: [[uses, Zookeeper]]
 type: "Commercial Open Source"
 date:  2017-07-19 07:45
-version: "v1.4"
+last_updated: 2017-10-11
+version: "v1.5"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.5 | 2017-09-12 | [release notes](https://github.com/mesosphere/marathon/releases/tag/v1.5.0); [blog post](https://mesosphere.com/blog/marathon-1_5/)
+
 ## Links
 
 * <https://mesosphere.github.io/marathon/> - product home page

@@ -6,8 +6,14 @@ vendor:  [Mesosphere]
 tech-relationships: [[uses, Mesos], [packages, Marathon]]
 type: "Commercial Open Source"
 date:  2017-07-20 07:30
-version: "v1.9"
+last_updated: 2017-10-11
+version: "v1.10"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.10 | 2017-09-08 | [Release Notes](https://dcos.io/releases/1.10.0/)
+
 ## Links
 
 * <https://dcos.io/> - product home page
