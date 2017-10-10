@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-       - image: circleci/ruby:2.3
+      - image: circleci/ruby:2.3
       
     branches:
       only:
@@ -27,8 +27,8 @@ jobs:
 
       - restore_cache:
           keys:
-          - v1-dependencies-{{ checksum "Gemfile.lock" }}
-          - v1-dependencies-
+            - v1-dependencies-{{ checksum "Gemfile.lock" }}
+            - v1-dependencies-
 
       - run:
           name: Install Dependencies
@@ -57,3 +57,8 @@ jobs:
           name: Commit
           command: |
             ./publish.sh
+
+      - run:
+          name: Tests
+          command: |
+            ./test.sh
