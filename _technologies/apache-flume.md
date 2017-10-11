@@ -5,8 +5,14 @@ alt-titles: [Flume]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-06
-version: "v1.7"
+last_updated: 2017-10-11
+version: "v1.8"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.8 | 2017-10-04 | [announcement](http://flume.apache.org/) [release page](http://flume.apache.org/releases/1.8.0.html)
+
 ## Links
 
 * <http://flume.apache.org/> - home page
