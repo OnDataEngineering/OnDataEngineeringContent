@@ -14,7 +14,7 @@ draft-banner: true
 
 ## Storage Services
 
-| Azure File Storage | Network storage, mountable on multiple machines over REST and SMB - <https://azure.microsoft.com/en-us/services/storage/files/>
+| Azure Files | Network storage, mountable on multiple machines over REST and SMB - <https://azure.microsoft.com/en-us/services/storage/files/>
 | [Azure Blob Storage](/technologies/microsoft-azure-blob-storage/) | Highly scalable and resilient object storage
 | [Azure Data Lake Store](/technologies/microsoft-azure-data-lake-store/) | Massively scalable HDFS compatible filesystem as a service, based on Microsoft's Cosmos technology
 

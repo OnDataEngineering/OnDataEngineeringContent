@@ -20,11 +20,11 @@ draft-banner: true
 ## Compute Services
 
 | AWS Lambda | Service for executing arbitrary code in response to a triggers - <https://aws.amazon.com/lambda/>
-| AWS Batch | Service for executing arbitrary batch jobs - <https://aws.amazon.com/batch/>
+| AWS Batch | Service for executing arbitrary batch jobs, including support for [Apache Spark](/technologies/apache-spark/) - <https://aws.amazon.com/batch/>
 
 ## Database Services
 
-| Amazon EMR | Hadoop service, with support for a range of Hadoop technologies including HBase, Hive, Hue, Mahout, Oozie, Phoenix, Presto, Pig, Spark, Sqoop and Zeppelin - <https://aws.amazon.com/emr/>
+| Amazon EMR | Hadoop service, with support for a range of Hadoop technologies including HBase, Hive, Hue, Livy, Mahout, Oozie, Phoenix, Presto, Pig, Spark, Sqoop and Zeppelin - <https://aws.amazon.com/emr/>
 | Amazon Relational Database Service | Relational database service, with support for Amazon Aurora (a MySQL/PostgreSQL compatible database), PostgreSQL, MySQL, MariaDB, Oracle, and Microsoft SQL Server - <https://aws.amazon.com/rds/>
 | Amazon Redshift | A MPP analytical database, with support for columnar storage and the ability to query data in Amazon S3 as external tables (Redshift Spectrum) - <https://aws.amazon.com/redshift/>
 | Amazon Elasticache | Redis or Memcached service - <https://aws.amazon.com/elasticache/>
