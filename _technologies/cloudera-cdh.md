@@ -7,8 +7,8 @@ categories: [Hadoop Distributions]
 tech-relationships: [[packages, Flume, HBase, Hadoop, Hive, Hue, Impala, Oozie, Sentry, Cloudera Search, Spark, Sqoop, ZooKeeper, Avro, Crunch, Kite, Parquet, Pig], [packages (but deprecated), Llama, DataFu, Whirr, Mahout], [add ons, Accumulo, Kafka, Kudu, RecordService, Cloudera Navigator], [manageable via, Cloudera Manager, Cloudera Director]]
 type: "Commercial"
 date: 2017-03-21 07:00
-last_updated: 2017-07-18
-version: "v5.12"
+last_updated: 2017-10-18
+version: "v5.13"
 ---
 ## Further Information
 
@@ -18,13 +18,14 @@ See the [Cloudera Director](/technologies/cloudera-director/) for details on ins
 
 Details of the Apache project versions bundled with each version of CDH are available under [this page](https://www.cloudera.com/documentation/enterprise/release-notes/topics/cdh_vd_cdh_package_tarball.html) of the CDH release notes.  Deprecated items and projects are detailed on [this page](https://www.cloudera.com/documentation/enterprise/release-notes/topics/rg_deprecated.html).  New features, known issues and fixed issues are available under [this page](https://www.cloudera.com/documentation/enterprise/release-notes/topics/rg_release_notes_cdh.html).  See some of the links below for details on the different Cloudera versions and options.
 
-As of CDH 5.5, [Llama](/technologies/llama), [Whirr](/technologies/apache-whirr) and [Mahout](/technologies/apache-mahout) are deprecated, and will be removed as of CDH 6.0.  As of CDH 5.9, [DataFu](/technologies/apache-datafu) and Sqoop2 have been deprecated.
+As of CDH 5.5, [Llama](/technologies/llama), [Whirr](/technologies/apache-whirr) and [Mahout](/technologies/apache-mahout) are deprecated, and will be removed as of CDH 6.0.  As of CDH 5.9, [DataFu](/technologies/apache-datafu) and Sqoop2 have been deprecated.  As of CDH 5.13 Spark 1.x has been deprecated.
 
 ## Release History
 
 | version | release date | release links | release comment
 | 5.11 | 2017-04-18 | [announcement](http://community.cloudera.com/t5/Community-News-Release/Announce-Cloudera-Enterprise-5-11-is-Now-Available/m-p/53808#M170) |
 | 5.12 | 2017-07-13 | [announcement](http://community.cloudera.com/t5/Community-News-Release/Cloudera-Enterprise-5-12-is-Now-Available/m-p/57359#M184) [New Hue 4 functionality](http://blog.cloudera.com/blog/2017/08/new-in-cloudera-enterprise-5-12-hue-4-interface-and-query-assistant/) |
+| 5.13 | 2017-10-12 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Enterprise-5-13-is-Now-Available/m-p/60879#M200) [Release Notes](https://www.cloudera.com/documentation/enterprise/release-notes/topics/cdh_rn_new_in_cdh_513.html) | Kudu now fully bundled and Spark 1.x deprecated
 
 ## Links
 
