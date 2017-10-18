@@ -60,6 +60,7 @@ draft-banner: true
 
 * <https://azure.microsoft.com/> - Amazon Web Services homepage
 * <https://azure.microsoft.com/en-us/services/> - products homepage
+* <https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services> - comparison of AWS to Azure offerings
 
 ## News
 
