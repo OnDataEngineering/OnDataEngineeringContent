@@ -5,8 +5,8 @@ alt-titles: [Solr]
 vendors: [Apache, Lucidworks]
 type: "Commercial Open Source"
 date: 2017-01-13
-last_updated: 2017-09-27
-version: "v7.0"
+last_updated: 2017-10-18
+version: "v7.1"
 ---
 ## Release History
 
@@ -15,6 +15,7 @@ version: "v7.0"
 | 6.5 | 2017-03-27 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201703.mbox/%3CCAKUpjcQijk5pwbAVAW6Zfc1fz-cARMDUJyW5L67RGov%2BTcd%2B5w%40mail.gmail.com%3E) [Solr 'n Stuff summary](http://yonik.com/solr-6-5/) |
 | 6.6 | 2017-06-06 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201706.mbox/%3CCAHPRk5GFOA=gZOzU6PVJ+N4Mmj64V3UKthP+45xQmp08mCN8nw@mail.gmail.com%3E) [Solr 'n Stuff summary](http://yonik.com/solr-6-6/)|
 | 7.0 | 2017-09-20 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201709.mbox/%3CCAKiERN4YkSkh0BSRn6Y1N8C1gweAWCLjoLTg8a2gJACmh94bVg@mail.gmail.com%3E) [Solr 'n Stuff summary](http://yonik.com/solr-7/)
+| 7.1 | 2017-10-17 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201710.mbox/%3CCAOOKt52VryT_dp-6+GWFp521hpRhghemOVoG8FzqCV8eZhJF-Q@mail.gmail.com%3E) [Solr 'n Stuff summary](http://yonik.com/solr-7-1/)
 
 ## Links
 
