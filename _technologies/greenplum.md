@@ -5,13 +5,14 @@ alt-titles: [Pivotal Greenplum, GPDB]
 vendors: [Pivotal]
 type: "Commercial Open Source"
 date: 2017-02-16
-last_updated: 2017-09-20
-version: "5.0"
+last_updated: 2017-10-25
+version: "5.1"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 5.0 | 2017-09-14 | [release notes](http://gpdb.docs.pivotal.io/500/relnotes/GPDB_500_README.html)
+| 5.1 | 2017-10-21 | [release notes](http://gpdb.docs.pivotal.io/510/relnotes/GPDB_510_README.html)
 
 ## Links
 
