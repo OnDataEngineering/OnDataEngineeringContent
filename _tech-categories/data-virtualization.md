@@ -31,6 +31,7 @@ The following are capabilities from specialist vendors:
 
 | Cisco Information Server | Originally Composite, one of the first and most established products in this space <http://www.compositesw.com/data-virtualization/>
 | [Denodo Platform](/technologies/denodo-platform/) | Very well established and mature product, with free express edition
+| AtScale | Cube based semantic layer over with query optimisation, virtual cube caching and row level security over Hadoop and SQL data sources - <https://atscale.com/>
 | RedHat JBoss Data Virtualization | Originally Metamatrix - <https://www.redhat.com/en/technologies/jboss-middleware/data-virtualization>
 | Stone Bond Enterprise Enabler | <http://stonebond.com/>
 | Data Virtuality | Marketed as a logical data warehouse tool - <https://datavirtuality.com/>
@@ -47,9 +48,6 @@ The following are capabilities from specialist vendors:
 | D2RQ | Opens source platform for accessing relational databases as an RDF graph - <http://d2rq.org/>
 | Complexible Stardog | RDF database that also support property graphs and data virtualisation - <http://www.stardog.com/>
 
-## Open Source Technologies
+## Query Engines
 
-The following are both Apache technologies, focusing on querying across analytical datastores:
-
-| [Apache Drill](/technologies/apache-drill/) | Support for querying across HDFS, object stores, JDBC and NoSQL wide column stores
-| Apache Lens | Data cube queries over range of data sources - <http://lens.apache.org/>
+A number of [Query Engines](/tech-categories/query-engines/) support joins and aggregation of data from multiple data sources
