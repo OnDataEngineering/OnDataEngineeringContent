@@ -11,7 +11,7 @@ version: "v2.8"
 ## Release History
 
 | version | release date | release links | release comment
-| 2.8 | 2017-03-22 | [summary](http://hadoop.apache.org/docs/r2.8.0/index.html) |
+| 2.8 | 2017-03-22 | [summary](http://hadoop.apache.org/docs/r2.8.0/index.html) | Note that 2.8.2 is the first GA version for production use 
 
 ## Links
 
