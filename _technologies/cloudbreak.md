@@ -17,7 +17,7 @@ version: "v1.16"
 
 * <http://sequenceiq.com/cloudbreak-docs/latest/> - Documentation
 * <https://github.com/sequenceiq/cloudbreak> - Code
-* <https://hortonworks.com/apache/cloudbreak/> - Hortonworks information, including blog posts
+* <https://hortonworks.com/open-source/cloudbreak/> - Hortonworks information, including blog posts
 * <http://docs.hortonworks.com/HDPDocuments/Cloudbreak/Cloudbreak-1.6.3/index.html> - Hortonworks documentation page, however links through to SequenceIQ docs page
 * <https://hortonworks.com/blog/hortonworks-acquires-sequenceiq-to-provide-automated-deployment-of-hadoop-everywhere/> - SequenceIQ acquisition announcement
 
