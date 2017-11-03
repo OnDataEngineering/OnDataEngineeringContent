@@ -4,16 +4,12 @@ description: "A distribution of Hadoop based on the addition of a number of clos
 alt-titles: [CDH, Cloudera Express, Cloudera Enterprise]
 vendors: [Cloudera]
 categories: [Hadoop Distributions]
-tech-relationships: [[packages, Flume, HBase, Hadoop, Hive, Hue, Impala, Oozie, Sentry, Cloudera Search, Spark, Sqoop, ZooKeeper, Avro, Crunch, Kite, Parquet, Pig], [packages (but deprecated), Llama, DataFu, Whirr, Mahout], [add ons, Accumulo, Kafka, Kudu, RecordService, Cloudera Navigator], [manageable via, Cloudera Manager, Cloudera Director]]
+tech-relationships: [[packages, Flume, HBase, Hadoop, Hive, Hue, Impala, Oozie, Sentry, Cloudera Search, Spark, Sqoop, ZooKeeper, Avro, Crunch, Kite, Parquet, Pig], [packages (but deprecated), Llama, DataFu, Whirr, Mahout, Kudu], [add ons, Accumulo, Kafka, RecordService, Cloudera Navigator], [manageable via, Cloudera Manager, Cloudera Director]]
 type: "Commercial"
 date: 2017-03-21 07:00
 last_updated: 2017-10-18
 version: "v5.13"
 ---
-## Further Information
-
-See the [Cloudera Director](/technologies/cloudera-director/) for details on installing CDH on cloud platforms.
-
 ## Bundled Technologies
 
 Details of the Apache project versions bundled with each version of CDH are available under [this page](https://www.cloudera.com/documentation/enterprise/release-notes/topics/cdh_vd_cdh_package_tarball.html) of the CDH release notes.  Deprecated items and projects are detailed on [this page](https://www.cloudera.com/documentation/enterprise/release-notes/topics/rg_deprecated.html).  New features, known issues and fixed issues are available under [this page](https://www.cloudera.com/documentation/enterprise/release-notes/topics/rg_release_notes_cdh.html).  See some of the links below for details on the different Cloudera versions and options.
