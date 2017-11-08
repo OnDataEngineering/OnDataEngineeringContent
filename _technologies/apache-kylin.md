@@ -5,8 +5,14 @@ alt-titles: [Kylin]
 vendors: [Apache, Kyligence]
 type: "Commercial Open Source"
 date: 2017-08-21 07:45
-version: "2.1.0"
+last_updated: 2017-11-08
+version: "v2.2"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 2.2 | 2017-11-04 | [announcement](https://mail-archives.apache.org/mod_mbox/www-announce/201711.mbox/%3CCA+LQBaRUR4KR_BT+KC+M7M77NXAPfy+mT39bWQBo=dLVYsB5yQ@mail.gmail.com%3E)
+
 ## Links
 
 * <http://kylin.apache.org> - Kylin homepage
