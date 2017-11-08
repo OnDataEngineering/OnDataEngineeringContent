@@ -5,13 +5,14 @@ alt-titles: [Kafka]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-20
-last_updated: 2017-07-05
-version: "v0.11"
+last_updated: 2017-11-08
+version: "v1.0"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 0.11 | 2017-06-28 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201706.mbox/%3CCAD5tkZZx3uGrLEYyjZte8aCTq=OYVLAiFz1uwMaxdO3yRoraBg@mail.gmail.com%3E) | Includes support for [exactly once semantics](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/) and easier [client upgrades](https://www.confluent.io/blog/upgrading-apache-kafka-clients-just-got-easier/)
+| 1.0 | 2017-11-01 | [blog post](https://www.confluent.io/blog/apache-kafka-goes-1-0/)
 
 ## Links
 
