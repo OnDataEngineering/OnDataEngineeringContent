@@ -1,6 +1,6 @@
 ---
 title: "MapR Streams Clients and Tools"
-description: "A number of clients and tools taken from Kafka that have been bundled and integrated with MapR-Streams.  Includes Kafka REST Proxy, Kafka Connect, C client and Java client.  Introduced in the MapR Ecosystem Pack v2.0, and can be considered a partial packaging of Kafka (focusing on the functionality isn't provided by MapR-Streams)."
+description: "A number of clients and tools taken from Kafka that have been bundled and integrated with MapR-ES.  Includes Kafka REST Proxy, Kafka Connect, C client and Java client.  Introduced in the MapR Ecosystem Pack v2.0, and can be considered a partial packaging of Kafka (focusing on the functionality isn't provided by MapR-ES)."
 alt-titles: [MapR Streams Clients, MapR Streams Tools]
 vendors: [MapR]
 type: "Commercial Open Source"

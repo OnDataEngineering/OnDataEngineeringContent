@@ -1,11 +1,12 @@
 ---
 title: "MapR Ecosystem Pack"
-description: "A package of components certified to work together against one or more versions of the MapR Converged Data Platform.  Has new major releases roughtly once a quarter, with most components kept resonably up to date with the open source version, with any patching done publically in GitHub.  Available as RPMs, and installable via the MapR Installer. Also includes a plugin for OpenStack Sahara to allow OpenStack to create and manage MapR clusters.  These components were originally bundled as part of the MapR Converged Data Platform, but were broken out as the MapR Ecosystem Pack in September 2016 to allow them to be released independantly."
+description: "A package of open source Hadoop projects certified to work together against one or more versions of the MapR Converged Data Platform.  Has new major releases roughtly once a quarter, with most components kept resonably up to date with the open source version, with any patching done publically in GitHub.  Available as RPMs, and installable via the MapR Installer. These components were originally bundled as part of the MapR Converged Data Platform, but were broken out as the MapR Ecosystem Pack in September 2016 to allow them to be released independantly."
 alt-titles: [MEP]
 vendors: [MapR]
-tech-relationships: [[packages, Drill, Flume, HBase, Hive, Hue, Impala, Mahout, Myriad, Oozie, Pig, Sentry, Spark, Sqoop, Storm, Tez, MapR Monitoring, MapR Streams Tools]]
+tech-relationships: [[packages, Drill, Flume, HBase, Hive, Hue, Impala, Mahout, Myriad, Oozie, Pig, Sentry, Spark, Sqoop, Storm, Tez]]
 type: "Commercial Open Source"
 date: 2017-04-20 07:30
+last_updated: 2017-11-10 07:30
 version: "v3.0"
 ---
 ## Further Information
