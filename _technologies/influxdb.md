@@ -4,13 +4,13 @@ description: "A time series database implemented in Go available in both open so
 type: "Commercial Open Source"
 vendor: "InfluxData"
 date: 2017-08-31 07:30
-version: "v1.3"
----
+last_updated: 2017-11-15
+version: "v1.4"
 ---
 ## Release History
 
 | version | release date | release links | release comment
-| 1.4 | tbc | tbc | [Prometheus compatible API](https://www.influxdata.com/blog/influxdb-now-supports-prometheus-remote-read-write-natively/)
+| 1.4 | 2017-11-14 | [blog](https://www.influxdata.com/blog/whats-new-influxdb-oss-1-4/) | [Prometheus compatible API](https://www.influxdata.com/blog/influxdb-now-supports-prometheus-remote-read-write-natively/)
 
 ## Links
 
