@@ -5,8 +5,8 @@ alt-titles: [Phoenix]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-01
-last_updated: 2017-10-18
-version: "v4.12"
+last_updated: 2017-11-15
+version: "v4.13"
 ---
 ## Release History
 
@@ -14,6 +14,7 @@ version: "v4.12"
 | 4.10 | 2017-03-23 | [announcement](https://blogs.apache.org/phoenix/entry/announcing-phoenix-4-10-released) |
 | 4.11 | 2017-07-07 | [announcement](https://blogs.apache.org/phoenix/entry/announcing-phoenix-4-11-released) |
 | 4.12 | 2017-10-11 | [announcement](https://blogs.apache.org/phoenix/entry/announcing-phoenix-4-12-released) |
+| 4.13 | 2017-11-12 | [announcement](https://blogs.apache.org/phoenix/entry/announcing-phoenix-4-13-released) |
 
 ## Links
 
