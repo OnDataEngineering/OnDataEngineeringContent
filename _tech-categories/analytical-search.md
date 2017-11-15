@@ -1,7 +1,6 @@
 ---
 title: "Analytical Search"
 description: "Technologies for analytics over unstructured and semi-structured data based on search.  Should be distributed and horizontally scaleable, support pre-defined and on-demand schemas, all standard search functionality plus analytics based on search including basic join functionality, aggregations, graph analytics and machine learning."
-no-category-techs: true
 draft-banner: true
 date: 2017-07-07 08:00
 ---

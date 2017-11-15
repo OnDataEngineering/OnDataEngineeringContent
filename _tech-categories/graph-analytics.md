@@ -1,7 +1,6 @@
 ---
 title: "Graph Analytics"
 description: "Technologies that support analytics over graph data, either as a processing platform over data stored elsewhere, or as an analytical database.  Unlike graph databases which work on individual records or small portions of the graph, graph analytics technologies specialise in running analytics that run over the entire graph database to generate aggregated results, identify data of interest, or to enrich the graph.  Processing is often bsaed on a BSP (Bulk Synchronous Processing) model made famous by Pregel, the model created by Google to run their PageRank algorithm."
-no-category-techs: true
 draft-banner: true
 date: 2017-09-28 07:30
 ---

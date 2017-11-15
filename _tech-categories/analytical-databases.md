@@ -1,7 +1,6 @@
 ---
 title: "Analytical Databases"
 description: "Full stack databases (supporting both storage and query of data) that focus on analytical or OLAP use cases that generally involve large scanning or aggregation operations.  Typically support distributed parallel execution of queryies (and are therefore commonly referred to as MPP databases) with columnar compression, and often support a range of analytics beyond SQL queries, for example cube based MDX queries, machine learning or geographical analytics.  Some technologies also support a level of query federation using external tables (for example over data in Hadoop)."
-no-category-techs: true
 draft-banner: true
 date: 2017-10-26 07:30
 ---

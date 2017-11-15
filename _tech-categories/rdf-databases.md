@@ -1,7 +1,6 @@
 ---
 title: "RDF Databases"
 description: "Databases designed to support the storage of RDF (or triple) data.  RDF (Resource Description Framework) is a W3C data model standard that describes data as subject–predicate–object expressions (or triples).  This allows the creation of graphs of knowledge, however unlike more general purpose graph databases, there is no support for properties or labels - everything is represented using triples.  Data is queried using the SPARQL query language (another W3C standard).  Internally, data can be considered to be stored as a single table containing three columns (the subject, predicate and object), with indexing to support the traversal and enumeration of predicates (relationsips) for a given subject.  A number of triple ontologies (or schemas) are also available that define standard subject/object and predicate types allowing for data interchange, including OWL and RDFS. The W3C standards were introduced to support semantic web and Linked Open Data use cases that focus on semantics and inference."
-no-category-techs: true
 draft-banner: true
 date: 2017-09-25 07:30
 ---

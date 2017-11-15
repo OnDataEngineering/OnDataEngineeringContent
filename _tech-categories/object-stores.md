@@ -1,7 +1,6 @@
 ---
 title: "Object Stores"
 description: "Storage solutions whereby data is stored without any concept of folders or organisational structure, instead being referenced by a unique identifier, allowing for massively parallel and scalable solutions.  Generally access via a REST API, with Amazon S3 the defacto standard, although many also support a range of file based interfaces as well, simulating a file system using the underlying object storage.  Common features include support for multiple storage tiers, storage of custom metadata against data, replication of data for redundancy, and object versioning."
-no-category-techs: true
 draft-banner: true
 date: 2017-06-09 07:30
 ---

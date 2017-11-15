@@ -1,7 +1,6 @@
 ---
 title: "Hadoop Distributions Comparison"
 description: "A comparison of different Hadoop distributions, focusing on the different software packages available in each to enable an understanding of whether a distribution contains the appropriate software to meet a requirement or business case."
-no-category-techs: true
 draft-banner: true
 date: 2017-05-10 07:30
 ---

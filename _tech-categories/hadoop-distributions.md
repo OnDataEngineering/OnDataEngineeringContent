@@ -1,7 +1,6 @@
 ---
 title: "Hadoop Distributions"
 description: "Products or services built around Hadoop (or an Hadoop compatible core) combined with a number of Hadoop compatible products.  Hadoop compatibility covers the use of YARN (for resource management of multiple jobs running on the same infrastructure) and HDFS (for local storage of data with support for co-locating processing with the data)."
-no-category-techs: true
 draft-banner: true
 date: 2017-06-23 17:30
 ---

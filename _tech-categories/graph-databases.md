@@ -1,7 +1,6 @@
 ---
 title: "Graph Databases"
 description: "Operational (OLTP) databases designed to support labelled property graph data models, where nodes and relationships have labels (types) and lists of property name-value pairs.  Focus is on transactional ACID inserts/updates and traversal queries using index free adjacency (allows direct navigation between nodes without the use of indexes) over subsets of data rather than batch analytics over all data.  Populate query interfaces/languages include Cypher (originated with Neo4J but now open source) and TinkerPop Gremlin (part of the TinkerPop framework that provides query capabilities and graph analytics over graph data)."
-no-category-techs: true
 draft-banner: true
 date: 2017-09-26 07:30
 ---

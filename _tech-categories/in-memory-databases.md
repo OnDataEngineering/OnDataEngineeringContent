@@ -1,7 +1,6 @@
 ---
 title: "In Memory Databases"
 description: "Technologies that serve data entirely or primarily from memory, with the aim of providing significant higher performance for querying and accessing data.  They are generally backed by some sort of persistent storage with guarentees around durability, with some technologies able to act as in memory caches over equivalent disk based technologies.  The technologies listed on this page span a number of different technology categories, including relational databases, Hadoop compatible filesystems and key value stores, and will also appear under the relevent technology category page where they exist."
-no-category-techs: true
 draft-banner: true
 date: 2017-09-08 07:30
 ---

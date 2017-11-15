@@ -1,7 +1,6 @@
 ---
 title: "Data Storage Formats"
 description: "Libraries that support the storage of data on disk for data storage, real-time or batch analytics.  Popularised by the use of distributed file systems in analytical platforms, common features include support for schema evolution (the ability to make changes to the schema but stil read all historical data), support for both row and columnar data layouts (supporting efficient batch processing and analytical workloads respectively), complex record formats including nested objects and arrays, indexing to support random data access, and support for efficient inserts, updates and deletes as well as ACID transactions."
-no-category-techs: true
 draft-banner: true
 date: 2017-10-05 07:30
 ---

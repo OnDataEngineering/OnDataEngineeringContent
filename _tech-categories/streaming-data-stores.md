@@ -1,7 +1,6 @@
 ---
 title: "Streaming Data Stores"
 description: "Technologies for the persistent storage of continuous streams of data, with data access based on a publish/subscribe model.  Should support multiple independant publishers and subscribers, the ability to add new subscribers and replay the history of a stream, horizontal scalability and load balancing, durable writes, ordered streams (data is always read in the order it was written), high throughput and low latency characteristics, handling of updates and deletes to source records, and the ability to secure the data."
-no-category-techs: true
 draft-banner: true
 date: 2017-06-26 08:00
 ---
