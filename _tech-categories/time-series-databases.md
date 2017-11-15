@@ -1,7 +1,6 @@
 ---
 title: "Time Series Databases"
 description: "Databases optimised for storing very large numbers of metrics and allowing these to be aggregated and analysed.  Metrics are usually organised by measurements or metric names and one or more tags (e.g. to represent a server or instance).  Many implement their own data storage layers, however many also run over external databases, typically NoSQL wide data stores.  Use cases traditionally focus on monitoring infrastructure and applications or more recently IoT use cases, but analytics over any timestamped data is fair game."
-: true
 draft-banner: true
 date: 2017-09-01 07:30
 ---
