@@ -19,4 +19,4 @@ Other technology news:
 * IBM Data Science Experience (DSX) is now certified on [HDP](/technologies/hortonworks-data-platform/) - [link](https://hortonworks.com/blog/certification-ibm-data-science-experience-dsx-hdp-win-win-customers/)
 * An interview from ODBMS Industry Watch with Head of Data Technical Field for Pivotal and the founder and CEO Datometry.  There's some significant product plugs in there, but it's worth a read - [link](http://www.odbms.org/blog/2017/11/on-the-future-of-data-warehousing-interview-with-jacque-istok-and-mike-waas/)
 * From DataArtisans - an updated on CEP with [Apache Flink](/technologies/apache-flink/) - [link](https://data-artisans.com/blog/complex-event-processing-flink-cep-update)
-* More from Confluent for using [Apache Kafka](/technologies/kafka/) and KSQL in micro services architectures - [link](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
+* More from Confluent for using [Apache Kafka](/technologies/apache-kafka/) and KSQL in micro services architectures - [link](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
