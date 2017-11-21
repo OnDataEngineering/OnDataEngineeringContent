@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: content
 ---
 
 {% include shared/validate_not_null attr="Description" value=page.description %}
 {% include shared/validate_not_null attr="Date" value=page.date %}
 {% include shared/find_techs_by_vendor vendor=page %}
-
-<p>{{ page.description }}</p>
 
 <h2>Metadata</h2>
 
@@ -17,12 +15,3 @@ layout: page
 </ul>
 
 {{ content }}
-
-<h2>Blog Posts</h2>
-
-{% include shared/find_posts_by_tag_titles page=page %}
-<ul>
-  {% for p in posts %}
-    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-  {% endfor %}
-</ul>

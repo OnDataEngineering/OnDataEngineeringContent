@@ -1,0 +1,15 @@
+---
+layout: page
+---
+<p>{{ page.description }}</p>
+ 
+{{ content }}
+
+<h2>Blog Posts</h2>
+
+{% include shared/find_posts_by_tag_titles page=page %}
+<ul>
+  {% for p in posts %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+  {% endfor %}
+</ul>

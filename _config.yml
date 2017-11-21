@@ -32,12 +32,6 @@ defaults:
   -
     scope:
       path: ""
-      type: "pages"
-    values:
-      layout: page
-  -
-    scope:
-      path: ""
       type: "posts"
     values:
       layout: post
@@ -60,3 +54,15 @@ defaults:
       type: "tech-vendors"
     values:
       layout: tech_vendor
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+  -
+    scope:
+      path: "indexes"
+      type: "pages"
+    values:
+      layout: content

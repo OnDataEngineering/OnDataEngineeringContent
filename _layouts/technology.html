@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 ---
 
 {% include shared/find_tech_vendors_by_titles titles=page.vendors %}
@@ -14,8 +14,6 @@ layout: page
 {% endif %}
 {% include shared/find_project_parent tech=page %}
 {% include shared/find_project_children tech=page %}
-
-<p>{{ page.description }}</p>
 
 <h2>Metadata</h2>
 
@@ -37,12 +35,3 @@ layout: page
 </ul>
 
 {{ content }}
-
-<h2>Blog Posts</h2>
-
-{% include shared/find_posts_by_tag_titles page=page %}
-<ul>
-  {% for p in posts %}
-    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-  {% endfor %}
-</ul>
