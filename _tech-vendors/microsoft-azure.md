@@ -29,17 +29,19 @@ draft-banner: true
 | Azure SQL Database | Scalable relational database - <https://azure.microsoft.com/en-us/services/sql-database/>
 | Azure Database for MySQL | MySQL as a service - <https://azure.microsoft.com/en-us/services/mysql/>
 | Azure Database for PostgreSQL | PostgreSQL as a service - <https://azure.microsoft.com/en-us/services/postgresql/>
+| Azure Database for MariaDB | MariaDB as a service, currently in preview
 | Azure SQL Data Warehouse | Scalable analytical database - <https://azure.microsoft.com/en-us/services/sql-data-warehouse/>
 | Azure Redis Cache | Redis as a service - <https://azure.microsoft.com/en-us/services/cache/>
 | Azure Table Storage | A NoSQL wide column store service - <https://azure.microsoft.com/en-us/services/storage/tables/>
-| Azure Cosmos DB | Massively scalable, low latency multi-model (key-value, graph and document) NoSQL database, previously known as Azure DocumentDB - <https://azure.microsoft.com/en-us/services/cosmos-db/>
+| Azure Cosmos DB | Massively scalable, low latency multi-model (key-value, graph, wide column and document) NoSQL database, previously known as Azure DocumentDB - <https://azure.microsoft.com/en-us/services/cosmos-db/>
 | Azure Search | Search service - <https://azure.microsoft.com/en-us/services/search/>
 
 ## Analytics Services
 
 | Azure Data Lake Analytics | Massively parallel analytics job service, with support for U-SQL, R, Python, and .NET - <https://azure.microsoft.com/en-us/services/data-lake-analytics/>
 | Azure Data Catalog | A metadata catalog service - <https://azure.microsoft.com/en-us/services/data-catalog/>
-| Azure Time Series Insights | Storage, analytics and visualisation service for time series data, currently in preview - <https://azure.microsoft.com/en-us/services/time-series-insights/>
+| Azure Time Series Insights | Storage, analytics and visualisation service for time series data - <https://azure.microsoft.com/en-us/services/time-series-insights/>
+| Azure Databricks | Spark as a service jointly developed with Databricks, currently in preview - <https://azure.microsoft.com/en-us/campaigns/databricks/>
 
 ## Streaming Data Services
 

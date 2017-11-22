@@ -58,7 +58,7 @@ And Neo4j have a number of eBooks available for free download from <https://neo4
 
 ## Graph Databases as a Service
 
-| Microsoft Azure Cosmos DB | Massively scalable, low latency multi-model (key-value, graph and document) cloud NoSQL database service, previously known as Azure DocumentDB - <https://azure.microsoft.com/en-us/services/cosmos-db/>
+| Microsoft Azure Cosmos DB | Massively scalable, low latency multi-model (key-value, graph, wide column and document) NoSQL database, including support for the Gremlin API - <https://azure.microsoft.com/en-us/services/cosmos-db/>
 | IBM Graph | Graph database as a service built using JanusGraph - <https://www.ibm.com/us-en/marketplace/graph>
 
 ## Historical / Deprecated Graph Databases
