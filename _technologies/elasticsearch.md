@@ -13,7 +13,7 @@ version: "v6.0"
 | version | release date | release links | release comment
 | 5.5 | 2017-07-06 | [announcement](https://www.elastic.co/blog/elasticsearch-5-5-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/5.5/release-notes-5.5.0.html) | Windows installer |
 | 5.6 | 2017-09-11 | [announcement](https://www.elastic.co/blog/elasticsearch-5-6-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/5.6/release-notes-5.6.0.html) | [High Level REST Client](https://www.elastic.co/blog/the-elasticsearch-java-high-level-rest-client-is-out)
-| 6.0 | 2017-11-14 | [announcement](https://www.elastic.co/blog/elasticsearch-6-0-0-released) ; [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.0/release-notes-6.0.0.html)
+| 6.0 | 2017-11-14 | [announcement](https://www.elastic.co/blog/elasticsearch-6-0-0-released) ; [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.0/release-notes-6.0.0.html) | [Removal of mapping types](https://www.elastic.co/blog/removal-of-mapping-types-elasticsearch)
 
 ## Links
 
