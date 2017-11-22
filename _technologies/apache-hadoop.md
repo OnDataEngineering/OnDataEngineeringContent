@@ -5,13 +5,15 @@ alt-titles: [Hadoop]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2016-12-16
-last_updated: 2017-04-19
-version: "v2.8"
+last_updated: 2017-11-22
+version: "v2.9"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 2.8 | 2017-03-22 | [summary](http://hadoop.apache.org/docs/r2.8.0/index.html) | Note that 2.8.2 is the first GA version for production use 
+| 2.9 | 2017-11-17 | [summary](http://hadoop.apache.org/docs/r2.9.0/index.html)
+| 3.0-beta1 | 2017-10-03 | [summary](http://hadoop.apache.org/docs/r3.0.0-beta1/index.html)
 
 ## Links
 
