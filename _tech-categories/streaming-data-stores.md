@@ -1,9 +1,12 @@
 ---
 title: "Streaming Data Stores"
-description: "Technologies for the persistent storage of continuous streams of data, with data access based on a publish/subscribe model.  Should support multiple independant publishers and subscribers, the ability to add new subscribers and replay the history of a stream, horizontal scalability and load balancing, durable writes, ordered streams (data is always read in the order it was written), high throughput and low latency characteristics, handling of updates and deletes to source records, and the ability to secure the data."
+description: "Our list of and information on commercial, open source and cloud based streaming data stores, including Kafka, Confluent, MapR-ES and alternatives to these."
 draft-banner: true
 date: 2017-06-26 08:00
 ---
+Technologies for the persistent storage of continuous streams of data, with data access based on a publish/subscribe model.  Should support multiple independant publishers and subscribers, the ability to add new subscribers and replay the history of a stream, horizontal scalability and load balancing, durable writes, ordered streams (data is always read in the order it was written), high throughput and low latency characteristics, handling of updates and deletes to source records, and the ability to secure the data.
+<!--more-->
+
 ## Open Source Technologies
 
 The following are open source Streaming Data Store technologies:

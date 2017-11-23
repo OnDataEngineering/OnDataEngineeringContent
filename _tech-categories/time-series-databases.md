@@ -1,9 +1,12 @@
 ---
 title: "Time Series Databases"
-description: "Databases optimised for storing very large numbers of metrics and allowing these to be aggregated and analysed.  Metrics are usually organised by measurements or metric names and one or more tags (e.g. to represent a server or instance).  Many implement their own data storage layers, however many also run over external databases, typically NoSQL wide data stores.  Use cases traditionally focus on monitoring infrastructure and applications or more recently IoT use cases, but analytics over any timestamped data is fair game."
+description: "Our list of and information on commercial, open source and cloud based time series databases and associated technologies, including OpenTSDB, Druid, InfluxDB, MachBase and alternatives to these"
 draft-banner: true
 date: 2017-09-01 07:30
 ---
+Databases optimised for storing very large numbers of metrics and allowing these to be aggregated and analysed.  Metrics are usually organised by measurements or metric names and one or more tags (e.g. to represent a server or instance).  Many implement their own data storage layers, however many also run over external databases, typically NoSQL wide data stores.  Use cases traditionally focus on monitoring infrastructure and applications or more recently IoT use cases, but analytics over any timestamped data is fair game.
+<!--more-->
+
 ## Further Information
 
 DB Engines maintain a list of time series databases along with their current popularity: <https://db-engines.com/en/ranking/time+series+dbms>

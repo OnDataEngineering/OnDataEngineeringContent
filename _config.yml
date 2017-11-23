@@ -17,16 +17,18 @@ permalink: /blog/:year/:month/:day/:title/
 
 show_errors: true
 
+excerpt_separator: "<!--more-->"
+
 collections:
   technologies:
     output: true
-    permalnk: /technologies/:path/
+    permalink: /technologies/:path/
   tech-categories:
     output: true
-    permalnk: /tech-categories/:path/
+    permalink: /tech-categories/:path/
   tech-vendors:
     output: true
-    permalnk: /tech-vendors/:path/
+    permalink: /tech-vendors/:path/
 
 defaults:
   -

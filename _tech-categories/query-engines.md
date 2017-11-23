@@ -1,9 +1,12 @@
 ---
 title: "Query Engines"
-description: "Engines that allow queries expressed in a high level language (often SQL) to be run over one or more underlying data stores or databases, often including HDFS (and often using table definitions from the Hive Metastore), but with support for other Hadoop, relational and NoSQL databases commonly supported.  Many technologies started as batch query engines (with high query startup costs and limited support for concurrent queries), but most can now be considered interactive with support for multiple concurrent low latency queries. Given the propensity for querying over Hadoop data using SQL, many of these technologies are often refered to as SQL-on-Hadoop technologies."
+description: "Our list of and information on commercial, open source and cloud based query engines, including Hive, Impala, HAWQ, Drill, Pig, Kognitio, Jethro, Amazon Athena, Azure Data Lake Analytics and alternatives to these."
 draft-banner: true
 date: 2017-10-24 07:30
 ---
+Engines that allow queries expressed in a high level language (often SQL) to be run over one or more underlying data stores or databases, often including HDFS (and often using table definitions from the Hive Metastore), but with support for other Hadoop, relational and NoSQL databases commonly supported.  Many technologies started as batch query engines (with high query startup costs and limited support for concurrent queries), but most can now be considered interactive with support for multiple concurrent low latency queries. Given the propensity for querying over Hadoop data using SQL, many of these technologies are often refered to as SQL-on-Hadoop technologies.
+<!--more-->
+
 ## Further Information
 
 See our [Data Storage Formats](/tech-categories/data-storage-formats/) page for information on file formats to use with these query engines.

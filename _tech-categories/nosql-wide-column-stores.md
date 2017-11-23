@@ -1,9 +1,12 @@
 ---
 title: "NoSQL Wide Column Stores"
-description: "NoSQL databases based on Google Bigtable, the design of which was published in a paper in 2006.  Often described as a sparse, distributed multi-dimensional sorted map (or key value store) - cells being referenced by a row and column key plus a timestamp or version (with columns arranged into column families), support for the names and formats of columns varying from row to row (within fixed column families), and architectures supporting massive horizontal scalability.  Also called extensible record stores, and occasionally NoSQL column stores (although this definition is slightly inaccurate and confuses these technologies with more general purpose database columnar storage).  Common functionality includes low latency high throughput reads and writes, scan/iterate operations, atomic mutations and cell level security.  Common analytical use cases include the storage and serving of aggregations and metrics for real time dashboards, often as part of a wider ecosystem."
+description: "Our list of and information on commercial, open source and cloud based NoSQL Wide Column Stores, including Cassandra, HBase, Accumulo, Azure Table Storage, Google Cloud Bigtable and alternatives to these."
 draft-banner: true
 date: 2017-07-14 07:30
 ---
+NoSQL databases based on Google Bigtable, the design of which was published in a paper in 2006.  Often described as a sparse, distributed multi-dimensional sorted map (or key value store) - cells being referenced by a row and column key plus a timestamp or version (with columns arranged into column families), support for the names and formats of columns varying from row to row (within fixed column families), and architectures supporting massive horizontal scalability.  Also called extensible record stores, and occasionally NoSQL column stores (although this definition is slightly inaccurate and confuses these technologies with more general purpose database columnar storage).  Common functionality includes low latency high throughput reads and writes, scan/iterate operations, atomic mutations and cell level security.  Common analytical use cases include the storage and serving of aggregations and metrics for real time dashboards, often as part of a wider ecosystem.
+<!--more-->
+
 ## Google Bigtable
 
 NoSQL Wide Column stores are all based on the original design paper for Google Bigtable that can be found at <http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf>

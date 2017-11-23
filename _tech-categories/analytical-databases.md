@@ -1,9 +1,12 @@
 ---
 title: "Analytical Databases"
-description: "Full stack databases (supporting both storage and query of data) that focus on analytical or OLAP use cases that generally involve large scanning or aggregation operations.  Typically support distributed parallel execution of queryies (and are therefore commonly referred to as MPP databases) with columnar compression, and often support a range of analytics beyond SQL queries, for example cube based MDX queries, machine learning or geographical analytics.  Some technologies also support a level of query federation using external tables (for example over data in Hadoop)."
+description: "Our list of and information on commercial, open source and cloud based analytical databases, including Teradata, Exadata, Redhift and alternatives to these."
 draft-banner: true
 date: 2017-10-26 07:30
 ---
+Full stack databases (supporting both storage and query of data) that focus on analytical or OLAP use cases that generally involve large scanning or aggregation operations. Typically support distributed parallel execution of queryies (and are therefore commonly referred to as MPP databases) with columnar compression, and often support a range of analytics beyond SQL queries, for example cube based MDX queries, machine learning or geographical analytics. Some technologies also support a level of query federation using external tables (for example over data in Hadoop).
+<!--more-->
+
 ## Further Information
 
 Gartner's [Magic Quadrant for Data Management Solutions for Analytics - Feb 2017](https://www.gartner.com/doc/3614317) covers most of the technologies in this list (along with a range of others, including Hadoop vendors), and is available from many of the vendors, including [Cloudera](https://www.cloudera.com/content/dam/www/marketing/resources/analyst-reports/gartners-magic-quadrant-for-data-warehouse-and-data-management-solutions-for-analytics.png.landing.html), [MapR](https://mapr.com/blog/gartner-2016-magic-quadrant-data-warehouse-and-database-management-solutions-analytics/) and [MemSQL](http://blog.memsql.com/gartner-magic-quadrant-analytics/)

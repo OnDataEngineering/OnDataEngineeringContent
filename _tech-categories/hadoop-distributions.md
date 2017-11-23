@@ -1,9 +1,12 @@
 ---
 title: "Hadoop Distributions"
-description: "Products or services built around Hadoop (or an Hadoop compatible core) combined with a number of Hadoop compatible products.  Hadoop compatibility covers the use of YARN (for resource management of multiple jobs running on the same infrastructure) and HDFS (for local storage of data with support for co-locating processing with the data)."
+description: "Our list of and information on commercial, open source and cloud based Hadoop distributions, including Cloudera, Hortonworks, MapR, Amazon EMR, Azure HD Insight, Google Cloud Dataproc and alternatives to these."
 draft-banner: true
 date: 2017-06-23 17:30
 ---
+Products or services built around Hadoop (or an Hadoop compatible core) combined with a number of Hadoop compatible products.  Hadoop compatibility covers the use of YARN (for resource management of multiple jobs running on the same infrastructure) and HDFS (for local storage of data with support for co-locating processing with the data).
+<!--more-->
+
 ## Further Information
 
 See also our Hadoop (HDFS and YARN) [ecosystem diagrams](/tech-categories/hadoop-distributions/ecosystem/)

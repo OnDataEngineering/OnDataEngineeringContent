@@ -1,9 +1,12 @@
 ---
 title: "Graph Databases"
-description: "Operational (OLTP) databases designed to support labelled property graph data models, where nodes and relationships have labels (types) and lists of property name-value pairs.  Focus is on transactional ACID inserts/updates and traversal queries using index free adjacency (allows direct navigation between nodes without the use of indexes) over subsets of data rather than batch analytics over all data.  Populate query interfaces/languages include Cypher (originated with Neo4J but now open source) and TinkerPop Gremlin (part of the TinkerPop framework that provides query capabilities and graph analytics over graph data)."
+description: "Our list of and information on commercial, open source and cloud based graph databases, including Neo4j, OrientDB, JanusGraph and alternatives to these."
 draft-banner: true
 date: 2017-09-26 07:30
 ---
+Operational (OLTP) databases designed to support labelled property graph data models, where nodes and relationships have labels (types) and lists of property name-value pairs.  Focus is on transactional ACID inserts/updates and traversal queries using index free adjacency (allows direct navigation between nodes without the use of indexes) over subsets of data rather than batch analytics over all data.  Populate query interfaces/languages include Cypher (originated with Neo4J but now open source) and TinkerPop Gremlin (part of the TinkerPop framework that provides query capabilities and graph analytics over graph data).
+<!--more-->
+
 ## Further Information
 
 The Morning Paper review of the "Do we need specialized graph databases? Benchmarking real-time social networking applications" paper from the University of Waterloo, Ontario from May 2017 is worth a read before you go any further - this covers a number of use cases where relational databases perform better than dedicated graph databases, and also looks at the performance impact of using TinkerPop over a native API - <https://blog.acolyer.org/2017/07/07/do-we-need-specialized-graph-databases-benchmarking-real-time-social-networking-applications/>

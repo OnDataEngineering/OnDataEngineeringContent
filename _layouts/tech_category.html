@@ -5,10 +5,16 @@ layout: content
 {% include shared/validate_not_null attr="Description" value=page.description %}
 {% include shared/find_techs_by_category category=page %}
 
+{% assign description = page.content | split: "<h2" | first %}
+
+<h2>Category Definition</h2>
+
+{{ description }}
+
 <h2>Metadata</h2>
 
 <ul>
   <li>Technologies:<ul>{% for t in techs %}<li><a href="{{ t.url }}">{{ t.title | escape }}</a></li>{% endfor %}</ul></li>
 </ul>
 
-{{ content }}
+{{ page.content | remove_first: description }}

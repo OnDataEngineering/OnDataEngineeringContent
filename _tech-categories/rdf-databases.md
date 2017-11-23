@@ -1,9 +1,12 @@
 ---
 title: "RDF Databases"
-description: "Databases designed to support the storage of RDF (or triple) data.  RDF (Resource Description Framework) is a W3C data model standard that describes data as subject–predicate–object expressions (or triples).  This allows the creation of graphs of knowledge, however unlike more general purpose graph databases, there is no support for properties or labels - everything is represented using triples.  Data is queried using the SPARQL query language (another W3C standard).  Internally, data can be considered to be stored as a single table containing three columns (the subject, predicate and object), with indexing to support the traversal and enumeration of predicates (relationsips) for a given subject.  A number of triple ontologies (or schemas) are also available that define standard subject/object and predicate types allowing for data interchange, including OWL and RDFS. The W3C standards were introduced to support semantic web and Linked Open Data use cases that focus on semantics and inference."
+description: "Our list of and information on commercial, open source and cloud based RDF databases and associated technologies, including MarkLogic, AllegroGraph, Stardog, BlazeGraph and alternatives to these."
 draft-banner: true
 date: 2017-09-25 07:30
 ---
+Databases designed to support the storage of RDF (or triple) data.  RDF (Resource Description Framework) is a W3C data model standard that describes data as subject–predicate–object expressions (or triples).  This allows the creation of graphs of knowledge, however unlike more general purpose graph databases, there is no support for properties or labels - everything is represented using triples.  Data is queried using the SPARQL query language (another W3C standard).  Internally, data can be considered to be stored as a single table containing three columns (the subject, predicate and object), with indexing to support the traversal and enumeration of predicates (relationsips) for a given subject.  A number of triple ontologies (or schemas) are also available that define standard subject/object and predicate types allowing for data interchange, including OWL and RDFS. The W3C standards were introduced to support semantic web and Linked Open Data use cases that focus on semantics and inference.
+<!--more-->
+
 ## Further Information
 
 The W3C standards for RDF and SPARQL are available online at <https://www.w3.org/RDF/> and <http://www.w3.org/TR/rdf-sparql-query/> respectively.  The relevant Wikipedia pages are also good places to start at <https://en.wikipedia.org/wiki/Resource_Description_Framework> and <https://en.wikipedia.org/wiki/SPARQL>.

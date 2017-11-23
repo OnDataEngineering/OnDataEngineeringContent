@@ -1,9 +1,12 @@
 ---
 title: "In Memory Databases"
-description: "Technologies that serve data entirely or primarily from memory, with the aim of providing significant higher performance for querying and accessing data.  They are generally backed by some sort of persistent storage with guarentees around durability, with some technologies able to act as in memory caches over equivalent disk based technologies.  The technologies listed on this page span a number of different technology categories, including relational databases, Hadoop compatible filesystems and key value stores, and will also appear under the relevent technology category page where they exist."
+description: "Our list of and information on in memory relational databases and Hadoop compatible filesystems, including MemSQL, SAP HANA, EXASOL, TimesTen, Ignite and alternatives to these."
 draft-banner: true
 date: 2017-09-08 07:30
 ---
+Technologies that serve data entirely or primarily from memory, with the aim of providing significant higher performance for querying and accessing data.  They are generally backed by some sort of persistent storage with guarentees around durability, with some technologies able to act as in memory caches over equivalent disk based technologies.  The technologies listed on this page span a number of different technology categories, including relational databases, Hadoop compatible filesystems and key value stores, and will also appear under the relevent technology category page where they exist.
+<!--more-->
+
 ## Further Information
 
 [The Forrester Wave: In Memory Database, Q1 2017](https://www.forrester.com/report/The+Forrester+Wave+InMemory+Databases+Q1+2017/-/E-RES132143) provides a view of "enterprise" in memory technologies, with a mix of NoSQL, enterprise RDBMS and and dedicated in memory relational technologies, however the list is limited and includes some technologies that aren't in memory at all.  It's available from Oracle [here](http://www.oracle.com/us/corporate/analystreports/forrester-imdb-wave-2017-3616348.pdf)

@@ -1,9 +1,12 @@
 ---
 title: "Data Virtualization"
-description: "Tools that enable the execution of data queries across multiple data sources.  Most support the ability to create a semantic layer or virtual data schema across the underlying data sources (including the caching or materialization of tables within this layer and the ability to update it and therefore the underlying data sources) alongside the ability to run arbitary queries across the underlying data (including in some cases the ability to do this without first defining the schema of the data in these sources).  Query logic is pushed down where possible so that it's executed in the underlying data source, with joins and aggregation of data from multiple sources then performed within the data virtualisation layer.  Sometimes refered to as data federation."
+description: "Our list of and information on data virtualization technologies, including Informatica, IBM, SAS, Cisco and Denodo technologies and alternatives to these."
 draft-banner: true
 date: 2017-09-15 07:30
 ---
+Tools that enable the execution of data queries across multiple data sources.  Most support the ability to create a semantic layer or virtual data schema across the underlying data sources (including the caching or materialization of tables within this layer and the ability to update it and therefore the underlying data sources) alongside the ability to run arbitary queries across the underlying data (including in some cases the ability to do this without first defining the schema of the data in these sources).  Query logic is pushed down where possible so that it's executed in the underlying data source, with joins and aggregation of data from multiple sources then performed within the data virtualisation layer.  Sometimes refered to as data federation.
+<!--more-->
+
 ## Further Information
 
 There's a wealth of information from analyst organisation on these tools.

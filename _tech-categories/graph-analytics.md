@@ -1,9 +1,12 @@
 ---
 title: "Graph Analytics"
-description: "Technologies that support analytics over graph data, either as a processing platform over data stored elsewhere, or as an analytical database.  Unlike graph databases which work on individual records or small portions of the graph, graph analytics technologies specialise in running analytics that run over the entire graph database to generate aggregated results, identify data of interest, or to enrich the graph.  Processing is often bsaed on a BSP (Bulk Synchronous Processing) model made famous by Pregel, the model created by Google to run their PageRank algorithm."
+description: "Our list of and information on commercial and open source graph analytics engines and databases, including Giraph, Hama, GraphX, Flink, JanusGraph, Stardog, TinkerPop and alternatives to these."
 draft-banner: true
 date: 2017-09-28 07:30
 ---
+Technologies that support analytics over graph data, either as a processing platform over data stored elsewhere, or as an analytical database.  Unlike graph databases which work on individual records or small portions of the graph, graph analytics technologies specialise in running analytics that run over the entire graph database to generate aggregated results, identify data of interest, or to enrich the graph.  Processing is often bsaed on a BSP (Bulk Synchronous Processing) model made famous by Pregel, the model created by Google to run their PageRank algorithm.
+<!--more-->
+
 ## Pregel
 
 The Morning Paper blog from Adrian Colyer has a good [introduction to Pragel](https://blog.acolyer.org/2015/05/26/pregel-a-system-for-large-scale-graph-processing/), and the original paper is also [available online](http://www.dcs.bbk.ac.uk/~dell/teaching/cc/paper/sigmod10/p135-malewicz.pdf)

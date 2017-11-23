@@ -1,9 +1,12 @@
 ---
 title: "Analytical Search"
-description: "Technologies for analytics over unstructured and semi-structured data based on search.  Should be distributed and horizontally scaleable, support pre-defined and on-demand schemas, all standard search functionality plus analytics based on search including basic join functionality, aggregations, graph analytics and machine learning."
+description: "Our list of and information on analytical search technologies, including Elasticsearch and Apache Solr, along with their associated technologies and deployment options."
 draft-banner: true
 date: 2017-07-07 08:00
 ---
+Technologies for analytics over unstructured and semi-structured data based on search.  Should be distributed and horizontally scaleable, support pre-defined and on-demand schemas, all standard search functionality plus analytics based on search including basic join functionality, aggregations, graph analytics and machine learning.
+<!--more-->
+
 ## Primary Technologies
 
 If you're looking for search technologies that provide a wide range of analytical functions there are two primary options:

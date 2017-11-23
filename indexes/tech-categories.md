@@ -11,7 +11,7 @@ regenerate: true
     {% for cat in cats %}
       <tr>
         <td><a href="{{ site.url }}{{ cat.url }}">{{ cat.title }}</a></td>
-        <td>{{ cat.description }}</td>
+        <td>{{ cat.excerpt | remove: '<p>' | remove: '</p>' }}</td>
       </tr>
     {% endfor %}
   </tbody>

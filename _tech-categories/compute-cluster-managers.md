@@ -1,9 +1,12 @@
 ---
 title: "Compute Cluster Managers"
-description: "Technologies that start and manage the executor processes for distributed and transient data processing jobs, and then manage the use of resources (primarily cpu and memory) across the jobs running on the cluster.  Should provide a way of packaging jobs and ensuring jobs are isolated from each other during execution, for example to allow different jobs to run in different environments against different versions of libraries.  When running over a combined compute / storage cluster (like Hadoop), should also support data locaility ensuring that individual executors are running next to the data they require."
+description: "Our list of and information on compute cluster managers, including Apache YARN and Mesos, along with their associated technologies."
 draft-banner: true
 date: 2017-07-21 07:30
 ---
+Technologies that start and manage the executor processes for distributed and transient data processing jobs, and then manage the use of resources (primarily cpu and memory) across the jobs running on the cluster.  Should provide a way of packaging jobs and ensuring jobs are isolated from each other during execution, for example to allow different jobs to run in different environments against different versions of libraries.  When running over a combined compute / storage cluster (like Hadoop), should also support data locaility ensuring that individual executors are running next to the data they require.
+<!--more-->
+
 ## Introduction
 
 There are two main technologies in this space:
