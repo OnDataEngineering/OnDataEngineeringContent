@@ -16,6 +16,8 @@ GEM
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
     jekyll-paginate (1.1.0)
+    jekyll-redirect-from (0.11.0)
+      jekyll (>= 2.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-watch (1.5.0)
@@ -43,7 +45,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-paginate
+  jekyll-redirect-from
   minima
 
 BUNDLED WITH
-   1.15.3
+   1.16.0

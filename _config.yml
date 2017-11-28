@@ -6,6 +6,9 @@ url: "http://localhost:4000"
 markdown: kramdown
 theme: minima
 
+gems:
+  - jekyll-redirect-from
+
 exclude:
     - .sass-cache
     - Gemfile
