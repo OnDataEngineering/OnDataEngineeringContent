@@ -1,10 +1,12 @@
 ---
-title: "Analytical Databases"
+title: "Analytical Relational Databases"
+redirect_from:
+  - /tech-categories/analytical-databases/
 description: "Our list of and information on commercial, open source and cloud based analytical databases, including Teradata, Exadata, Redhift and alternatives to these."
 draft-banner: true
 date: 2017-10-26 07:30
 ---
-Full stack databases (supporting both storage and query of data) that focus on analytical or OLAP use cases that generally involve large scanning or aggregation operations. Typically support distributed parallel execution of queryies (and are therefore commonly referred to as MPP databases) with columnar compression, and often support a range of analytics beyond SQL queries, for example cube based MDX queries, machine learning or geographical analytics. Some technologies also support a level of query federation using external tables (for example over data in Hadoop).
+Full stack relational databases (supporting both storage and query of data) that focus on analytical or OLAP use cases that generally involve large scanning or aggregation operations. Typically support distributed parallel execution of queries (and are therefore commonly referred to as MPP databases) with columnar compression, and often support a range of analytics beyond SQL queries, for example cube based MDX queries, machine learning or geographical analytics. Some technologies also support a level of query federation using external tables (for example over data in Hadoop).
 <!--more-->
 
 ## Further Information
@@ -53,7 +55,7 @@ Forrester's [Big Data Warehouse Wave Q2 2017](https://www.forrester.com/report/T
 ## Open Source Hadoop OLAP Cube Technologies
 
 | [Druid](/technologies/druid) | Runs over HDFS/S3 and supports real time aggregations of streaming data
-| [Kylin](/technologies/apache-kylin/) | Supports the creation and querying of OLAP cubes on Hadoop, building cubes from star schema data in Hive into HBase, and then providing a SQL interface that queries across Hive and HBase as required - <http://kylin.apache.org/>
+| [Kylin](/technologies/apache-kylin/) | Supports the creation and querying of OLAP cubes on Hadoop, building cubes from star schema data in Hive into HBase, and then providing a SQL interface that queries across Hive and HBase as required
 
 ## In Memory Techs
 
