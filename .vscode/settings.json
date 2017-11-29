@@ -7,6 +7,7 @@
         "_js_source/**": true,
         "_sass/**": true,
         "_site/**": true,
+        "_site.old/**": true,
         ".sass-cache/**": true,
         "assets/**": true
     },
