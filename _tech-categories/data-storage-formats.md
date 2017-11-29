@@ -1,5 +1,6 @@
 ---
 title: "Data Storage Formats"
+redirect_from: /tech-categories/data-stoage-formats/
 description: "Our list of and information on data storage formats, including Avro, Parquet, ORCCFile, Carbondata and alternatives to these."
 draft-banner: true
 date: 2017-10-05 07:30

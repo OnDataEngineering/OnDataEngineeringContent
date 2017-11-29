@@ -1,5 +1,6 @@
 ---
 title: "ODPi"
+redirect_from: /tech-vendors/opdi/
 description: "ODPi is a non profit organisation and member of the Linux Foundation that distributes reference specifications for key Hadoop components and APIs to help drive compatibility between Hadoop distributions, sponsoring Apache Bigtop as a reference implementation.  Compliance against the spec for platform vendors (to ensure any certified app will run on their platform) and software vendors (to ensure their app will run on any certified platform) is achieved through self-certification against a test suite that's bundled with Apache Bigtop.  Current technologies covered by the specifications are HDFS, YARN, MapReduce, HCFS and Hive.  Current certified distributions include Altiscale, ArenaData, Hortonworks, IBM and Infosys but notably does not include either Cloudera or MapR who have both publicly stated their objections to the organisation.  Currently certified applications are limited to DataTorrent, Apache Hawq, SAS, Syncsort, WANDisco and a range of IBM technologies.  Originally founded in February 2005 as the Open Data Platform with language that suggested it was looking to build a standard Hadoop core (the ODP core) based on HDFS, Ambari, YARN and MapReduce.  Moved under the Linux Foundation in September 2015."
 alt-titles: [Open Data Platform Initiative]
 date: 2017-05-18 07:30

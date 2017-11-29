@@ -1,7 +1,6 @@
 ---
 title: "Analytical Relational Databases"
-redirect_from:
-  - /tech-categories/analytical-databases/
+redirect_from: /tech-categories/analytical-databases/
 description: "Our list of and information on commercial, open source and cloud based analytical databases, including Teradata, Exadata, Redhift and alternatives to these."
 draft-banner: true
 date: 2017-10-26 07:30
