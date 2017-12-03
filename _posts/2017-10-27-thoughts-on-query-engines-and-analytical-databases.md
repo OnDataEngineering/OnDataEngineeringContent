@@ -1,9 +1,9 @@
 ---
 title: Thoughts on Query Engines and Analytical Databases
-tags: [Query Engines, Analytical Relational Databases]
+tags: [Query Engines, Analytical Databases]
 date: 2017-10-27 07:30
 ---
-Right, we've finally completed our look at [analytical databases](/tech-categories/analytical-relational-databases/), with a short stop to look at [query engines](/tech-categories/query-engines).
+Right, we've finally completed our look at [analytical databases](/tech-categories/analytical-databases/), with a short stop to look at [query engines](/tech-categories/query-engines).
 
 So let's summarise and spew some thoughts...
 <!--more-->
