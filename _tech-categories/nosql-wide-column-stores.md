@@ -31,7 +31,7 @@ Commercial support for Apache HBase and Apache Accumulo is included in most comm
 
 Apache Cassandra is also available as a managed service from a number of vendors.
 
-Apache HBase and Apache Accumulo are also available as part of most Hadoop managed services
+Apache HBase and Apache Accumulo are also available as part of most Hadoop managed services.
 
 ## Multi Model NoSQL Databases
 

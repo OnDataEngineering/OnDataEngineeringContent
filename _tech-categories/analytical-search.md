@@ -4,7 +4,7 @@ description: "Our list of and information on analytical search technologies, inc
 draft-banner: true
 date: 2017-07-07 08:00
 ---
-Technologies for analytics over unstructured and semi-structured data based on search.  Should be distributed and horizontally scaleable, support pre-defined and on-demand schemas, all standard search functionality plus analytics based on search including basic join functionality, aggregations, graph analytics and machine learning.
+Technologies for analytics over unstructured and semi-structured data based on search.  Should be distributed and horizontally scalable, support pre-defined and on-demand schemas, all standard search functionality plus analytics based on search including basic join functionality, aggregations, graph analytics and machine learning.
 <!--more-->
 
 ## Primary Technologies
@@ -24,6 +24,6 @@ A range of other vendors also provide Elasticsearch as a service offering (inclu
 
 All [Apache Solr](/technologies/apache-solr) functionality is available in the open source product.
 
-Cloudera and Lucidworks are currently two of the leading contributors to Apache Solr, distributing it as part of [CDH](/technologies/cloudera-cdh/) and Lucidworks Fusion (<https://lucidworks.com/>) respectively.  Lucidworks also provide the version of Solr within [HDP](/technologies/hortonworks-data-platform/) and as an add on for the [MapR Data Platform](/technologies/mapr-converged-data-platform).
+Cloudera and Lucidworks are currently two of the leading contributors to Apache Solr, distributing it as [Cloudera Serach](/technologies/cloudera-search/) (part of [CDH](/technologies/cloudera-cdh/)) and Lucidworks Fusion (<https://lucidworks.com/>) respectively.  Lucidworks also provide [Hortonworks Data Platform Search](/technologies/hortonworks-data-platform-search/) (the version of Solr within [HDP](/technologies/hortonworks-data-platform/)) and a Solr add on for the [MapR Converged Data Platform](/technologies/mapr-converged-data-platform).
 
-A range of vendors also provide Apache Solr as a service offering, however these generally focus on traditional search use cases.
+A range of vendors also provide Apache Solr as a service offering, however these generally focus on traditional (non analytical) search use cases.

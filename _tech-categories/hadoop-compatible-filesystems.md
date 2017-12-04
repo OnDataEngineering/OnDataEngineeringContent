@@ -38,8 +38,6 @@ Azure has an Hadoop compatible filesystem as a service:
 
 ## Other Technologies
 
-DataStax Enterprise has an HDFS compatible file system API:
-
 | DataStax Enterprise file system | Distributed Hadoop compatible filesystem that runs on DataStax Enterprise, replacing the now deprecated Cassandra File System (CFS) - <http://docs.datastax.com/en/dse/5.1/dse-admin/datastax_enterprise/analytics/dsefsTOC.html>
 
 ## Parallel Distributed Filesystems
@@ -49,3 +47,5 @@ Parallel distributed filesystems provide similar capabilities to HDFS, including
 ## Object Stores
 
 Most object stores also provide Hadoop compatible APIs, and although this means that Hadoop can natively read and write from them using the Hadoop Filesystem API, they are not considered Hadoop Compatible Filesystems due to their lack of compliance to the compliance specification.  More details can be found in the "Object Stores vs. Filesystems" section of the [specification page](https://hadoop.apache.org/docs/r2.7.1/hadoop-project-dist/hadoop-common/filesystem/introduction.html).
+
+See our [Object Stores](/tech-categories/object-stores/) page for our list of object store technologies.

@@ -4,7 +4,7 @@ description: "Our list of and information on compute cluster managers, including
 draft-banner: true
 date: 2017-07-21 07:30
 ---
-Technologies that start and manage the executor processes for distributed and transient data processing jobs, and then manage the use of resources (primarily cpu and memory) across the jobs running on the cluster.  Should provide a way of packaging jobs and ensuring jobs are isolated from each other during execution, for example to allow different jobs to run in different environments against different versions of libraries.  When running over a combined compute / storage cluster (like Hadoop), should also support data locaility ensuring that individual executors are running next to the data they require.
+Technologies that start and manage the executor processes for distributed and transient data processing jobs, and then manage the use of resources (primarily cpu and memory) across the jobs running on the cluster.  Should provide a way of packaging jobs and ensuring jobs are isolated from each other during execution, for example to allow different jobs to run in different environments against different versions of libraries.  When running over a combined compute / storage cluster (like Hadoop), should also support data locality ensuring that individual executors are running next to the data they require.
 <!--more-->
 
 ## Introduction
@@ -26,7 +26,7 @@ Apache Mesos is also available as a commercial enterprise product:
 
 Apache Mesos has an ecosystem of associated technologies, all of which are linked from our [Apache Mesos](/technologies/apache-mesos/) page.
 
-## Other Technologies
+## Supporting Technologies
 
 Other technologies of interest in this space are:
 

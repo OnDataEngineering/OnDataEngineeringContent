@@ -4,7 +4,7 @@ description: "Our list of and information on commercial, open source and cloud b
 draft-banner: true
 date: 2017-06-26 08:00
 ---
-Technologies for the persistent storage of continuous streams of data, with data access based on a publish/subscribe model.  Should support multiple independant publishers and subscribers, the ability to add new subscribers and replay the history of a stream, horizontal scalability and load balancing, durable writes, ordered streams (data is always read in the order it was written), high throughput and low latency characteristics, handling of updates and deletes to source records, and the ability to secure the data.
+Technologies for the persistent storage of continuous streams of data, with data access based on a publish/subscribe model.  Should support multiple independent publishers and subscribers, the ability to add new subscribers and replay the history of a stream, horizontal scalability and load balancing, durable writes, ordered streams (data is always read in the order it was written), high throughput and low latency characteristics, handling of updates and deletes to source records, and the ability to secure the data.
 <!--more-->
 
 ## Open Source Technologies
@@ -17,6 +17,8 @@ The following are open source Streaming Data Store technologies:
 | DistributedLog | Distributed log service from Twitter supporting durability, replication and strong consistency built over Apache BookKeeper
 | Pulsar | Distributed pub-sub messaging from Yahoo, with persistent message storage based on Apache BookKeeper
 | BookKeeper | Distributed log storage service from Yahoo
+
+Note that [Apache Kafka](/technologies/apache-kafka/) is bundled with a number of Hadoop distributions.
 
 ## Commercial Technologies
 
@@ -33,11 +35,3 @@ The following are Streaming Data Store technologies available as a managed servi
 | Amazon Kinesis Streams | Streaming data storage and publish service - <https://aws.amazon.com/kinesis/streams/>
 | Azure Event Hubs  | Elastic service for the buffering and publishing of streaming event data - <https://azure.microsoft.com/en-us/services/event-hubs/>
 | Google Cloud Pub/Sub | Real time message and streaming data service with "at least once" delivery - <https://cloud.google.com/pubsub/>
-
-## Hadoop Distributions
-
-[Apache Kafka](/technologies/apache-kafka/) is also bundled with a number of Hadoop distributions:
-
-| [Cloudera CDH](/technologies/cloudera-cdh/) | Cloudera's distribution of Hadoop, available in free and commercial versions and in the cloud
-| [Hortonworks Data Flow](/technologies/hortonworks-data-flow/) | A distribution of a set of Apache open source technologies (primarily NiFi, Kafka and Storm) for processing streaming data, available for free with commercial support also available
-| [Apache Bigtop](/technologies/apache-bigtop) | An Apache open source distribution of Hadoop

@@ -5,7 +5,7 @@ description: "Our list of and information on data storage formats, including Avr
 draft-banner: true
 date: 2017-10-05 07:30
 ---
-Libraries that support the storage of data on disk for data storage, real-time or batch analytics.  Popularised by the use of distributed file systems in analytical platforms, common features include support for schema evolution (the ability to make changes to the schema but stil read all historical data), support for both row and columnar data layouts (supporting efficient batch processing and analytical workloads respectively), complex record formats including nested objects and arrays, indexing to support random data access, and support for efficient inserts, updates and deletes as well as ACID transactions.
+Libraries that support the storage of data on disk for data storage, real-time or batch analytics.  Popularised by the use of distributed file systems in analytical platforms, common features include support for schema evolution (the ability to make changes to the schema but still read all historical data), support for both row and columnar data layouts (supporting efficient batch processing and analytical workloads respectively), complex record formats including nested objects and arrays, indexing to support random data access, and support for efficient inserts, updates and deletes as well as ACID transactions.
 <!--more-->
 
 ## Further Information
@@ -45,6 +45,8 @@ And of course, any [object store](/tech-categories/object-stores/), NoSQL key va
 ## Data Storage Services
 
 | [Kudu](/technologies/apache-kudu/) | Storage engine that supports efficient storage of data, insert/update/deletes and strong query performance
+| [RecordService](/technologies/recordservice) | Abstraction layer for accessing structured data in Hadoop
+| [Hive Metastore](/technologies/apache-hive/hive-metastore/) | Standard technology for defining structure of data in Hadoop
 
 ## In Memory Formats
 

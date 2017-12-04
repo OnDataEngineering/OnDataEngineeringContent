@@ -4,7 +4,7 @@ description: "Our list of and information on data virtualization technologies, i
 draft-banner: true
 date: 2017-09-15 07:30
 ---
-Tools that enable the execution of data queries across multiple data sources.  Most support the ability to create a semantic layer or virtual data schema across the underlying data sources (including the caching or materialization of tables within this layer and the ability to update it and therefore the underlying data sources) alongside the ability to run arbitary queries across the underlying data (including in some cases the ability to do this without first defining the schema of the data in these sources).  Query logic is pushed down where possible so that it's executed in the underlying data source, with joins and aggregation of data from multiple sources then performed within the data virtualisation layer.  Sometimes refered to as data federation.
+Tools that enable the execution of data queries across multiple data sources.  Most support the ability to create a semantic layer or virtual data schema across the underlying data sources (including the caching or materialization of tables within this layer and the ability to update it and therefore the underlying data sources) alongside the ability to run arbitrary queries across the underlying data (including in some cases the ability to do this without first defining the schema of the data in these sources).  Query logic is pushed down where possible so that it's executed in the underlying data source, with joins and aggregation of data from multiple sources then performed within the data virtualisation layer.  Sometimes referred to as data federation.
 <!--more-->
 
 ## Further Information
@@ -16,6 +16,8 @@ Forrester publishes a Forrester Wave on Enterprise Data Virtualization, last pub
 Gartner include Data Virtualisation tools as part of their [Data Integration Magic Quadrant](https://www.gartner.com/doc/3777464/magic-quadrant-data-integration-tools).  This can be acquired from a number of sources including Denodo [here](https://www.denodo.com/en/page/2017-gartner-magic-quadrant-data-integration-tools), Informatica [here](https://www.informatica.com/gb/data-integration-magic-quadrant.html) and Talend [here](https://info.talend.com/gartnermqdi.html)
 
 Garner also publish a [Market Guide for Data Virtualization](https://www.gartner.com/doc/3778873/market-guide-data-virtualization), which is available for download from Rocket Software [here](http://info.rocketsoftware.com/rocket-data-virtualization-gartner-report.html).
+
+A number of [Query Engines](/tech-categories/query-engines/) support joins and aggregation of data from multiple data sources
 
 ## "Enterprise" Vendors
 
@@ -33,23 +35,22 @@ The following are capabilities from specialist vendors:
 
 | Cisco Information Server | Originally Composite, one of the first and most established products in this space <http://www.compositesw.com/data-virtualization/>
 | [Denodo Platform](/technologies/denodo-platform/) | Very well established and mature product, with free express edition
-| AtScale | Cube based semantic layer over with query optimisation, virtual cube caching and row level security over Hadoop and SQL data sources - <https://atscale.com/>
 | RedHat JBoss Data Virtualization | Originally Metamatrix - <https://www.redhat.com/en/technologies/jboss-middleware/data-virtualization>
 | Stone Bond Enterprise Enabler | <http://stonebond.com/>
 | Data Virtuality | Marketed as a logical data warehouse tool - <https://datavirtuality.com/>
 | Information Builders iWay Data Hub | <http://www.informationbuilders.com/products/eii>
 | Querona | <https://www.querona.com/>
-| K2View | Specialises in entity (e.g. customer) based views of data aggregated from multple sources - <http://www.k2view.com>
+| K2View | Specialises in entity (e.g. customer) based views of data aggregated from multiple sources - <http://www.k2view.com>
 | OpenLink Virtuoso Universal Server | <https://virtuoso.openlinksw.com/>
-| Progress DataDirect | Connectors for vast range of data sources - <https://www.progress.com/datadirect-connectors>
 | Rocket Data Virtualization | Focus on mainframe data - <http://www.rocketsoftware.com/products/rocket-data>
+
+## Data Connectors
+
+| Progress DataDirect | Connectors for vast range of data sources, including big data, relational, saas/cloud and text - <https://www.progress.com/datadirect-connectors>
+| Attunity Connect | Connectors for relational, non relational and applications - <https://www.attunity.com/products/connect/> 
 
 ## Semantic Web Technologies
 
 | Capsenta Ultrawrap | Virtualizes relational databases as an RDF semantic web data source - <https://capsenta.com/>
 | D2RQ | Opens source platform for accessing relational databases as an RDF graph - <http://d2rq.org/>
 | Complexible Stardog | RDF database that also support property graphs and data virtualisation - <http://www.stardog.com/>
-
-## Query Engines
-
-A number of [Query Engines](/tech-categories/query-engines/) support joins and aggregation of data from multiple data sources

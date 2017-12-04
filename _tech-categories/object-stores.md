@@ -16,7 +16,7 @@ Excellent list of object stores including their history: <http://www.theregister
 ## "Enterprise" Object Store Services
 
 The three major cloud vendors all have object store services as follows:
- 
+
 | [Amazon S3](/technologies/amazon-s3/) | Eventually consistent object store service
 | [Azure Blob Storage](/technologies/microsoft-azure-blob-storage/) | Strongly consistent object store service, with support for multiple object types (block, page and append)
 | [Google Cloud Storage](/technologies/google-cloud-storage/) | Strongly consistent object store service
@@ -46,7 +46,7 @@ The following are all Open Source object store technologies:
 | Rook | <https://rook.io/>
 | Open IO | <http://openio.io/>
 
-## "Enterprise" Object Store Products
+## "Enterprise" Object Store Technologies
 
 Options for on premise object stores from enterprise vendors, many of which are also available as a service or as a hardware and software appliance, include:
 
@@ -69,7 +69,7 @@ There's also a Gartner Critical Capabilities for Object Storage (March 2016) whi
 
 The IDC Object-Based Storage Marketscape (2016) provides information on a wide range of "Enterprise" object stores and is available from Scality [here](http://storage.scality.com/report-idc-marketscape-object-based-storage.html) with a summary from The Register [here](https://www.theregister.co.uk/2016/12/14/ibms_clever_and_safe_acquisition_gets_it_object_storage_leadership/)
 
-## Other Object Store Products
+## Other Object Store Technologies
 
 The following are other object store products:
 
