@@ -16,7 +16,7 @@ See our [Analytical Databases](/tech-categories/analytical-databases/) page for 
 ## Open Source Technologies
 
 | [Apache Hive](/technologies/apache-hive/) | Supports the execution of SQL queries over data in HDFS using MapReduce, Spark or Tez based on tables defined in the Hive Metastore
-| [Apache Impala (Incubating)](/technologies/apache-impala/) | An MPP query engine that supports the execution of SQL queries over in HDFS, HBase, Kudu and S3 based on tables defined in the Hive Metastore
+| [Apache Impala](/technologies/apache-impala/) | An MPP query engine that supports the execution of SQL queries over in HDFS, HBase, Kudu and S3 based on tables defined in the Hive Metastore
 | Presto | Distributed SQL query engine over data in HDFS, NoSQL and relational databases and Kafka, originally created and open sourced by Facebook - <https://prestodb.io/>
 | [Apache Drill](/technologies/apache-drill/) | An MPP query engine that supports queries over one or more underlying databases or datasets without first defining a schema and with the ability to join data from multiple data stores together.
 | Apache Lens | Provides a cube based federated view over a range of data stores including HDFS, HBase, relational databases, S3 and Redshift - <http://lens.apache.org/>
@@ -29,7 +29,7 @@ See our [Analytical Databases](/tech-categories/analytical-databases/) page for 
 
 | Kognitio | In memory database engine that can run as a YARN application on Hadoop over data in HDFS (as a free offering) or as a standalone cluster over data in HDFS, the cloud and other databases (as a commercial offering with a free trial) - <https://kognitio.com/>
 | Jethro | SQL query engine over HDFS and S3 that supports indexing, auto generation of cubes and results caching - <https://jethro.io/>
-| AtScale | Cube based semantic layer with query optimisation, virtual cube caching and row level security over Hadoop and SQL data sources - <https://atscale.com/>
+| AtScale | Cube based semantic layer with query optimisation, virtual cube caching and row level security over Hadoop, RedShift and SQL data sources - <https://atscale.com/>
 | IBM Big SQL | SQL engine that runs on Hadoop over Hive tables, but that can also federate into RDMS and NoSQL databases and object stores  - <https://www.ibm.com/us-en/marketplace/big-sql>
 | Oracle Big Data SQL | Allows federated queries from an Oracle databases over Hadoop and NoSQL databases, with push down of logic and support for Oracle security - <https://www.oracle.com/database/big-data-sql/index.html>
 | Kyvos Insights | OLAP cubes on Hadoop - <http://www.kyvosinsights.com/olap-cubes-on-hadoop/>

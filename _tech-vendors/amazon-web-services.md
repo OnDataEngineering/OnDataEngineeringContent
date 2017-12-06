@@ -9,7 +9,9 @@ draft-banner: true
 ## Infrastructure Services
 
 | Amazon EC2 | Virtual servers - <https://aws.amazon.com/ec2/>
-| Amazon EC2 Container Services | Docker based container service- <https://aws.amazon.com/ecs/>
+| Amazon Elastic Container Service (Amazon ECS)  | Docker based container service - <https://aws.amazon.com/ecs/>
+| Amazon Elastic Container Service for Kubernetes (Amazon EKS) | Kubernetes as a service - <https://aws.amazon.com/eks/>
+| AWS Fargate | Provisioning of containers on ECS or EKS without managing servers or clusters - <https://aws.amazon.com/fargate/>
 | Amazon EBS | Block storage, used to provide local storage for virtual machine - <https://aws.amazon.com/ebs/>
 
 ## Storage Services
@@ -31,6 +33,7 @@ draft-banner: true
 | Amazon DynamoDB | A NoSQL document store service - <https://aws.amazon.com/dynamodb/>
 | Amazon Cloudsearch | Amazon search service - <https://aws.amazon.com/cloudsearch/>
 | Amazon ElasticSearch Service | Elasticsearch service - <https://aws.amazon.com/elasticsearch-service/>
+| Amazon Neptune (Preview) | Graph and RDF database service - <https://aws.amazon.com/neptune/>
 
 ## Analytics Services
 
@@ -47,12 +50,13 @@ draft-banner: true
 ## Data Integration Services
 
 | AWS Data Pipelines | Data transformation workflow management, with support for scheduling and dependancy management of jobs (e.g. EMR jobs or SQL queries) - <https://aws.amazon.com/datapipeline/>
-| AWS Glue | Service for integrating data, with support for automating data discovery, conversion, mapping, and job scheduling, currently in preview only - <https://aws.amazon.com/glue/>
+| AWS Glue (Preview) | Service for integrating data, with support for automating data discovery, conversion, mapping, and job scheduling - <https://aws.amazon.com/glue/>
 
 ## Machine Learning Services
 
 | Amazon Rekognition | Service for searching and analysing images - <https://aws.amazon.com/rekognition/>
 | Amazon Machine Learning | Machine learning service - <https://aws.amazon.com/machine-learning/>
+| Amazon SageMaker | Service for building, training and deploying machine learning at scale - <https://aws.amazon.com/sagemaker/>
 
 ## Links
 

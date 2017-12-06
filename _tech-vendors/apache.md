@@ -15,7 +15,7 @@ draft-banner: true
 | [Hive](/technologies/apache-hive/) | Supports the execution of SQL queries over data in HDFS using MapReduce, Spark or Tez based on tables defined in the Hive Metastore
 | [Pig](/technologies/apache-pig/) | Technology for running analytical and data processing jobs written in Pig Latin against data in Hadoop using MapReduce, Tez and Spark
 | MRQL (Incubating) | Supports the execution of MRQL queries over data in Hadoop using MapReduce, Hama, Spark or Flink - <http://mrql.apache.org/>
-| [Impala (Incubating)](/technologies/apache-impala/) | An MPP query engine that supports the execution of SQL queries over in HDFS, HBase, Kudu and S3 based on tables defined in the Hive Metastore
+| [Impala](/technologies/apache-impala/) | An MPP query engine that supports the execution of SQL queries over in HDFS, HBase, Kudu and S3 based on tables defined in the Hive Metastore
 | [Drill](/technologies/apache-drill/) | An MPP query engine that supports queries over one or more underlying databases or datasets without first defining a schema and with the ability to join data from multiple datastores together.
 | Lens | Provides a federated view over multiple data stores using a single shared schema server based on the Hive Metastore - <http://lens.apache.org/>
 | [Kylin](/technologies/apache-kylin/) | Supports the creation and querying of OLAP cubes on Hadoop, building cubes from star schema data in Hive into HBase, and then providing a SQL interface that queries across Hive and HBase as required - <http://kylin.apache.org/ >
@@ -31,7 +31,7 @@ draft-banner: true
 | [Myriad (Incubating)](/technologies/apache-myriad/) | Tool that allows YARN applications to run over Apache Mesos, allowing them to co-exist and share cluster resources.
 | [Slider (Incubating)](/technologies/apache-slider/) | Application for deploying long running cluster applications on YARN, now effectively dead following the plan to add support for long running services directly into YARN
 | Twill | Abstraction over YARN that reduces the complexity of developing distributed applications - <http://twill.apache.org/>
-| [Aurora](/technologies/apache-aurora/) | Mesos framework for long-running services and cron jobs - <aurora.apache.org>
+| [Aurora](/technologies/apache-aurora/) | Mesos framework for long-running services and cron jobs - <http://aurora.apache.org>
 | Helix | A framework for building long lived persistent distributed systems - <http://helix.apache.org/>
 | REEF | A framework for developing distributed apps on top of cluster frameworks such as YARN or Mesos - <http://reef.apache.org/>
 

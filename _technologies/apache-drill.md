@@ -11,7 +11,7 @@ version: "v1.11"
 ## Release History
 
 | version | release date | release links | release comment
-| 1.11 | 2017-07-31 | [announcement](http://drill.apache.org/blog/2017/07/31/drill-1.11-released/)
+| 1.11 | 2017-07-31 | [announcement](http://drill.apache.org/blog/2017/07/31/drill-1.11-released/) [blog post](https://community.mapr.com/community/products/blog/2017/11/29/apache-drill-version-111-on-mapr-release-overview)
 
 ## Links
 
