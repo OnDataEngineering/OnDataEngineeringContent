@@ -55,7 +55,7 @@ draft-banner: true
 | [Hadoop/MapReduce](/technologies/apache-hadoop/map-reduce/) | A data transformation and aggregation technology proven at extreme scale that works on key value pairs
 | [Spark](/technologies/apache-spark/) | A high performance general purpose distributed data processing engine based on directed acyclic graphs that primarily runs in memory, but can spill to disk if required
 | [Tez](/technologies/apache-tez/) | Data processing framework based on Directed Acyclic Graphs (DAGs), that runs natively on YARN and was designed to be a replacement for the use of MapReduce within Hadoop analytical tools
-| Gobblin (Incubating) | Framework for managing big data integration, including replication, organization and lifecycle management - <http://gobblin.apache.org/>
+| [Gobblin (Incubating)](/technologies/apache-gobblin/) | Framework for managing big data integration, including replication, organization and lifecycle management
 | [Crunch](/technologies/apache-crunch/) | An abstraction layer over MapReduce (and now Spark) that provides a high level Java API for creating data transformation pipelines
 
 ## Graph Technologies

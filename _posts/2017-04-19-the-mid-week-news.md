@@ -16,6 +16,6 @@ In terms of other technologies news:
 * Sqoop2 has been deprecated by Cloudera as of CDH 5.9, and will be removed from CDH in version 6.  Suggests that all is not well in Sqoop2 land.
 * Hadoop 3.0 is now into it's second alpha release.  Summary is [here](http://hadoop.apache.org/docs/r3.0.0-alpha2/index.html), with some thoughts form [Hortonworks](https://hortonworks.com/blog/data-lake-3-0-part-4-cutting-storage-overhead-in-half-with-hdfs-erasure-coding/) and [Cloudera](http://blog.cloudera.com/blog/2017/02/apache-hadoop-3-0-0-alpha2-released/)
 * [Apache Ranger](/technologies/apache-ranger/) has graduated to a top level Apache project.  There's an [InfoQ write-up](https://www.infoq.com/news/2017/03/apache-ranger-top-level-project)
-* [Gobblin](https://github.com/linkedin/gobblin) has been donated to the Apache Foundation by LinkedIn
+* [Gobblin](/technologies/apache-gobblin/) has been donated to the Apache Foundation by LinkedIn - [link](https://github.com/linkedin/gobblin)
 
 We'll try and do this weekly going forward - let's just hope keeping up to date with everything doesn't prove to be unsustainable!  And next week we'll have a look at some of the interesting blog posts I've been accumulating.
