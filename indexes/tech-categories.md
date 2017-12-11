@@ -54,6 +54,12 @@ Technologies that support the integration of data from multiple sources without 
 | [Data Virtualization](/tech-categories/data-virtualization/) | Technologies that allow data in multiple source databases to be accessed as a single integrated virtual database
 | Enterprise Semantic Graphs | Technologies that allow data in multiple sources to be accessed as a single integrated RDF graph model
 
+## Data Processing
+
+Technologies that support the acquisition, ingest and processing of data
+
+| [Data Ingestion](/tech-categories/data-ingestion/) | Specialist tools designed to acquire and ingest data into an analytical platform ready for analysis or for further transformation to support analysis.
+
 ## Infrastructure
 
 | [Compute Cluster Managers](/tech-categories/compute-cluster-managers/) | Technologies for managing the execution of jobs across a general purpose compute cluster |
