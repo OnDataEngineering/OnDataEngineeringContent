@@ -39,14 +39,15 @@ draft-banner: true
 
 | [Avro](/technologies/apache-avro/) | Data serialisation framework that supports both messaging and data storage, primarily using a compact binary format but also supports a JSON format.
 | [Parquet](/technologies/apache-parquet/) | Data serialisation framework that supports a columnar storage format to enable efficient querying of data.
-| Arrow | In-memory columnar data serialisation framework - <http://arrow.apache.org/>
-| CarbonData | Data serialisation framework that supports an indexed columnar storage format - <http://carbondata.apache.org/>
-| ORC | Data serialisation framework that supports a columnar storage format to enable efficient querying of data - <https://orc.apache.org/>
+| [Arrow](/technologies/apache-arrow/) | In memory columnar data format supporting high performance data exchange and fast analytical access 
+| [ORCFile](/technologies/apache-orc/) | Evolution of RCFile, spun out into it's own Apache project
+| [CarbonData](/technologies/apache-carbondata/) | Columnar format created by Huawei to address a number of perceived shortcomings in existing formats
 
-## Data Movement
+## Data Ingestion
 
-| [Flume](/technologies/apache-flume/) | Specialist technology for the continuous movement of data using a set of independent agents connected together into pipelines.
 | [Nifi](/technologies/apache-nifi/) | General purpose technology for the movement of data between systems, including the ingestion of data into an analytical platform.
+| [Gobblin (Incubating)](/technologies/apache-gobblin/) | Framework for managing big data ingestion, including replication, organization and lifecycle management
+| [Flume](/technologies/apache-flume/) | Specialist technology for the continuous movement of data using a set of independent agents connected together into pipelines.
 | [Sqoop](/technologies/apache-sqoop/) | Specialist technology for moving bulk data between Hadoop and structured (relational) databases.
 | ManifoldCF | Framework for replicating data from content repositories to analytical search technologies - <http://manifoldcf.apache.org/>
 
@@ -55,7 +56,6 @@ draft-banner: true
 | [Hadoop/MapReduce](/technologies/apache-hadoop/map-reduce/) | A data transformation and aggregation technology proven at extreme scale that works on key value pairs
 | [Spark](/technologies/apache-spark/) | A high performance general purpose distributed data processing engine based on directed acyclic graphs that primarily runs in memory, but can spill to disk if required
 | [Tez](/technologies/apache-tez/) | Data processing framework based on Directed Acyclic Graphs (DAGs), that runs natively on YARN and was designed to be a replacement for the use of MapReduce within Hadoop analytical tools
-| [Gobblin (Incubating)](/technologies/apache-gobblin/) | Framework for managing big data integration, including replication, organization and lifecycle management
 | [Crunch](/technologies/apache-crunch/) | An abstraction layer over MapReduce (and now Spark) that provides a high level Java API for creating data transformation pipelines
 
 ## Graph Technologies
