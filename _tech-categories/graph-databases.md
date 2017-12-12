@@ -15,7 +15,7 @@ DB Engines has a list of graph databases at <https://db-engines.com/en/ranking/g
 
 The Forrester Graph Databases Market Overview (<https://www.forrester.com/report/Market+Overview+Graph+Databases/-/E-RES121473>) covers a number of graph databases, including DataStax Enterprise, FlockDB, Neo4j and OrientDB, and has a good introduction to RDF and Graph databases.
 
-The Gartner Magic Quadrant for Operational Database Management Systems (https://www.gartner.com/doc/3147919) also includes a number of graph databases, including Datastax Enterprise, Neo4j, NuoDB, and OrientDB. This can be downloaded from Microsoft (<https://info.microsoft.com/CO-SQL-CNTNT-FY16-09Sep-14-MQOperational-Register.html>) and Nuo (<http://go.nuodb.com/gartner-magic-quadrant.html>) for free.
+The Gartner Magic Quadrant for Operational Database Management Systems (<https://www.gartner.com/doc/3147919>) also includes a number of graph databases, including Datastax Enterprise, Neo4j, NuoDB, and OrientDB. This can be downloaded from Microsoft (<https://info.microsoft.com/CO-SQL-CNTNT-FY16-09Sep-14-MQOperational-Register.html>) and Nuo (<http://go.nuodb.com/gartner-magic-quadrant.html>) for free.
 
 Bloor have a primer on graph technologies (<http://www.bloorresearch.com/research/spotlight/all-about-graphs-a-primer/>), a 2016 Graph and RDF Databases Market Report (<http://www.bloorresearch.com/research/market-report/graph-and-rdf-databases-2016/>) and a 2016 Graph and RDF Databases Market Update (<http://www.bloorresearch.com/research/market-update/graph-and-rdf-databases-market-update-2016/>), all of which are free to download for personal non-commercial use, and which cover a number of graph databases including ArangoDB, BlazeGraph, DataStax Enterprise, OrientDB and Neo4j.
 
