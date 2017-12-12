@@ -56,7 +56,7 @@ The following technologies support the continuous capture and ingestion of recor
 A number of [streaming data stores](/tech-categories/streaming-data-stores/) have integrated tools for the aquisition of data:
 
 | [Kafka Connect](/technologies/apache-kafka/kafka-connect/) | Framework for building scalable and reliable integrations between Kafka and other technologies, including the ingestion of data, that's part of the core Apache Kafka technology
-| [MapR Streams Tools](mapr-streams-clients-and-tools) | Bundles Kafka Connect for [MapR-ES](/technologies/mapr-file-system/mapr-streams)
+| [MapR Streams Tools](/technologies/mapr-streams-clients-and-tools/) | Bundles Kafka Connect for [MapR-ES](/technologies/mapr-file-system/mapr-streams)
 | Amazon Kinesis Streams | Includes an Amazon Kinesis Agent for capture and ingestion of data - <https://aws.amazon.com/kinesis/streams/>
 
 ## Cloud Based Ingestion Tools
