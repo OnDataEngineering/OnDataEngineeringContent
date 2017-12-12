@@ -12,7 +12,7 @@ version: "2.2"
 
 | version | release date | release links | release comment
 | 2.1 | 2017-08-23 | [release notes](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12319527&version=12340528) |
-| 2.2 | 2017-10-26 | [release notes](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12319527&version=12341044) |
+| 2.2 | 2017-12-02 | [release notes](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12319527&version=12341044) |
 
 ## Links
 
