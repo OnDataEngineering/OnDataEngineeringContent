@@ -5,13 +5,14 @@ alt-titles: [Flink]
 vendors: [Apache, Data Artisans]
 type: "Commercial Open Source"
 date: 2017-02-08
-last_updated: 2017-06-07
-version: "1.3"
+last_updated: 2017-12-13
+version: "1.4"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 1.3 | 2017-06-01 | [summary](http://flink.apache.org/news/2017/06/01/release-1.3.0.html) |
+| 1.4 | 2017-12-12 | [summary](http://flink.apache.org/news/2017/12/12/release-1.4.0.html) |
 
 ## Links
 

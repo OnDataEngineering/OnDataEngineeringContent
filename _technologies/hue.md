@@ -12,7 +12,8 @@ version: "4.1"
 
 | version | release date | release links | release comment
 | 4.0 | 2017-07-31 | [announcement](http://gethue.com/hue-4-and-its-new-interface-is-out/) [UI details](http://gethue.com/the-hue-4-user-interface-in-detail/) | New UI
-| 4.1 | 2017-10-04 | [accouncement](http://gethue.com/hue-4-1-is-out/)
+| 4.1 | 2017-10-04 | [announcement](http://gethue.com/hue-4-1-is-out/)
+| 4.2 | pending | [blog posts](http://gethue.com/category/hue-4-2/)
 
 ## Links
 

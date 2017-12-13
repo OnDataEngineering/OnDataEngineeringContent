@@ -5,8 +5,8 @@ alt-titles: [Calcite, Avatica]
 vendors: [Apache]
 type: "Open Source - Active"
 date: 2017-02-24
-last_updated: 2017-10-04
-version: "v1.14"
+last_updated: 2017-12-13
+version: "v1.15"
 ---
 ## Release History
 
@@ -14,6 +14,7 @@ version: "v1.14"
 | 1.12 | 2017-03-24 | [announcement](http://calcite.apache.org/news/2017/03/24/release-1.12.0/) |
 | 1.13 | 2017-06-26 | [announcement](https://calcite.apache.org/news/2017/06/26/release-1.13.0/) |
 | 1.14 | 2017-10-04 | [announcement](https://calcite.apache.org/news/2017/10/02/release-1.14.0/) |
+| 1.15 | 2017-12-11 | [announcement](https://calcite.apache.org/news/2017/12/11/release-1.15.0/) |
 
 ## Links
 
