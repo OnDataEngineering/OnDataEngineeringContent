@@ -27,12 +27,13 @@ draft-banner: true
 ## Compute Cluster Management
 
 | [Hadoop/YARN](/technologies/apache-hadoop/yarn/) | Resource management and job scheduling & monitoring for the Hadoop ecosystem.
-| [Mesos](/technologies/apache-mesos/) | Resource management over large clusters of machines
-| [Myriad (Incubating)](/technologies/apache-myriad/) | Tool that allows YARN applications to run over Apache Mesos, allowing them to co-exist and share cluster resources.
 | [Slider (Incubating)](/technologies/apache-slider/) | Application for deploying long running cluster applications on YARN, now effectively dead following the plan to add support for long running services directly into YARN
 | Twill | Abstraction over YARN that reduces the complexity of developing distributed applications - <http://twill.apache.org/>
-| [Aurora](/technologies/apache-aurora/) | Mesos framework for long-running services and cron jobs - <http://aurora.apache.org>
-| Helix | A framework for building long lived persistent distributed systems - <http://helix.apache.org/>
+| [Mesos](/technologies/apache-mesos/) | Resource management over large clusters of machines
+| [Aurora](/technologies/apache-aurora/) | Mesos framework for long-running services and cron jobs
+| [ZooKeeper](/technologies/apache-zookeeper/) | Service for managing coordination (e.g. configuration information and synchronisation) of distributed and clustered systems.
+| Curator | A set of Java libraries that make using Apache ZooKeeper much easier - <http://curator.apache.org/>
+| [Myriad (Incubating)](/technologies/apache-myriad/) | Tool that allows YARN applications to run over Apache Mesos, allowing them to co-exist and share cluster resources.
 | REEF | A framework for developing distributed apps on top of cluster frameworks such as YARN or Mesos - <http://reef.apache.org/>
 
 ## Data Formats
@@ -138,14 +139,13 @@ draft-banner: true
 ## Other Technologies
 
 | [DataFu (Incubating)](/technologies/apache-datafu/) | A set of libraries for working with data in Hadoop, consisting of two sub-projects - DataFu Pig (a set of Pig User Defined Functions) and DataFu Hourglass (a framework for incremental processing using MapReduce).
-| [ZooKeeper](/technologies/apache-zookeeper/) | Service for managing coordination (e.g. configuration information and synchronisation) of distributed and clustered systems.
 | AsterixDB | Scalable "Big Data Management System" - <https://asterixdb.apache.org/>
 | Chukwa | Specialist technology for the ingestion of continuous data flows into an Hadoop cluster, and the subsequent management and analysis of the data - <https://chukwa.apache.org/ >
 | Edgent (Incubating) | Stream processing programming model and lightweight runtime to execute analytics at devices on the edge or at the gateway, previously known as Quarks - <http://edgent.apache.org/>
 | Gora | ORM with support for a range of NoSQL, Search and Hadoop data formats - <http://gora.apache.org/>
+| Helix | A framework for building long lived persistent distributed systems - <http://helix.apache.org/>
 | MetaModel | Technology for reading and writing database metadata with connectors for a wide range of databases - <http://metamodel.apache.org/>
 | Toree (Incubating) | Framework to allow interactive applications to communicate with a remote Spark cluster - <http://toree.apache.org/>
-| Curator | A set of Java libraries that make using Apache ZooKeeper much easier - <http://curator.apache.org/>
 | [Calcite](/technologies/apache-calcite/) | A framework for building SQL based data access capabilities, supporting a SQL parser and validator and tools for the transformation and (cost based) optimisation of SQL expression trees.
 | [Livy (Incubating)](/technologies/apache-livy/) | A service that allows Spark jobs (pre-compiled JARs) or code snippets (Scala or Python) to be executed by remote systems over a REST API or via clients for Java, Scala and Python.
 | [Superset (Incubating)](/technologies/apache-superset/) | Web based tool for interactive exploration for OLAP style data, supporting interactive drag and drop querying, composable dashboards and a SQL workspace (SQL Lab).

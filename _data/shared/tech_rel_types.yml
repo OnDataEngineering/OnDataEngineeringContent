@@ -21,3 +21,7 @@ manageable via:
 also available as:
   title: "Also available as"
   reverse-title: "Instance of"
+
+compatible with:
+  title: "Compatible with"
+  reverse-title: "Compatible technologies"
