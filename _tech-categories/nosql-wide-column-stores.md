@@ -18,6 +18,12 @@ NoSQL Wide Column stores are all based on the original design paper for Google B
 | [Apache Accumulo](/technologies/apache-accumulo/) | NoSQL wide-column datastore based on BigTable, supporting cell based access control (based on arbitrary boolean expressions of user security labels) and atomic mutation operators.
 | ScyllaDB | Cassandra-compatible data store re-written in C++ with the aim to provider higher throughput at lower latency, open sourced under an AGPL licence - <http://www.scylladb.com/>
 
+There are a number of associated technologies to the above:
+
+| Apache Fluo | Implementation of Google Percolator for maintaining aggregations in Accumulo - <https://fluo.apache.org/>
+| Apache Omid (Incubating) | ACID transaction support over MVCC key/value NoSQL datastores with support for Apache HBase - <http://omid.apache.org/>
+| Apache Tephra (Incubating) | ACID transaction support over Apache HBase, used by Tigon and Apache Phoenix - <http://tephra.apache.org/>
+
 ## Commercial Options
 
 | ScyllaDB Enterprise | Distribution of ScyllaDB (the open source product) from ScyllaDB (the company), with added enterprise features and commercial support - <http://www.scylladb.com/>
