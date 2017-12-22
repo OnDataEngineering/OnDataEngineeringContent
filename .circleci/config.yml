@@ -6,7 +6,7 @@ jobs:
       
     branches:
       only:
-        - master
+        - main
 
     environment:
       TZ: "/usr/share/zoneinfo/Europe/London"
