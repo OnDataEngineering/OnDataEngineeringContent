@@ -18,7 +18,7 @@ The following are open source Streaming Data Store technologies:
 | Pulsar | Distributed pub-sub messaging from Yahoo, with persistent message storage based on Apache BookKeeper
 | BookKeeper | Distributed log storage service from Yahoo
 
-Note that [Apache Kafka](/technologies/apache-kafka/) is bundled with a number of Hadoop distributions.
+Note that [Apache Kafka](/technologies/apache-kafka/) is bundled with a number of [Hadoop distributions](/tech-categories/hadoop-distributions/).
 
 ## Commercial Technologies
 
