@@ -22,6 +22,12 @@ show_errors: true
 
 excerpt_separator: "<!--more-->"
 
+header_pages:
+  - indexes/technologies.md
+  - indexes/tech-categories.md
+  - indexes/tech-vendors.md
+  - posts.html
+  
 collections:
   technologies:
     output: true
