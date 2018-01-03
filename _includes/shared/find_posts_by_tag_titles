@@ -13,11 +13,9 @@ Returns:
 {% assign posts = "" | split: "" %}
 
 {% include shared/get_titles page=include.page %}
-<ul>
-  {% for p in site.posts %}
-    {% include shared/array_contains list1=titles list2=p.tags %}
-    {% if overlap %}
-      {% assign posts = posts | push: p %}
-    {% endif %}
-  {% endfor %}
-</ul>
+{% for p in site.posts %}
+  {% include shared/array_contains list1=titles list2=p.tags %}
+  {% if overlap %}
+    {% assign posts = posts | push: p %}
+  {% endif %}
+{% endfor %}
