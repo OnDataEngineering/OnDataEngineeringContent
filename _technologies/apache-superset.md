@@ -8,6 +8,5 @@ version: "v0.10"
 ---
 ## Links
 
-* <https://github.com/airbnb/superset> - GitHub page
-* <http://airbnb.io/superset/> - Documentation
+* <https://superset.incubator.apache.org/> - homepage
 * <https://medium.com/airbnb-engineering/caravel-airbnb-s-data-exploration-platform-15a72aa610e5> - introductory blog post
