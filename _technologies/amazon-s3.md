@@ -12,3 +12,7 @@ last_updated: 2017-12-06
 * <https://aws.amazon.com/s3> - home page
 * <https://aws.amazon.com/s3/details/> - details
 * <https://aws.amazon.com/documentation/s3/> - documentation
+
+## News
+
+* See [Amazon vendor page](/tech-vendors/amazon-web-services/)
