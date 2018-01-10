@@ -6,16 +6,15 @@ vendor: [Cloudera]
 tech-relationships: [[uses, CDH]]
 type: "Commercial"
 date: 2017-06-19 08:00
-last_updated: 2017-10-04
+last_updated: 2017-11-29
 ---
 ## History
 
-| 2017-09-27 | Support for Azure added - [announcement](http://vision.cloudera.com/introducing-cloudera-altus-on-microsoft-azure/); [details](http://blog.cloudera.com/blog/2017/09/cloudera-altus-on-microsoft-azure/)
+| 2017-05-24 | Initial GA release (Data Engineering) - [announcement](http://vision.cloudera.com/simplifying-big-data-in-the-cloud/); [blog](http://blog.cloudera.com/blog/2017/05/data-engineering-with-cloudera-altus/); [details](https://community.cloudera.com/t5/Community-News-Release/Announce-Cloudera-Altus-is-now-available/m-p/55007)
+| 2017-09-27 | Support for Azure added - [announcement](http://vision.cloudera.com/introducing-cloudera-altus-on-microsoft-azure/); [blog](http://blog.cloudera.com/blog/2017/09/cloudera-altus-on-microsoft-azure/)
+| 2017-11-28 | Beta support for Analytic DB added - [announcement](http://vision.cloudera.com/introducing-cloudera-altus-analytic-db-beta-for-cloud-based-data-warehousing/)
 
 ## Links
 
 * <https://www.cloudera.com/products/altus.html> - homepage
-* <https://community.cloudera.com/t5/Community-News-Release/Announce-Cloudera-Altus-is-now-available/m-p/55007> - announcement
-* <http://vision.cloudera.com/simplifying-big-data-in-the-cloud/> - Cloudera Vision blog post
-* <http://blog.cloudera.com/blog/2017/05/data-engineering-with-cloudera-altus/> - Cloudera engineering blog post
 * <https://www.cloudera.com/documentation/altus.html> - documentation
