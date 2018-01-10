@@ -5,22 +5,21 @@ alt-titles: [Hadoop]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2016-12-16
-last_updated: 2017-11-22
-version: "v2.9"
+last_updated: 2018-01-10
+version: "v3.0"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 2.8 | 2017-03-22 | [summary](http://hadoop.apache.org/docs/r2.8.0/index.html) | Note that 2.8.2 is the first GA version for production use 
 | 2.9 | 2017-11-17 | [summary](http://hadoop.apache.org/docs/r2.9.0/index.html)
-| 3.0-beta1 | 2017-10-03 | [summary](http://hadoop.apache.org/docs/r3.0.0-beta1/index.html)
+| 3.0 | 2017-12-14 | [summary](http://hadoop.apache.org/docs/r3.0.0/index.html); [announcement](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces26)
 
 ## Links
 
 * <http://hadoop.apache.org/> - Project Homepage
 * <http://hadoop.apache.org/releases.html> - full release history
 * <https://medium.com/@markobonaci/the-history-of-hadoop-68984a11704> - history of Hadoop
-* <http://blogs.gartner.com/merv-adrian/2016/07/30/hadoop-project-commercial-support-tracker-july-2016/> - summary of the technologies in the common Hadoop distributions
 
 ## News
 
