@@ -86,7 +86,7 @@ draft-banner: true
 
 | [Ignite](/technologies/apache-ignite/) | A distributed in-memory data fabric/grid, supporting a range of different use cases and capabilities
 | Geode | In memory data management platform, born of Pivotal Gemfire - <http://geode.apache.org/>
-| Mnemonic (Incubating) | Hybrid memory / storage object model framework - <http://mnemonic.apache.org/>
+| Mnemonic | Hybrid memory / storage object model framework - <http://mnemonic.apache.org/>
 
 ## Machine Learning Technologies
 
@@ -110,7 +110,7 @@ draft-banner: true
 ## OLTP Databases
 
 | [Phoenix](/technologies/apache-phoenix/) | An OLTP SQL query engine over Apache HBase tables that supports a subset of SQL 92 (including joins), and comes with a JDBC driver.
-| Trafodion (Incubating) |  OLTP on Hadoop solution based on Tandom NoStop database IP with commercial support from Esgyn - <https://trafodion.incubator.apache.org/>
+| Trafodion |  OLTP on Hadoop solution based on Tandom NoStop database IP with commercial support from Esgyn - <https://trafodion.incubator.apache.org/>
 
 ## Streaming Analytics
 

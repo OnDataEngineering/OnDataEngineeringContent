@@ -13,7 +13,7 @@ version: "v1.6"
 | version | release date | release links | release comment
 | 1.4 | 2017-06-13 | [summary](http://kudu.apache.org/releases/1.4.0/docs/release_notes.html) 
 | 1.5 | 2017-09-08 | [summary](http://kudu.apache.org/releases/1.5.0/docs/release_notes.html) [blog post](https://kudu.apache.org/2017/09/08/apache-kudu-1-5-0-released.html)
-| 1.6 | 2017-12-07 | [summary](https://kudu.apache.org/releases/1.6.0/docs/release_notes.html)
+| 1.6 | 2017-12-07 | [summary](https://kudu.apache.org/releases/1.6.0/docs/release_notes.html) [blog post](https://kudu.apache.org/2017/12/08/apache-kudu-1-6-0-released.html)
 
 ## Links
 

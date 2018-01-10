@@ -14,6 +14,8 @@ See also our Hadoop (HDFS and YARN) [ecosystem diagrams](/tech-categories/hadoop
 
 We also have a summary of the [ODPi](/tech-vendors/odpi/) organisation that's trying to drive compatibility between Hadoop distributions.
 
+Merv Adrian from Gartner maintains a tracker of the different versions of each Hadoop component in the major distributions - <https://blogs.gartner.com/merv-adrian/2018/01/03/january-2018-hadoop-tracker/>
+
 ## Commercial Distributions
 
 The following are distributions from commercial vendors for installation on pre-provisioned infrastructure, with many also including tooling for programmatically provisioning infrastructure when installing in cloud environments.

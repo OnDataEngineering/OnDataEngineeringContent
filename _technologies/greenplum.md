@@ -14,7 +14,7 @@ version: "5.3"
 | 5.0 | 2017-09-14 | [release notes](http://gpdb.docs.pivotal.io/500/relnotes/GPDB_500_README.html)
 | 5.1 | 2017-10-21 | [release notes](http://gpdb.docs.pivotal.io/510/relnotes/GPDB_510_README.html)
 | 5.2 | 2017-11-22 | [release notes](http://gpdb.docs.pivotal.io/520/relnotes/GPDB_520_README.html)
-| 5.3 | 2017-12-07 | [release notes](http://gpdb.docs.pivotal.io/530/relnotes/GPDB_530_README.html)
+| 5.3 | 2017-12-07 | [release notes](http://gpdb.docs.pivotal.io/530/relnotes/GPDB_530_README.html) [blog](https://content.pivotal.io/blog/introducing-greenplum-5-3) | Initial containerisation support
 
 ## Links
 

@@ -23,6 +23,7 @@ version: "v1.0"
 * <https://cwiki.apache.org/confluence/display/KAFKA/Clients> - list of clients
 * <https://www.confluent.io/clients/> - Confluent's list of available clients
 * <https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem> - associated technologies
+* <https://dzone.com/refcardz/apache-kafka> - DZone Refcard covering useful getting started information
 
 ## News
 
