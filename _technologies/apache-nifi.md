@@ -5,8 +5,8 @@ alt-titles: [NiFi]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-03-15 07:30
-last_updated: 2017-10-04
-version: "v1.4"
+last_updated: 2018-01-17
+version: "v1.5"
 ---
 ## Release History
 
@@ -14,6 +14,7 @@ version: "v1.4"
 | 1.2 | 2017-05-08 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.2.0); [processing large volumes of records more efficiently](https://blogs.apache.org/nifi/entry/record-oriented-data-with-nifi); [running SQL on event streams](https://blogs.apache.org/nifi/entry/real-time-sql-on-event) |
 | 1.3 | 2017-06-08 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.3.0) |
 | 1.4 | 2017-10-02 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.4.0) |
+| 1.5 | 2018-01-12 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.5.0) | [registry / version control blog post from DZone](https://dzone.com/articles/new-features-in-apache-nifi-15-apache-nifi-registr)
 
 ## Links
 
