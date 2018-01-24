@@ -5,14 +5,15 @@ alt-titles: [Alluxio, Tachyon]
 vendors: [Alluxio]
 type: "Commercial Open Source"
 date: 2017-01-27
-last_updated: 2017-09-27
-version: "v1.6"
+last_updated: 2018-01-24
+version: "v1.7"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 1.5 | 2017-06-12 | [release notes](http://www.alluxio.org/download/releases/alluxio-150-release) |
 | 1.6 | 2017-09-22 | [release notes](http://www.alluxio.org/download/releases/alluxio-160-release) |
+| 1.7 | 2018-01-17 | [release notes](http://www.alluxio.org/download/releases/alluxio-170-release) |
 
 ## Links
 

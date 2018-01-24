@@ -9,6 +9,8 @@ Engines that allow analytical queries expressed in a high level language (often 
 
 ## Further Information
 
+Bloor have a [SQL Engines on Hadoop Market Report Paper](https://www.bloorresearch.com/research/sql-engines-hadoop/) that covers some of these technologies.
+
 See our [Data Storage Formats](/tech-categories/data-storage-formats/) page for information on file formats to use with these query engines.
 
 See our [Analytical Databases](/tech-categories/analytical-databases/) page for information on technologies that provide analytical capabilities as a self contained storage and query engine stack.
