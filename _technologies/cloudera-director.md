@@ -4,8 +4,8 @@ description: "Solution for deploying and managing Cloudera CDH Hadoop clusters o
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-04-13 07:30
-last_updated: 2017-10-18
-version: "v2.6"
+last_updated: 2018-01-31
+version: "v2.7"
 ---
 ## Further Information
 
@@ -17,6 +17,7 @@ Cloudera Director is available on AWS as [Cloudera EDH AWS Quick Start](https://
 | 2.4 | 2017-04-18 | [announcement](http://blog.cloudera.com/blog/2017/04/whats-new-in-cloudera-director-2-4/) | CDH 5.11
 | 2.5 | 2017-07-14 | [announcement](http://blog.cloudera.com/blog/2017/07/whats-new-in-cloudera-director-2-5/) [AWS Spot instance support](http://blog.cloudera.com/blog/2017/08/cloudera-director-and-spot-instances-resilience-and-repair/) | 
 | 2.6 | 2017-10-12 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Director-2-6-0-Released/td-p/60880) [Blog Post](http://blog.cloudera.com/blog/2017/10/whats-new-in-cloudera-director-2-6/)
+| 2.7 | 2018-01-26 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Director-2-7-0-Released/m-p/64054#M214) [Blog Post](http://blog.cloudera.com/blog/2018/01/whats-new-in-cloudera-director-2-7/)
 
 ## Links
 
