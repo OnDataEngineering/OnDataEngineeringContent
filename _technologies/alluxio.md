@@ -13,7 +13,7 @@ version: "v1.7"
 | version | release date | release links | release comment
 | 1.5 | 2017-06-12 | [release notes](http://www.alluxio.org/download/releases/alluxio-150-release) |
 | 1.6 | 2017-09-22 | [release notes](http://www.alluxio.org/download/releases/alluxio-160-release) |
-| 1.7 | 2018-01-17 | [release notes](http://www.alluxio.org/download/releases/alluxio-170-release) |
+| 1.7 | 2018-01-16 | [release notes](http://www.alluxio.org/download/releases/alluxio-170-release) |
 
 ## Links
 
