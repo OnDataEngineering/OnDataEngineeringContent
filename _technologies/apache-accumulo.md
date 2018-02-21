@@ -6,8 +6,16 @@ tech-relationships: [[add ons, Apache Fluo]]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-29 07:30
+last_updated: 2018-02-21
 version: "v1.8"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.8 | 2016-09-06 | [release notes](http://accumulo.apache.org/release/accumulo-1.8.0/)
+| 1.9 | tbc | [draft release notes](http://accumulo.apache.org/release/accumulo-1.9.0/)
+| 2.0 | tbc | [draft release notes](http://accumulo.apache.org/release/accumulo-2.0.0/)
+
 ## Links
 
 * <http://accumulo.apache.org/> - homepage

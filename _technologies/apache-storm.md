@@ -5,13 +5,14 @@ alt-titles: [Storm]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-28 07:30
-last_updated: 2017-04-19
-version: "v1.1"
+last_updated: 2018-02-21
+version: "v1.2"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 1.1 | 2017-03-29 | [release notes](http://storm.apache.org/2017/03/29/storm110-released.html) |
+| 1.2 | 2018-02-16 | [release notes](http://storm.apache.org/2018/02/15/storm120-released.html) |
 
 ## Links
 
@@ -22,7 +23,5 @@ version: "v1.1"
 * <http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html> - history of storm
 
 ## News
-
-http://accumulo.apache.org/news/
 
 * <http://storm.apache.org/index.html> - Storm new announced on Apache homepage

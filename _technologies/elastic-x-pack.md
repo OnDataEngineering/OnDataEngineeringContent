@@ -5,8 +5,8 @@ alt-titles: [X-Pack]
 vendors: [Elastic]
 type: "Commercial"
 date: 2017-07-05 07:30
-last_updated: 2018-01-10
-version: "v6.1"
+last_updated: 2018-02-21
+version: "v6.2"
 ---
 ## Release History
 
@@ -15,6 +15,7 @@ version: "v6.1"
 | 5.6 | 2017-09-11 | [change notes](https://www.elastic.co/guide/en/x-pack/5.6/xpack-change-list.html#release-notes-5.6.0) 
 | 6.0 | 2017-11-14 | [change notes](https://www.elastic.co/guide/en/x-pack/6.0/xpack-change-list.html)
 | 6.1 | 2017-12-13 | [change notes](https://www.elastic.co/guide/en/x-pack/6.1/xpack-change-list.html) | [APM](https://www.elastic.co/blog/elastic-apm-beta-released) Beta; [New ML features](https://www.elastic.co/blog/machine-learning-6-1-0-released)
+| 6.2 | 2018-02-06 | [change notes](https://www.elastic.co/guide/en/x-pack/6.2/xpack-change-list.html) | [APM GA](https://www.elastic.co/blog/elastic-apm-ga-released)
 
 ## Links
 

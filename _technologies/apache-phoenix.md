@@ -5,7 +5,7 @@ alt-titles: [Phoenix]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-01
-last_updated: 2017-11-15
+last_updated: 2018-02-21
 version: "v4.13"
 ---
 ## Release History
@@ -15,11 +15,11 @@ version: "v4.13"
 | 4.11 | 2017-07-07 | [announcement](https://blogs.apache.org/phoenix/entry/announcing-phoenix-4-11-released) |
 | 4.12 | 2017-10-11 | [announcement](https://blogs.apache.org/phoenix/entry/announcing-phoenix-4-12-released) |
 | 4.13 | 2017-11-12 | [announcement](https://blogs.apache.org/phoenix/entry/announcing-phoenix-4-13-released) |
+| 5.0-alpha | 2018-02-15 | [announcement](http://mail-archives.us.apache.org/mod_mbox/www-announce/201802.mbox/%3Cde3639a6-15a9-d8c8-87f5-4abdc49271d9%40apache.org%3E); [release notes](https://phoenix.apache.org/release_notes.html) | Hadoop 3.0 and HBase 2.0 compatibility |
 
 ## Links
 
 * <http://phoenix.apache.org/> - home page
-* <https://blogs.apache.org/phoenix/entry/announcing_phoenix_4_9_released> - 4.9 announcement (homepage doesn't appear to have been updated)
 * <https://blogs.apache.org/phoenix/entry/apache_phoenix_released_next_major> - 3.0/4.0 announcement
 * <https://blog.cloudera.com/blog/2015/05/apache-phoenix-joins-cloudera-labs> - Cloudera labs announcement
 

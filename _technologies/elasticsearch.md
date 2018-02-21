@@ -5,8 +5,8 @@ vendors: [Elastic]
 tech-relationships: [[add ons, X-Pack, Elasticsearch-Hadoop], [manageable via, Elastic Cloud]]
 type: "Commercial Open Source"
 date: 2017-07-04 07:30
-last_updated: 2018-01-10
-version: "v6.1"
+last_updated: 2018-02-21
+version: "v6.2"
 ---
 ## Release History
 
@@ -15,6 +15,7 @@ version: "v6.1"
 | 5.6 | 2017-09-11 | [announcement](https://www.elastic.co/blog/elasticsearch-5-6-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/5.6/release-notes-5.6.0.html) | [High Level REST Client](https://www.elastic.co/blog/the-elasticsearch-java-high-level-rest-client-is-out)
 | 6.0 | 2017-11-14 | [announcement](https://www.elastic.co/blog/elasticsearch-6-0-0-released) ; [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.0/release-notes-6.0.0.html) | [Removal of mapping types](https://www.elastic.co/blog/removal-of-mapping-types-elasticsearch)
 | 6.1 | 2017-12-13 | [announcement](https://www.elastic.co/blog/elasticsearch-6-1-0-released) ; [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.1/release-notes-6.1.0.html)
+| 6.2 | 2018-02-06 | [announcement](https://www.elastic.co/blog/elasticsearch-6-2-0-released) ; [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/release-notes-6.2.0.html)
 
 ## Links
 
