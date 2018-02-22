@@ -7,8 +7,15 @@ vendors: [MapR]
 tech-relationships: [[add ons, MapR Streams Clients and Tools], [uses, MapR-FS]]
 type: "Commercial"
 date: 2017-05-02 07:30
-last_updated: 2017-11-10 07:30
+last_updated: 2018-02-22
+version: "6.0"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 5.2 | 2016-08-19 | 
+| 6.0 | 2017-11-21 | [release notes](https://maprdocs.mapr.com/home/ReleaseNotes/whatsnew.html)
+
 ## Links
 
 * <https://mapr.com/products/mapr-streams/> - homepage
