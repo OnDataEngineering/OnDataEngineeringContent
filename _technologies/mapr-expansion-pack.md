@@ -1,7 +1,8 @@
 ---
-title: "MapR Ecosystem Pack"
+title: "MapR Expansion Pack"
+redirect_from: /technologies/mapr-ecosystem-pack/
 description: "A package of open source Hadoop projects certified to work together against one or more versions of the MapR Converged Data Platform.  Has new major releases roughtly once a quarter, with most components kept resonably up to date with the open source version, with any patching done publically in GitHub.  Available as RPMs, and installable via the MapR Installer. These components were originally bundled as part of the MapR Converged Data Platform, but were broken out as the MapR Ecosystem Pack in September 2016 to allow them to be released independantly."
-alt-titles: [MEP]
+alt-titles: [MEP, MapR Ecosystem Pack]
 vendors: [MapR]
 tech-relationships: [[packages, Drill, Flume, HBase, Hive, Hue, Impala, Mahout, Myriad, Oozie, Pig, Sentry, Spark, Sqoop, Storm, Tez]]
 type: "Commercial Open Source"
