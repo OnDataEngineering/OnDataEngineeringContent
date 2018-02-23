@@ -17,7 +17,7 @@ The specification for Hadoop compatible filesystems is included in the Hadoop do
 The following technologies are all designed specifically to be Hadoop compatible and to be drop in replacements for HDFS within an Hadoop cluster, meaning that they can co-exist with YARN and other analytical compute workloads on the same nodes:
 
 | [HDFS](/technologies/apache-hadoop/hdfs/) | The Hadoop Distributed Filesystem, bundled with Hadoop
-| [MapR-FS](/technologies/mapr-file-system/) | Hadoop compatible, highly resilient and scalable distributed filesystem that also supports NoSQL table and streaming data native storage
+| [MapR-FS](/technologies/mapr-fs/) | Hadoop compatible, highly resilient and scalable distributed filesystem that also supports NoSQL table and streaming data native storage
 | [Quantcast File System](/technologies/quantcast-file-system/) | Open source HDFS replacement, which focuses on improving performance and scalability over HDFS
 | Hops-HDFS | Experimental solution based on HDFS but using a distributed MySQL cluster for metadata to increase performance and scalability - <http://www.hops.io/?q=content/hdfs>
 

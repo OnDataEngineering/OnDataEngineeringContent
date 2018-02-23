@@ -43,7 +43,7 @@ Apache HBase and Apache Accumulo are also available as part of most Hadoop manag
 
 | DataStax Enterprise | Commercial product built on Apache Cassandra with the addition of graph and search capabilities - <https://www.datastax.com/>
 | Azure Cosmos DB | Massively scalable, low latency multi-model (key-value, graph, wide column and document) NoSQL database, including support for the Cassandra API - <https://azure.microsoft.com/en-us/services/cosmos-db/>
-| [MapR-DB](/technologies/mapr-file-system/mapr-db) | Commercial document and wide column NoSQL database as part of the MapR stack
+| [MapR-DB](/technologies/mapr-db) | Commercial document and wide column NoSQL database as part of the MapR stack
 
 ## Historical / Legacy Options
 

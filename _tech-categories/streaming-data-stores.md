@@ -25,7 +25,7 @@ Note that [Apache Kafka](/technologies/apache-kafka/) is bundled with a number o
 The following are commercial Streaming Data Store technologies:
 
 | [Confluent Enterprise](/technologies/confluent-enterprise/) | A commercial version of the Confluent Open Source product, with the addition of a number of commercial closed source products including a JMS client, Control Centre (for managing Kafka clusters), Multi DC Replication (active-active replication between Kafka clusters) and Auto Data Balancing.
-| [MapR-ES](/technologies/mapr-file-system/mapr-streams) | Part of the MapR Converged Data Platform - supports streaming data storage capabilities and a Kafka compatible API
+| [MapR-ES](/technologies/mapr-es) | Part of the MapR Converged Data Platform - supports streaming data storage capabilities and a Kafka compatible API
 
 ## Technologies Available as a Service
 
