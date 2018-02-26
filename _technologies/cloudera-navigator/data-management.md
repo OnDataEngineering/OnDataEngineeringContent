@@ -4,12 +4,23 @@ description: "Solution for managing data on a CDH Hadoop cluster. Automatically 
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-04-11 07:30
+last_updated: 2018-02-26
+version: "v2.13"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 2.10 | 2017-04-18 | See [CDH](/technologies/cloudera-cdh/) 5.11 release links | CDH 5.11
+| 2.11 | 2017-07-13 | See [CDH](/technologies/cloudera-cdh/) 5.12 release links | CDH 5.12
+| 2.12 | 2017-10-12 | See [CDH](/technologies/cloudera-cdh/) 5.13 release links | CDH 5.13
+| 2.13 | 2018-01-26 | See [CDH](/technologies/cloudera-cdh/) 5.14 release links | CDH 5.14
+
 ## Links
 
-* <https://www.cloudera.com/documentation/enterprise/latest/topics/cn_iu_introduce_navigator.html> - overview documentation
-* <https://www.cloudera.com/documentation/enterprise/latest/topics/navigator_data_mgmt.html> - introduction
-* <https://www.cloudera.com/documentation/enterprise/latest/topics/datamgmt.html> - primary documentation
-* <https://www.cloudera.com/documentation/enterprise/latest/topics/datamgmt_extraction_indexing.html> - list of metadata that is automatically extracted
+* <https://www.cloudera.com/products/product-components/cloudera-navigator.html> - homepage
+* <https://www.cloudera.com/resources/datasheet/cloudera-navigator-datasheet.html> - datasheet
+* <https://www.cloudera.com/documentation/enterprise/latest/topics/cn_iu_introduce_navigator.html> - introduction
+* <https://www.cloudera.com/documentation/enterprise/latest/topics/datamgmt.html> - documentation
+* <https://www.cloudera.com/documentation/enterprise/release-notes/topics/rg_release_notes_cn.html> - release note
 * <http://cloudera.github.io/navigator/apidocs/v3/> - REST API documentation
 * <https://github.com/cloudera/navigator-sdk> - Java SDK

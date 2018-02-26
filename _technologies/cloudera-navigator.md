@@ -1,26 +1,18 @@
 ---
 title: "Cloudera Navigator"
-description: "A suite of solutions covering Data Management (technical metadata management, lineage, cluster activity and analytics, cluster audit and automated policy actions), Data Encryption (filesystem level encryption, key management and integration with HDFS transparent encryption), and a solution for identifying SQL workloads that are candidates for migration to Hadoop and then optimising these once on Hadoop (Optimizer) build around the Cloudera CDH Hadoop distribution.  All products are commercial closed source products, that are only available with an appropriate Cloudera Enterprise licence."
+description: "A suite of solutions including Navigator Data Management (technical metadata management, lineage, cluster activity and analytics, cluster audit and automated policy actions), Navigator Encryption (filesystem level encryption, key management and integration with HDFS transparent encryption), and Navigator Optimizer (a solution for identifying SQL workloads that are candidates for migration to Hadoop and then optimising these once on Hadoop)) built around the Cloudera CDH Hadoop distribution.  All products are commercial closed source products, that are only available with an appropriate Cloudera Enterprise licence."
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-04-11 07:30
-last_updated: 2018-01-31
-version: "v2.13"
+last_updated: 2018-02-26
 ---
 ## Release History
 
-| version | release date | release links | release comment
-| 2.10 | 2017-04-18 | See [CDH](/technologies/cloudera-cdh/) 5.11 release links | CDH 5.11
-| 2.11 | 2017-07-13 | See [CDH](/technologies/cloudera-cdh/) 5.12 release links | CDH 5.12
-| 2.12 | 2017-10-12 | See [CDH](/technologies/cloudera-cdh/) 5.13 release links | CDH 5.13
-| 2.13 | 2018-01-26 | See [CDH](/technologies/cloudera-cdh/) 5.14 release links | CDH 5.14
+See sub-project pages - each component is separately versioned
 
 ## Links
 
-* <https://www.cloudera.com/products/product-components/cloudera-navigator.html> - Cloudera Navigator homepage
-* <https://www.cloudera.com/resources/datasheet/cloudera-navigator-datasheet.html> - Cloudera Navigator datasheet
-* <https://www.cloudera.com/documentation/enterprise/latest/topics/cn_iu_introduce_navigator.html> - Data Management and Data Encryption introduction
-* <https://www.cloudera.com/documentation/enterprise/latest/topics/navopt.html> - Optimizer introduction
+See sub-project pages - product information and documentation is separate for each component
 
 ## News
 

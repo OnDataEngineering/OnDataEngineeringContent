@@ -4,6 +4,7 @@ description: "A web based hosted service for analysing SQL logs from a range of 
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-04-12 07:30
+last_updated: 2018-02-26
 ---
 ## Links
 
