@@ -10,6 +10,8 @@ date: 2017-05-02 07:30
 last_updated: 2018-02-22
 version: "6.0"
 ---
+NOTE: See [MapR Expansion Pack](/technologies/mapr-expansion-pack/) for details on MapR-ES Kafka Clients and Tools
+
 ## Release History
 
 | version | release date | release links | release comment

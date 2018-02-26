@@ -4,7 +4,7 @@ redirect_from:
   - /technologies/mapr-ecosystem-pack/
   - /technologies/mapr-streams-clients-and-tools/
 description: "A package of open source Hadoop projects certified to work together against one or more versions of the MapR Converged Data Platform.  Has new major releases roughtly once a quarter, with most components kept resonably up to date with the open source version, with any patching done publically in GitHub.  Available as RPMs, and installable via the MapR Installer. These components were originally bundled as part of the MapR Converged Data Platform, but were broken out as the MapR Ecosystem Pack in September 2016 to allow them to be released independantly.  Renamed to the MapR Expansion Pack as of version 4.0."
-alt-titles: [MEP, MapR Ecosystem Pack, MapR-DB HBase Clients and Tools, MapR-ES Kafka Clients and Tools]
+alt-titles: [MEP, MapR Ecosystem Pack]
 vendors: [MapR]
 tech-relationships: [[packages, Drill, Flume, Hive, Hue, Impala, Mahout, Myriad, Oozie, Pig, Sentry, Spark, Sqoop, Storm, Tez, MapR-DB HBase Clients and Tools, MapR-ES Kafka Clients and Tools, Kafka Connect]]
 type: "Commercial Open Source"
@@ -16,12 +16,12 @@ version: "v4.1"
 
 The documentation homepage provides a list of the components included, however this omits a number of components including Mahout, Storm and Tez, and includes Cascading which isn't actually bundled.  The release notes has a more complete list, along with detailed release nodes and package details for each of the components.
 
-Some key components to call out include: 
+Some key components to call out include:
 
 * [Hive](/technologies/apache-hive/) - includes Hive on Tez, but not Hive on Spark or LLAP.  HCatalog is also included.
 * [Hue](/technologies/hue/) - includes [Livy](/technologies/apache-livy/)
 * [Spark](/technologies/apache-spark) - includes Spark 2.x only
-* [Sqoop](/technologies/apache-squoop/) - includes both Squoop1 and Squoop2.
+* [Sqoop](/technologies/apache-sqoop/) - includes both Squoop1 and Squoop2.
 * [MapR-DB](/technologies/mapr-db/) [HBase](/technologies/apache-hbase/) Clients and Tools - this includes the standard client, REST gateway and Thrift1 gateway from HBase, and the asynchronous client from <https://github.com/OpenTSDB/asynchbase>, all of which can be used to manipulate data in MapR-DB binary tables.  Prior to MEP 4.0 (MapR 6.0) the entirety of HBase was bundled, however in MEp 4.0 the HBase Master and HBase Regionserver are no longer distributed.
 * [MapR-ES](/technologies/mapr-es/) [Kafka](/technologies/apache-kafka/) Clients and Tools - this includes the librdkafka C client, the Confluent Python client, [Kafka Connect](/technologies/apache-kafka/kafka-connect/), and the Kafka REST proxy, all of which can be used to manipulate data in MapR-ES.  Introduced in MEP 2.0 - see [blog post](<https://mapr.com/blog/kafka-connect-and-kafka-rest-api-mapr-streaming-just-became-whole-lot-easier/>)
 * The open source components for [MapR Montioring](/technologies/mapr-monitoring/) - collectd, OpenTSDB, Grafana, FluentD, Elasticsearch and  Kibana, are actually distributed as part of the MEP.

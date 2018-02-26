@@ -1,7 +1,7 @@
 ---
 title: The Week That Was - 28/04/2017
 categories: [Technologies]
-tags: [Myriad, MapR Monitoring, MapR Streams Clients and Tools, MapR-FS, MapR-DB]
+tags: [Myriad, MapR Monitoring, MapR-FS, MapR-DB]
 date: 2017-04-28 08:15
 ---
 *NOTE: this article was updated 23/02/18 to reflect changes to the MapR technology pages on this site*
