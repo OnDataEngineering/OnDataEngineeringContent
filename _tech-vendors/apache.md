@@ -58,7 +58,7 @@ draft-banner: true
 | [Spark](/technologies/apache-spark/) | A high performance general purpose distributed data processing engine based on directed acyclic graphs that primarily runs in memory, but can spill to disk if required
 | [Tez](/technologies/apache-tez/) | Data processing framework based on Directed Acyclic Graphs (DAGs), that runs natively on YARN and was designed to be a replacement for the use of MapReduce within Hadoop analytical tools
 | [Crunch](/technologies/apache-crunch/) | An abstraction layer over MapReduce (and now Spark) that provides a high level Java API for creating data transformation pipelines
-| Coral | A runtime for data processing languages that dynamically adjusts to the runtime environment - [https://coral.incubator.apache.org/>]
+| Nemo (Incubating) | A runtime for data processing languages that dynamically adjusts to the runtime environment - [https://nemo.incubator.apache.org/>]
 
 ## Graph Technologies
 

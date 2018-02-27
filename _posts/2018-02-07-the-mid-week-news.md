@@ -14,7 +14,7 @@ Technology updates (details are on the relevant technology pages):
 
 Other technology news:
 
-* Coral has entered the Apache Incubator - it's a runtime for data processing languages (currently supporting [Apache Beam](/technologies/apache-beam/) with [Apache Spark](/technologies/apache-spark/) support coming) that dynamically adjusts to the runtime environment and uses Apache REEF to run over [YARN](/technologies/apache-hadoop/yarn/) or [Mesos](/technologies/apache-mesos/) - [homepage](https://snuspl.github.io/coral/); [Apache proposal](https://wiki.apache.org/incubator/CoralProposal)
+* Nemo has entered the Apache Incubator - it's a runtime for data processing languages (currently supporting [Apache Beam](/technologies/apache-beam/) with [Apache Spark](/technologies/apache-spark/) support coming) that dynamically adjusts to the runtime environment and uses Apache REEF to run over [YARN](/technologies/apache-hadoop/yarn/) or [Mesos](/technologies/apache-mesos/) - [homepage](https://snuspl.github.io/nemo/); [Apache proposal](https://wiki.apache.org/incubator/NemoProposal).  *NOTE: this was originally called and submitted as Coral, but was subsequently renamed*
 * From MapR on [MapR](/tech-vendors/mapr/), part 1 of 4 on why their technologies are the best - [link](https://mapr.com/blog/mapr-data-technologies-gloves-off-series-1-4-storage/)
 * From Datanami - 2018 will be the year of the Data Engineer - [link](https://www.datanami.com/2018/02/05/2018-will-year-data-engineer/)
 * An intro to NiFi Registry (that enables configuration management of flows) from Hortonworks - [link](https://hortonworks.com/blog/hdf-3-1-blog-series-part-2-introducing-nifi-registry/)
