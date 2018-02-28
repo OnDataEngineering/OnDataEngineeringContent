@@ -20,6 +20,8 @@ version: "v3.0"
 * <http://hadoop.apache.org/> - Project Homepage
 * <http://hadoop.apache.org/releases.html> - full release history
 * <https://medium.com/@markobonaci/the-history-of-hadoop-68984a11704> - history of Hadoop
+* <https://hortonworks.com/apache/hadoop/> - Hortonworks information
+* <https://www.cloudera.com/products/open-source/apache-hadoop.html> - Cloudera information
 
 ## News
 

@@ -12,6 +12,7 @@ version: "v4.3"
 * <http://oozie.apache.org/> - homepage
 * <http://oozie.apache.org/docs/4.3.0/index.html> - documentation
 * <https://jaxenter.com/yahoos-hadoop-based-project-proposed-for-apache-incubator-103651.html> - intro interview
+* <https://hortonworks.com/apache/oozie/> - Hortonworks information
 
 ## News
 

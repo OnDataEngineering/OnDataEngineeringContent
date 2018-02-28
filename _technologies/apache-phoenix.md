@@ -22,6 +22,7 @@ version: "v4.13"
 * <http://phoenix.apache.org/> - home page
 * <https://blogs.apache.org/phoenix/entry/apache_phoenix_released_next_major> - 3.0/4.0 announcement
 * <https://blog.cloudera.com/blog/2015/05/apache-phoenix-joins-cloudera-labs> - Cloudera labs announcement
+* <https://hortonworks.com/apache/phoenix/> - Hortonworks information
 
 ## News
 

@@ -13,3 +13,5 @@ date: 2016-12-16
 ## Links
 
 * <http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html> - YARN architecture overview and documentation
+* <https://hortonworks.com/apache/yarn/> - Hortonworks information
+* <https://www.cloudera.com/products/open-source/apache-hadoop/hdfs-mapreduce-yarn.html> - Cloudera information

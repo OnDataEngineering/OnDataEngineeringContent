@@ -13,3 +13,5 @@ date: 2016-12-16
 
 * <http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html> - HDFS documentation home
 * <http://bradhedlund.com/2011/09/10/understanding-hadoop-clusters-and-the-network/> - good intro the the architecture of HDFS
+* <https://hortonworks.com/apache/hdfs/> - Hortonworks information
+* <https://www.cloudera.com/products/open-source/apache-hadoop/hdfs-mapreduce-yarn.html> - Cloudera information

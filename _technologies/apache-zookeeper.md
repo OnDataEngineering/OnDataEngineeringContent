@@ -10,10 +10,11 @@ version: "3.4"
 ---
 ## Links
 
-<https://zookeeper.apache.org/> - homepage
-<https://zookeeper.apache.org/doc/current/> - current documentation
-<https://zookeeper.apache.org/doc/current/zookeeperOver.html> - excellent introduction
+* <https://zookeeper.apache.org/> - homepage
+* <https://zookeeper.apache.org/doc/current/> - current documentation
+* <https://zookeeper.apache.org/doc/current/zookeeperOver.html> - excellent introduction
+* <https://hortonworks.com/apache/zookeeper/> - Hortonworks information
 
 ## News
 
-<https://zookeeper.apache.org/releases.html> - release history
+* <https://zookeeper.apache.org/releases.html> - release history

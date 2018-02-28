@@ -17,6 +17,8 @@ version: "v1.8"
 
 * <http://flume.apache.org/> - home page
 * <http://flume.apache.org/FlumeUserGuide.html> - user guide
+* <https://hortonworks.com/apache/flume/> - Hortonworks information
+* <https://www.cloudera.com/products/open-source/apache-hadoop/apache-flume.html> - Cloudera information
 
 ## News
 

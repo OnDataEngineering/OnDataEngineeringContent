@@ -17,6 +17,7 @@ version: "v2.2"
 
 * <http://spark.apache.org/> - home page
 * <http://spark.apache.org/docs/latest/> - documentation
+* <https://hortonworks.com/apache/spark/> - Hortonworks information
 
 ## News
 

@@ -19,6 +19,7 @@ version: "0.9"
 * <http://hortonworks.com/blog/apache-tez-a-new-chapter-in-hadoop-data-processing/> - introduction to Tez, and links to further documentation
 * <http://hortonworks.com/blog/introducing-apache-tez-0-5/> - developer documentation introduction
 * <http://www.slideshare.net/HadoopSummit/yahoos-experience-running-pig-on-tez-at-scale> - case study of Tez at scale
+* <https://hortonworks.com/apache/tez/> - Hortonworks information
 
 ## News
 

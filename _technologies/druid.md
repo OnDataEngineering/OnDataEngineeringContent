@@ -19,6 +19,7 @@ version: "v0.11"
 * <https://github.com/druid-io/tranquility> - Tranquility repo
 * <http://druid.io/blog/2011/04/30/introducing-druid.html> - introductory blog post
 * <https://imply.io/> - Imply homepage
+* <https://hortonworks.com/apache/druid/> - Hortonworks information
 
 ## News
 

@@ -22,6 +22,8 @@ version: "v1.4"
 * <http://hbase.apache.org/book.html> - documentation
 * <http://jimbojw.com/wiki/index.php?title=Understanding_Hbase_and_BigTable> - HBase primer
 * <https://blogs.apache.org/hbase/entry/start_of_a_new_era> - introduction to HBase versioning scheme
+* <https://hortonworks.com/apache/hbase/> - Hortonworks information
+* <https://www.cloudera.com/products/open-source/apache-hadoop/apache-hbase.html> - Cloudera information
 
 ## News
 

@@ -18,6 +18,8 @@ version: "v2.3"
 
 * <http://hive.apache.org/> - home page
 * <https://cwiki.apache.org/confluence/display/Hive/Home> - documentation
+* <https://hortonworks.com/apache/hive/> - Hortonworks information
+* <https://www.cloudera.com/products/open-source/apache-hadoop/apache-hive.html> - Cloudera information
 
 ## News
 

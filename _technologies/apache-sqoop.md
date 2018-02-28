@@ -13,6 +13,8 @@ version: "v1.4"
 * <http://sqoop.apache.org/docs/> - documentation
 * <https://blogs.apache.org/sqoop/entry/apache_sqoop_highlights_of_sqoop> - introduction to Sqoop 2
 * <https://blogs.apache.org/sqoop/entry/apache_sqoop_graduates_from_incubator> - early history of Sqoop
+* <https://hortonworks.com/apache/sqoop/> - Hortonworks information
+* <https://www.cloudera.com/products/open-source/apache-hadoop/apache-sqoop.html> - Cloudera information
 
 ## News
 

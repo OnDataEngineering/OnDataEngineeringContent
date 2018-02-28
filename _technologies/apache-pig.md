@@ -20,6 +20,8 @@ version: "v0.17"
 * <https://pig.apache.org/releases.html> - release history
 * <http://hortonworks.com/blog/announcing-apache-pig-0-14-0/> - Pig on Tez release announcement
 * <http://blog.cloudera.com/blog/2014/09/pig-is-flying-apache-pig-on-apache-spark/> - first details of Pig on Spark
+* <https://hortonworks.com/apache/pig/> - Hortonworks information
+* <https://www.cloudera.com/products/open-source/apache-hadoop/apache-pig.html> - Cloudera information
 
 ## News
 

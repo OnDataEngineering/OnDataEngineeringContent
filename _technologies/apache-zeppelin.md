@@ -9,10 +9,12 @@ version: "0.7"
 ---
 ## Links
 
-<http://zeppelin.apache.org/> - homepage
-<https://zeppelin.apache.org/docs/> - documentation by version
-<https://www.zepl.com/> - Zepl homepage
+* <http://zeppelin.apache.org/> - homepage
+* <https://zeppelin.apache.org/docs/> - documentation by version
+* <https://www.zepl.com/> - Zepl homepage
+* <https://hortonworks.com/apache/zeppelin/> - Hortonworks information
+
 
 ## News
 
-<https://zeppelin.apache.org/> - release announcements via the homepage
+* <https://zeppelin.apache.org/> - release announcements via the homepage

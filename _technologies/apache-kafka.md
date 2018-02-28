@@ -25,6 +25,8 @@ version: "v1.0"
 * <https://www.confluent.io/clients/> - Confluent's list of available clients
 * <https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem> - associated technologies
 * <https://dzone.com/refcardz/apache-kafka> - DZone Refcard covering useful getting started information
+* <https://hortonworks.com/apache/kafka/> - Hortonworks information
+* <https://www.cloudera.com/products/open-source/apache-hadoop/apache-kafka.html> - Cloudera information
 
 ## News
 

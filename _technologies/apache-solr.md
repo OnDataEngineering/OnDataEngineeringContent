@@ -25,6 +25,8 @@ version: "v7.2"
 * <https://www.apache.org/dyn/closer.lua/lucene/solr/ref-guide/> - PDF download of documentation for latest release
 * <https://cwiki.apache.org/confluence/display/solr/> - online working version of documentation
 * <https://en.wikipedia.org/wiki/Apache_Solr> - history of Solr
+* <https://hortonworks.com/apache/solr/> - Hortonworks information
+* <https://www.cloudera.com/products/open-source/apache-hadoop/apache-solr.html> - Cloudera information
 
 ## News
 
