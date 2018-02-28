@@ -36,7 +36,7 @@ BackBlaze B2 (<https://www.backblaze.com/b2/cloud-storage.html>) is a smaller cl
 The following are all Open Source object store technologies:
 
 | [OpenStack Swift](/technologies/openstack-swift) | Supports multiple configurable storage tiers and backing storage; part of the OpenStack suite but can be installed stand-alone
-| [Zenko](/technologies/zenko/) | Distributed open source S3 gateway / proxy utilising the Scality Ring S3 API with support for local, in memory, Amazon S3 or Scality RING backing storage.  Builds on the Scality S3 Server, which is now called [Zenko CloudServer](/technologies/zenko/cloudserver/) 
+| [Zenko CloudServer](/technologies/zenko/cloudserver/) | Open source object storage server based on the S3 compatible API from Scality RING, previously known as Scality S3 Server
 | Ceph | Distributed object store that also supports block and file storage, with development led by RedHat - <http://ceph.com/>
 | Redcurrent | <http://www.redcurrant.io>
 | Basho Riak S2 (formally CS) | <http://basho.com/products/riak-s2/>
