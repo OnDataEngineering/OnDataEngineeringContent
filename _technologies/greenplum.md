@@ -5,8 +5,8 @@ alt-titles: [Pivotal Greenplum, GPDB]
 vendors: [Pivotal]
 type: "Commercial Open Source"
 date: 2017-02-16
-last_updated: 2018-01-24
-version: "5.4"
+last_updated: 2018-02-28
+version: "5.5"
 ---
 ## Release History
 
@@ -16,6 +16,7 @@ version: "5.4"
 | 5.2 | 2017-11-22 | [release notes](http://gpdb.docs.pivotal.io/520/relnotes/GPDB_520_README.html)
 | 5.3 | 2017-12-07 | [release notes](http://gpdb.docs.pivotal.io/530/relnotes/GPDB_530_README.html) [blog](https://content.pivotal.io/blog/introducing-greenplum-5-3) | Initial containerisation support
 | 5.4 | 2018-01-17 | [release notes](http://gpdb.docs.pivotal.io/540/relnotes/GPDB_540_README.html)
+| 5.5 | 2018-02-21 | [release notes](http://gpdb.docs.pivotal.io/550/relnotes/GPDB_550_README.html)
 
 ## Links
 

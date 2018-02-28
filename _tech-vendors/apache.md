@@ -139,7 +139,7 @@ draft-banner: true
 
 ## Other Technologies
 
-| [DataFu (Incubating)](/technologies/apache-datafu/) | A set of libraries for working with data in Hadoop, consisting of two sub-projects - DataFu Pig (a set of Pig User Defined Functions) and DataFu Hourglass (a framework for incremental processing using MapReduce).
+| [DataFu](/technologies/apache-datafu/) | A set of libraries for working with data in Hadoop, consisting of two sub-projects - DataFu Pig (a set of Pig User Defined Functions) and DataFu Hourglass (a framework for incremental processing using MapReduce).
 | AsterixDB | Scalable "Big Data Management System" - <https://asterixdb.apache.org/>
 | Chukwa | Specialist technology for the ingestion of continuous data flows into an Hadoop cluster, and the subsequent management and analysis of the data - <https://chukwa.apache.org/ >
 | Edgent (Incubating) | Stream processing programming model and lightweight runtime to execute analytics at devices on the edge or at the gateway, previously known as Quarks - <http://edgent.apache.org/>
