@@ -22,5 +22,5 @@ version: v0.4 (Java) v0.4 (C++)
 * <http://nifi.apache.org/minifi/index.html> - home page
 * <http://nifi.apache.org/minifi/system-admin-guide.html> - documentation
 * <https://hortonworks.com/apache/nifi/#section_4> - Hortonworks information
-* <http://docs.hortonworks.com/HDPDocuments/HDF2/HDF-2.1.0/index.html> - Hortonworks documentation (as part of HDF)
+* <https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.1.0/index.html> - Hortonworks documentation (as part of HDF 3.1)
 * <https://cwiki.apache.org/confluence/display/MINIFI/Release+Notes> - release notes

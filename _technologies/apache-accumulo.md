@@ -22,6 +22,7 @@ version: "v1.8"
 * <http://accumulo.apache.org/docs-archive/> - documentation
 * <https://hortonworks.com/apache/accumulo/> - Hortonworks information
 * <https://www.cloudera.com/products/open-source/apache-hadoop/apache-accumulo.html> - Cloudera information
+* <https://www.cloudera.com/documentation/other/accumulo/latest.html> - Cloudera documentation
 * <http://accumulo.apache.org/blog/2017/04/21/introducing-uno-and-muchos.html> - blog post on Uno and Muchos
 
 ## News

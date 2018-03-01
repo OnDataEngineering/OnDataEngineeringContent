@@ -21,7 +21,7 @@ version: "v1.5"
 * <http://nifi.apache.org/> - home page
 * <http://nifi.apache.org/docs.html> - documentation
 * <https://hortonworks.com/apache/nifi/> - Hortonworks information, including tutorials and blog posts
-* <http://docs.hortonworks.com/HDPDocuments/HDF2/HDF-2.1.0/index.html> - Hortonworks documentation (as part of HDF)
+* <https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.1.0/index.html> - Hortonworks documentation (as part of HDF 3.1)
 
 ## News
 

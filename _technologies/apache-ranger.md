@@ -17,9 +17,9 @@ version: "v0.7"
 
 * <http://ranger.incubator.apache.org/> - homepage
 * <http://ranger.apache.org/faq.html> - FAQs
-* <http://hortonworks.com/apache/ranger/> - Hortonworks information on Ranger, including tutorials and blog posts
-* <https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.5.3/bk_security/content/ch_hdp-security-guide-authorization.html> - Hortonworks documentation on Ranger
 * <https://cwiki.apache.org/confluence/display/RANGER> - Apache Ranger Wiki, with most information detailed by release under the Release Folders page
+* <http://hortonworks.com/apache/ranger/> - Hortonworks information on Ranger, including tutorials and blog posts
+* <https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.4/bk_security/content/ch_hdp-security-guide-authorization.html> - Hortonworks 2.6.4 documentation
 
 ## News
 

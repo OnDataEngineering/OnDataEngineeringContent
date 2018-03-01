@@ -13,7 +13,7 @@ version: "0.7"
 * <https://zeppelin.apache.org/docs/> - documentation by version
 * <https://www.zepl.com/> - Zepl homepage
 * <https://hortonworks.com/apache/zeppelin/> - Hortonworks information
-
+* <https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.4/bk_zeppelin-component-guide/content/index.html> - Hortonworks 2.6.4 documentation
 
 ## News
 

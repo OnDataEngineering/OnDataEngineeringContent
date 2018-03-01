@@ -19,7 +19,6 @@ version: "v2.2"
 * <http://hawq.incubator.apache.org/docs/userguide/latest/index.html> - Apache Hawq documentation
 * <https://cwiki.apache.org/confluence/display/HAWQ/> - Apache Hawq Wiki
 * <http://hortonworks.com/apache/hawk/> - Hortonworks information on Apache Hawq
-* <https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.5.3/bk_hdb-quick-guide/content/ch_hdb_summary.html> - Hortonworks HDB documentation (links through to Pivotal HDB docs)
 * <https://pivotal.io/pivotal-hdb> - Pivotal HDB homepage
 * <http://hdb.docs.pivotal.io/> - Pivotal HDB documentation
 * <https://content.pivotal.io/blog/the-way-to-hadoop-native-sql> - Hawq open source announcement

@@ -20,6 +20,7 @@ version: "v0.11"
 * <http://druid.io/blog/2011/04/30/introducing-druid.html> - introductory blog post
 * <https://imply.io/> - Imply homepage
 * <https://hortonworks.com/apache/druid/> - Hortonworks information
+* <https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.4/bk_data-access/content/ch_using-druid.html> - Hortonworks 2.6.4 documentation
 
 ## News
 

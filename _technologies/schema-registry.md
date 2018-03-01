@@ -11,6 +11,5 @@ version: "v0.3"
 * <https://github.com/hortonworks/registry> - GitHub repo
 * <http://registry-project.readthedocs.io/en/latest/> - Documentation
 * <https://hortonworks.com/open-source/schema-registry/> - Hortonworks homepage
-* <https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.0.0/bk_overview/content/ch_sr-overview.html> - Hortonworks overview
-* <https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.0.0/bk_schema-registry-user-guide/content/index.html> - Hortonworks user guide
+* <https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.1.0/bk_schema-registry-user-guide/content/index.html> - Hortonworks documentation (HDF 3.1)
 * <https://hortonworks.com/blog/part-2-hdf-blog-series-shared-schema-registry-important/> - intro blog post

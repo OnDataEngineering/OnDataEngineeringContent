@@ -20,6 +20,7 @@ version: "4.1"
 * <http://gethue.com/> - homepage
 * <https://github.com/cloudera/hue> - code repository
 * <https://www.cloudera.com/products/open-source/apache-hadoop/hue.html> - Cloudera information
+* <https://www.cloudera.com/documentation/enterprise/latest/topics/hue.html> - Cloudera documentation
 
 ## News
 

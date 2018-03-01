@@ -13,7 +13,7 @@ version: "v0.91"
 * <http://slider.incubator.apache.org> - homepage
 * <https://hortonworks.com/blog/deploying-long-running-services-on-apache-hadoop-yarn-cluster/> - introduction blog post
 * <https://hortonworks.com/apache/slider/> - Hortonworks information on slider, including links to blog posts
-* <http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.5.3/bk_yarn-resource-management/content/ch_slider.html> - Hortonworks documentation
+* <https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.4/bk_yarn-resource-management/content/ch_slider.html> - Hortonworks 2.6.4 documentation
 * <http://slider.incubator.apache.org/docs/> - Slider documentation
 * <https://issues.apache.org/jira/browse/YARN-4692> - YARN change that adds support for long running services to YARN
 

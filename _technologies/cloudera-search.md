@@ -8,8 +8,7 @@ date: 2017-03-28 07:30
 ---
 ## Links
 
-* <https://www.cloudera.com/products/open-source/apache-hadoop/apache-solr.html> - Cloudera homepage
-* <https://www.cloudera.com/documentation/enterprise/latest/topics/search.html> - Documentation
+* <https://www.cloudera.com/documentation/enterprise/latest/topics/search.html> - Cloudera Documentation
 * <https://github.com/cloudera/search/> - HDFS utilities code repository (note that the default branch isn't the current branch and the README is out of date)
 * <https://github.com/cloudera/hbase-indexer> - HBase utilities code repository (note that the default branch isn't the current branch and the README is out of date)
 

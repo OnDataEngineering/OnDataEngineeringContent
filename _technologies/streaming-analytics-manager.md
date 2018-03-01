@@ -12,6 +12,5 @@ version: "v0.5"
 
 * <https://github.com/hortonworks/streamline> - GitHub repo
 * <https://hortonworks.com/open-source/streaming-analytics-manager/> - Hortonworks homepage
-* <https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.0.0/bk_overview/content/ch_stream-analytics-overview.html> - Hortonworks overview
-* <https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.0.0/bk_schema-registry-user-guide/content/index.html> - Hortonworks user guide
-* <https://hortonworks.com/blog/part-2-hdf-blog-series-shared-schema-registry-important/> - intro blog post
+* <https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.1.0/bk_streaming-analytics-manager-user-guide/content/index.html> - Hortonworks documentation (HDF 3.1)
+* <https://hortonworks.com/blog/hortonworks-dataflow-3-0/> - intro blog post

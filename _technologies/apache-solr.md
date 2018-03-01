@@ -27,6 +27,7 @@ version: "v7.2"
 * <https://en.wikipedia.org/wiki/Apache_Solr> - history of Solr
 * <https://hortonworks.com/apache/solr/> - Hortonworks information
 * <https://www.cloudera.com/products/open-source/apache-hadoop/apache-solr.html> - Cloudera information
+* For Hortonworks and Cloudera documentation, see [Cloudera Search](/technologies/cloudera-search/) and [HDP Search](/technologies/hortonworks-data-platform-search/) respectively.
 
 ## News
 

@@ -18,6 +18,9 @@ version: "v2.2"
 * <http://spark.apache.org/> - home page
 * <http://spark.apache.org/docs/latest/> - documentation
 * <https://hortonworks.com/apache/spark/> - Hortonworks information
+* <https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.4/bk_spark-component-guide/content/index.html> - Hortonworks 2.6.4 documentation
+* <https://www.cloudera.com/products/open-source/apache-hadoop/apache-spark.html> - Cloudera information
+* <https://www.cloudera.com/documentation/enterprise/latest/topics/spark.html> - Cloudera documentation
 
 ## News
 

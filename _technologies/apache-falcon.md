@@ -12,7 +12,7 @@ version: "v0.10"
 
 * <http://falcon.apache.org/> - homepage and documentation
 * <http://hortonworks.com/apache/falcon/> - Hortonworks information on Falcon, including tutorials and blog posts
-* <https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.5.3/bk_data-movement-and-integration/content/index.html> - Hortonworks documentation
+* <https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.4/bk_data-movement-and-integration/content/index.html> - Hortonworks 2.6.4 documentation
 * <https://community.hortonworks.com/questions/97570/apache-falcon-in-hdp-30.html> - Hortonworks community update on deprecation
 
 ## News

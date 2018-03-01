@@ -19,7 +19,7 @@ version: "v1.2"
 * <http://storm.apache.org/> - homepage
 * <https://hortonworks.com/apache/storm/> - Hortonworks information, including tutorials and blog posts
 * <http://storm.apache.org/releases/1.0.3/index.html> - documentation for current release
-* <https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.5.3/bk_storm-component-guide/content/ch_storm-overview.html> - Hortonworks documentation
+* <https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.4/bk_storm-component-guide/content/index.html> - Hortonworks 2.6.4 documentation
 * <http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html> - history of storm
 
 ## News

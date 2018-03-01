@@ -9,3 +9,4 @@ date: 2017-01-06
 
 * <https://cwiki.apache.org/confluence/display/Hive/HCatalog> - HCatalog documentation home
 * <https://cwiki.apache.org/confluence/display/Hive/WebHCat> - WebHCat documentation home
+* <https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.4/bk_data-access/content/ch_using-hcatalog.html> - Hortonworks 2.6.4 documentation

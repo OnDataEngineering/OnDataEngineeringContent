@@ -18,7 +18,7 @@ version: "v2.6"
 
 * <http://ambari.incubator.apache.org/> - homepage
 * <http://hortonworks.com/apache/ambari/> - Hortonworks information, including tutorials and blog posts
-* <https://docs.hortonworks.com/HDPDocuments/Ambari/Ambari-2.4.2.0/index.html> - Hortonworks documentation
+* <https://docs.hortonworks.com/HDPDocuments/Ambari/Ambari-2.6.1.3/index.html> - Hortonworks documentation
 * <https://cwiki.apache.org/confluence/display/AMBARI/Ambari> - Apache developer level documentation
 
 ## News

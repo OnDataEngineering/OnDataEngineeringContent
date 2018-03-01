@@ -20,8 +20,8 @@ version: "v1.0"
 
 * <http://knox.apache.org/> - homepage
 * <http://knox.apache.org/books/knox-0-11-0/user-guide.html> - extreemly comprehensive documentation
-* <http://hortonworks.com/apache/knox-gateway/> - Hortonworks information on Knox
-* <http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.5.3/bk_security/content/perimeter_security_with_apache_knox.html> - Hortonworks documentation on Knox
+* <http://hortonworks.com/apache/knox-gateway/> - Hortonworks information
+* <https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.4/bk_security/content/perimeter_security_with_apache_knox.html> - Hortonworks 2.6.4 documentation
 
 ## News
 
