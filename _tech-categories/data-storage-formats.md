@@ -50,4 +50,5 @@ And of course, any [object store](/tech-categories/object-stores/), NoSQL key va
 
 ## In Memory Formats
 
-| [Arrow](/technologies/apache-arrow/) | In memory columnar data format supporting high performance data exchange and fast analytical access 
+| [Arrow](/technologies/apache-arrow/) | In memory columnar data format supporting high performance data exchange and fast analytical access
+| Mnemonic | Hybrid memory / storage object model framework with Spark and MapReduce support - <http://mnemonic.apache.org/>
