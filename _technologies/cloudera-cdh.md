@@ -4,7 +4,7 @@ description: "A distribution of Hadoop based on the addition of a number of clos
 alt-titles: [CDH, Cloudera Express, Cloudera Enterprise]
 vendors: [Cloudera]
 categories: [Hadoop Distributions]
-tech-relationships: [[packages, Flume, HBase, Hadoop, Hive, Hue, Impala, Oozie, Sentry, Cloudera Search, Spark, Sqoop, ZooKeeper, Avro, Crunch, Kite, Parquet, Pig], [packages (but deprecated), Llama, DataFu, Whirr, Mahout, Kudu], [add ons, Accumulo, Kafka, RecordService, Cloudera Navigator], [manageable via, Cloudera Manager, Cloudera Director]]
+tech-relationships: [[packages, Flume, HBase, Hadoop, Hive, Hue, Impala, Oozie, Sentry, Cloudera Search, Spark, Sqoop, ZooKeeper, Avro, Crunch, Kite, Parquet, Pig, Kudu], [packages (but deprecated), Llama, DataFu, Whirr, Mahout], [add ons, Accumulo, Kafka, RecordService, Spark, Cloudera Navigator], [manageable via, Cloudera Manager, Cloudera Director]]
 type: "Commercial"
 date: 2017-03-21 07:00
 last_updated: 2018-01-31
@@ -14,7 +14,9 @@ version: "v5.14"
 
 Details of the Apache project versions bundled with each version of CDH are available under [this page](https://www.cloudera.com/documentation/enterprise/release-notes/topics/cdh_vd_cdh_package_tarball.html) of the CDH release notes.  Deprecated items and projects are detailed on [this page](https://www.cloudera.com/documentation/enterprise/release-notes/topics/rg_deprecated.html).  New features, known issues and fixed issues are available under [this page](https://www.cloudera.com/documentation/enterprise/release-notes/topics/rg_release_notes_cdh.html).  See some of the links below for details on the different Cloudera versions and options.
 
-As of CDH 5.5, [Llama](/technologies/llama), [Whirr](/technologies/apache-whirr) and [Mahout](/technologies/apache-mahout) are deprecated, and will be removed as of CDH 6.0.  As of CDH 5.9, [DataFu](/technologies/apache-datafu) and Sqoop2 have been deprecated.  As of CDH 5.13 Spark 1.x has been deprecated.
+As of CDH 5.5, [Llama](/technologies/llama), [Whirr](/technologies/apache-whirr) and [Mahout](/technologies/apache-mahout) are deprecated, and will be removed as of CDH 6.0.  As of CDH 5.9, [DataFu](/technologies/apache-datafu) and Sqoop2 have been deprecated.  As of CDH 5.13 Spark 1.x has been deprecated.  As of CDH 5.14 [Kudu](/technologies/apache-kudu/) is now bundled with CDH rather than being an add-on.
+
+Add Ons are not bundled with CDH, but are available separately, either via direct download through Cloudera Manager or via separate download from the Cloudera website, and are versioned as per the open source project and not as per a CDH version.  Note that Spark 1.x is currently bundled with CDH, with Spark 2.x available as an add-on.
 
 ## Release History
 
