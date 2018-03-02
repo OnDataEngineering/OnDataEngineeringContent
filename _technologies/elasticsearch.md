@@ -8,6 +8,10 @@ date: 2017-07-04 07:30
 last_updated: 2018-02-21
 version: "v6.2"
 ---
+## Further Information
+
+A list of some alternative add-ons to the Elastic X-Pack is available from Sematext at <https://sematext.com/blog/x-pack-alternatives/>
+
 ## Release History
 
 | version | release date | release links | release comment
