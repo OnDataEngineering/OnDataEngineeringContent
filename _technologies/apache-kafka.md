@@ -24,11 +24,12 @@ version: "v1.0"
 * <https://cwiki.apache.org/confluence/display/KAFKA/Clients> - list of clients
 * <https://www.confluent.io/clients/> - Confluent's list of available clients
 * <https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem> - associated technologies
-* <https://dzone.com/refcardz/apache-kafka> - DZone Refcard covering useful getting started information
 * <https://hortonworks.com/apache/kafka/> - Hortonworks information
 * <https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.4/bk_kafka-component-guide/content/index.html> - Hortonworks 2.6.4 documentation
 * <https://www.cloudera.com/products/open-source/apache-hadoop/apache-kafka.html> - Cloudera information
 * <https://www.cloudera.com/documentation/kafka/latest.html> - Cloudera documentation
+* <https://dzone.com/refcardz/apache-kafka> - DZone Refcard covering useful getting started information
+* <https://www.confluent.io/resources/kafka-the-definitive-guide/> - Free copy of Kafka: The Definitive Guide eBook
 
 ## News
 

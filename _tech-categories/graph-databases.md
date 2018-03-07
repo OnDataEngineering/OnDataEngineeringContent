@@ -23,7 +23,7 @@ And Neo4j have a number of eBooks available for free download from <https://neo4
 
 ## Query Languages / Interfaces
 
-| Cypher | Graph query language, originally from Neo4j, now open source and used by a wide range of graph databases - <http://www.opencypher.org/>
+| Cypher | Graph query language, originally from Neo4j, now open source and used by a wide range of graph databases, with out of the box packages for running Cypher jobs over Spark and TinkerPop Gremlin - <http://www.opencypher.org/>
 | TinkerPop Gremlin | Query interface that uses low level adapters to execute graph traversals against any compatible graph databases - <https://tinkerpop.apache.org/gremlin.html>
 
 See the note above on the "Do we need specialized graph databases? Benchmarking real-time social networking applications" paper and the performance impact of using Apache TinkerPop
@@ -71,7 +71,7 @@ See the note above on the "Do we need specialized graph databases? Benchmarking 
 
 | Microsoft Azure Cosmos DB | Massively scalable, low latency multi-model (key-value, graph, wide column and document) NoSQL database, including support for the Gremlin API - <https://azure.microsoft.com/en-us/services/cosmos-db/>
 | IBM Graph | Graph database as a service built using JanusGraph - <https://www.ibm.com/us-en/marketplace/graph>
-| Amazon Neptune (Preview) | Graph and RDF database service - <https://aws.amazon.com/neptune/>
+| Amazon Neptune (Preview) | Graph and RDF database service with support for TinkerPop Gremlin and RDF SPARQL - <https://aws.amazon.com/neptune/>
 
 ## Historical / Deprecated Graph Databases
 

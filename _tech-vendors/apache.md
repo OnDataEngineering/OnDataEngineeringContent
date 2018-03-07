@@ -98,6 +98,7 @@ draft-banner: true
 | SAMOA (Incubating) | Machine learning framework that runs over multiple stream processing engines including Storm, Flink and Samza - <http://samoa.apache.org/>
 | SINGA (Incubating) | Framework for developing machine learning libraries over a range of hardware - <https://singa.apache.org/>
 | SystemML | Delarative machine learning over local, Spark or MapReduce execution engines - <http://systemml.apache.org/>
+| Hivemall (Incubating) | Scalable machine learning library implemented as Hive UDFs/UDAFs/UDTFs - <http://hivemall.incubator.apache.org/>
 
 ## NoSQL Wide Column Stores
 

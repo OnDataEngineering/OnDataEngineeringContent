@@ -5,13 +5,14 @@ alt-titles: [Spark]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-13
-last_updated: 2017-08-25
-version: "v2.2"
+last_updated: 2018-03-06
+version: "v2.3"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 2.2 | 2017-07-11 | [release notes](http://spark.apache.org/releases/spark-release-2-2-0.html); [databricks view](https://databricks.com/blog/2017/07/11/introducing-apache-spark-2-2.html) [cost based optimiser](https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html)
+| 2.3 | 2018-02-28 | [release notes](http://spark.apache.org/releases/spark-release-2-3-0.html); [databricks view](https://databricks.com/blog/2018/02/28/introducing-apache-spark-2-3.html)
 
 ## Links
 

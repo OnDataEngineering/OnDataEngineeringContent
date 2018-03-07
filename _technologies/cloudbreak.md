@@ -14,7 +14,7 @@ version: "v2.4"
 | 1.16 | 2017-06-16 | [release notes](http://sequenceiq.com/cloudbreak-docs/release-1.16.1/releasenotes/) | Adds support for Hortonworks Flex Support Subscription
 | 2.1 TP | 2017-11-20 | [docs blog](https://docs.hortonworks.com/posts/2017/11/20/cloudbreak2.1.0.html) | Tech preview; new documentation
 | 2.2 TP | 2017-12-20 | [docs blog](https://docs.hortonworks.com/posts/2017/12/20/cloudbreak2.2.0.html) | Second TP release; doc updates
-| 2.4 | 2018-02-24 | [release notes](https://docs.hortonworks.com/HDPDocuments/Cloudbreak/Cloudbreak-2.4.0/content/releasenotes/index.html); [docs blog](https://docs.hortonworks.com/posts/2018/02/27/cloudbreak2.4.0.html) | New UI and CLI
+| 2.4 | 2018-02-24 | [blog post](https://hortonworks.com/blog/announcing-cloudbreak-2-4/); [release notes](https://docs.hortonworks.com/HDPDocuments/Cloudbreak/Cloudbreak-2.4.0/content/releasenotes/index.html); [docs blog](https://docs.hortonworks.com/posts/2018/02/27/cloudbreak2.4.0.html) | New UI and CLI
 
 ## Links
 

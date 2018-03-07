@@ -33,7 +33,7 @@ draft-banner: true
 | Amazon DynamoDB | A NoSQL document store service - <https://aws.amazon.com/dynamodb/>
 | Amazon Cloudsearch | Amazon search service - <https://aws.amazon.com/cloudsearch/>
 | Amazon ElasticSearch Service | Elasticsearch service - <https://aws.amazon.com/elasticsearch-service/>
-| Amazon Neptune (Preview) | Graph and RDF database service - <https://aws.amazon.com/neptune/>
+| Amazon Neptune (Preview) | Graph and RDF database service with support for TinkerPop Gremlin and RDF SPARQL - <https://aws.amazon.com/neptune/>
 
 ## Analytics Services
 
