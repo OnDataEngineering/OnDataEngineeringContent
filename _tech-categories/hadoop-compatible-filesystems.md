@@ -48,4 +48,6 @@ Parallel distributed filesystems provide similar capabilities to HDFS, including
 
 Most object stores also provide Hadoop compatible APIs, and although this means that Hadoop can natively read and write from them using the Hadoop Filesystem API, they are not considered Hadoop Compatible Filesystems due to their lack of compliance to the compliance specification.  More details can be found in the "Object Stores vs. Filesystems" section of the [specification page](https://hadoop.apache.org/docs/r2.7.1/hadoop-project-dist/hadoop-common/filesystem/introduction.html).
 
+One of the potential differences is the use of an eventual consistency model by object stores, which particularly affects [Amazon S3](/technologies/amazon-s3/).  The Hadoop S3A client now includes S3Guard, a feature which uses a database such as DynamoDB to provide a consistent view of the object store - see the [Hadoop docs page for S3Guard](https://hadoop.apache.org/docs/current/hadoop-aws/tools/hadoop-aws/s3guard.html) for more details.
+
 See our [Object Stores](/tech-categories/object-stores/) page for our list of object store technologies.
