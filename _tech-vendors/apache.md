@@ -58,7 +58,8 @@ draft-banner: true
 | [Spark](/technologies/apache-spark/) | A high performance general purpose distributed data processing engine based on directed acyclic graphs that primarily runs in memory, but can spill to disk if required
 | [Tez](/technologies/apache-tez/) | Data processing framework based on Directed Acyclic Graphs (DAGs), that runs natively on YARN and was designed to be a replacement for the use of MapReduce within Hadoop analytical tools
 | [Crunch](/technologies/apache-crunch/) | An abstraction layer over MapReduce (and now Spark) that provides a high level Java API for creating data transformation pipelines
-| Nemo (Incubating) | A runtime for data processing languages that dynamically adjusts to the runtime environment - [https://nemo.incubator.apache.org/>]
+| Nemo (Incubating) | A runtime for data processing languages that dynamically adjusts to the runtime environment - <https://nemo.incubator.apache.org/>
+| Crail (Incubating) | High performance distributed and tiered (in memory, flash and disk) storage layer for temporary data that provides memory, storage and network access that bypasses the JVM and OS, and support for Spark and Hadoop - <http://crail.incubator.apache.org/>
 
 ## Graph Technologies
 
@@ -121,7 +122,7 @@ draft-banner: true
 | [Spark/Streaming](/technologies/apache-spark/spark-streaming/) | Spark library for continuous stream processing, that allows stream and batch processing (including Spark SQL and MLlib operations) to be combined
 | [Beam](/technologies/apache-beam) | Model and SDKs for running batch and streaming workflows over Apex, Flink, Spark and Google Dataflow - <https://beam.apache.org/>
 | [Apex](/technologies/apache-apex/) | Data transformation engine based on Directed Acyclic Graph (DAG) flows configured through a Java API or via JSON that runs over YARN and HDFS with native support for both micro-batch streaming and batch uses cases
-| Heron | The stream processing framework that Twitter built after Storm, with a Storm compatible API
+| Heron (Incubating) | The stream processing framework that Twitter built after Storm, with a Storm compatible API
 | Samza | Stream processing framework built on Kafka and YARN - <http://samza.apache.org/>
 | Bahir | A suite of streaming connectors for Spark and Flink, including support for Akka, MQTT, Twitter and ZeroMQ - <http://bahir.apache.org/>
 | Gearpump (Incubating) | Real-time streaming engine based on the micro-service Actor model - <http://gearpump.apache.org/>
@@ -129,9 +130,9 @@ draft-banner: true
 ## Streaming Data Stores
 
 | [Kafka](/technologies/apache-kafka/) | Technology for buffering and storing real-time streams of data between producers and consumers, with a focus on high throughput at low latency.
-| DistributedLog | Distributed log service from Twitter supporting durability, replication and strong consistency built over Apache BookKeeper
-| Pulsar | Distributed pub-sub messaging from Yahoo, with persistent message storage based on Apache BookKeeper
-| BookKeeper | Distributed log storage service from Yahoo
+| BookKeeper | Distributed log storage service from Yahoo - <http://bookkeeper.apache.org/>
+| DistributedLog | Distributed log service from Twitter supporting durability, replication and strong consistency built over Apache BookKeeper - <http://bookkeeper.apache.org/distributedlog/>
+| Pulsar (Incubating) | Distributed pub-sub messaging from Yahoo, with persistent message storage based on Apache BookKeeper - <http://pulsar.incubator.apache.org/>
 
 ## Workflow Management
 

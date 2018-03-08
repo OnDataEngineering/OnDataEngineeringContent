@@ -11,13 +11,13 @@ version: "v2.11"
 ## Release History
 
 | version | release date | release links | release comment
-| 2.9 | 2017-06-17 | [changelog](https://impala.incubator.apache.org/docs/changelog-2.9.html)
-| 2.10 | 2017-09-15 | [changelog](https://impala.incubator.apache.org/docs/changelog-2.10.html)
-| 2.11 | 2018-01-18 | [changelog](https://impala.incubator.apache.org/docs/changelog-2.11.html)
+| 2.9 | 2017-06-17 | [changelog](https://impala.apache.org/docs/changelog-2.9.html)
+| 2.10 | 2017-09-15 | [changelog](https://impala.apache.org/docs/changelog-2.10.html)
+| 2.11 | 2018-01-18 | [changelog](https://impala.apache.org/docs/changelog-2.11.html)
 
 ## Links
 
-* <https://impala.incubator.apache.org/> - homepage
+* <https://impala.apache.org/> - homepage
 * <https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces24> - graduation announcement
 * <https://www.cloudera.com/products/open-source/apache-hadoop/impala.html> - Cloudera homepage
 * <https://www.cloudera.com/documentation/enterprise/latest/topics/impala.html> - Cloudera documentation

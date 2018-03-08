@@ -16,8 +16,8 @@ version: "v0.8"
 
 ## Links
 
-* <http://atlas.incubator.apache.org/> - homepage
-* <http://atlas.incubator.apache.org/Architecture.html> - Architecture overview
+* <http://atlas.apache.org/> - homepage
+* <http://atlas.apache.org/Architecture.html> - Architecture overview
 * <http://hortonworks.com/apache/atlas> - Hortonworks background information, including links to relevant blog posts
 * <https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.4/bk_data-governance/content/index.html> - Hortonworks 2.6.4 documentation
 

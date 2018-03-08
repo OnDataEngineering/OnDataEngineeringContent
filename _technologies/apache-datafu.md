@@ -10,8 +10,8 @@ version: "v1.3"
 ---
 ## Links
 
-* <https://datafu.incubator.apache.org> - homepage
+* <https://datafu.apache.org> - homepage
 
 ## News
 
-* <https://datafu.incubator.apache.org/blog/> - blog
+* <https://datafu.apache.org/blog/> - blog

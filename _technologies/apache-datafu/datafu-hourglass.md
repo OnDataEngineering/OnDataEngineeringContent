@@ -6,6 +6,5 @@ date: 2017-01-31
 ---
 ## Links
 
-* <https://datafu.incubator.apache.org/docs/hourglass/getting-started.html> - homepage
-* <https://datafu.incubator.apache.org/blog/2013/10/03/datafus-hourglass-incremental-data-processing-in-hadoop.html> - introduction (contains examples and information not available in the documentation)
-* <http://datafu.incubator.apache.org/docs/hourglass/1.3.1/> - Javadoc (note link from [here](https://datafu.incubator.apache.org/docs/hourglass/javadoc.html) is wrong)
+* <https://datafu.apache.org/docs/hourglass/getting-started.html> - homepage
+* <https://datafu.apache.org/blog/2013/10/03/datafus-hourglass-incremental-data-processing-in-hadoop.html> - introduction (contains examples and information not available in the documentation)

@@ -14,9 +14,9 @@ The following are open source Streaming Data Store technologies:
 | [Apache Kafka](/technologies/apache-kafka/) | Technology for buffering and storing real-time streams of data between publishers to subscribers, with a focus on high throughput at low latency.
 | [Confluent Open Source](/technologies/confluent-open-source/) | A package of open source projects built around [Apache Kafka](/technologies/apache-kafka/) with the addition of the Confluent Schema Registry, Kafka REST Proxy, a number of connectors for Kafka Connect and a number of Kafka clients (language SDKs).
 | [Pravega](/technologies/pravega/) | Technology for the buffering and long term storage of streaming data, designed for low latency and high throughput, with support for exactly once semantics, durable writes, strict ordering, dynamic scaling, transactions and long term storage backed by HDFS.
-| DistributedLog | Distributed log service from Twitter supporting durability, replication and strong consistency built over Apache BookKeeper
-| Pulsar | Distributed pub-sub messaging from Yahoo, with persistent message storage based on Apache BookKeeper
-| BookKeeper | Distributed log storage service from Yahoo
+| Apache BookKeeper | Distributed log storage service from Yahoo - <http://bookkeeper.apache.org/>
+| Apache DistributedLog | Distributed log service from Twitter supporting durability, replication and strong consistency built over Apache BookKeeper - <http://bookkeeper.apache.org/distributedlog/>
+| Apache Pulsar (Incubating) | Distributed pub-sub messaging from Yahoo, with persistent message storage based on Apache BookKeeper - <http://pulsar.incubator.apache.org/>
 
 Note that [Apache Kafka](/technologies/apache-kafka/) is bundled with a number of [Hadoop distributions](/tech-categories/hadoop-distributions/).
 

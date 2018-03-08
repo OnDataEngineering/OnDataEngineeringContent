@@ -11,12 +11,10 @@ version: "v0.3"
 ---
 ## Links
 
-* <http://livy.io/> - homepage
 * <https://livy.incubator.apache.org/> - Apache homepage
-* <https://github.com/cloudera/livy> - original code repository
 * <https://www.cloudera.com/more/news-and-events/press-releases/2016-06-06-cloudera-microsoft-lead-development-open-source-project-livy-for-easy-use-spark-end-user-applications.html> - original announcement
 * <https://hortonworks.com/blog/livy-a-rest-interface-for-apache-spark/> - Hortonworks view
 
 ## News
 
-* <https://github.com/cloudera/livy/releases> - details of releases
+* <https://github.com/apache/incubator-livy/releases> - details of releases
