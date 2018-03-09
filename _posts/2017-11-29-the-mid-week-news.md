@@ -11,7 +11,7 @@ Technology updates (details are on the relevant technology pages):
 
 Other technology news:
 
-* Cloudera have announced Altus Analytical DB - their cloud based SQL analytics service.  We'll take a deeper look at this in a few week.  [link](http://vision.cloudera.com/introducing-cloudera-altus-analytic-db-beta-for-cloud-based-data-warehousing/)
+* Cloudera have announced [Altus Analytical DB](/technologies/cloudera-altus/analytical-db/) - their cloud based SQL analytics service.  We'll take a deeper look at this in a few week.  [link](http://vision.cloudera.com/introducing-cloudera-altus-analytic-db-beta-for-cloud-based-data-warehousing/)
 * Zenko Orbit has been announced - a web based portal for managing object storage data across multiple clouds, for example when used behind [Zenko CloudServer](/technologies/zenko/cloudserver/) - [link](https://www.zenko.io/blog/introducing-zenko-orbit/)
 * Confluent Cloud is now generally available on AWS - [link](https://www.confluent.io/blog/confluent-cloud-enterprise-ready-hosted-apache-kafka/)
 * If you've upgraded to Elastic Cloud 1.1 and Kibana's not available - Elastic have a workaround for you! [link](https://www.elastic.co/blog/elastic-cloud-enterprise-1-1-0-upgrade-issues)

@@ -29,6 +29,6 @@ Other technology news:
 * An article from Datanami on Scylla, the C++ re-write of [Cassandra](/technologies/apache-cassandra/) - [link](https://www.datanami.com/2018/02/13/scylla-eyes-cassandras-nosql-workloads/)
 * An update from Cloudera on new features in [Hue](/technologies/hue/) in CDH 5.14 - [link](http://blog.cloudera.com/blog/2018/02/new-in-cloudera-5-14-query-assistance-improvements-and-adls-integration-for-the-self-service-analytic-database/)
 * From InfoQ - implementing a resilient [Kafka](/technologies/apache-kafka/) cluster at Goldman Sachs - [link](https://www.infoq.com/articles/resilient-kafka-goldman-sachs)
-* A technical overview of Cloudera Altus Analytic DB from Cloudera - [link](http://blog.cloudera.com/blog/2018/02/a-technical-overview-of-cloudera-altus-analytic-db/)
+* A technical overview of [Cloudera Altus Analytic DB](/technologies/cloudera-altus/analytical-db/) from Cloudera - [link](http://blog.cloudera.com/blog/2018/02/a-technical-overview-of-cloudera-altus-analytic-db/)
 * This is always interesting - LinkedIn's experiences of Hadoop failures at extreme scale and how they test for them at smaller scale - [link](https://engineering.linkedin.com/blog/2018/02/dynamometer--scale-testing-hdfs-on-minimal-hardware-with-maximum)
 * Should you migrate all your batch ETL jobs to streaming jobs - probably not, but here is Netflix's experiences courtesy of InfoQ - [link](https://www.infoq.com/articles/netflix-migrating-stream-processing)
