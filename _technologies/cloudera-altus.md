@@ -1,9 +1,9 @@
 ---
 title: "Cloudera Altus"
-description: "Platform for accessing individual CDH capabilities as services, with the first capabilities supported being the execution of Spark, MapReduce or Hive (over MapReduce or Spark) jobs using managed CDH clusters on AWS and Azure cloud infrastructure over data in Amazon S3 or Azure Data Lake Storage (ADLS).  Jobs run on clusters within a defined AWS or Azure environment, which can be transient (created and terminated on demand) or persistent, with each cluster supporting one service type (Hive, Spark, MapReduce) with a fixed node count.  Jobs can then be queued individually or in batch for execution against an existing cluster or against a dynamically created cluster, with jobs specified either by uploading a JAR to S3 (for Spark or MapReduce) or via a Hive script (either directly uploaded or uploaded to S3), and the ability to either halt or continue the queue on job failure.  Supports access to clusters via SSH, read only access to Cloudera Manager, a SOCKS proxy to cluster web UIs (including the CM admin console, YARN history server and Spark history server), and access to server and workload logs (including the ability to write these to S3 for access after clusters have been terminated).  All nodes managed by Altus are tagged with the cluster name and node role (master, worker or Cloudera Manager) and bootstrap scripts can be specified for execution on nodes after cluster startup.  Supports a web based UI and (Python) CLI, with full user authentication and role based access management, and integration with AWS security.  Stated plan is to expand support to other cloud service providers (for example Azure and Google Cloud), and other CDH services (for example Data Science workloads).  Launched in May 2017, with per node / per hour pricing."
+description: "Platform for accessing individual CDH capabilities as services.  Currently supports the execution of Spark, MapReduce or Hive over Spark or MapReduce jobs (Altus Data Engineering), the dynamic provisioning of Impala clusters (Altus Analytical DB - in Beta), with a stated future plan for R- and Python-based machine learning workloads (Altus Data Science) and an HBase based operational database service.  Runs on Amazon Web Services or Microsoft Azure (see sub-projects for details as level of support differs) over external data in Amazon S3 or Azure Data Lake Storage, with a stated plan to expand support to other cloud service providers (specifically the Google Cloud Platform) in the future.  Also supports SDX, allowing Altus jobs to exploit a common central metadata service.  Supports a web based UI, a (Python) CLI and a Java SDK, with full user authentication and role based access management, and integration with AWS and Azure security.  Launched in May 2017, with a per node / per hour pricing model."
 alt-titles: [Altus]
 vendor: [Cloudera]
-tech-relationships: [[uses, CDH]]
+tech-relationships: [[uses, CDH, Amazon Web Services, Microsoft Azure]]
 type: "Commercial"
 date: 2017-06-19 08:00
 last_updated: 2017-11-29
@@ -11,10 +11,12 @@ last_updated: 2017-11-29
 ## History
 
 | 2017-05-24 | Initial GA release (Data Engineering) - [announcement](http://vision.cloudera.com/simplifying-big-data-in-the-cloud/); [blog](http://blog.cloudera.com/blog/2017/05/data-engineering-with-cloudera-altus/); [details](https://community.cloudera.com/t5/Community-News-Release/Announce-Cloudera-Altus-is-now-available/m-p/55007)
+| 2017-06-22 | Addition of workload analytics - [announcement](http://vision.cloudera.com/announcing-workload-analytics-for-cloudera-altus/)
 | 2017-09-27 | Support for Azure added - [announcement](http://vision.cloudera.com/introducing-cloudera-altus-on-microsoft-azure/); [blog](http://blog.cloudera.com/blog/2017/09/cloudera-altus-on-microsoft-azure/)
 | 2017-11-28 | Beta support for Analytic DB added - [announcement](http://vision.cloudera.com/introducing-cloudera-altus-analytic-db-beta-for-cloud-based-data-warehousing/)
+| 2018-03-06 | Support for SDX added - [announcement](http://vision.cloudera.com/altus-sdx-shared-services-for-cloud-based-analytics/)
 
 ## Links
 
 * <https://www.cloudera.com/products/altus.html> - homepage
-* <https://www.cloudera.com/documentation/altus.html> - documentation
+* <https://www.cloudera.com/documentation/altus.html> - documentation (currently only covers Altus Data Engineering)
