@@ -15,7 +15,6 @@ Technology updates (details are on the relevant technology pages):
 
 Other technology news:
 
-* Draft release notes for [Accumulo](/technologies/apache-accumulo/) 1.9 and 2.0 have been started
 * [Apache Oozie](/technologies/apache-oozie/) has security vulnerablity - [CVE-2017-15712](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2017-15712) - a user can expose private files on the Oozie server process by constructing a workflow that references sensitive files
 * Trifacta have just announced a new funding round, including funding from Google that resell their software as Google Cloud Dataprep - [link](https://www.datanami.com/2018/02/06/trifacta-cashing-cloud-analytics/)
 * A couple of updates on the benefits of [Hadoop](/technologies/apache-hadoop/) 3 - [Hortonworks link](https://hortonworks.com/blog/hadoop-3-adds-value-hadoop-2/); [erasure coding thoughts from Datanami](https://www.datanami.com/2018/02/07/erasure-coding-changes-hadoop-storage-economics/)

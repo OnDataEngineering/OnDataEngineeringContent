@@ -13,8 +13,6 @@ version: "v1.8"
 
 | version | release date | release links | release comment
 | 1.8 | 2016-09-06 | [release notes](http://accumulo.apache.org/release/accumulo-1.8.0/)
-| 1.9 | tbc | [draft release notes](http://accumulo.apache.org/release/accumulo-1.9.0/)
-| 2.0 | tbc | [draft release notes](http://accumulo.apache.org/release/accumulo-2.0.0/)
 
 ## Links
 
