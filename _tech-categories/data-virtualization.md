@@ -47,7 +47,7 @@ The following are capabilities from specialist vendors:
 ## Data Connectors
 
 | Attunity Connect | Connectors for relational, non relational and applications - <https://www.attunity.com/products/connect/> 
-| OpenLink Software Universal Data Access Suite | ODBC, JDBC, ADO.NET, OLE DB connectors for wide range of data sources, including IBM DB2, IBM Informix, Ingres, Microsoft SQL Server, MySQL, OpenLink Virtuoso, Oracle, PostgreSQL, Progress and other ODBC- and JDBC-accessible sources — <https://virtuoso.openlinksw.com/>
+| OpenLink Software Universal Data Access Suite | ODBC, JDBC, ADO.NET, OLE DB connectors for wide range of data sources, including IBM DB2, IBM Informix, Ingres, Microsoft SQL Server, MySQL, OpenLink Virtuoso, Oracle, PostgreSQL, Progress and other ODBC- and JDBC-accessible sources — <https://uda.openlinksw.com/>
 | Progress DataDirect | Connectors for vast range of data sources, including big data, relational, saas/cloud and text - <https://www.progress.com/datadirect-connectors>
 
 
