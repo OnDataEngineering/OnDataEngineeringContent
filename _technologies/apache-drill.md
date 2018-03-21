@@ -5,14 +5,15 @@ alt-titles: [Drill]
 vendors: [Apache]
 type: "Commerical Open Source"
 date: 2017-04-21 07:30
-last_updated: 2018-01-10
-version: "v1.12"
+last_updated: 2018-03-21
+version: "v1.13"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 1.11 | 2017-07-31 | [announcement](http://drill.apache.org/blog/2017/07/31/drill-1.11-released/) [blog post](https://community.mapr.com/community/products/blog/2017/11/29/apache-drill-version-111-on-mapr-release-overview)
 | 1.12 | 2017-12-15 | [announcement](http://drill.apache.org/blog/2017/12/15/drill-1.12-released/); [MapR blog](https://community.mapr.com/community/products/blog/2018/02/08/apache-drill-112-on-mapr-60-release-highlights) | Kafka and OpenTSDB support
+| 1.13 | 2018-03-18 | [announcement](http://drill.apache.org/blog/2018/03/18/drill-1.13-released/) | Drill-on-YARN
 
 ## Links
 

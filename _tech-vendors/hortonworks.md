@@ -7,7 +7,7 @@ no-vendor-techs: true
 ---
 ## Vendor Technologies
 
-Hortonworks have two primary offerings - [Hortonworks Data Platform](/technologies/hortonworks-data-platform/) (HDP), a fully open source distribution of Hadoop, and [Hortonworks Data Flow](/technologies/hortonworks-data-flow/) (HDF), a distribution of (primarily) Apache NiFi, Kafka and Storm for processing data in motion.  The linked technology pages include further information of the options for deploying and managing these products.  They also provide [Hortonworks DataPlane Service](/technologies/hortonworks-dataplane-service/), a commercial cloud based service for managing and governing data.
+Hortonworks have two primary offerings - [Hortonworks Data Platform](/technologies/hortonworks-data-platform/) (HDP), a fully open source distribution of Hadoop, and [Hortonworks Data Flow](/technologies/hortonworks-data-flow/) (HDF), a distribution of (primarily) Apache NiFi, Kafka and Storm for processing data in motion.  The linked technology pages include further information of the options for deploying and managing these products.  They also provide [Hortonworks DataPlane Service](/technologies/hortonworks-dataplane-service/), a commercial cloud based service for managing and governing data, and Hortonworks Operational Services, a subscription service whereby Hortonworks engineers and support personnel manage your HDP or HDF instances on site or in the cloud.
 
 Hortonworks also offer the Hortonworks Cybersecurity Package (HCP), a cyber security platform built on HDP and HDF that's based on the Apache Metron open source project, and which is installable and manageable via Apache Ambari.
 
