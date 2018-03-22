@@ -38,7 +38,7 @@ The following are capabilities from specialist vendors:
 | [Denodo Platform](/technologies/denodo-platform/) | Very well established and mature product, with free express edition
 | Information Builders iWay Data Hub | <http://www.informationbuilders.com/products/eii>
 | K2View | Specialises in entity (e.g. customer) based views of data aggregated from multiple sources - <http://www.k2view.com>
-| OpenLink Virtuoso Universal Server |  <https://virtuoso.openlinksw.com/>
+| [OpenLink Virtuoso Universal Server](/technologies/openlink-virtuoso-universal-server/) | Multi-model database that supports virtualisation of local and/or remote tabular relational databases
 | Querona | <https://www.querona.com/>
 | RedHat JBoss Data Virtualization | Originally Metamatrix - <https://www.redhat.com/en/technologies/jboss-middleware/data-virtualization>
 | Rocket Data Virtualization | Focus on mainframe data - <http://www.rocketsoftware.com/products/rocket-data>
@@ -50,10 +50,9 @@ The following are capabilities from specialist vendors:
 | OpenLink Software Universal Data Access Suite | ODBC, JDBC, ADO.NET, OLE DB connectors for wide range of data sources, including IBM DB2, IBM Informix, Ingres, Microsoft SQL Server, MySQL, OpenLink Virtuoso, Oracle, PostgreSQL, Progress and other ODBC- and JDBC-accessible sources — <https://uda.openlinksw.com/>
 | Progress DataDirect | Connectors for vast range of data sources, including big data, relational, saas/cloud and text - <https://www.progress.com/datadirect-connectors>
 
-
 ## Semantic Web Technologies
 
 | Capsenta Ultrawrap | Virtualizes relational databases as an RDF semantic web data source - <https://capsenta.com/>
 | Complexible Stardog | RDF database that also support property graphs and data virtualisation - <http://www.stardog.com/>
 | D2RQ | Opens source platform for accessing relational databases as an RDF graph - <http://d2rq.org/>
-| OpenLink Virtuoso Universal Server | Multi-model database (RDBMS, VDBMS) supporting tabular relational (SQL), graph relational (SPARQL), hybrid (SPARQL-in-SQL a/k/a SPASQL), XML (XPath, XQuery, XSLT), filesystem/objects, and other forms of data; First shipped in 1999, available as Open Source or Enterprise Edition; various add-ons available for Enterprise Edition; virtualizes local and/or remote tabular relational databases and/or other data sources as RDF semantic web data sources — <https://virtuoso.openlinksw.com/>
+| [OpenLink Virtuoso Universal Server](/technologies/openlink-virtuoso-universal-server/) | Multi-model database that supports virtualisation of local and/or remote tabular relational databases and/or other data sources as RDF semantic web data sources
