@@ -34,23 +34,25 @@ Oracle, SAP and Microsoft also claim capabilities in this space, however these g
 The following are capabilities from specialist vendors:
 
 | Cisco Information Server | Originally Composite, one of the first and most established products in this space <http://www.compositesw.com/data-virtualization/>
-| [Denodo Platform](/technologies/denodo-platform/) | Very well established and mature product, with free express edition
-| RedHat JBoss Data Virtualization | Originally Metamatrix - <https://www.redhat.com/en/technologies/jboss-middleware/data-virtualization>
-| Stone Bond Enterprise Enabler | <http://stonebond.com/>
 | Data Virtuality | Marketed as a logical data warehouse tool - <https://datavirtuality.com/>
+| [Denodo Platform](/technologies/denodo-platform/) | Very well established and mature product, with free express edition
 | Information Builders iWay Data Hub | <http://www.informationbuilders.com/products/eii>
-| Querona | <https://www.querona.com/>
 | K2View | Specialises in entity (e.g. customer) based views of data aggregated from multiple sources - <http://www.k2view.com>
-| OpenLink Virtuoso Universal Server | <https://virtuoso.openlinksw.com/>
+| [OpenLink Virtuoso Universal Server](/technologies/openlink-virtuoso-universal-server/) | Multi-model database that supports virtualisation of local and/or remote tabular relational databases
+| Querona | <https://www.querona.com/>
+| RedHat JBoss Data Virtualization | Originally Metamatrix - <https://www.redhat.com/en/technologies/jboss-middleware/data-virtualization>
 | Rocket Data Virtualization | Focus on mainframe data - <http://www.rocketsoftware.com/products/rocket-data>
+| Stone Bond Enterprise Enabler | <http://stonebond.com/>
 
 ## Data Connectors
 
-| Progress DataDirect | Connectors for vast range of data sources, including big data, relational, saas/cloud and text - <https://www.progress.com/datadirect-connectors>
 | Attunity Connect | Connectors for relational, non relational and applications - <https://www.attunity.com/products/connect/> 
+| OpenLink Software Universal Data Access Suite | ODBC, JDBC, ADO.NET, OLE DB connectors for wide range of data sources, including IBM DB2, IBM Informix, Ingres, Microsoft SQL Server, MySQL, OpenLink Virtuoso, Oracle, PostgreSQL, Progress and other ODBC- and JDBC-accessible sources — <https://uda.openlinksw.com/>
+| Progress DataDirect | Connectors for vast range of data sources, including big data, relational, saas/cloud and text - <https://www.progress.com/datadirect-connectors>
 
 ## Semantic Web Technologies
 
 | Capsenta Ultrawrap | Virtualizes relational databases as an RDF semantic web data source - <https://capsenta.com/>
-| D2RQ | Opens source platform for accessing relational databases as an RDF graph - <http://d2rq.org/>
 | Complexible Stardog | RDF database that also support property graphs and data virtualisation - <http://www.stardog.com/>
+| D2RQ | Opens source platform for accessing relational databases as an RDF graph - <http://d2rq.org/>
+| [OpenLink Virtuoso Universal Server](/technologies/openlink-virtuoso-universal-server/) | Multi-model database that supports virtualisation of local and/or remote tabular relational databases and/or other data sources as RDF semantic web data sources
