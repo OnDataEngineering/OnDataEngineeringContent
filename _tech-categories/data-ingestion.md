@@ -44,18 +44,20 @@ The following are specialist tools for unloading data form databases.  Most data
 The following technologies support the continuous capture and ingestion of record change events from databases, and are sometimes known as change data capture tools:
 
 | Oracle GoldenGate for Big Data 12c | Commercial product for the continuous replication of data from a wide range of relational databases into a wide range of "Big Data" targets - <https://www.oracle.com/middleware/data-integration/goldengate/big-data/index.html>
-| IBM Infosphere Data Replication | Continuous replication from relational databases, including IBM systems on mainframes to a range of systems including kafka and Hadoop - <https://www.ibm.com/us-en/marketplace/infosphere-data-replication>
-| SyncSort DMX Change Data Capture | Tool for continually capturing data from mainframe databases - <https://www.syncsort.com/en/Products/BigData/DMX-Change-Data-Capture>
+| IBM Infosphere Data Replication | Commercial product for the continuous replication from relational databases, including IBM systems on mainframes to a range of systems including kafka and Hadoop - <https://www.ibm.com/us-en/marketplace/infosphere-data-replication>
+| SyncSort DMX Change Data Capture | Commercial tool for continually capturing data from mainframe databases - <https://www.syncsort.com/en/Products/BigData/DMX-Change-Data-Capture>
 | Quest Shareplex | Commercial product for the continuous replication of data from Oracle or SQL Server to a range of targets including Kafka, Hadoop and flat files; previously known as Dell Shareplex, SharePlex for Oracle and Quest Data Connector for Oracle and Hadoop - <https://www.quest.com/products/shareplex/>
 | Attunity Replicate | Commercial technology for the continuous replication of data between a wide variety of sources including Kafka, relational and analytical databases, mainframes, Hadoop and the cloud; with a free limited Express edition - <https://www.attunity.com/products/replicate/>
 | Continuent Tungsten Replicator | Continuous replication of Oracle, MySQL and Amazon RDS databases to Hadoop, Vertica, RedShift and others, with an open source version available - <https://www.continuent.com/solutions/#bigdata>; <https://github.com/continuent/tungsten-replicator>
-| Dbvisit Replicate | Continuous replication of data from Oracle to a number of targets including Hadoop and Kafka - <http://www.dbvisit.com/products/dbvisit_replicate_real_time_oracle_database_replication/>
+| Dbvisit Replicate | Commercial product for the continuous replication of data from Oracle to a number of targets including Hadoop and Kafka - <http://www.dbvisit.com/products/dbvisit_replicate_real_time_oracle_database_replication/>
+| SQData CDC | Commercial tool for continuous replication with a wide range of sources and targets - <https://www.sqdata.com/changed-data-capture/>
 
 ## Streaming Data Store Ingestion
 
 A number of [streaming data stores](/tech-categories/streaming-data-stores/) have integrated tools for the aquisition of data:
 
 | [Kafka Connect](/technologies/apache-kafka/kafka-connect/) | Framework for building scalable and reliable integrations between Kafka and other technologies, including the ingestion of data, that's part of the core Apache Kafka technology
+| Debezium | Open Source tool for continuous replication from a number of databases based on Kafka and Kafka Connect - <http://debezium.io/>
 | Amazon Kinesis Streams | Includes an Amazon Kinesis Agent for capture and ingestion of data - <https://aws.amazon.com/kinesis/streams/>
 
 ## Cloud Based Ingestion Tools
