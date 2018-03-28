@@ -5,13 +5,14 @@ alt-titles: [Pivotal HDB, Hortonworks HDB]
 vendors: [Apache, Pivotal, Hortonworks]
 type: "Commercial Open Source"
 date: 2017-03-06
-last_updated: 2017-07-19
-version: "v2.2"
+last_updated: 2018-03-28
+version: "v2.3"
 ---
 ## Release History
 
 | version | release date | release links | release comment
-| 2.2 | 2017-07-21 | [announcement](http://mail-archives.apache.org/mod_mbox/incubator-general/201707.mbox/%3C3f6be308.9642.15d35aa787e.Coremail.huor@apache.org%3E) | 
+| 2.2 | 2017-07-21 | [announcement](http://mail-archives.apache.org/mod_mbox/incubator-general/201707.mbox/%3C3f6be308.9642.15d35aa787e.Coremail.huor@apache.org%3E)
+| 2.3 | 2018-03-18 | [announcement](http://mail-archives.us.apache.org/mod_mbox/www-announce/201803.mbox/%3CCAEUT=QtiQ=9XVDtyZjY8aocjy6J972+zBTuVD_30XX1GHq6pWA@mail.gmail.com%3E)
 
 ## Links
 
