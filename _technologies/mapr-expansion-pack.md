@@ -9,8 +9,8 @@ vendors: [MapR]
 tech-relationships: [[packages, Drill, Flume, Hive, Hue, Impala, Mahout, Myriad, Oozie, Pig, Sentry, Spark, Sqoop, Storm, Tez, MapR-DB HBase Clients and Tools, MapR-ES Kafka Clients and Tools, Kafka Connect]]
 type: "Commercial Open Source"
 date: 2017-04-20 07:30
-last_updated: 2018-02-23
-version: "v4.1"
+last_updated: 2018-04-11
+version: "v5.0"
 ---
 ## Further Information
 
@@ -31,6 +31,7 @@ Some key components to call out include:
 | version | release date | release links | release comment
 | 4.0 | 2017-11-21 | [announcement](https://community.mapr.com/community/products/blog/2017/11/21/announcing-mep-40-released)
 | 4.1 | 2018-02-02 | [announcement](https://community.mapr.com/community/products/blog/2018/02/08/announcing-mapr-expansion-pack-mep-41-released)
+| 5.0 | 2018-04-06 | [announcement](https://community.mapr.com/community/products/blog/2018/04/06/announcement-mapr-601-mep-50); [release notes](https://maprdocs.mapr.com/60/EcosystemRN/MEP5.0.0.html) | Drill 1.13; Flume 1.8; Impala 2.10; Spark 2.2.1
 
 ## Links
 

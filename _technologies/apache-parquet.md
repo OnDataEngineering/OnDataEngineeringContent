@@ -5,8 +5,8 @@ alt-titles: [Parquet]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-20
-last_updated: 2018-03-14
-version: "v1.9 (Parquet MR), v2.3 (Parquet Format), v1.4 (Parquet C++)"
+last_updated: 2018-04-11
+version: "v1.10 (Parquet MR), v2.3 (Parquet Format), v1.4 (Parquet C++)"
 ---
 ## Release History
 
@@ -16,6 +16,7 @@ version: "v1.9 (Parquet MR), v2.3 (Parquet Format), v1.4 (Parquet C++)"
 | 1.2 (Parquet C++) | 2017-08-04 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201708.mbox/%3C1501853659.3701438.1063168192.750F6F08@webmail.messagingengine.com%3E) |
 | 1.3 (Parquet C++) | 2017-09-25 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201709.mbox/%3C1506372726.2995644.1117929408.5D40AC49@webmail.messagingengine.com%3E) |
 | 1.4 (Parquet C++) | 2018-03-07 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201803.mbox/%3C1520429566.2875966.1294691512.05A524C2%40webmail.messagingengine.com%3E) |
+| 1.10 (Parquet MR) | 2018-03-31 | [changelog](https://raw.githubusercontent.com/apache/parquet-mr/master/CHANGES.md)
 
 ## Links
 

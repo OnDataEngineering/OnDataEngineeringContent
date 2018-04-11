@@ -16,7 +16,7 @@ version: "v2.4"
 | 2.1 | 2017-07-27 | [Ignite announcement](https://blogs.apache.org/ignite/entry/apache-ignite-2-1-a) | Adds persistent storage of data held in memory - see [post](https://www.gridgain.com/resources/blog/apacher-ignitetm-native-persistence-what-about-data-recovery-solved) |
 | 2.2 | 2017-09-21 | [Ignite announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201709.mbox/%3C68C2E42E-117B-46CF-A854-2C0D89172E9B@apache.org%3E)
 | 2.3 | 2017-11-01 | [Ignite announcement](https://blogs.apache.org/ignite/entry/apache-ignite-2-3-more)
-| 2.4 | 2018-03-15 | [Ignite announcement](https://blogs.apache.org/ignite/entry/apache-ignite-2-4-brings) | Machine Learning GA; Spark DataFrames
+| 2.4 | 2018-03-15 | [Ignite announcement](https://blogs.apache.org/ignite/entry/apache-ignite-2-4-brings); [GridGain Professional announcement](https://www.gridgain.com/resources/blog/gridgain-professional-edition-24-now-available) | Machine Learning GA; Spark DataFrames
 
 ## Links
 

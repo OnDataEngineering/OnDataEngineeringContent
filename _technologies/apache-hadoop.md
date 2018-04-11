@@ -5,8 +5,8 @@ alt-titles: [Hadoop]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2016-12-16
-last_updated: 2018-01-10
-version: "v3.0"
+last_updated: 2018-04-11
+version: "v3.1"
 ---
 ## Release History
 
@@ -14,6 +14,7 @@ version: "v3.0"
 | 2.8 | 2017-03-22 | [summary](http://hadoop.apache.org/docs/r2.8.0/index.html) | Note that 2.8.2 is the first GA version for production use 
 | 2.9 | 2017-11-17 | [summary](http://hadoop.apache.org/docs/r2.9.0/index.html)
 | 3.0 | 2017-12-14 | [summary](http://hadoop.apache.org/docs/r3.0.0/index.html); [announcement](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces26)
+| 3.1 | 2018-04-06 | [summary](http://hadoop.apache.org/docs/r3.1.0/index.html); [announcement](https://blogs.apache.org/hadoop/entry/announce-apache-hadoop-3-1); [Hortonworks post](https://hortonworks.com/blog/apache-hadoop-3-1-giant-leap-big-data/) | Support for containerised workloads, GPU/FPGA support; heterogeneous (exteral) storage
 
 ## Links
 
