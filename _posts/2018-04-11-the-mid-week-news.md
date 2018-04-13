@@ -12,10 +12,10 @@ Technology updates (details are on the relevant technology pages):
 * [Cloudbreak](/technologies/cloudbreak/) has a 2.5 tech preview release with support for HDF
 * [Apache Parquet](/technologies/apache-parquet/) has hit a 1.10 release of it's Map Reduce implementation
 * [Apache Kafka](/technologies/apache-kafka/) has hit 1.1
-* [Apache NiFi](/te)chnologies/apache-nifi/) has hit 1.6
+* [Apache NiFi](/technologies/apache-nifi/) has hit 1.6
 * [MapR Expansion Pack](/technologies/mapr-expansion-pack/) has hit 5.0
 * [Hue](/technologies/hue/) has hit 4.2
-* [Greenplum](/technologies/apache-greenplum/) has hit 5.7
+* [Greenplum](/technologies/greenplum/) has hit 5.7
 
 Other technology news:
 
@@ -23,7 +23,7 @@ Other technology news:
 * From Hortonworks, a view on the performance of [Hive](/technologies/apache-hive/) over local disk vs S3 cloud storage - [link](https://hortonworks.com/blog/cloud-architectures-interactive-analytics-apache-hive/)
 * Hardly surprise, but from Datanami - Excel remains the go to Data Prep tool - [link](https://www.datanami.com/2018/04/02/survey-excel-remains-go-to-data-prep-tool/)
 * An update on Oracle's new "automated" database / data warehouse strategy - [link](https://www.enterprisetech.com/2018/03/28/oracle-ellison-seek-path-around-aws/)
-* Microsoft have announced a public preview of soft deletes for [Azure Storage Blobs](/technoloiges/azure-storage-blobs/) - [link](https://azure.microsoft.com/en-us/blog/soft-delete-for-azure-storage-blobs-now-in-public-preview/)
+* Microsoft have announced a public preview of soft deletes for [Azure Storage Blobs](/technologies/microsoft-azure-blob-storage/) - [link](https://azure.microsoft.com/en-us/blog/soft-delete-for-azure-storage-blobs-now-in-public-preview/)
 * MapR are now also talking about "Streams of Record" with [MapR-ES](/technologies/mapr-es/) - [link](https://mapr.com/blog/extending-your-stream-of-record-mapr-6-0-1-mep-5-0/)
 * We have a bunch of security announcements this week:
   * [CVE-2018-1308](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1308) - XXE attack through Apache Solr's DIH's dataConfig request parameter
