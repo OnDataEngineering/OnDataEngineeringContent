@@ -61,7 +61,7 @@ See our [Query Engines](/tech-categories/query-engines/) page for details of tec
 ## Cloud Services
 
 | Amazon Redshift | A MPP analytical database, with support for columnar storage and the ability to query data in Amazon S3 as external tables (Redshift Spectrum) - <https://aws.amazon.com/redshift/>
-| Google Big Query | Analytical SQL database service, with cost based on storage and query execution - <https://cloud.google.com/bigquery/>
+| Google BigQuery | Analytical SQL database service, with cost based on storage and query execution - <https://cloud.google.com/bigquery/>
 | Azure SQL Data Warehouse | Scalable analytical database, with support for Azure Data Lake Store external tables - <https://azure.microsoft.com/en-us/services/sql-data-warehouse/>
 | [Cloudera Altus Analytical DB](/technologies/cloudera-altus/analytical-db/) - [Apache Impala](/technologies/apache-impala/) as a cloud managed service over AWS or Azure
 | Oracle Exadata Cloud | Oracle Exadata as a managed cloud service (including as an Oracle managed on premises offering) - <https://cloud.oracle.com/database>

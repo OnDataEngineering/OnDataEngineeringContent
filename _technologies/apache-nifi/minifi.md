@@ -8,13 +8,12 @@ version: v0.4 (Java) v0.4 (C++)
 ---
 ## Release History
 
-
 | version | release date | release links | release comment
-| 0.2 (Java) | 2017-05-18 | [summary](https://cwiki.apache.org/confluence/display/MINIFI/Release+Notes#ReleaseNotes-Version0.2.0) |
 | 0.2 (C++) | 2017-05-11 | [summary](https://cwiki.apache.org/confluence/display/MINIFI/Release+Notes#ReleaseNotes-Versioncpp-0.2.0) |
-| 0.3 (C++) | 2017-11-21 | [summary](https://cwiki.apache.org/confluence/display/MINIFI/Release+Notes#ReleaseNotes-Versioncpp-0.3.0) |
+| 0.2 (Java) | 2017-05-18 | [summary](https://cwiki.apache.org/confluence/display/MINIFI/Release+Notes#ReleaseNotes-Version0.2.0) |
+| 0.3 (C++) | 2017-11-30 | [summary](https://cwiki.apache.org/confluence/display/MINIFI/Release+Notes#ReleaseNotes-Versioncpp-0.3.0) |
 | 0.3 (Java) | 2017-12-22 | [summary](https://cwiki.apache.org/confluence/display/MINIFI/Release+Notes#ReleaseNotes-Version0.3.0) |
-| 0.4 (C++) | 2018-01-28 | [summary](https://cwiki.apache.org/confluence/display/MINIFI/Release+Notes#ReleaseNotes-Versioncpp-0.4.0) |
+| 0.4 (C++) | 2018-01-27 | [summary](https://cwiki.apache.org/confluence/display/MINIFI/Release+Notes#ReleaseNotes-Versioncpp-0.4.0) |
 | 0.4 (Java) | 2018-01-22 | [summary](https://cwiki.apache.org/confluence/display/MINIFI/Release+Notes#ReleaseNotes-Version0.4.0) |
 
 ## Links

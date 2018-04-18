@@ -4,13 +4,14 @@ description: "An open source distributed database built to support sub-second OL
 vendors: [Imply]
 type: "Commercial Open Source"
 date: 2017-06-13 07:30
-last_updated: 2018-03-07
-version: "v0.11"
+last_updated: 2018-04-18
+version: "v0.12"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 0.11 | 2017-12-04 | [announcement](http://druid.io/blog/2017/12/04/druid-0-11-0.html) |
+| 0.12 | 2018-03-08 | [announcement](http://druid.io/blog/2018/03/08/druid-0-12-0.html) |
 
 ## Links
 
