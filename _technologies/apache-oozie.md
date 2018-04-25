@@ -5,8 +5,14 @@ alt-titles: [Oozie]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-20
-version: "v4.3"
+last_updated: 2018-04-25
+version: "5.0"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 5.0 | 2018-04-18 | [summary](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces32); [release notes](https://oozie.apache.org/docs/5.0.0/release-log.txt)
+
 ## Links
 
 * <http://oozie.apache.org/> - homepage
