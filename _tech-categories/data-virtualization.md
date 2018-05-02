@@ -36,6 +36,7 @@ The following are capabilities from specialist vendors:
 | Cisco Information Server | Originally Composite, one of the first and most established products in this space <http://www.compositesw.com/data-virtualization/>
 | Data Virtuality | Marketed as a logical data warehouse tool - <https://datavirtuality.com/>
 | [Denodo Platform](/technologies/denodo-platform/) | Very well established and mature product, with free express edition
+| Dremio | Supports querying over data in databases, Hadoop, NoSQL and file systems, with support for creating virtual tables and automatically physically materialising these - <https://www.dremio.com/>
 | Information Builders iWay Data Hub | <http://www.informationbuilders.com/products/eii>
 | K2View | Specialises in entity (e.g. customer) based views of data aggregated from multiple sources - <http://www.k2view.com>
 | [OpenLink Virtuoso Universal Server](/technologies/openlink-virtuoso-universal-server/) | Multi-model database that supports virtualisation of local and/or remote tabular relational databases
