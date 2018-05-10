@@ -14,6 +14,7 @@ version: "4.2"
 | 4.0 | 2017-07-31 | [announcement](http://gethue.com/hue-4-and-its-new-interface-is-out/) [UI details](http://gethue.com/the-hue-4-user-interface-in-detail/) | New UI
 | 4.1 | 2017-10-04 | [announcement](http://gethue.com/hue-4-1-is-out/)
 | 4.2 | 2018-04-04 | [announcement](http://gethue.com/hue-4-2-and-its-self-service-bi-improvements-are-out/); [blog posts](http://gethue.com/category/hue-4-2/)
+| 4.3 | tbc | [data catalog search](http://gethue.com/simplifying-the-end-user-data-catalog-search/)
 
 ## Links
 

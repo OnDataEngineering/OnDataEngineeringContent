@@ -5,8 +5,8 @@ alt-titles: [Apex, DataTorrent RTS]
 vendors: [Apache, DataTorrent]
 type: "Commercial Open Source"
 date: 2017-02-06
-last_updated: 2017-11-15
-version: "v3.6 (Apex Core), v3.8 (Apex Malhar), v3.8 (DataTorrent RTS)"
+last_updated: 2018-05-09
+version: "v3.7 (Apex Core), v3.8 (Apex Malhar), v3.8 (DataTorrent RTS)"
 ---
 ## Release History
 
@@ -15,6 +15,7 @@ version: "v3.6 (Apex Core), v3.8 (Apex Malhar), v3.8 (DataTorrent RTS)"
 | 3.8 (DataTorrent RTS) | 2017-04-18 | [blog post](https://www.datatorrent.com/blog/big-data-real-time-analytics-insights/) |
 | 3.6 (Apex Core) | 2017-05-04 | [changelist](https://github.com/apache/apex-core/blob/v3.6.0/CHANGELOG.md) |
 | 3.8 (Apex Malhar) | 2017-11-12 | [changelist](https://github.com/apache/apex-malhar/blob/v3.8.0/CHANGELOG.md) |
+| 3.7 (Apex Core) | 2018-04-28 | [changelist](https://github.com/apache/apex-core/blob/v3.7.0/CHANGELOG.md) |
 
 ## Links
 
