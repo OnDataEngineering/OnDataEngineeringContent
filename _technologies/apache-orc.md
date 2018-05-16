@@ -5,8 +5,14 @@ alt-titles: [ORC]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-10-04 07:30
-version: "v1.4.0"
+last_updated: 2018-05-16
+version: "v1.5"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.5 | 2018-05-14 | [release notes](https://orc.apache.org/docs/releases.html#current-release---150)
+
 ## Links
 
 * <https://orc.apache.org/> - home page

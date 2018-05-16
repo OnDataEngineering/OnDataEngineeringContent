@@ -28,6 +28,7 @@ draft-banner: true
 | Google Big Query | Analytical SQL database service - <https://cloud.google.com/bigquery/>
 | Google Cloud Bigtable | NoSQL wide column store service - <https://cloud.google.com/bigtable/>
 | Google Cloud Datastore | NoSQL document store service - <https://cloud.google.com/datastore/>
+| Google Cloud Memorystore | NoSQL key value store service, compatible with the Redis protocol - <https://cloud.google.com/memorystore/>
 
 ## Analytics Services
 
