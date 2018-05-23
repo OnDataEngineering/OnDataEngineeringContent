@@ -1,11 +1,11 @@
 ---
 title: "Cloudera Altus Analytical DB (Beta)"
-description: "Impala as a managed service, supporting the dynamic provisionng of Impala clusters on AWS over data in Amazon S3.  Currently in Beta, with limited documentation available."
+description: "Impala as a managed service, supporting the dynamic provisionng of Impala clusters on AWS and Azure cloud infrastructure over data in Amazon S3 or Azure Data Lake Storage (ADLS).  Currently in Beta, with limited documentation available."
 alt-titles: [Cloudera Altus Analytical DB]
 tech-relationships: [[packages, Impala]]
 type: "Sub-Project"
 date: 2018-03-09 07:30
-last_updated: 2018-03-09
+last_updated: 2018-05-23
 ---
 ## Links
 

@@ -6,7 +6,7 @@ vendor: [Cloudera]
 tech-relationships: [[uses, CDH, Amazon Web Services, Microsoft Azure]]
 type: "Commercial"
 date: 2017-06-19 08:00
-last_updated: 2017-11-29
+last_updated: 2018-05-23
 ---
 ## History
 
@@ -15,6 +15,7 @@ last_updated: 2017-11-29
 | 2017-09-27 | Support for Azure added - [announcement](http://vision.cloudera.com/introducing-cloudera-altus-on-microsoft-azure/); [blog](http://blog.cloudera.com/blog/2017/09/cloudera-altus-on-microsoft-azure/)
 | 2017-11-28 | Beta support for Analytic DB added - [announcement](http://vision.cloudera.com/introducing-cloudera-altus-analytic-db-beta-for-cloud-based-data-warehousing/)
 | 2018-03-06 | Support for SDX added - [announcement](http://vision.cloudera.com/altus-sdx-shared-services-for-cloud-based-analytics/)
+| 2018-05-22 | Data Engineering GA and Analytics DB beta on Azure - [announcement](http://vision.cloudera.com/cloudera-altus-is-now-available-on-azure/)
 
 ## Links
 
