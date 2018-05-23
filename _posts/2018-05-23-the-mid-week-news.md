@@ -2,7 +2,7 @@
 title: The Mid Week News 23/05/2018
 date: 2018-05-23 07:30
 ---
-It's Wednesday, it's the news (and it's very quiet again)..
+It's time for the news again - let's go...
 <!--more-->
 
 Technology updates (details are on the relevant technology pages):
@@ -11,7 +11,7 @@ Technology updates (details are on the relevant technology pages):
 * [Cloudera CDH](/technologies/cloudera-cdh/) 6.0 has been announced, out now in beta
 * [Cloudera Altus](/technologies/cloudera-altus/) Data Engineering is now GA and Analytics DB is now beta on Azure
 * [Apache Hive](/technologies/apache-hive/) 3.0 is out
-* [Hortonworks DataPlane Services](/technologies/hortonworks-dataplane-services/) is up to 1.1
+* [Hortonworks DataPlane Services](/technologies/hortonworks-dataplane-service/) is up to 1.1
 * [StreamSets Data Collector](/technologies/streamsets-data-collector) is up to 3.2
 
 Other technology news:
