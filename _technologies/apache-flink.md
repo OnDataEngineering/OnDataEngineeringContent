@@ -5,14 +5,15 @@ alt-titles: [Flink]
 vendors: [Apache, Data Artisans]
 type: "Commercial Open Source"
 date: 2017-02-08
-last_updated: 2017-12-13
-version: "1.4"
+last_updated: 2018-06-06
+version: "1.5"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 1.3 | 2017-06-01 | [summary](http://flink.apache.org/news/2017/06/01/release-1.3.0.html) |
 | 1.4 | 2017-12-12 | [summary](http://flink.apache.org/news/2017/12/12/release-1.4.0.html) |
+| 1.5 | 2018-06-05 | [summary](http://flink.apache.org/news/2018/05/25/release-1.5.0.html) | [Datanami view](https://www.datanami.com/2018/05/29/apache-flink-gets-an-sql-client/)
 
 ## Links
 

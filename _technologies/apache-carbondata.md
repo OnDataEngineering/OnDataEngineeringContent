@@ -5,13 +5,14 @@ alt-titles: [CarbonData]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-10-03 07:30
-last_updated: 2018-02-07
-version: "1.3"
+last_updated: 2018-06-06
+version: "1.4"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 1.3 | 2017-02-03 | [release notes](https://cwiki.apache.org/confluence/display/CARBONDATA/Apache+CarbonData+1.3.0+Release) |
+| 1.4 | 2018-06-04 | [release notes](https://cwiki.apache.org/confluence/display/CARBONDATA/Apache+CarbonData+1.4.0+Release) |
 
 ## Links
 

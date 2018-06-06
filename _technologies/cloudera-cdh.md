@@ -25,7 +25,7 @@ Add Ons are not bundled with CDH, but are available separately, either via direc
 | 5.12 | 2017-07-13 | [announcement](http://community.cloudera.com/t5/Community-News-Release/Cloudera-Enterprise-5-12-is-Now-Available/m-p/57359#M184) [New Hue 4 functionality](http://blog.cloudera.com/blog/2017/08/new-in-cloudera-enterprise-5-12-hue-4-interface-and-query-assistant/) |
 | 5.13 | 2017-10-12 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Enterprise-5-13-is-Now-Available/m-p/60879#M200) [Release Notes](https://www.cloudera.com/documentation/enterprise/release-notes/topics/cdh_rn_new_in_cdh_513.html) | Kudu now fully bundled and Spark 1.x deprecated
 | 5.14 | 2018-01-26 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Enterprise-5-14-is-Now-Available/td-p/64064) [Release Notes](https://www.cloudera.com/documentation/enterprise/release-notes/topics/cdh_rn_new_in_cdh_514.html) |
-| 6.0 | tbc (curr in beta) | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Enterprise-6-Beta-Released/td-p/67312); [blog post](http://vision.cloudera.com/building-the-modern-platform-with-cloudera-enterprise-6-x-and-altus/)
+| 6.0 | tbc (curr in beta) | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Enterprise-6-Beta-Released/td-p/67312); [blog post](http://vision.cloudera.com/building-the-modern-platform-with-cloudera-enterprise-6-x-and-altus/); [Solr 7](http://blog.cloudera.com/blog/2018/05/new-in-cloudera-enterprise-6-0-analytic-search/)
 
 ## Links
 

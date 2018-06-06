@@ -5,14 +5,14 @@ alt-titles: [Atlas]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-20
-last_updated: 2018-01-31
-version: "v0.8"
+last_updated: 2018-06-06
+version: "v1.0"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 0.8 | 2017-03-31 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201703.mbox/%3C8634D8C3-56D3-4E13-B292-B6C51F6AD5CC%40apache.org%3E) |
-| 1.0 alpha | TBC | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201801.mbox/%3CCAA%2BfxdWeTFSna5dfhmgnNiHU08hMMRJfhk%3DGNJOR30%3Db6Tnsxg%40mail.gmail.com%3E) |
+| 1.0 | 2018-06-03 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201806.mbox/%3C05E989B0-4F8E-4BCE-88B0-2CC06DE2241F%40apache.org%3E); [What's New](http://atlas.apache.org/WhatsNew-1.0.html) |
 
 ## Links
 
