@@ -9,5 +9,3 @@ last_updated: 2017-08-25
 
 * <http://spark.apache.org/sql/> - home page
 * <http://spark.apache.org/docs/latest/streaming-programming-guide.html> - documentation
-
-https://databricks.com/blog/2016/07/28/structured-streaming-in-apache-spark.html
