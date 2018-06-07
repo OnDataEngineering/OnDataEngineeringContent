@@ -16,7 +16,7 @@ Interesting blog posts:
 
 * [eBay on their use of Hue, Zeppelin and Knox](http://www.ebaytechblog.com/2017/05/12/enhancing-the-user-experience-of-the-hadoop-ecosystem/)
 * [Some thoughts on being a Data Engineer](https://dzone.com/articles/how-to-become-a-data-engineer)
-* [A post from Confluent](https://www.confluent.io/blog/watermarks-tables-event-time-dataflow-model/) (who are therefore slightly biased) on why Kafka Tables provide a better solution that windowing and watermarks (with specific reference to the Beam API) for calculating rolling aggregates of revisions or updates
+* [A post from Confluent](https://www.confluent.io/blog/watermarks-tables-event-time-dataflow-model/) (who are therefore slightly biased) on why [Kafka Streams](/technologies/apache-kafka/kafka-streams/) Tables provide a better solution that windowing and watermarks (with specific reference to the Beam API) for calculating rolling aggregates of revisions or updates
 * Hortonworks have been on a bit of a roll with multi-part blog posts:
   * [Building streaming analytics platforms](https://hortonworks.com/blog/part-1-hortonworks-building-successful-streaming-analytics-platforms/)
   * [Thoughts on Data Lake 3.0](https://hortonworks.com/blog/part-5-of-data-lake-3-0-yarn-and-containerization-supporting-docker-and-beyond/), including docker support in YARN
