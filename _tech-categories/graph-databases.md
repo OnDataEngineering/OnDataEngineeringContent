@@ -71,7 +71,7 @@ See the note above on the "Do we need specialized graph databases? Benchmarking 
 
 | Microsoft Azure Cosmos DB | Massively scalable, low latency multi-model (key-value, graph, wide column and document) NoSQL database, including support for the Gremlin API - <https://azure.microsoft.com/en-us/services/cosmos-db/>
 | IBM Graph | Graph database as a service built using JanusGraph - <https://www.ibm.com/us-en/marketplace/graph>
-| Amazon Neptune (Preview) | Graph and RDF database service with support for TinkerPop Gremlin and RDF SPARQL - <https://aws.amazon.com/neptune/>
+| Amazon Neptune | Graph and RDF database service with support for TinkerPop Gremlin and RDF SPARQL - <https://aws.amazon.com/neptune/>
 
 ## Historical / Deprecated Graph Databases
 

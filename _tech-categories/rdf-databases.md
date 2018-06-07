@@ -47,3 +47,7 @@ And Bloor have a primer on graph technologies (<http://www.bloorresearch.com/res
 | BrightstarDB | Open Source RDF database for the .NET platform - <http://brightstardb.com/>
 | Strabon | Spatiotemporal RDF store - <http://www.strabon.di.uoa.gr/>
 | Rya (Incubating) | RDF triple store built on Apache Accumulo - <http://rya.apache.org/>
+
+## RDF Databases as a Service
+
+| Amazon Neptune | Graph and RDF database service with support for TinkerPop Gremlin and RDF SPARQL - <https://aws.amazon.com/neptune/>
