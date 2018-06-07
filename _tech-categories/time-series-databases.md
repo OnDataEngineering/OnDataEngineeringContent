@@ -46,6 +46,10 @@ From Steven Acreman on the Outlyer blog, a review of Time Series Databases from 
 | MachBase | Commercial Time Series DB previously known as InfiniFlux - <http://www.infiniflux.com/machbase/>
 | KDB+ | Time Series DB from KX Systems that used heavily in financial organisations - <https://kx.com/discover/#time-series-database>
 
+## Cloud Services
+
+| Azure Time Series Insights | Storage, analytics and visualisation service for time series data - <https://azure.microsoft.com/en-us/services/time-series-insights/>
+
 ## Monitoring Stacks (open source)
 
 The following stacks support monitoring infrastructure and applications, with connectors to import metrics from a number of sources:
