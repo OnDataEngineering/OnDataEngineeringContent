@@ -120,9 +120,10 @@ draft-banner: true
 | [Storm](/technologies/apache-storm/) | Specialised distributed stream processing technology based on a single record (not micro batch) model with at least once processing semantics.
 | [Flink](/technologies/apache-flink/) | Specialised stream processing technology inspired by the Google Data Flow model based on a single record (not micro batch) model, with exactly once processing semantics (for supported sources and sinks) via light weight checkpointing and support for batch processing.
 | [Spark/Streaming](/technologies/apache-spark/spark-streaming/) | Spark library for continuous stream processing, that allows stream and batch processing (including Spark SQL and MLlib operations) to be combined
+| [Apache Kafka Streams](/technologies/apache-kafka/kafka-streams/) | Stream processing framework built over Apache Kafka, with support for stateful tables
 | [Beam](/technologies/apache-beam) | Model and SDKs for running batch and streaming workflows over Apex, Flink, Spark and Google Dataflow - <https://beam.apache.org/>
 | [Apex](/technologies/apache-apex/) | Data transformation engine based on Directed Acyclic Graph (DAG) flows configured through a Java API or via JSON that runs over YARN and HDFS with native support for both micro-batch streaming and batch uses cases
-| Heron (Incubating) | The stream processing framework that Twitter built after Storm, with a Storm compatible API
+| Heron (Incubating) | The stream processing framework that Twitter built after Storm, with a Storm compatible API - <http://heron.incubator.apache.org/>
 | Samza | Stream processing framework built on Kafka and YARN - <http://samza.apache.org/>
 | Bahir | A suite of streaming connectors for Spark and Flink, including support for Akka, MQTT, Twitter and ZeroMQ - <http://bahir.apache.org/>
 | Gearpump (Incubating) | Real-time streaming engine based on the micro-service Actor model - <http://gearpump.apache.org/>
