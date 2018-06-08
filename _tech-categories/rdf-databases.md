@@ -27,6 +27,7 @@ And Bloor have a primer on graph technologies (<http://www.bloorresearch.com/res
 
 ## Commercial RDF Databases
 
+| Amazon Neptune | Graph and RDF database service with support for TinkerPop Gremlin and RDF SPARQL - <https://aws.amazon.com/neptune/>
 | MarkLogic | Commercial ACID compliant XML/JSON document store with support for creation of triple indexes over documents queryable via SPARQL - <http://www.marklogic.com/>
 | OpenLink Virtuoso Universal Server | Supports persistence of documents, relational, RDF and graph data - <https://virtuoso.openlinksw.com/>
 | Franz AllegroGraph | Commercial ACID compliant that supports both RDF and property graphs, with a free edition available - <https://allegrograph.com/allegrograph/>
@@ -47,7 +48,3 @@ And Bloor have a primer on graph technologies (<http://www.bloorresearch.com/res
 | BrightstarDB | Open Source RDF database for the .NET platform - <http://brightstardb.com/>
 | Strabon | Spatiotemporal RDF store - <http://www.strabon.di.uoa.gr/>
 | Rya (Incubating) | RDF triple store built on Apache Accumulo - <http://rya.apache.org/>
-
-## RDF Databases as a Service
-
-| Amazon Neptune | Graph and RDF database service with support for TinkerPop Gremlin and RDF SPARQL - <https://aws.amazon.com/neptune/>
