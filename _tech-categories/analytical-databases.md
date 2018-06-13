@@ -23,6 +23,7 @@ See our [Query Engines](/tech-categories/query-engines/) page for details of tec
 | Vertica | MPP columnar database with support for a range of analytical functions including machine learning; deployable on commodity infrastructure or public/private cloud - <https://www.vertica.com/overview/>
 | Actian Vector | MPP columnar database with support for vectorized execution, small incremental inserts and min-max indices, with a free community edition for databases under 1 Tb - <https://www.actian.com/analytic-database/vector-smp-analytic-database/>
 | InfoBrightDB | Columnar database, now sold by Ignite Technologies - <http://www.ignitetech.com/solutions/information-technology/infobrightdb>
+| SQream | Columnar GPU accelerated analytical database, available on premise or in the cloud - <https://sqream.com/>
 
 ## Open Source Technologies
 
