@@ -42,13 +42,11 @@ Comparison of Parquet, Avro, HBase and Kudu, from January 2017 - <https://db-blo
 
 And of course, any [object store](/tech-categories/object-stores/), NoSQL key value store or [NoSQL wide column store](/tech-categories/nosql-wide-column-stores/) can be used to store data by key.
 
-## Data Storage Services
-
-| [Kudu](/technologies/apache-kudu/) | Storage engine that supports efficient storage of data, insert/update/deletes and strong query performance
-| [RecordService](/technologies/recordservice) | Abstraction layer for accessing structured data in Hadoop
-| [Hive Metastore](/technologies/apache-hive/hive-metastore/) | Standard technology for defining structure of data in Hadoop
-
 ## In Memory Formats
 
 | [Arrow](/technologies/apache-arrow/) | In memory columnar data format supporting high performance data exchange and fast analytical access
 | Mnemonic | Hybrid memory / storage object model framework with Spark and MapReduce support - <http://mnemonic.apache.org/>
+
+## Data Storage Services
+
+| [Kudu](/technologies/apache-kudu/) | Cluster based columnar storage engine that supports updates and deletes by primary key
