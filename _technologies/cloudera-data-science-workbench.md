@@ -4,17 +4,17 @@ description: "A web based notebook for interactive data analytics that uses dock
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-05-04 07:30
-last_updated: 2018-05-23
-version: "v1.3"
+last_updated: 2018-06-20
+version: "v1.4"
 ---
 ## Release History
 
 | version | release date | release links | release comment
-| 1.0 | 2017-04-26 | [announcement](http://community.cloudera.com/t5/Community-News-Release/Announce-Cloudera-Data-Science-Workbench-is-now-available/m-p/54177#M173) [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_100) | Initial release
-| 1.1 | 2017-07-18 | [announcement](http://community.cloudera.com/t5/Community-News-Release/Announce-Cloudera-Data-Science-Workbench-Release-1-1/m-p/57605#M187) [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_110) [blog post](http://vision.cloudera.com/cloudera-data-science-workbench-release-1-1/)
-| 1.2 | 2017-10-20 | [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_120) [blog post](http://vision.cloudera.com/now-available-cloudera-data-science-workbench-release-1-2/) | [new usage monitoring](http://blog.cloudera.com/blog/2017/10/new-in-cloudera-data-science-workbench-1-2-usage-monitoring-for-administrators/)
-| 1.3 | 2018-01-26 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Data-Science-Workbench-1-3-Released/td-p/64065) [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_130)
-| 1.4 | 2018-06-19 (announced) | [blog post](http://vision.cloudera.com/announcing-cloudera-data-science-workbench-release-1-4/)
+| 1.0 | 2017-04-26 | [announcement](http://community.cloudera.com/t5/Community-News-Release/Announce-Cloudera-Data-Science-Workbench-is-now-available/m-p/54177#M173); [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_100) | Initial release
+| 1.1 | 2017-07-18 | [announcement](http://community.cloudera.com/t5/Community-News-Release/Announce-Cloudera-Data-Science-Workbench-Release-1-1/m-p/57605#M187); [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_110); [blog post](http://vision.cloudera.com/cloudera-data-science-workbench-release-1-1/)
+| 1.2 | 2017-10-20 | [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_120); [blog post](http://vision.cloudera.com/now-available-cloudera-data-science-workbench-release-1-2/) | [new usage monitoring](http://blog.cloudera.com/blog/2017/10/new-in-cloudera-data-science-workbench-1-2-usage-monitoring-for-administrators/)
+| 1.3 | 2018-01-26 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Data-Science-Workbench-1-3-Released/td-p/64065); [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_130)
+| 1.4 | 2018-06-15 | [blog post](http://vision.cloudera.com/announcing-cloudera-data-science-workbench-release-1-4/); [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_140)
 
 ## Links
 

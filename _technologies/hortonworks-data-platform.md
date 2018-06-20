@@ -1,13 +1,13 @@
 ---
 title: "Hortonworks Data Platform"
-description: "A distribution of Hadoop based on a commitment to the Apache open source ecosystem.  All bundled projects are Apache open source projects based on official Apache project releases, with any patches for bug fixes or new features being official Apache project patches pulled from later releases of the relevant project.  Available as RPMs, through Apache Ambari (for local installs) or Cloudbreak (for installation on cloud platforms), in the cloud on Azure (as HDInsight, a Microsoft branded offering) and on AWS (as Hortonworks Data Cloud for AWS), and as an on-site or in the cloud managed service (as Hortonworks Operational Services). Comes with a number of add-ons that aren't part of the core product, including HDP Search, Hortonworks HDB and ODBC and JDBC drivers for Hive, Spark SQL and Apache Phoenix.  The HDP software is available free of charge, with training, consultancy and support available from Hortonworks (including a flex support subscription that covers the usage of HDP on-premise via Ambari, or cloud infrastructure via Cloudbreak, or when used as HDCloud on AWS).  Also available for IBM Power Systems.  A version of the Hortonworks Data Platform for Windows was available, however was discontinued in August 2016 with the last release being HDP 2.4.  The Hortonworks Data Platform was first released in June 2012."
+description: "A distribution of Hadoop based on a commitment to the Apache open source ecosystem.  All bundled projects are Apache open source projects based on official Apache project releases, with any patches for bug fixes or new features being official Apache project patches pulled from later releases of the relevant project.  Available as RPMs, through Apache Ambari (for local installs) or Cloudbreak (for installation on cloud platforms), in the cloud on Azure (as HDInsight, a Microsoft branded offering) and on AWS (as Hortonworks Data Cloud for AWS), and as an on-site or in the cloud managed service (as Hortonworks Operational Services). Comes with a number of add-ons that aren't part of the core product, including HDP Search, Hortonworks HDB and ODBC and JDBC drivers for Hive, Spark SQL and Apache Phoenix.  The HDP software is available free of charge, with training, consultancy and support available from Hortonworks (including a flex support subscription that covers the usage of HDP on-premise via Ambari, on cloud infrastructure via Cloudbreak, or when used as HDCloud on AWS).  Also available for IBM Power Systems.  A version of the Hortonworks Data Platform for Windows was available, however was discontinued in August 2016 with the last release being HDP 2.4.  The Hortonworks Data Platform was first released in June 2012."
 alt-titles: [HDP]
 vendors: [Hortonworks]
 categories: [Hadoop Distributions]
 tech-relationships: [[packages, Hadoop, Hive, Tez, Pig, Spark, HBase, Atlas, Oozie, Sqoop, Knox, Ranger, ZooKeeper, Zeppelin, Phoenix, Calcite, DataFu, Livy, Druid], [packages (but deprecated), Falcon, Flume, Mahout, Slider, Hue, Accumulo, Kafka, Storm], [add ons, HDP Search, Hortonworks HDB, Hortonworks Cybersecurity Package, SmartSense], [manageable via, Ambari, Cloudbreak], [also available as, HDCloud for AWS, HDP for Windows]]
 type: "Commercial Open Source"
 date: 2017-02-17 07:30
-last_updated: 2017-06-14
+last_updated: 2017-06-20
 version: "2.6"
 ---
 ## Bundled Technologies
@@ -31,7 +31,8 @@ Note that:
 ## Release History
 
 | version | release date | release links | release comment
-| 2.6 | 2017-02-28 | [announcement](https://hortonworks.com/blog/announcing-the-general-availability-of-hortonworks-data-platform-2-6/) [new features](http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.0/bk_release-notes/content/new_features.html) | See notes above for tech changes
+| 2.6 | 2017-02-28 | [announcement](https://hortonworks.com/blog/announcing-the-general-availability-of-hortonworks-data-platform-2-6/); [new features](http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.0/bk_release-notes/content/new_features.html) | See notes above for tech changes
+| 3.0 | tbc | [announcement](https://hortonworks.com/blog/announcing-hdp-3-0-faster-smarter-hybrid-data/)
 
 ## Links
 

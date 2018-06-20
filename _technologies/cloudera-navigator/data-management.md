@@ -4,8 +4,8 @@ description: "Solution for managing data on a CDH Hadoop cluster. Automatically 
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-04-11 07:30
-last_updated: 2018-02-26
-version: "v2.13"
+last_updated: 2018-06-20
+version: "v2.14"
 ---
 ## Release History
 
@@ -14,6 +14,7 @@ version: "v2.13"
 | 2.11 | 2017-07-13 | See [CDH](/technologies/cloudera-cdh/) 5.12 release links | CDH 5.12
 | 2.12 | 2017-10-12 | See [CDH](/technologies/cloudera-cdh/) 5.13 release links | CDH 5.13
 | 2.13 | 2018-01-26 | See [CDH](/technologies/cloudera-cdh/) 5.14 release links | CDH 5.14
+| 2.14 | 2018-06-15 | See [CDH](/technologies/cloudera-cdh/) 5.15 release links | CDH 5.15
 
 ## Links
 

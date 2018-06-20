@@ -5,8 +5,8 @@ alt-titles: [ES-Hadoop]
 vendors: [Elastic]
 type: "Commercial Open Source"
 date: 2017-07-06 07:30
-last_updated: 2018-02-21
-version: "v6.2"
+last_updated: 2018-06-20
+version: "v6.3"
 ---
 ## Release History
 
@@ -15,7 +15,8 @@ version: "v6.2"
 | 5.6 | 2017-07-06 | [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/5.6/eshadoop-5.6.0.html)
 | 6.0 | 2017-11-14 | [announcement](https://www.elastic.co/blog/es-hadoop-6-0-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/6.0/eshadoop-6.0.0.html) | Spark streaming support and removal of Elasticsearch on YARN beta
 | 6.1 | 2017-12-13 | [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/6.1/eshadoop-6.1.0.html) | One bug fix!
-| 6.2 | 2018-02-06 | [accouncement](https://www.elastic.co/blog/es-hadoop-6-2-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/6.2/eshadoop-6.2.0.html) | Custom error handlers
+| 6.2 | 2018-02-06 | [announcement](https://www.elastic.co/blog/es-hadoop-6-2-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/6.2/eshadoop-6.2.0.html) | Custom error handlers
+| 6.3 | 2018-06-13 | [announcement](https://www.elastic.co/blog/es-hadoop-6-3-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/6.3/eshadoop-6.3.0.html) | Spark 2.3 support
 
 ## Links
 

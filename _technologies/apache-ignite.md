@@ -1,11 +1,11 @@
 ---
 title: "Apache Ignite"
-description: "A distributed in-memory data fabric/grid with the ability to persist data to disk, supporting a number of use cases including a key value store (with SQL support), real time stream/event processing engine, arbitrary compute, long running service management, an in-memory HDFS compatible file system for acceleration of Hadoop jobs, an in-memory machine learning grid and in-memory shared Spark RDDs and Data Frames.  An Apache project, graduating in September 2015, having been originally donated by GridGain from their In-Memory Data Fabric product launched in 2007. Java based, with development lead by GridGain who also supply commercial support (as GridGain Professional with ongoing Q&A and bug fixes before they're included in Ignite) along with GridGain Enterprise (which includes extra features such as a management GUI, enterprise security and rolling upgrades)."
+description: "A distributed in-memory data fabric/grid with the ability to persist data to disk, supporting a number of use cases including a key value store (with SQL support), real time stream/event processing engine, arbitrary compute, long running service management, an in-memory HDFS compatible file system for acceleration of Hadoop jobs, an in-memory machine learning grid and in-memory shared Spark RDDs and Data Frames.  An Apache project, graduating in September 2015, having been originally donated by GridGain from their In-Memory Data Fabric product launched in 2007. Java based, with development lead by GridGain who also supply commercial support (as GridGain Professional with ongoing Q&A and bug fixes before they're included in Ignite) along with GridGain Enterprise and Ultimate (which includes extra features such as a management GUI, enterprise security, rolling upgrades, backup and recovery) and GridGain Cloud (beta)."
 alt-titles: [Ignite, GridGain]
 vendors: [Apache, GridGain]
 type: "Commercial Open Source"
 date: 2017-01-24
-last_updated: 2018-06-06
+last_updated: 2018-06-20
 version: "v2.5"
 ---
 ## Release History
@@ -24,6 +24,7 @@ version: "v2.5"
 * <https://ignite.apache.org/> - home page
 * <http://www.gridgain.com/> - Grid Gain home page
 * <http://www.gridgain.com/products/pricing/> - details of GridGain editions
+* <https://www.gridgain.com/products/gridgain-cloud> - GridGain cloud homepage
 * <https://apacheignite.readme.io/docs> - documentation
 * <https://www.infoq.com/presentations/apache-ignite> - intro presentation
 
