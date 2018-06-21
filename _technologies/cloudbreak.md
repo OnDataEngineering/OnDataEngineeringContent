@@ -16,7 +16,7 @@ version: "v2.7"
 | 2.2 TP | 2017-12-20 | [docs blog](https://docs.hortonworks.com/posts/2017/12/20/cloudbreak2.2.0.html) | Second TP release; doc updates
 | 2.4 | 2018-02-24 | [blog post](https://hortonworks.com/blog/announcing-cloudbreak-2-4/); [release notes](https://docs.hortonworks.com/HDPDocuments/Cloudbreak/Cloudbreak-2.4.0/content/releasenotes/index.html); [docs blog](https://docs.hortonworks.com/posts/2018/02/27/cloudbreak2.4.0.html) | New UI and CLI
 | 2.5 TP | 2018-04-04 | [release notes](https://docs.hortonworks.com/HDPDocuments/Cloudbreak/Cloudbreak-2.5.0/content/releasenotes/index.html) | HDF support
-| 2.7 | 2018-06-16 | [release notes](https://docs.hortonworks.com/HDPDocuments/Cloudbreak/Cloudbreak-2.7.0/content/releasenotes/index.html) |
+| 2.7 | 2018-06-16 | [blog post](https://hortonworks.com/blog/announcing-cloudbreak-2-7-ga/); [release notes](https://docs.hortonworks.com/HDPDocuments/Cloudbreak/Cloudbreak-2.7.0/content/releasenotes/index.html) |
 
 ## Links
 

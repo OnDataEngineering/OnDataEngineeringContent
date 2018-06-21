@@ -18,7 +18,7 @@ Cloudera Director is available on AWS as [Cloudera EDH AWS Quick Start](https://
 | 2.5 | 2017-07-14 | [announcement](http://blog.cloudera.com/blog/2017/07/whats-new-in-cloudera-director-2-5/) [AWS Spot instance support](http://blog.cloudera.com/blog/2017/08/cloudera-director-and-spot-instances-resilience-and-repair/) | 
 | 2.6 | 2017-10-12 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Director-2-6-0-Released/td-p/60880) [Blog Post](http://blog.cloudera.com/blog/2017/10/whats-new-in-cloudera-director-2-6/)
 | 2.7 | 2018-01-26 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Director-2-7-0-Released/m-p/64054#M214) [Blog Post](http://blog.cloudera.com/blog/2018/01/whats-new-in-cloudera-director-2-7/)
-| 2.8 | 2018-06-15 | See [CDH](/technologies/cloudera-cdh/) 5.15 release links
+| 2.8 | 2018-06-15 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Director-2-8-0-Released/td-p/69229)
 
 ## Links
 
