@@ -26,4 +26,6 @@ All [Apache Solr](/technologies/apache-solr) functionality is available in the o
 
 Cloudera and Lucidworks are currently two of the leading contributors to Apache Solr, distributing it as [Cloudera Serach](/technologies/cloudera-search/) (part of [CDH](/technologies/cloudera-cdh/)) and Lucidworks Fusion (<https://lucidworks.com/>) respectively.  Lucidworks also provide [Hortonworks Data Platform Search](/technologies/hortonworks-data-platform-search/) (the version of Solr within [HDP](/technologies/hortonworks-data-platform/)) and a Solr add on for the [MapR Converged Data Platform](/technologies/mapr-converged-data-platform).
 
+Pivotal also distribute Solr integrated with [Greenplum](/technologies/greenplum/) as part of their GPText product - [intro blog post](https://content.pivotal.io/blog/inside-the-new-solr-powered-sql-text-analytics-engine-for-greenplum)
+
 A range of vendors also provide Apache Solr as a service offering, however these generally focus on traditional (non analytical) search use cases.
