@@ -49,7 +49,7 @@ draft-banner: true
 
 ## Data Integration Services
 
-| AWS Data Pipelines | Data transformation workflow management, with support for scheduling and dependency management of jobs (e.g. EMR jobs or SQL queries) - <https://aws.amazon.com/datapipeline/>
+| AWS Data Pipelines | Data ingestion as a service - <https://aws.amazon.com/datapipeline/>
 | AWS Glue (Preview) | Service for integrating data, with support for automating data discovery, conversion, mapping, and job scheduling - <https://aws.amazon.com/glue/>
 
 ## Machine Learning Services

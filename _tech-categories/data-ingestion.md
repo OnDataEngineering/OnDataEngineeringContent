@@ -64,6 +64,8 @@ A number of [streaming data stores](/tech-categories/streaming-data-stores/) hav
 
 The following are cloud based ingestion as a service tools, primarily for ingesting data into cloud based analytical platforms:
 
+| Azure Data Factory | Data ingestion as a service - <https://azure.microsoft.com/en-us/services/data-factory/>
+| AWS Data Pipelines | Data ingestion as a service - <https://aws.amazon.com/datapipeline/>
 | Amazon Kinesis Firehose | Streaming data movement, with support for basic transformation including routing, splitting and batching - <https://aws.amazon.com/kinesis/firehose/>
 
 ## Other Tools

@@ -9,7 +9,7 @@ draft-banner: true
 ## Infrastructure Services
 
 | Google Compute Engine | Virtual servers - <https://cloud.google.com/compute/>
-| Google Container Engine | Kubernetes cluster service - <https://cloud.google.com/container-engine/>
+| Google Kubernetes Engine | Kubernetes cluster service - <https://cloud.google.com/kubernetes-engine/>
 | Google Persistent Disk | Block storage for virtual machines - <https://cloud.google.com/persistent-disk/>
 
 ## Storage Services

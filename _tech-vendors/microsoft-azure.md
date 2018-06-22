@@ -9,7 +9,7 @@ draft-banner: true
 ## Infrastructure Services
 
 | Azure Virtual Machines | Virtual servers with support for a range of operating systems and pre-build images, and for management at scale (Virtual Machine Scale Sets) - <https://azure.microsoft.com/en-us/services/virtual-machines/>
-| Azure Container Service | Container service using DC/OS, Docker Swarm or Kubernetes - <https://azure.microsoft.com/en-gb/services/container-service/>
+| Azure Kubernetes Service | Kubernetes container service - <https://azure.microsoft.com/en-us/services/kubernetes-service/>
 | Azure Disk Storage | Persistent disk storage to support virtual machines - <https://azure.microsoft.com/en-us/services/storage/unmanaged-disks/>
 
 ## Storage Services
@@ -27,9 +27,10 @@ draft-banner: true
 
 | Azure HDInsight | Hadoop service based on [HDP](/technologies/hortonworks-data-platform), with support a range of Hadoop technologies including Spark, Hive, MapReduce, HBase, Storm, Kafka, and Microsoft R Server - <https://azure.microsoft.com/en-us/services/hdinsight/>
 | Azure SQL Database | Scalable relational database - <https://azure.microsoft.com/en-us/services/sql-database/>
+| Azure Analysis Services | SQL Server Analysis Services as a service - <https://azure.microsoft.com/en-us/services/analysis-services/>
 | Azure Database for MySQL | MySQL as a service - <https://azure.microsoft.com/en-us/services/mysql/>
 | Azure Database for PostgreSQL | PostgreSQL as a service - <https://azure.microsoft.com/en-us/services/postgresql/>
-| Azure Database for MariaDB | MariaDB as a service, currently in preview
+| Azure Database for MariaDB | MariaDB as a service, currently in preview - <https://azure.microsoft.com/en-gb/blog/mariadb-postgresql-and-mysql-more-choices-on-microsoft-azure/>
 | Azure SQL Data Warehouse | Scalable analytical database - <https://azure.microsoft.com/en-us/services/sql-data-warehouse/>
 | Azure Redis Cache | Redis as a service - <https://azure.microsoft.com/en-us/services/cache/>
 | Azure Table Storage | A NoSQL wide column store service - <https://azure.microsoft.com/en-us/services/storage/tables/>
@@ -41,6 +42,7 @@ draft-banner: true
 | Azure Data Lake Analytics | Massively parallel analytics job service, with support for U-SQL, R, Python, and .NET - <https://azure.microsoft.com/en-us/services/data-lake-analytics/>
 | Azure Data Catalog | A metadata catalog service - <https://azure.microsoft.com/en-us/services/data-catalog/>
 | Azure Time Series Insights | Storage, analytics and visualisation service for time series data - <https://azure.microsoft.com/en-us/services/time-series-insights/>
+| Azure Log Analytics | Storage, analytics and analytics service for log data - <https://azure.microsoft.com/en-us/services/log-analytics/>
 | Azure Databricks | Spark as a service jointly developed with Databricks, currently in preview - <https://azure.microsoft.com/en-us/campaigns/databricks/>
 
 ## Streaming Data Services
@@ -50,7 +52,7 @@ draft-banner: true
 
 ## Data Integration Services
 
-| Azure Data Factory | Data transformation workflow management - <https://azure.microsoft.com/en-us/services/data-factory/>
+| Azure Data Factory | Data ingestion as a service - <https://azure.microsoft.com/en-us/services/data-factory/>
 | Azure Scheduler | Scheduling as a service - <https://azure.microsoft.com/en-us/services/scheduler/>
 
 ## Machine Learning Services
