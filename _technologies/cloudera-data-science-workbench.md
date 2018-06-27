@@ -14,7 +14,7 @@ version: "v1.4"
 | 1.1 | 2017-07-18 | [announcement](http://community.cloudera.com/t5/Community-News-Release/Announce-Cloudera-Data-Science-Workbench-Release-1-1/m-p/57605#M187); [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_110); [blog post](http://vision.cloudera.com/cloudera-data-science-workbench-release-1-1/)
 | 1.2 | 2017-10-20 | [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_120); [blog post](http://vision.cloudera.com/now-available-cloudera-data-science-workbench-release-1-2/) | [new usage monitoring](http://blog.cloudera.com/blog/2017/10/new-in-cloudera-data-science-workbench-1-2-usage-monitoring-for-administrators/)
 | 1.3 | 2018-01-26 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Data-Science-Workbench-1-3-Released/td-p/64065); [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_130)
-| 1.4 | 2018-06-15 | [blog post](http://vision.cloudera.com/announcing-cloudera-data-science-workbench-release-1-4/); [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_140)
+| 1.4 | 2018-06-15 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Data-Science-Workbench-1-4-Released/td-p/69325); [blog post](http://vision.cloudera.com/announcing-cloudera-data-science-workbench-release-1-4/); [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_140)
 
 ## Links
 
