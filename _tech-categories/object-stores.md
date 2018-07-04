@@ -71,7 +71,7 @@ The Gartner Magic Quadrant for Distributed File Systems and Object Storage (Octo
 
 There's also a Gartner Critical Capabilities for Object Storage (March 2016) which includes an evaluation of 12 "Enterprise" object storage technologies (including Ceph and SwiftStack), and is summarised by The Register [here](https://www.theregister.co.uk/2016/04/18/gartner_object_storage_rankings/) with a link to the full report.
 
-The IDC Object-Based Storage Marketscape (2016) provides information on a wide range of "Enterprise" object stores and is available from Scality [here](http://storage.scality.com/report-idc-marketscape-object-based-storage.html) with a summary from The Register [here](https://www.theregister.co.uk/2016/12/14/ibms_clever_and_safe_acquisition_gets_it_object_storage_leadership/)
+The IDC Object-Based Storage Marketscape (2018) ([link](https://www.idc.com/getdoc.jsp?containerId=US42665518)) provides information on a wide range of "Enterprise" object stores and is available from Scality [here](https://www.scality.com/download-idc-marketscape/) with a summary from The Register [here](https://www.theregister.co.uk/2018/06/28/ddn_idc_marketplace/)
 
 ## Parallel Distributed Filesystems
 

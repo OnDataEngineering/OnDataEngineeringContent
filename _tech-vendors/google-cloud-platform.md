@@ -14,6 +14,7 @@ draft-banner: true
 
 ## Storage Services
 
+| Google Filestore | Network storage, mountable on multiple machines over NFS, available in beta - <https://cloud.google.com/filestore/>
 | [Google Cloud Storage](/technologies/google-cloud-storage/) | Object store service with strong consistency, multiple storage tiers and deep integration to the Google Cloud ecosystem.
 
 ## Compute Services

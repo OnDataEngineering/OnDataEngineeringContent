@@ -5,8 +5,15 @@ alt-titles: [Zeppelin]
 vendors: [Apache, ZEPL]
 type: "Commercial Open Source"
 date: 2017-02-14
-version: "0.7"
+last_updated: 2018-07-04
+version: "0.8"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 0.7 | 2017-02-05 | [release note](https://zeppelin.apache.org/releases/zeppelin-release-0.7.0.html)
+| 0.8 | 2018-06-28 | [release note](https://zeppelin.apache.org/releases/zeppelin-release-0.8.0.html)
+
 ## Links
 
 * <http://zeppelin.apache.org/> - homepage

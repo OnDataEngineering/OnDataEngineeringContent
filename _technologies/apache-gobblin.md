@@ -5,7 +5,8 @@ alt-titles: [Apache Gobblin, Gobblin]
 vendors: [Apache]
 type: "Open Source - Active"
 date: 2017-12-06 07:30
-version: "v0.11"
+last_updated: 2018-07-04
+version: "v0.12"
 ---
 ## Release History
 
@@ -17,6 +18,7 @@ version: "v0.11"
 | 0.9 | 2016-12-19 | https://github.com/apache/incubator-gobblin/releases/tag/gobblin_0.9.0
 | 0.10 | 2017-05-05 | https://github.com/apache/incubator-gobblin/releases/tag/gobblin_0.10.0 | | First Apache release
 | 0.11 | 2017-07-20 | https://github.com/apache/incubator-gobblin/releases/tag/gobblin_0.11.0
+| 0.12 | 2018-07-02 | https://github.com/apache/incubator-gobblin/releases/tag/release-0.12.0
 
 ## Links
 
