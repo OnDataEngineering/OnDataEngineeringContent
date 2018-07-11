@@ -4,14 +4,15 @@ description: "A time series database implemented in Go available in both open so
 type: "Commercial Open Source"
 vendor: "InfluxData"
 date: 2017-08-31 07:30
-last_updated: 2018-03-14
-version: "v1.5"
+last_updated: 2018-07-11
+version: "v1.6"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 1.4 | 2017-11-14 | [blog](https://www.influxdata.com/blog/whats-new-influxdb-oss-1-4/); [changelog](https://docs.influxdata.com/influxdb/v1.5/about_the_project/releasenotes-changelog/#v1-4-0-2017-11-13) | [Prometheus compatible API](https://www.influxdata.com/blog/influxdb-now-supports-prometheus-remote-read-write-natively/)
 | 1.5 | 2018-03-06 | [announcement](https://www.influxdata.com/blog/release-announcement-influxdb-1-5-0-influxdb-enterprise-1-5-0/); [changelog](https://docs.influxdata.com/influxdb/v1.5/about_the_project/releasenotes-changelog/#v1-5-0-2018-03-06) | [Logging improvements](https://www.influxdata.com/blog/logging-improvements-for-influxdb-1-5-0/); [backup and restore](https://www.influxdata.com/blog/new-features-in-open-source-backup-and-restore/)
+| 1.6 | 2018-07-10 | [announcement](https://www.influxdata.com/blog/release-announcement-influxdb-1-6-0-oss/); [changelog](https://docs.influxdata.com/influxdb/v1.6/about_the_project/releasenotes-changelog/#v1-6-0-2018-07-05)
 
 ## Links
 

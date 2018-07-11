@@ -5,14 +5,15 @@ alt-titles: [Ranger]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-21
-last_updated: 2018-03-21
-version: "v1.0"
+last_updated: 2018-07-11
+version: "v1.1"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 0.7 | 2017-02-28 | [wiki page](https://cwiki.apache.org/confluence/display/RANGER/0.7.0+Release+-+Apache+Ranger) |
 | 1.0 | 2018-03-19 | [wiki page](https://cwiki.apache.org/confluence/display/RANGER/1.0.0+Release+-+Apache+Ranger) |
+| 1.1 | 2018-07-09 | [wiki page](https://cwiki.apache.org/confluence/display/RANGER/1.1.0+Release+-+Apache+Ranger) |
 
 ## Links
 

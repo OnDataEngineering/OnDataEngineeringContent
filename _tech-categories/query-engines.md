@@ -34,6 +34,7 @@ See our [Analytical Databases](/tech-categories/analytical-databases/) page for 
 | AtScale | Cube based semantic layer with query optimisation, virtual cube caching and row level security over Hadoop, RedShift and SQL data sources - <https://atscale.com/>
 | IBM Big SQL | SQL engine that runs on Hadoop over Hive tables, but that can also federate into RDMS and NoSQL databases and object stores  - <https://www.ibm.com/us-en/marketplace/big-sql>
 | Oracle Big Data SQL | Allows federated queries from an Oracle databases over Hadoop and NoSQL databases, with push down of logic and support for Oracle security - <https://www.oracle.com/database/big-data-sql/index.html>
+| Arcadia Data | Analytics engine that runs over Hadoop, with integrated drag and drop visual analytics and dashboards and a free tier (Arcadia Instant) - <https://www.arcadiadata.com/product/>
 | Kyvos Insights | OLAP cubes on Hadoop - <http://www.kyvosinsights.com/olap-cubes-on-hadoop/>
 
 ## Cloud Technologies
