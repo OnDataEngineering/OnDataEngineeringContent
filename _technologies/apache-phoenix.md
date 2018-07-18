@@ -5,8 +5,8 @@ alt-titles: [Phoenix]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-01
-last_updated: 2018-06-13
-version: "v4.14"
+last_updated: 2018-07-18
+version: "v5.0"
 ---
 ## Release History
 
@@ -16,7 +16,7 @@ version: "v4.14"
 | 4.12 | 2017-10-11 | [announcement](https://blogs.apache.org/phoenix/entry/announcing-phoenix-4-12-released) |
 | 4.13 | 2017-11-12 | [announcement](https://blogs.apache.org/phoenix/entry/announcing-phoenix-4-13-released) |
 | 4.14 | 2018-06-12 | [announcement](https://blogs.apache.org/phoenix/entry/announcing-phoenix-4-14-released) |
-| 5.0-alpha | 2018-02-15 | [announcement](http://mail-archives.us.apache.org/mod_mbox/www-announce/201802.mbox/%3Cde3639a6-15a9-d8c8-87f5-4abdc49271d9%40apache.org%3E); [release notes](https://phoenix.apache.org/release_notes.html) | Hadoop 3.0 and HBase 2.0 compatibility |
+| 5.0 | 2018-07-14 | [announcement](https://blogs.apache.org/phoenix/entry/apache-phoenix-releases-next-major) | Hadoop 3.0 and HBase 2.0 compatibility |
 
 ## Links
 

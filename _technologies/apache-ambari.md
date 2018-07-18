@@ -5,14 +5,15 @@ alt-titles: [Ambari]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-03-07 07:30
-last_updated: 2017-11-01
-version: "v2.6"
+last_updated: 2018-07-18
+version: "v2.7"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 2.5 | 2017-03-24 | [release notes](https://docs.hortonworks.com/HDPDocuments/Ambari-2.5.0.3/bk_ambari-release-notes/content/ch_relnotes-ambari-2.5.0.3.html) [changes](http://docs.hortonworks.com/posts/2017/04/13/ambari-25-operations-views.html) [Hortonworks post](https://hortonworks.com/blog/ambari-2-5/)
 | 2.6 | 2017-10-31 | [release notes](https://docs.hortonworks.com/HDPDocuments/Ambari-2.6.0.0/bk_ambari-release-notes/content/ch_relnotes-ambari-2.6.0.0.html)
+| 2.7 | 2018-07-13 | [blog post](https://hortonworks.com/blog/announcing-general-availability-hortonworks-data-platform-3-0-0-ambari-2-7-0-smartsense-1-5-0/); [release notes](https://docs.hortonworks.com/HDPDocuments/Ambari-2.7.0.0/bk_ambari-release-notes/content/ch_relnotes-ambari-2.7.0.0.html)
 
 ## Links
 
