@@ -6,8 +6,8 @@ tech-relationships: [[add ons, Apache Omid, Apache Tephra]]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-06
-last_updated: 2018-05-02
-version: "v2.0"
+last_updated: 2018-07-25
+version: "v2.1"
 ---
 ## Release History
 
@@ -15,6 +15,7 @@ version: "v2.0"
 | 1.3 | 2017-01-17 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201701.mbox/%3CCAHxLZBWn6eLPTjLG7NxpVNQzf-M1T984N90W9bswSUVDk5vYPA@mail.gmail.com%3E) [infoq summary](https://www.infoq.com/news/2017/01/apache-hbase-1.3) |
 | 1.4 | 2017-12-19 | [announcement](http://mail-archives.us.apache.org/mod_mbox/www-announce/201712.mbox/%3CCA+RK=_AU+tB=7SU1HRbeKVEd-sKA5WcJo3oa43vQ6PMB3L9pgQ@mail.gmail.com%3E)
 | 2.0 | 2018-05-01 | [announcement](http://mail-archives.us.apache.org/mod_mbox/www-announce/201804.mbox/%3CCADcMMgHzTOesqmqEKV+CrGwh6R4XsCaT2DmZt5vG1jRW6XxpaA@mail.gmail.com%3E); [2.0 details presentation](https://www.slideshare.net/enissoz/meet-hbase-20)
+| 2.1 | 2018-07-22 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201807.mbox/%3CCAAAYAnOObYM9b-6Etqpuxti-FTkC_dhiTD8Du+WZ2vC=L5E4Yg@mail.gmail.com%3E)
 
 ## Links
 
