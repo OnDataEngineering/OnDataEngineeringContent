@@ -4,8 +4,8 @@ description: "General purpose technology for the movement of data between system
 vendors: [StreamSets]
 type: "Commercial Open Source"
 date: 2017-12-05
-last_updated: 2018-06-06
-version: "v3.3"
+last_updated: 2018-08-15
+version: "v3.4"
 ---
 ## Release History
 
@@ -14,6 +14,7 @@ version: "v3.3"
 | 3.1 | 2017-03-30 | See 3.1 notes on [documentation and release page](https://streamsets.com/documentation-page/)
 | 3.2 | 2018-05-11 | See 3.2 notes on [documentation and release page](https://streamsets.com/documentation-page/)
 | 3.3 | 2018-05-24 | See 3.3 notes on [documentation and release page](https://streamsets.com/documentation-page/)
+| 3.4 | 2018-08-10 | See 3.4 notes on [documentation and release page](https://streamsets.com/documentation-page/); [blog post](https://streamsets.com/blog/streamsets-enhances-its-dataops-platform/)
 
 ## Links
 

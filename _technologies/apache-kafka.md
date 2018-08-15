@@ -6,8 +6,8 @@ tech-relationships: [[manageable via, Confluent Control Centre, Nastel AutoPilot
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-20
-last_updated: 2018-03-29
-version: "v1.1"
+last_updated: 2018-08-15
+version: "v2.0"
 ---
 ## Release History
 
@@ -15,6 +15,7 @@ version: "v1.1"
 | 0.11 | 2017-06-28 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201706.mbox/%3CCAD5tkZZx3uGrLEYyjZte8aCTq=OYVLAiFz1uwMaxdO3yRoraBg@mail.gmail.com%3E) | Includes support for [exactly once semantics](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/) and easier [client upgrades](https://www.confluent.io/blog/upgrading-apache-kafka-clients-just-got-easier/)
 | 1.0 | 2017-11-01 | [news](http://kafka.apache.org/downloads#1.0.0); [blog post](https://www.confluent.io/blog/apache-kafka-goes-1-0/)
 | 1.1 | 2018-03-29 | [news](http://kafka.apache.org/downloads#1.1.0)
+| 2.0 | 2018-07-30 | [news](http://kafka.apache.org/downloads#2.0.0)
 
 ## Links
 

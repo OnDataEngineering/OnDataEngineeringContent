@@ -5,8 +5,8 @@ vendors: [Confluent]
 tech-relationships: [[packages, Kafka, Confluent Open Source]]
 type: "Commercial"
 date: 2017-06-29 08:15
-last_updated: 2018-04-25
-version: "v4.1"
+last_updated: 2018-08-15
+version: "v5.0"
 ---
 ## Release History
 
@@ -14,6 +14,7 @@ version: "v4.1"
 | 3.3 | 2017-08-01 | [announcement](https://www.confluent.io/blog/we-will-say-exactly-confluent-platform-3-3-available-now/)
 | 4.0 | 2017-11-28 | [announcement](https://www.confluent.io/blog/introducing-confluent-platform-4-0/)
 | 4.1 | 2018-04-17 | [announcement](https://www.confluent.io/blog/confluent-platform-4-1-with-production-ready-ksql-now-available/)
+| 5.0 | 2018-07-31 | [announcement](https://www.confluent.io/blog/introducing-confluent-platform-5-0/); [ZDNet view](https://www.zdnet.com/article/confluent-release-adds-enterprise-developer-iot-savvy-to-apache-kafka/)
 
 ## Links
 
