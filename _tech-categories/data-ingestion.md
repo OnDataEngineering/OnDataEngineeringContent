@@ -51,6 +51,7 @@ The following technologies support the continuous capture and ingestion of recor
 | Continuent Tungsten Replicator | Continuous replication of Oracle, MySQL and Amazon RDS databases to Hadoop, Vertica, RedShift and others, with an open source version available - <https://www.continuent.com/solutions/#bigdata>; <https://github.com/continuent/tungsten-replicator>
 | Dbvisit Replicate | Commercial product for the continuous replication of data from Oracle to a number of targets including Hadoop and Kafka - <http://www.dbvisit.com/products/dbvisit_replicate_real_time_oracle_database_replication/>
 | SQData CDC | Commercial tool for continuous replication with a wide range of sources and targets - <https://www.sqdata.com/changed-data-capture/>
+| Spinal Tap | Open source Change Data Capture service from AirBnB ([blog post](https://medium.com/airbnb-engineering/capturing-data-evolution-in-a-service-oriented-architecture-72f7c643ee6f)) - <https://github.com/airbnb/SpinalTap>
 
 ## Streaming Data Store Ingestion
 
