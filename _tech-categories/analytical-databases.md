@@ -38,7 +38,7 @@ See our [Query Engines](/tech-categories/query-engines/) page for details of tec
 
 | [Apache Hive](/technologies/apache-hive/) | An analytical database when used with LLAP, ORCFile and Tez; runs over Hadoop
 | [Apache Impala](/technologies/apache-impala/) | An analytical database when used with Kudu or Parquet over HDFS; runs over Hadoop
-| [Apache HAWQ (Incubating)](/technologies/apache-hawq/) | A port of the Greenplum MPP database (which itself is based on PostgreSQL) to run over Hadoop
+| [Apache HAWQ](/technologies/apache-hawq/) | A port of the Greenplum MPP database (which itself is based on PostgreSQL) to run over Hadoop
 | [Apache Tajo](/technologies/apache-tajo/) | Distributed analytical database engine that runs over Hadoop
 | Presto | An analytical database when used over Hive/Hadoop , originally created and open sourced by Facebook - <https://prestodb.io/>
 | [Druid](/technologies/druid) | OLAP database supporting real time aggregations of streaming data using HDFS/S3 as backing storage

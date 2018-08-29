@@ -8,7 +8,7 @@ draft-banner: true
 ---
 ## Analytical Query Capabilities
 
-| [HAWQ (Incubating)](/technologies/apache-hawq/) | A port of the Greenplum MPP database (which itself is based on PostgreSQL) to run over YARN and HDFS.
+| [HAWQ](/technologies/apache-hawq/) | A port of the Greenplum MPP database (which itself is based on PostgreSQL) to run over YARN and HDFS.
 | [Tajo](/technologies/apache-tajo/) | Distributed analytical database engine supporting queries over data in HDFS, Amazon S3, Google Cloud Storage, OpenStack Swift and local storage, and querying over Postgres, HBase and Hive tables.
 | [Kudu](/technologies/apache-kudu/) | Columnar storage technology for tables of structured data, supporting low latency reads, updates and deletes by primary key, as well as analytical column/table scans.
 | Quickstep (Incubating) | High performance database engine supporting SQL queries based on a University of Wisconsin-Madison project - <http://quickstep.apache.org/>

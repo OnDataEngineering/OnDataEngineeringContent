@@ -1,11 +1,11 @@
 ---
-title: "Apache Hawq"
-description: "A port of the Greenplum MPP database (which itself is based on PostgreSQL) to run over YARN and HDFS.  Supports all the features of Greenplum (ACID transactions, broad SQL support and in database language and analytics support, including support for Apache MADLib), integration with Apache Ambari, an Input Format for MapReduce to read Hawq tables, and both row and Parquet (column) based storage of data managed by Hawq. Also supports queries over data not managed by Hawq via external tables, with a Java based framework (PXF) for accessing external data, and out of the box support for accessing data in HDFS (text, Avro, JSON), Hive and HBase, with a number of open source connectors also available.  Fault tolerant and horizontally scalable, with the ability to scale up or down on the fly.  Originally created as Pivotal Hawq based on a fork of Greenplum in 2011, with an initial 1.0 release as part of Pivotal HD in July 2013.  Open sourced and donated to the Apache Foundation in September 2015, becoming Apache Hawq, with the first open source release (2.0) in October 2016.  Development led by Pivotal, who also distribute binaries as Pivotal HDB and provide training, consultancy and support.  Pivotal HDB is also available as Hortonworks HDB, with support and consultancy provided by Hortonworks."
+title: "Apache HAWQ"
+description: "A port of the Greenplum MPP database (which itself is based on PostgreSQL) to run over YARN and HDFS.  Supports all the features of Greenplum (ACID transactions, broad SQL support and in database language and analytics support, including support for Apache MADLib), integration with Apache Ambari, an Input Format for MapReduce to read HAWQ tables, and both row and Parquet (column) based storage of data managed by HAWQ. Also supports queries over data not managed by HAWQ via external tables, with a Java based framework (PXF) for accessing external data, and out of the box support for accessing data in HDFS (text, Avro, JSON), Hive and HBase, with a number of open source connectors also available.  Fault tolerant and horizontally scalable, with the ability to scale up or down on the fly.  Originally created as Pivotal HAWQ based on a fork of Greenplum in 2011, with an initial 1.0 release as part of Pivotal HD in July 2013.  Open sourced and donated to the Apache Foundation in September 2015, becoming Apache HAWQ, with the first open source release (2.0) in October 2016, and graduating in August 2018.  Development led by Pivotal, who also distribute binaries as Pivotal HDB and provide training, consultancy and support.  Pivotal HDB is also available as Hortonworks HDB, with support and consultancy provided by Hortonworks."
 alt-titles: [Pivotal HDB, Hortonworks HDB]
 vendors: [Apache, Pivotal, Hortonworks]
 type: "Commercial Open Source"
 date: 2017-03-06
-last_updated: 2018-03-28
+last_updated: 2018-08-29
 version: "v2.3"
 ---
 ## Release History

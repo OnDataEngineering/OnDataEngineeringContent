@@ -5,8 +5,8 @@ vendors: [Elastic]
 tech-relationships: [[add ons, Elasticsearch-Hadoop], [manageable via, Elastic Cloud]]
 type: "Commercial Open Source"
 date: 2017-07-04 07:30
-last_updated: 2018-06-22
-version: "v6.3"
+last_updated: 2018-08-29
+version: "v6.4"
 ---
 ## Further Information
 
@@ -21,6 +21,7 @@ A list of some add-ons that are an alternative to the X-Pack commercial features
 | 6.1 | 2017-12-13 | [announcement](https://www.elastic.co/blog/elasticsearch-6-1-0-released) ; [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.1/release-notes-6.1.0.html)
 | 6.2 | 2018-02-06 | [announcement](https://www.elastic.co/blog/elasticsearch-6-2-0-released) ; [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/release-notes-6.2.0.html)
 | 6.3 | 2018-06-13 | [announcement](https://www.elastic.co/blog/elasticsearch-6-3-0-released) ; [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.3/release-notes-6.3.0.html) | Experimental SQL & pre-generated rollups support; addition of [X-Pack](/technologies/elastic-x-pack/) components
+| 6.4 | 2018-08-23 | [announcement](https://www.elastic.co/blog/elasticsearch-6-4-0-released) ; [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.4/release-notes-6.4.0.html)
 
 ## Links
 

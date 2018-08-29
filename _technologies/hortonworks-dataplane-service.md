@@ -4,14 +4,15 @@ description: "An extensible platform for managing, governing and securing data, 
 vendors: [Hortonworks]
 type: "Commercial"
 date: 2017-11-02 07:30
-last_updated: 2018-05-23
-version: "1.1"
+last_updated: 2018-08-29
+version: "1.2"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 1.0 | 2017-11-01 | [announcement](https://hortonworks.com/blog/hdp-2-6-3-dataplane-service/)
 | 1.1 | 2018-05-21 | [release notes](https://docs.hortonworks.com/HDPDocuments/DPS1/DPS-1.1.0/release-notes/content/dps_whats_new_in_this_release.html) | Significantly expanded docs
+| 1.2 | 2018-08-25 | [release notes](https://docs.hortonworks.com/HDPDocuments/DP/DP-1.2.0/release-notes/content/dps_whats_new_in_this_release.html) | Supports for HDP 3.0 and HDF 3.2
 
 ## Links
 
