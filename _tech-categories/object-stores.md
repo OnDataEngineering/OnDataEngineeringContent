@@ -30,7 +30,9 @@ Other object storage services include:
 
 There are also a wide range of other smaller cloud vendors that provide object storage solutions, and many of the object store technologies listed below are also available as a managed service.
 
-The Gartner Magic Quadrant for Cloud Storage (July 2016) provides an evaluation of "Enterprise" cloud storage services (which includes object storage), and is available from Amazon [here](https://aws.amazon.com/resources/analyst-reports/#Gartner:_Magic_Quadrant_for_Public_Cloud_Storage_Services,_Worldwide) and from Microsoft [here](https://azure.microsoft.com/en-gb/resources/gartner-storage-magic-quadrant/) (requires registration).
+The following analyst material covers a number of technologies in this category:
+
+* [Gartner Magic Quadrant and Critical Capabilities for Public Cloud Storage Services, Worldwide](https://www.google.co.uk/search?q=Gartner+\"Public+Cloud+Storage+Services\")
 
 ## Open Source Object Store Technologies
 
@@ -67,11 +69,10 @@ The following are other object store products:
 | Quantum Lattus Object Storage | <http://www.quantum.com/products/bigdatamanagement/lattus/index.aspx>
 | NooBaa | <https://www.noobaa.com>
 
-The Gartner Magic Quadrant for Distributed File Systems and Object Storage (October 2016) includes information on a number of "Enterprise" on-premise object stores, and is available from Scality [here](http://storage.scality.com/report-gartner-magic-quadrant-storage.html)[requires registration] with a summary from The Register [here](https://www.theregister.co.uk/2016/10/21/gartners_not_scoffing_at_scofs_and_objects/).
+The following analyst material covers a number of technologies in this category:
 
-There's also a Gartner Critical Capabilities for Object Storage (March 2016) which includes an evaluation of 12 "Enterprise" object storage technologies (including Ceph and SwiftStack), and is summarised by The Register [here](https://www.theregister.co.uk/2016/04/18/gartner_object_storage_rankings/) with a link to the full report.
-
-The IDC Object-Based Storage Marketscape (2018) ([link](https://www.idc.com/getdoc.jsp?containerId=US42665518)) provides information on a wide range of "Enterprise" object stores and is available from Scality [here](https://www.scality.com/download-idc-marketscape/) with a summary from The Register [here](https://www.theregister.co.uk/2018/06/28/ddn_idc_marketplace/)
+* [Gartner Magic Quadrant & Critical Capabilities for Distributed File Systems and Object Storage](https://www.google.co.uk/search?q=Gartner+\"Distributed+File+Systems+and+Object+Storage\")
+* [IDC Marketscape: Worldwide Object-Based Storage](https://www.google.co.uk/search?q=IDC+\"Worldwide+Object+Based+Storage\")
 
 ## Parallel Distributed Filesystems
 

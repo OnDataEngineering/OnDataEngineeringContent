@@ -16,6 +16,10 @@ We also have a summary of the [ODPi](/tech-vendors/odpi/) organisation that's tr
 
 Merv Adrian from Gartner maintains a tracker of the different versions of each Hadoop component in the major distributions - <https://blogs.gartner.com/merv-adrian/2018/01/03/january-2018-hadoop-tracker/>
 
+The following analyst material covers a number of technologies in this category:
+
+* [Gartner Magic Quadrant & Critical Capabilities for Data Management Solutions for Analytics](https://www.google.co.uk/search?q=gartner+\"Data+Management+Solutions+for+Analytics\")
+
 ## Commercial Distributions
 
 The following are distributions from commercial vendors for installation on pre-provisioned infrastructure, with many also including tooling for programmatically provisioning infrastructure when installing in cloud environments.

@@ -9,9 +9,10 @@ Full stack databases (supporting both storage and query of data) that focus on a
 
 ## Further Information
 
-Gartner's [Magic Quadrant for Data Management Solutions for Analytics - Feb 2017](https://www.gartner.com/doc/3614317) covers most of the technologies in this list (along with a range of others, including Hadoop vendors), and is available from many of the vendors, including [Cloudera](https://www.cloudera.com/content/dam/www/marketing/resources/analyst-reports/gartners-magic-quadrant-for-data-warehouse-and-data-management-solutions-for-analytics.png.landing.html), [MapR](https://mapr.com/blog/gartner-2016-magic-quadrant-data-warehouse-and-database-management-solutions-analytics/) and [MemSQL](http://blog.memsql.com/gartner-magic-quadrant-analytics/)
+The following analyst material covers a number of technologies in this category::
 
-Forrester's [Big Data Warehouse Wave Q2 2017](https://www.forrester.com/report/The+Forrester+Wave+Big+Data+Warehouse+Q2+2017/-/E-RES136478) covers a similar set of technologies, and is available from [Hortonworks](https://hortonworks.com/info/big-data-solution-will-help-make-big-difference/)
+* [Gartner Magic Quadrant & Critical Capabilities for Data Management Solutions for Analytics](https://www.google.co.uk/search?q=gartner+\"Data+Management+Solutions+for+Analytics\")
+* [Forrester Wave: Big Data Warehouse](https://www.google.co.uk/search?q=Forrester+\"Big+Data+Warehouse\")
 
 See our [Query Engines](/tech-categories/query-engines/) page for details of technologies that support similar capabilities but over external data (e.g. data in HDFS or source databases).
 

@@ -9,13 +9,11 @@ Tools that enable the execution of data queries across multiple data sources.  M
 
 ## Further Information
 
-There's a wealth of information from analyst organisation on these tools.
+The following analyst material covers a number of technologies in this category:
 
-Forrester publishes a Forrester Wave on Enterprise Data Virtualization, last published in 2015 ([here](https://www.forrester.com/report/The+Forrester+Wave+Enterprise+Data+Virtualization+Q1+2015/-/E-RES117844)), with an update scheduled for November 2017.
-
-Gartner include Data Virtualisation tools as part of their [Data Integration Magic Quadrant](https://www.gartner.com/doc/3777464/magic-quadrant-data-integration-tools).  This can be acquired from a number of sources including Denodo [here](https://www.denodo.com/en/page/2017-gartner-magic-quadrant-data-integration-tools), Informatica [here](https://www.informatica.com/gb/data-integration-magic-quadrant.html) and Talend [here](https://info.talend.com/gartnermqdi.html)
-
-Garner also publish a [Market Guide for Data Virtualization](https://www.gartner.com/doc/3778873/market-guide-data-virtualization), which is available for download from Rocket Software [here](http://info.rocketsoftware.com/rocket-data-virtualization-gartner-report.html).
+* [Gartner Magic Quadrant & Critical Capabilities for Data Integration Tools](https://www.google.co.uk/search?q=Gartner+\"Data+Integration+Tools\")
+* [Gartner Market Guide for Data Virtualization](https://www.google.co.uk/search?q=Gartner+\"Data+Virtualization\")
+* [Forrester Wave: Enterprise Data Virtualization](https://www.google.co.uk/search?q=Forrester+\"Data+Virtualization\")
 
 A number of [Query Engines](/tech-categories/query-engines/) support joins and aggregation of data from multiple data sources
 

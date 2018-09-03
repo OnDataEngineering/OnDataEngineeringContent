@@ -7,6 +7,12 @@ date: 2017-12-08 07:30
 Specialist tools designed to acquire and ingest data into an analytical platform ready for analysis or for further transformation to support analysis.  And although more general purpose data integration/transformation tools can fulfil this function, specialist data ingestion tools provide capabilities designed to make this faster and more reliable.  Key features include support for remote agents to acquire and forward data, GUIs for configuring ingestion pipelines, support for data quality checks to monitor and/or reject incoming data, and basic file and record level transformations on top of the standard functionality to acquire data from a wide range of sources out of the box. 
 <!--more-->
 
+## Further Information
+
+The following analyst material covers a number of technologies in this category:
+
+* [Gartner Magic Quadrant & Critical Capabilities for Data Integration Tools](https://www.google.co.uk/search?q=Gartner+\"Data+Integration+Tools\")
+
 ## General Purpose Ingestion Tools
 
 These tools support both batch and streaming ingestion from a wide range of data sources:

@@ -7,9 +7,13 @@ date: 2017-07-14 07:30
 NoSQL databases based on Google Bigtable, the design of which was published in a paper in 2006.  Often described as a sparse, distributed multi-dimensional sorted map (or key value store) - cells being referenced by a row and column key plus a timestamp or version (with columns arranged into column families), support for the names and formats of columns varying from row to row (within fixed column families), and architectures supporting massive horizontal scalability.  Also called extensible record stores, and occasionally NoSQL column stores (although this definition is slightly inaccurate and confuses these technologies with more general purpose database columnar storage).  Common functionality includes low latency high throughput reads and writes, scan/iterate operations, atomic mutations and cell level security.  Common analytical use cases include the storage and serving of aggregations and metrics for real time dashboards, often as part of a wider ecosystem.
 <!--more-->
 
-## Google Bigtable
+## Introduction
 
 NoSQL Wide Column stores are all based on the original design paper for Google Bigtable that can be found at <http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf>
+
+The following analyst material covers a number of technologies in this category:
+
+* [Gartner Magic Quadrant & Critical Capabilities for Operational Database Management Systems](https://www.google.co.uk/search?q=Gartner+\"Operational+Database+Management+Systems\")
 
 ## Open Source Options
 

@@ -13,9 +13,10 @@ The W3C standards for RDF and SPARQL are available online at <https://www.w3.org
 
 DB Engines has a list of RDF databases at <https://db-engines.com/en/ranking/rdf+store>
 
-The Forrester Graph Databases Market Overview (<https://www.forrester.com/report/Market+Overview+Graph+Databases/-/E-RES121473>) covers a number of RDF databases, including StarDog, AllegroGraph and Oracle, and has a good introduction to RDF and Graph databases.
+The following analyst material covers a number of technologies in this category:
 
-And Bloor have a primer on graph technologies (<http://www.bloorresearch.com/research/spotlight/all-about-graphs-a-primer/>), a 2016 Graph and RDF Databases Market Report (<http://www.bloorresearch.com/research/market-report/graph-and-rdf-databases-2016/>) and a 2016 Graph and RDF Databases Market Update (<http://www.bloorresearch.com/research/market-update/graph-and-rdf-databases-market-update-2016/>), all of which are free to download for personal non-commercial use, and which cover a number of RDF databases including AllegroGraph, BlazeGraph, Cray, GraphDB, MarkLogic, Stardog and Virtuoso.
+* [Forrester Vendor Landscape: Graph Databases](https://www.google.co.uk/search?q=Forrester+\"Graph+Databases\")
+* [Bloor Graph and RDF Databases](https://www.bloorresearch.com/technology/graph-databases/)
 
 ## RDF Frameworks
 
