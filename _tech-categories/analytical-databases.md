@@ -11,8 +11,8 @@ Full stack databases (supporting both storage and query of data) that focus on a
 
 The following analyst material covers a number of technologies in this category::
 
-* [Gartner Magic Quadrant & Critical Capabilities for Data Management Solutions for Analytics](https://www.google.co.uk/search?q=gartner+\"Data+Management+Solutions+for+Analytics\")
-* [Forrester Wave: Big Data Warehouse](https://www.google.co.uk/search?q=Forrester+\"Big+Data+Warehouse\")
+* [Gartner Magic Quadrant & Critical Capabilities for Data Management Solutions for Analytics](https://www.google.co.uk/search?q=gartner+"Data+Management+Solutions+for+Analytics")
+* [Forrester Wave: Big Data Warehouse](https://www.google.co.uk/search?q=Forrester+"Big+Data+Warehouse")
 
 See our [Query Engines](/tech-categories/query-engines/) page for details of technologies that support similar capabilities but over external data (e.g. data in HDFS or source databases).
 

@@ -32,7 +32,7 @@ There are also a wide range of other smaller cloud vendors that provide object s
 
 The following analyst material covers a number of technologies in this category:
 
-* [Gartner Magic Quadrant and Critical Capabilities for Public Cloud Storage Services, Worldwide](https://www.google.co.uk/search?q=Gartner+\"Public+Cloud+Storage+Services\")
+* [Gartner Magic Quadrant and Critical Capabilities for Public Cloud Storage Services, Worldwide](https://www.google.co.uk/search?q=Gartner+"Public+Cloud+Storage+Services")
 
 ## Open Source Object Store Technologies
 
@@ -71,8 +71,8 @@ The following are other object store products:
 
 The following analyst material covers a number of technologies in this category:
 
-* [Gartner Magic Quadrant & Critical Capabilities for Distributed File Systems and Object Storage](https://www.google.co.uk/search?q=Gartner+\"Distributed+File+Systems+and+Object+Storage\")
-* [IDC Marketscape: Worldwide Object-Based Storage](https://www.google.co.uk/search?q=IDC+\"Worldwide+Object+Based+Storage\")
+* [Gartner Magic Quadrant & Critical Capabilities for Distributed File Systems and Object Storage](https://www.google.co.uk/search?q=Gartner+"Distributed+File+Systems+and+Object+Storage")
+* [IDC Marketscape: Worldwide Object-Based Storage](https://www.google.co.uk/search?q=IDC+"Worldwide+Object+Based+Storage")
 
 ## Parallel Distributed Filesystems
 

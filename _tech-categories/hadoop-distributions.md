@@ -18,7 +18,7 @@ Merv Adrian from Gartner maintains a tracker of the different versions of each H
 
 The following analyst material covers a number of technologies in this category:
 
-* [Gartner Magic Quadrant & Critical Capabilities for Data Management Solutions for Analytics](https://www.google.co.uk/search?q=gartner+\"Data+Management+Solutions+for+Analytics\")
+* [Gartner Magic Quadrant & Critical Capabilities for Data Management Solutions for Analytics](https://www.google.co.uk/search?q=gartner+"Data+Management+Solutions+for+Analytics")
 
 ## Commercial Distributions
 

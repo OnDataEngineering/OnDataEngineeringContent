@@ -15,8 +15,8 @@ DB Engines has a list of graph databases at <https://db-engines.com/en/ranking/g
 
 The following analyst material covers a number of technologies in this category:
 
-* [Gartner Magic Quadrant & Critical Capabilities for Operational Database Management Systems](https://www.google.co.uk/search?q=Gartner+\"Operational+Database+Management+Systems\")
-* [Forrester Vendor Landscape: Graph Databases](https://www.google.co.uk/search?q=Forrester+\"Graph+Databases\")
+* [Gartner Magic Quadrant & Critical Capabilities for Operational Database Management Systems](https://www.google.co.uk/search?q=Gartner+"Operational+Database+Management+Systems")
+* [Forrester Vendor Landscape: Graph Databases](https://www.google.co.uk/search?q=Forrester+"Graph+Databases")
 * [Bloor Graph and RDF Databases](https://www.bloorresearch.com/technology/graph-databases/)
 
 And Neo4j have a number of eBooks available for free download from <https://neo4j.com/> and <https://neo4j.com/books/>, including a copy of O’Reilly’s Graph Databases.

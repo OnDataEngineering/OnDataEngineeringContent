@@ -13,7 +13,7 @@ NoSQL Wide Column stores are all based on the original design paper for Google B
 
 The following analyst material covers a number of technologies in this category:
 
-* [Gartner Magic Quadrant & Critical Capabilities for Operational Database Management Systems](https://www.google.co.uk/search?q=Gartner+\"Operational+Database+Management+Systems\")
+* [Gartner Magic Quadrant & Critical Capabilities for Operational Database Management Systems](https://www.google.co.uk/search?q=Gartner+"Operational+Database+Management+Systems")
 
 ## Open Source Options
 

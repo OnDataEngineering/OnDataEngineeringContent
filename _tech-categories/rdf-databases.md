@@ -15,7 +15,7 @@ DB Engines has a list of RDF databases at <https://db-engines.com/en/ranking/rdf
 
 The following analyst material covers a number of technologies in this category:
 
-* [Forrester Vendor Landscape: Graph Databases](https://www.google.co.uk/search?q=Forrester+\"Graph+Databases\")
+* [Forrester Vendor Landscape: Graph Databases](https://www.google.co.uk/search?q=Forrester+"Graph+Databases")
 * [Bloor Graph and RDF Databases](https://www.bloorresearch.com/technology/graph-databases/)
 
 ## RDF Frameworks

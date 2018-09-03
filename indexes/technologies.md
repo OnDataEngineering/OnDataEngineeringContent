@@ -4,6 +4,8 @@ description: "A catalogue of data transformation, data platform and other techno
 permalink: "/technologies/"
 regenerate: true
 ---
+TODO: update this
+
 {% assign techs = site.technologies | sort: 'id' %}
 
 <table>

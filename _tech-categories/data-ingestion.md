@@ -11,7 +11,7 @@ Specialist tools designed to acquire and ingest data into an analytical platform
 
 The following analyst material covers a number of technologies in this category:
 
-* [Gartner Magic Quadrant & Critical Capabilities for Data Integration Tools](https://www.google.co.uk/search?q=Gartner+\"Data+Integration+Tools\")
+* [Gartner Magic Quadrant & Critical Capabilities for Data Integration Tools](https://www.google.co.uk/search?q=Gartner+"Data+Integration+Tools")
 
 ## General Purpose Ingestion Tools
 

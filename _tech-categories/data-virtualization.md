@@ -11,9 +11,9 @@ Tools that enable the execution of data queries across multiple data sources.  M
 
 The following analyst material covers a number of technologies in this category:
 
-* [Gartner Magic Quadrant & Critical Capabilities for Data Integration Tools](https://www.google.co.uk/search?q=Gartner+\"Data+Integration+Tools\")
-* [Gartner Market Guide for Data Virtualization](https://www.google.co.uk/search?q=Gartner+\"Data+Virtualization\")
-* [Forrester Wave: Enterprise Data Virtualization](https://www.google.co.uk/search?q=Forrester+\"Data+Virtualization\")
+* [Gartner Magic Quadrant & Critical Capabilities for Data Integration Tools](https://www.google.co.uk/search?q=Gartner+"Data+Integration+Tools")
+* [Gartner Market Guide for Data Virtualization](https://www.google.co.uk/search?q=Gartner+"Data+Virtualization")
+* [Forrester Wave: Enterprise Data Virtualization](https://www.google.co.uk/search?q=Forrester+"Data+Virtualization")
 
 A number of [Query Engines](/tech-categories/query-engines/) support joins and aggregation of data from multiple data sources
 
