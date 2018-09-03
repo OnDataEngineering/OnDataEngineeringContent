@@ -4,8 +4,6 @@ description: "A catalogue of data transformation, data platform and other techno
 permalink: "/tech-vendors/"
 regenerate: true
 ---
-TODO: update this
-
 {% assign vendors = site.tech-vendors | sort: 'title' %}
 
 <table>
