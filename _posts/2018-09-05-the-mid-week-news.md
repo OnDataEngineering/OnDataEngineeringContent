@@ -15,4 +15,4 @@ Other technology news:
 * Hortonworks have a post on disaster recovery with Data Lifecycle Manager, part of their [Hortonworks DataPlane Service](/technologies/hortonworks-dataplane-service/) - [link](https://hortonworks.com/blog/painless-disaster-recovery-using-hortonworks-data-lifecycle-manager/)
 * SwiftStack have a post on how [OpenStack Swift](/technologies/openstack-swift/) can now support billions of objects - [link](https://www.swiftstack.com/blog/2018/08/30/billions-and-billions-of-objects/)
 * Datanami have an interesting post on Octopai - a product allegedly capable of reverse engineering ETL processes to provide data lineage - [link](https://www.datanami.com/2018/08/31/reverse-engineering-etl-jobs-for-fun-and-profit/)
-* [Apache Flink](/techologies/apache-flink/) now supports serializable ACID transactions on streaming data - [link](https://data-artisans.com/blog/serializable-acid-transactions-on-streaming-data)
+* [Apache Flink](/technologies/apache-flink/) now supports serializable ACID transactions on streaming data - [link](https://data-artisans.com/blog/serializable-acid-transactions-on-streaming-data)
