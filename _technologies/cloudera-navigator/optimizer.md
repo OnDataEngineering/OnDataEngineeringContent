@@ -4,10 +4,10 @@ description: "A web based hosted service for analysing SQL logs from a range of 
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-04-12 07:30
-last_updated: 2018-02-26
+last_updated: 2018-09-05
 ---
 ## Links
 
 * <https://optimizer.cloudera.com/> - homepage
 * <https://www.cloudera.com/products/product-components/cloudera-navigator-optimizer.html> - product information
-* <https://www.cloudera.com/documentation/navopt/topics/navopt.html> - documentation
+* <https://www.cloudera.com/documentation/enterprise/latest/topics/navopt.html> - documentation

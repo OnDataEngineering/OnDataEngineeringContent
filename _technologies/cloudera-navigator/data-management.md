@@ -4,8 +4,8 @@ description: "Solution for managing data on a CDH Hadoop cluster. Automatically 
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-04-11 07:30
-last_updated: 2018-06-20
-version: "v2.14"
+last_updated: 2018-09-05
+version: "v6.0"
 ---
 ## Release History
 
@@ -15,6 +15,7 @@ version: "v2.14"
 | 2.12 | 2017-10-12 | See [CDH](/technologies/cloudera-cdh/) 5.13 release links | CDH 5.13
 | 2.13 | 2018-01-26 | See [CDH](/technologies/cloudera-cdh/) 5.14 release links | CDH 5.14
 | 2.14 | 2018-06-15 | See [CDH](/technologies/cloudera-cdh/) 5.15 release links | CDH 5.15
+| 6.0 | 2018-08-30 | See [CDH](/technologies/cloudera-cdh/) 6.0 release links | CDH 6.0
 
 ## Links
 
@@ -22,6 +23,6 @@ version: "v2.14"
 * <https://www.cloudera.com/resources/datasheet/cloudera-navigator-datasheet.html> - datasheet
 * <https://www.cloudera.com/documentation/enterprise/latest/topics/cn_iu_introduce_navigator.html> - introduction
 * <https://www.cloudera.com/documentation/enterprise/latest/topics/datamgmt.html> - documentation
-* <https://www.cloudera.com/documentation/enterprise/release-notes/topics/rg_release_notes_cn.html> - release note
+* <https://www.cloudera.com/documentation/enterprise/6/release-notes/topics/rg_cn_dm_6_release_notes.html> - release note
 * <http://cloudera.github.io/navigator/apidocs/v3/> - REST API documentation
 * <https://github.com/cloudera/navigator-sdk> - Java SDK

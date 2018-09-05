@@ -17,6 +17,8 @@ Cloudera have donated a number of projects to the Apache Foundation, including [
 ## Links
 
 * <https://www.cloudera.com/> - homepage
+* <https://www.cloudera.com/documentation.html> - documentation
+* <https://www.cloudera.com/downloads.html> - downloads
 
 ## News
 
