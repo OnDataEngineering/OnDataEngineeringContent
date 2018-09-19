@@ -9,5 +9,5 @@ last_updated: 2018-05-23
 ## Links
 
 * <https://www.cloudera.com/products/altus/altus-data-engineering.html> - homepage
-* <https://www.cloudera.com/documentation/altus.html> - documentation
+* <https://www.cloudera.com/documentation/altus/topics/altde_overview.html> - documentation
 * <http://blog.cloudera.com/blog/2017/05/data-engineering-with-cloudera-altus/> - intro blog post
