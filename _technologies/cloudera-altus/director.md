@@ -2,8 +2,8 @@
 title: "Cloudera Altus Director"
 redirect_from: /technologies/cloudera-director/
 description: "Solution for deploying and managing Cloudera CDH Hadoop clusters on cloud infrastructure based on automatically provisioned infrastructure with Hadoop provisioned on top via Cloudera Manager.  Includes out of the box support for Amazon Web Services, Microsoft Azure and Google Cloud Platform, with support for vSphere available from VMWare, with a Service Provider Interface (SPI) for adding support for new providers.  Server component must be manually deployed via an RPM.  Supports the ability to scale clusters up and down, clone clusters, run post deployment scripts, and create Kerberized and highly available clusters.  Manageable through a web UI, a REST API (with Python and Java APIs) and a CLI.  Released as Cloudera Director at 1.0 in October 2014 as part of Cloudera Enterprise 5.2, being renamed to Cloudera Altus Director in September 2018 as part of CDH 6.  Free to download and use, with commercial support available as part of a Cloudera Enterprise subscription."
-vendors: [Cloudera]
-type: "Commercial"
+alt-titles: "Cloudera Director"
+type: "Sub-Project"
 date: 2017-04-13 07:30
 last_updated: 2018-09-19
 version: "v6.0"
