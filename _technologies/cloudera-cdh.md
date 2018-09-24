@@ -1,13 +1,13 @@
 ---
 title: "Cloudera CDH"
-description: "A distribution of Hadoop based on the addition of a number of closed source products, including Cloudera Manager (for installing and managing clusters) and Cloudera Navigator (for managing metadata and the encryption of data).  Bundled projects tend to lag the open source versions and pull forward more patches than other distributions.  Also comes with a number of add-ons, including ODBC and JDBC drivers for Hive and Impala, and a number of Apache projects that aren't (yet) part of the core CDH distribution.  Available via RPMs, or can be installed using Cloudera Manager (for local installs) or Cloudera Director (for installation on cloud platforms).  Comes in a number of editions including Cloudera Enterprise (under an annual per node or elastic cloud licence model with commercial support) and Cloudera Express (a free version without some enterprise features), with Cloudera Enterprise coming in a range of licence options (listed on the Cloudera website under products) with each including support for different Apache products.  First released in March 2009."
+description: "A distribution of Hadoop based on the addition of a number of closed source products, including Cloudera Manager (for installing and managing clusters) and Cloudera Navigator (for managing metadata and the encryption of data).  Bundled projects tend to lag the open source versions and pull forward more patches than other distributions.  Also comes with a number of add-ons, including ODBC and JDBC drivers for Hive and Impala, a number of Apache projects that aren't (yet) part of the core CDH distribution, and Workload XM (a cloud based service for analysing job logs).  Available via RPMs, or can be installed using Cloudera Manager (for local installs) or Cloudera Director (for installation on cloud platforms).  Comes in a number of editions including Cloudera Enterprise (under an annual per node or elastic cloud licence model with commercial support) and Cloudera Express (a free version without some enterprise features), with Cloudera Enterprise coming in a range of licence options (listed on the Cloudera website under products) with each including support for different Apache products.  First released in March 2009."
 alt-titles: [CDH, Cloudera Express, Cloudera Enterprise]
 vendors: [Cloudera]
 categories: [Hadoop Distributions] 
-tech-relationships: [[packages, Flume, HBase, Hadoop, Hive, Hue, Impala, Oozie, Sentry, Cloudera Search, Spark, Sqoop, ZooKeeper, Avro, Parquet, Pig, Kudu, Kafka, Morphlines, [packages (but deprecated), Crunch, Kite Data], [add ons, Accumulo, Cloudera Navigator], [manageable via, Cloudera Manager, Cloudera Director]]
+tech-relationships: [[packages, Flume, HBase, Hadoop, Hive, Hue, Impala, Oozie, Sentry, Cloudera Search, Spark, Sqoop, ZooKeeper, Avro, Parquet, Pig, Kudu, Kafka, Morphlines, [packages (but deprecated), Crunch, Kite Data], [add ons, Accumulo, Cloudera Navigator, Workload XM], [manageable via, Cloudera Manager, Cloudera Director]]
 type: "Commercial"
 date: 2017-03-21 07:00
-last_updated: 2018-09-05
+last_updated: 2018-09-24
 version: "v6.0"
 ---
 ## Bundled Technologies
