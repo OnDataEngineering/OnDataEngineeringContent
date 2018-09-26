@@ -133,7 +133,7 @@ draft-banner: true
 | [Kafka](/technologies/apache-kafka/) | Technology for buffering and storing real-time streams of data between producers and consumers, with a focus on high throughput at low latency.
 | BookKeeper | Distributed log storage service from Yahoo - <http://bookkeeper.apache.org/>
 | DistributedLog | Distributed log service from Twitter supporting durability, replication and strong consistency built over Apache BookKeeper - <http://bookkeeper.apache.org/distributedlog/>
-| Pulsar (Incubating) | Distributed pub-sub messaging from Yahoo, with persistent message storage based on Apache BookKeeper - <http://pulsar.incubator.apache.org/>
+| Pulsar | Distributed pub-sub messaging from Yahoo, with persistent message storage based on Apache BookKeeper - <http://pulsar.incubator.apache.org/>
 
 ## Workflow Management
 

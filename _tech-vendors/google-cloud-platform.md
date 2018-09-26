@@ -43,7 +43,7 @@ draft-banner: true
 
 ## Data Integration Services
 
-| Google Cloud Dataprep | Data preparation service (in beta) for "visually exploring, cleaning, and preparing structured and unstructured data for analysis" based on Trifacta - <https://cloud.google.com/dataprep/>
+| Google Cloud Dataprep | Data preparation service for "visually exploring, cleaning, and preparing structured and unstructured data for analysis" based on Trifacta - <https://cloud.google.com/dataprep/>
 | Google Cloud Composer | Orchestration service based on Apache Airflow - <https://cloud.google.com/composer>
 
 ## Machine Learning Services

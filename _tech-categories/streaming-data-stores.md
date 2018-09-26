@@ -16,7 +16,8 @@ The following are open source Streaming Data Store technologies:
 | [Pravega](/technologies/pravega/) | Technology for the buffering and long term storage of streaming data, designed for low latency and high throughput, with support for exactly once semantics, durable writes, strict ordering, dynamic scaling, transactions and long term storage backed by HDFS.
 | Apache BookKeeper | Distributed log storage service from Yahoo - <http://bookkeeper.apache.org/>
 | Apache DistributedLog | Distributed log service from Twitter supporting durability, replication and strong consistency built over Apache BookKeeper - <http://bookkeeper.apache.org/distributedlog/>
-| Apache Pulsar (Incubating) | Distributed pub-sub messaging from Yahoo, with persistent message storage based on Apache BookKeeper - <http://pulsar.incubator.apache.org/>
+| Apache Pulsar | Distributed pub-sub messaging from Yahoo, with persistent message storage based on Apache BookKeeper - <http://pulsar.incubator.apache.org/>
+| LogDevice | Open source distributed data store for sequential data from Facebook - <https://logdevice.io/>
 
 Note that [Apache Kafka](/technologies/apache-kafka/) is bundled with a number of [Hadoop distributions](/tech-categories/hadoop-distributions/).
 

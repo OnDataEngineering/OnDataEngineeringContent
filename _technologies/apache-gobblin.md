@@ -5,20 +5,21 @@ alt-titles: [Apache Gobblin, Gobblin]
 vendors: [Apache]
 type: "Open Source - Active"
 date: 2017-12-06 07:30
-last_updated: 2018-07-04
-version: "v0.12"
+last_updated: 2018-09-26
+version: "v0.13"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 0.5 | 2015-09-28 | | [Annoucement](https://engineering.linkedin.com/big-data/bridging-batch-and-streaming-data-ingestion-gobblin)
-| 0.6 | 2015-12-21 | https://github.com/apache/incubator-gobblin/releases/tag/gobblin_0.6.0
-| 0.7 | 2016-05-18 | https://github.com/apache/incubator-gobblin/releases/tag/gobblin_0.7.0 | [Announcement](https://engineering.linkedin.com/blog/2016/06/announcing-gobblin-0-7-0--going-beyond-ingestion) | Dataset lifecycle features
-| 0.8 | 2016-09-03 | https://github.com/apache/incubator-gobblin/releases/tag/gobblin_0.8.0
-| 0.9 | 2016-12-19 | https://github.com/apache/incubator-gobblin/releases/tag/gobblin_0.9.0
-| 0.10 | 2017-05-05 | https://github.com/apache/incubator-gobblin/releases/tag/gobblin_0.10.0 | | First Apache release
-| 0.11 | 2017-07-20 | https://github.com/apache/incubator-gobblin/releases/tag/gobblin_0.11.0
-| 0.12 | 2018-07-02 | https://github.com/apache/incubator-gobblin/releases/tag/release-0.12.0
+| 0.6 | 2015-12-21 | [GitHub release page](https://github.com/apache/incubator-gobblin/releases/tag/gobblin_0.6.0)
+| 0.7 | 2016-05-18 | [GitHub release page](https://github.com/apache/incubator-gobblin/releases/tag/gobblin_0.7.0) | [Announcement](https://engineering.linkedin.com/blog/2016/06/announcing-gobblin-0-7-0--going-beyond-ingestion) | Dataset lifecycle features
+| 0.8 | 2016-09-03 | [GitHub release page](https://github.com/apache/incubator-gobblin/releases/tag/gobblin_0.8.0)
+| 0.9 | 2016-12-19 | [GitHub release page](https://github.com/apache/incubator-gobblin/releases/tag/gobblin_0.9.0)
+| 0.10 | 2017-05-05 | [GitHub release page](https://github.com/apache/incubator-gobblin/releases/tag/gobblin_0.10.0) | | First Apache release
+| 0.11 | 2017-07-20 | [GitHub release page](https://github.com/apache/incubator-gobblin/releases/tag/gobblin_0.11.0)
+| 0.12 | 2018-07-02 | [GitHub release page](https://github.com/apache/incubator-gobblin/releases/tag/release-0.12.0)
+| 0.13 | 2018-09-20 | [GitHub release page](https://github.com/apache/incubator-gobblin/releases/tag/release-0.13.0)
 
 ## Links
 

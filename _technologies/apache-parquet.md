@@ -5,8 +5,8 @@ alt-titles: [Parquet]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-20
-last_updated: 2018-04-11
-version: "v1.10 (Parquet MR), v2.3 (Parquet Format), v1.4 (Parquet C++)"
+last_updated: 2018-09-26
+version: "v1.10 (Parquet MR), v2.3 (Parquet Format), v1.5 (Parquet C++)"
 ---
 ## Release History
 
@@ -17,6 +17,7 @@ version: "v1.10 (Parquet MR), v2.3 (Parquet Format), v1.4 (Parquet C++)"
 | 1.3 (Parquet C++) | 2017-09-25 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201709.mbox/%3C1506372726.2995644.1117929408.5D40AC49@webmail.messagingengine.com%3E) |
 | 1.4 (Parquet C++) | 2018-03-07 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201803.mbox/%3C1520429566.2875966.1294691512.05A524C2%40webmail.messagingengine.com%3E) |
 | 1.10 (Parquet MR) | 2018-03-31 | [changelog](https://raw.githubusercontent.com/apache/parquet-mr/master/CHANGES.md)
+| 1.5 (Parquet C++) | 2018-09-22 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201809.mbox/%3C1537629109.1960853.1517045392.2E984E92%40webmail.messagingengine.com%3E) |
 
 ## Links
 
@@ -25,7 +26,7 @@ version: "v1.10 (Parquet MR), v2.3 (Parquet Format), v1.4 (Parquet C++)"
 * <http://blog.cloudera.com/blog/2013/03/introducing-parquet-columnar-storage-for-apache-hadoop/> - initial announcement
 * <https://blog.twitter.com/2013/dremel-made-simple-with-parquet> - good introduction to Parquet
 * <https://blog.twitter.com/2013/announcing-parquet-10-columnar-storage-for-hadoop> - 1.0 release announcement
-* <https://blogs.apache.org/foundation/entry/the_apache_software_foundation_announces75> - top level project announcement, including summary of technology that support it 
+* <https://blogs.apache.org/foundation/entry/the_apache_software_foundation_announces75> - top level project announcement, including summary of technology that support it
 
 ## News
 

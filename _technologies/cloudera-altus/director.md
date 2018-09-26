@@ -20,7 +20,7 @@ Also available on AWS as [Cloudera EDH AWS Quick Start](https://aws.amazon.com/q
 | 2.6 | 2017-10-12 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Director-2-6-0-Released/td-p/60880); [Blog Post](http://blog.cloudera.com/blog/2017/10/whats-new-in-cloudera-director-2-6/)
 | 2.7 | 2018-01-26 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Director-2-7-0-Released/m-p/64054#M214); [Blog Post](http://blog.cloudera.com/blog/2018/01/whats-new-in-cloudera-director-2-7/)
 | 2.8 | 2018-06-15 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Director-2-8-0-Released/td-p/69229); [Blog Post](http://blog.cloudera.com/blog/2018/06/whats-new-in-cloudera-director-2-8/)
-| 6.0 | 2018-09-13 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Altus-Director-6-0-0-Released/td-p/79802) | Renamed from Cloudera Director to Cloudera Altus Director
+| 6.0 | 2018-09-13 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Altus-Director-6-0-0-Released/td-p/79802); [Blog Post](http://blog.cloudera.com/blog/2018/09/whats-new-in-cloudera-altus-director-6-0/) | Renamed from Cloudera Director to Cloudera Altus Director
 
 ## Links
 
