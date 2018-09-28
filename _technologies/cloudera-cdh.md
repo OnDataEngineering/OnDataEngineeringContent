@@ -4,7 +4,7 @@ description: "A distribution of Hadoop based on the addition of a number of clos
 alt-titles: [CDH, Cloudera Express, Cloudera Enterprise]
 vendors: [Cloudera]
 categories: [Hadoop Distributions] 
-tech-relationships: [[packages, Flume, HBase, Hadoop, Hive, Hue, Impala, Oozie, Sentry, Cloudera Search, Spark, Sqoop, ZooKeeper, Avro, Parquet, Pig, Kudu, Kafka, Morphlines, [packages (but deprecated), Crunch, Kite Data], [add ons, Accumulo, Cloudera Navigator, Workload XM], [manageable via, Cloudera Manager, Cloudera Director]]
+tech-relationships: [[packages, Flume, HBase, Hadoop, Hive, Hue, Impala, Oozie, Sentry, Cloudera Search, Spark, Sqoop, ZooKeeper, Avro, Parquet, Pig, Kudu, Kafka, Morphlines], [packages (but deprecated), Crunch, Kite Data], [add ons, Accumulo, Cloudera Navigator, Workload XM], [manageable via, Cloudera Manager, Cloudera Director]]
 type: "Commercial"
 date: 2017-03-21 07:00
 last_updated: 2018-09-24
