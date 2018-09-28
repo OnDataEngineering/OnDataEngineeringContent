@@ -3,7 +3,7 @@ title: Thoughts on Hortonworks DataPlane
 tags: [Hortonworks DataPlane, Cloudera SDX]
 date: 2018-09-28 07:45
 ---
-I've spent the last week digging a little further into [Hortonworks DataPlane](/technologies/hortonworks-dataplan/), and here are my thoughts..
+I've spent the last week digging a little further into [Hortonworks DataPlane](/technologies/hortonworks-dataplane/), and here are my thoughts..
 <!--more-->
 
 We talked last week about how Hadoop was changing away from being a single shared physical platform to a more logical platform that's better aligned with the emerging standard cloud technologies for storage and compute.  What we didn't talk about was the other shared goodness that went alongside the shared compute and storage - the shared metadata and single management, security and governance points that the Hadoop vendors have baked into their offerings.  Because the move to the cloud and being a more logical platform is going to impact this as well - they will need to adapt to this change.
