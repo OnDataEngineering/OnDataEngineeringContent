@@ -17,3 +17,5 @@ version: "1.0"
 * <https://docs.hortonworks.com/HDPDocuments/SMM/SMM-1.0.0/index.html> - documentation
 * <https://hortonworks.com/blog/introducing-hortonworks-streams-messaging-manager-smm/> - introduction
 * <https://hortonworks.com/blog/solving-needs-devops-developers-streams-messaging-manager/> - walkthrough
+* <https://github.com/hortonworks/smm_server> - service source code
+* <https://github.com/hortonworks/smm_app> - app source code

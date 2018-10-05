@@ -17,3 +17,5 @@ version: "1.1"
 * <https://docs.hortonworks.com/HDPDocuments/DLM1/DLM-1.1.2/index.html> - documentation
 * <https://hortonworks.com/blog/painless-disaster-recovery-using-hortonworks-data-lifecycle-manager/> - intro blog post
 * <https://hortonworks.com/blog/step-step-guide-hdfs-replication/> - walkthrough guide
+* <https://github.com/hortonworks/dlm_engine> - engine source code
+* <https://github.com/hortonworks/dlm_app> - app source code

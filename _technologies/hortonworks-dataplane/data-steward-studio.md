@@ -16,3 +16,5 @@ version: "1.2"
 * <https://hortonworks.com/products/dataplane/data-steward-studio/> - homepage
 * <https://docs.hortonworks.com/HDPDocuments/DSS1/DSS-1.2.1/index.html> - documentation
 * <https://hortonworks.com/blog/discover-data-steward-studio-dss-understand-hybrid-data-lakes-exploit-business-value-part-2/> - walkthrough blog post
+* <https://github.com/hortonworks/dss_app> - app source code
+* <https://github.com/hortonworks/profiler_service> - profiler source code
