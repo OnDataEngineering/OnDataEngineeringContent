@@ -25,7 +25,7 @@ draft-banner: true
 
 ## Database Services
 
-| Azure HDInsight | Hadoop service based on [HDP](/technologies/hortonworks-data-platform), with support a range of Hadoop technologies including Spark, Hive, MapReduce, HBase, Storm, Kafka, and Microsoft R Server - <https://azure.microsoft.com/en-us/services/hdinsight/>
+| [Azure HDInsight](/technologies/azure-hdinsight/) | Hadoop service based on [HDP](/technologies/hortonworks-data-platform)
 | Azure SQL Database | Scalable relational database - <https://azure.microsoft.com/en-us/services/sql-database/>
 | Azure Analysis Services | SQL Server Analysis Services as a service - <https://azure.microsoft.com/en-us/services/analysis-services/>
 | Azure Database for MySQL | MySQL as a service - <https://azure.microsoft.com/en-us/services/mysql/>

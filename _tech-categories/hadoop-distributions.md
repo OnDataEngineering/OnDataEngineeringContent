@@ -36,7 +36,7 @@ See also our [comparison](/tech-categories/hadoop-distributions/distribution-com
 The following are cloud based Hadoop service offerings, supporting the programmatic provisioning and management of Hadoop clusters.  Many also provide higher level APIs that allow for submission and management of individual Hadoop jobs, with some services allowing clusters to be automatically provisioned to execute a job and then terminated afterwards.
 
 | [Amazon EMR](/technologies/amazon-emr/) | Hadoop as a service, with support for a wide range of Hadoop technologies and the ability to programmatically execute Hadoop jobs and dynamically provision clusters to execute these
-| Microsoft Azure HD Insight | Hadoop service based on [HDP](/technologies/hortonworks-data-platform) - <https://azure.microsoft.com/en-us/services/hdinsight/>
+| [Azure HDInsight](/technologies/azure-hdinsight/) | Hadoop service based on [HDP](/technologies/hortonworks-data-platform)
 | Google Cloud Dataproc | Hadoop service, with support for MapReduce, Spark, Pig and Hive, and the ability to programatically submit and manage jobs - <https://cloud.google.com/dataproc/>
 | [Cloudera Altus](/technologies/cloudera-altus/) | Platform for accessing individual CDH capabilities as services, with the first capabilities supported being the execution of Spark, MapReduce or Hive (over MapReduce or Spark) jobs using managed CDH clusters on AWS cloud infrastructure over data in Amazon S3
 | SAP Cloud Platform Big Data Services (previously Altiscale) | <https://cloudplatform.sap.com/capabilities/data-storage/big-data.html>
