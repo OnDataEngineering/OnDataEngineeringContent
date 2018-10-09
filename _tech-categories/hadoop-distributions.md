@@ -27,7 +27,7 @@ The following are distributions from commercial vendors for installation on pre-
 | [Cloudera CDH](/technologies/cloudera-cdh/) | A distribution of Hadoop based on the addition of a number of closed source products, including Cloudera Manager (for installing and managing clusters), Cloudera Director (for installing in cloud environments) and Cloudera Navigator (for managing metadata and the encryption of data). Available in free and commercial editions.
 | [Hortonworks Data Platform](/technologies/hortonworks-data-platform/) | A distribution of Hadoop based on a commitment to the Apache open source ecosystem, utilising only open source products with minimal extra patching.  Uses Ambari for installing and managing clusters, and Cloudbreak for installing in cloud environments. Free to use with commercial support available.
 | [MapR Converged Data Platform](/technologies/mapr-converged-data-platform/) | A data platform that provides Hadoop compatibility (via YARN and the MapR-FS HDFS compatible API), NoSQL and streaming data storage via MapR-DB and MapR-ES, and a bundle of open source Hadoop projects via the MapR Ecosystem Pack. Available in free and commercial editions.
-| Syncfusion Big Data Platform | Distribution for Windows - <https://www.syncfusion.com/products/big-data>
+| Syncfusion Big Data Platform | Distribution for Windows, Linux and Azure - <https://www.syncfusion.com/products/big-data>
 
 See also our [comparison](/tech-categories/hadoop-distributions/distribution-comparison/) of the major commercial Hadoop distributions.
 
@@ -35,7 +35,7 @@ See also our [comparison](/tech-categories/hadoop-distributions/distribution-com
 
 The following are cloud based Hadoop service offerings, supporting the programmatic provisioning and management of Hadoop clusters.  Many also provide higher level APIs that allow for submission and management of individual Hadoop jobs, with some services allowing clusters to be automatically provisioned to execute a job and then terminated afterwards.
 
-| Amazon EMR | Hadoop as a service, with support for a wide range of Hadoop technologies and the ability to programmatically execute Hadoop jobs and dynamically provision clusters to execute these - <https://aws.amazon.com/emr/>
+| [Amazon EMR](/technologies/amazon-emr/) | Hadoop as a service, with support for a wide range of Hadoop technologies and the ability to programmatically execute Hadoop jobs and dynamically provision clusters to execute these
 | Microsoft Azure HD Insight | Hadoop service based on [HDP](/technologies/hortonworks-data-platform) - <https://azure.microsoft.com/en-us/services/hdinsight/>
 | Google Cloud Dataproc | Hadoop service, with support for MapReduce, Spark, Pig and Hive, and the ability to programatically submit and manage jobs - <https://cloud.google.com/dataproc/>
 | [Cloudera Altus](/technologies/cloudera-altus/) | Platform for accessing individual CDH capabilities as services, with the first capabilities supported being the execution of Spark, MapReduce or Hive (over MapReduce or Spark) jobs using managed CDH clusters on AWS cloud infrastructure over data in Amazon S3

@@ -26,7 +26,7 @@ draft-banner: true
 
 ## Database Services
 
-| Amazon EMR | Hadoop service, with support for a range of Hadoop technologies including HBase, Hive, Hue, Livy, Mahout, Oozie, Phoenix, Presto, Pig, Spark, Sqoop and Zeppelin - <https://aws.amazon.com/emr/>
+| [Amazon EMR](/technologies/amazon-emr/) | Hadoop service, with support for a range of Hadoop technologies including HBase, Hive, Hue, Livy, Mahout, Oozie, Phoenix, Presto, Pig, Spark, Sqoop and Zeppelin
 | Amazon Relational Database Service | Relational database service, with support for Amazon Aurora (a MySQL/PostgreSQL compatible database), PostgreSQL, MySQL, MariaDB, Oracle, and Microsoft SQL Server - <https://aws.amazon.com/rds/>
 | Amazon Redshift | A MPP analytical database, with support for columnar storage and the ability to query data in Amazon S3 as external tables (Redshift Spectrum) - <https://aws.amazon.com/redshift/>
 | Amazon Elasticache | Redis or Memcached service - <https://aws.amazon.com/elasticache/>
