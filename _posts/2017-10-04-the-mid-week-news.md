@@ -19,7 +19,7 @@ Other technology news:
 * And another face-off - this time a [post](https://brewing.codes/2017/09/25/flink-vs-spark/) on [Flink](/technologies/apache-flink/) vs [Spark](/technologies/apache-spark/)
 * It's [another interesting Confluence post](https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/) (YMMV), this time on machine learning with [Kafka](/technologies/apache-kafka/)
 * [Thoughts from ZDNet](http://www.zdnet.com/article/strata-nyc-2017-to-hadoop-go-jump-in-a-data-lake/) on the recent Strata NY event
-* HDInsights now support [Interactive Query](https://azure.microsoft.com/en-us/blog/general-availability-of-hdinsight-interactive-query-blazing-fast-data-warehouse-style-queries-on-hyper-scale-data-2/), aka Hive on LLAP as a service
+* [Azure HDInsight](/technologies/azure-hdinsight/) now supports [Interactive Query](https://azure.microsoft.com/en-us/blog/general-availability-of-hdinsight-interactive-query-blazing-fast-data-warehouse-style-queries-on-hyper-scale-data-2/), aka Hive on LLAP as a service
 * There are a bunch of security vulnerability announcements this week
   * [CVE-2017-9792](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-9792) - malicious user with "ALTER" permissions on an Impala table can access any other Kudu table data
   * [CVE-2017-9797](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-9797) - unauthenticated client can enter multi-user authentication mode in Apache Geode

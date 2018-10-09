@@ -1,7 +1,7 @@
 ---
 title: "Hadoop Distributions"
 redirect_from: /tech-categories/hadoop_distributions/
-description: "Our list of and information on commercial, open source and cloud based Hadoop distributions, including Cloudera, Hortonworks, MapR, Amazon EMR, Azure HD Insight, Google Cloud Dataproc and alternatives to these."
+description: "Our list of and information on commercial, open source and cloud based Hadoop distributions, including Cloudera, Hortonworks, MapR, Amazon EMR, Azure HDInsight, Google Cloud Dataproc and alternatives to these."
 draft-banner: true
 date: 2017-06-23 17:30
 ---

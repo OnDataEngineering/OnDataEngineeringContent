@@ -18,6 +18,6 @@ Other technology news:
 * From Datanami, and interview with the CEO of Mindbreeze on insight engines - [link](https://www.datanami.com/2018/09/06/what-is-an-insight-engine-and-other-questions/)
 * Amazon S3 Select (server side filtering of data) now supports Parquet, CSV, JSON and BZIP2 - [link](https://aws.amazon.com/about-aws/whats-new/2018/09/amazon-s3-announces-new-features-for-s3-select/)
 * From Confluent - building a streaming data ingestion architecture using [Kafka](/technologies/apache-kafka/), Kafka Connect and KSQL - [link](https://www.confluent.io/blog/data-wrangling-apache-kafka-ksql)
-* Azure HDInsight has a bunch of new capabilities - [link](https://azure.microsoft.com/en-gb/blog/exciting-new-capabilities-on-azure-hdinsight/)
+* [Azure HDInsight](/technologies/azure-hdinsight/) has a bunch of new capabilities - [link](https://azure.microsoft.com/en-gb/blog/exciting-new-capabilities-on-azure-hdinsight/)
 * From ZDNet - Google can now find you datasets - [link](https://www.zdnet.com/article/google-can-now-search-for-datasets-first-research-then-the-world/)
 * We had the Datanami view last week, this week it's The Registers view on the latest Gartner Hype Cycle -  [link](https://www.theregister.co.uk/2018/09/11/gartner_dataops/)
