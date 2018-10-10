@@ -6,8 +6,8 @@ vendors: [MapR]
 tech-relationships: [[add ons, MapR-DB HBase Clients and Tools], [uses, MapR-FS]]
 type: "Commercial"
 date: 2017-04-28 07:30
-last_updated: 2018-02-22
-version: "6.0"
+last_updated: 2018-10-10
+version: "6.1"
 ---
 NOTE: See [MapR Expansion Pack](/technologies/mapr-expansion-pack/) for details on MapR-DB HBase Clients and Tools
 
@@ -15,7 +15,10 @@ NOTE: See [MapR Expansion Pack](/technologies/mapr-expansion-pack/) for details 
 
 | version | release date | release links | release comment
 | 5.2 | 2016-08-19 | 
-| 6.0 | 2017-11-21 | [release notes](https://maprdocs.mapr.com/home/ReleaseNotes/whatsnew.html); [new features summary](https://mapr.com/blog/mapr-db-database-for-global-data-intensive-applications/) | Native secondary indexes, change data capture API, Spark/Hive support
+| 6.0 | 2017-11-21 | [blog post](https://mapr.com/blog/mapr-db-database-for-global-data-intensive-applications/) | Native secondary indexes, change data capture API, Spark/Hive support
+| 6.1 | 2018-10-03 | Complex datatypes in JSON
+
+See [MapR Converged Data Platform](/technologies/mapr-converged-data-platform/) for further release information
 
 ## Links
 

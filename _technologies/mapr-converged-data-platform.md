@@ -7,14 +7,15 @@ categories: [Hadoop Distributions]
 tech-relationships: [[packages, MapR-FS, MapR-DB, MapR-ES, YARN, MapReduce, ZooKeeper, MapR Ecosystem Pack], [manageable via, MapR Installer, MapR Control System, MapR Monitoring], [add ons, Persistent Application Client Container, MapR Orbit Cloud Suite, MapR Data Science Refinery]]
 type: "Commercial"
 date: 2017-05-03 07:30
-last_updated: 2018-02-22
-version: "6.0"
+last_updated: 2018-10-10
+version: "6.1"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 5.2 | 2016-08-19 | 
-| 6.0 | 2017-11-21 | [blog post](https://mapr.com/products/whats-new/6-0/); [release notes](https://maprdocs.mapr.com/home/ReleaseNotes/whatsnew.html) | New MapR Control System; MapR-DB new features
+| 6.0 | 2017-11-21 | [what's new](https://mapr.com/products/whats-new/6-0/); [release notes](https://mapr.com/docs/60/ReleaseNotes/whatsnew_60.html) | New MapR Control System; MapR-DB new features
+| 6.1 | 2018-10-03 | [blog post](https://mapr.com/blog/mapr-6-1-new-horizons/); [GA announcement](https://mapr.com/blog/mapr-6-1-release-with-mep-6-0-is-now-generally-available/); [what's new](https://mapr.com/products/whats-new/6-1/); [release notes](https://mapr.com/docs/home/ReleaseNotes/whatsnew.html) | S3 compatible API; object tiering; enryption at rest
 
 ## Links
 

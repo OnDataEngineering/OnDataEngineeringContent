@@ -7,16 +7,19 @@ vendors: [MapR]
 tech-relationships: [[add ons, MapR-ES Kafka Clients and Tools], [uses, MapR-FS]]
 type: "Commercial"
 date: 2017-05-02 07:30
-last_updated: 2018-02-22
-version: "6.0"
+last_updated: 2018-10-10
+version: "6.1"
 ---
 NOTE: See [MapR Expansion Pack](/technologies/mapr-expansion-pack/) for details on MapR-ES Kafka Clients and Tools
 
 ## Release History
 
 | version | release date | release links | release comment
-| 5.2 | 2016-08-19 | 
-| 6.0 | 2017-11-21 | [release notes](https://maprdocs.mapr.com/home/ReleaseNotes/whatsnew.html)
+| 5.2 | 2016-08-19 |
+| 6.0 | 2017-11-21 |
+| 6.1 | 2018-10-03 |
+
+See [MapR Converged Data Platform](/technologies/mapr-converged-data-platform/) for further release information
 
 ## Links
 

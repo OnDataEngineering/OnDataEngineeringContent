@@ -4,7 +4,14 @@ description: "An object store built on top of the new Hadoop HDDS block storage 
 type: "Sub-Project"
 tech-relationships: [[uses, HDDS]]
 date: 2018-09-21
+last_updated: 2018-10-10
+version: v0.2-alpha
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 0.2-alpha | 2018-10-01 | [announcement](https://hadoop.apache.org/news/2018-10-01-ozone-0.2.1-alpha.html) |
+
 ## Links
 
 * <http://ozone.hadoop.apache.org/> - home page
