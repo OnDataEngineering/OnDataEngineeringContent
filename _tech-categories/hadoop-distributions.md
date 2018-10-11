@@ -37,7 +37,7 @@ The following are cloud based Hadoop service offerings, supporting the programma
 
 | [Amazon EMR](/technologies/amazon-emr/) | Hadoop as a service, with support for a wide range of Hadoop technologies and the ability to programmatically execute Hadoop jobs and dynamically provision clusters to execute these
 | [Azure HDInsight](/technologies/azure-hdinsight/) | Hadoop service based on [HDP](/technologies/hortonworks-data-platform)
-| Google Cloud Dataproc | Hadoop service, with support for MapReduce, Spark, Pig and Hive, and the ability to programatically submit and manage jobs - <https://cloud.google.com/dataproc/>
+| [Google Cloud Dataproc](/technologies/google-cloud-dataproc/) | Hadoop service, with support for MapReduce, Spark, Pig and Hive, and the ability to programatically submit and manage jobs
 | [Cloudera Altus](/technologies/cloudera-altus/) | Platform for accessing individual CDH capabilities as services, with the first capabilities supported being the execution of Spark, MapReduce or Hive (over MapReduce or Spark) jobs using managed CDH clusters on AWS cloud infrastructure over data in Amazon S3
 | SAP Cloud Platform Big Data Services (previously Altiscale) | <https://cloudplatform.sap.com/capabilities/data-storage/big-data.html>
 | Rackspace | Based on Hortonworks HDP - <https://www.rackspace.com/big-data>

@@ -23,7 +23,7 @@ draft-banner: true
 
 ## Database Services
 
-| Google Cloud Dataproc | Hadoop service, with support for MapReduce, Spark, Pig and Hive - <https://cloud.google.com/dataproc/>
+| [Google Cloud Dataproc](/technologies/google-cloud-dataproc/) | Hadoop service, with support for MapReduce, Spark, Pig and Hive
 | Google Cloud Spanner | Horizontally scalable relational database for transaction processing - <https://cloud.google.com/spanner/>
 | Google Cloud SQL | Managed database service, with support for MySQL and PostgreSQL - <https://cloud.google.com/sql/>
 | Google Big Query | Analytical SQL database service - <https://cloud.google.com/bigquery/>
@@ -58,5 +58,5 @@ draft-banner: true
 
 ## News
 
-* <https://cloudplatform.googleblog.com/> - Google Cloud Platform blog
+* <https://cloud.google.com/blog/> - Google Cloud Platform blog
 * <https://cloud.google.com/blog/big-data/> - Google Cloud Platform Big Data and Machine Learning blog
