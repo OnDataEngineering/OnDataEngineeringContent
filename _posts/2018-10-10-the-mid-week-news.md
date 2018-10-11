@@ -9,7 +9,7 @@ Technology updates (details are on the relevant technology pages):
 
 * [MapR Converged Data Platform](/technologies/mapr-converged-data-platform/) is up to 6.1
 * And the [MapR Expansion Pack](/technologies/mapr-expansion-pack/) is up to 6.0
-* [Streamsets Data Collector](/techologies/streamsets-data-collector/) has hit 3.5
+* [Streamsets Data Collector](/technologies/streamsets-data-collector/) has hit 3.5
 * [Apache Arrow](/technologies/apache-arrow/) has hit 0.11
 * [Apache Beam](/technologies/apache-beam/) has hit 2.7
 * [Apache Ranger](/technologies/apache-ranger/) has hit 1.2

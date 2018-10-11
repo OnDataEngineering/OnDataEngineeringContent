@@ -26,4 +26,4 @@ Note that HDInsight is largely based on HDP releases, however it doesn't include
 
 ## News
 
-See Azure updates
+See [Azure](/tech-vendors/microsoft-azure/) updates
