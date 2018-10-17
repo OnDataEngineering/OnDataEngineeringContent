@@ -40,6 +40,8 @@ The following are cloud based Hadoop service offerings, supporting the programma
 | [Google Cloud Dataproc](/technologies/google-cloud-dataproc/) | Hadoop service, with support for MapReduce, Spark, Pig and Hive, and the ability to programatically submit and manage jobs
 | [Qubole Data Service](/technologies/qubole-data-service/) | Hadoop managed service running on AWS, Azure and Oracle Cloud
 | [Cloudera Altus](/technologies/cloudera-altus/) | Platform for accessing individual CDH capabilities as services, with the first capabilities supported being the execution of Spark, MapReduce or Hive (over MapReduce or Spark) jobs using managed CDH clusters on AWS cloud infrastructure over data in Amazon S3
+| IBM BigInsights on Cloud | <https://www.ibm.com/analytics/in/en/technology/cloud-data-services/biginsights-on-cloud/>
+| Oracle Big Data Cloud Service | Based on Cloudera - <https://cloud.oracle.com/bigdata>
 | SAP Cloud Platform Big Data Services (previously Altiscale) | <https://cloudplatform.sap.com/capabilities/data-storage/big-data.html>
 | Rackspace | Based on Hortonworks HDP - <https://www.rackspace.com/big-data>
 

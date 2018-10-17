@@ -1,0 +1,25 @@
+---
+title: Thoughts On Hadoop Service Providers
+tags: [Hadoop Distributions, Amazon EMR, Azure HDInsight, Google Cloud Dataproc, Qubole Data Service, Cloudera Altus, Cloudera Director, Cloudbreak]
+date: 2018-10-05 07:45
+---
+So last week we looked at a bunch of cloud Hadoop service providers.  Time to recap and expouse some thoughts...
+<!--more-->
+
+Deploying Hadoop is hard and complex, especially if you're looking to make it secure, stable and implement a bunch of best practice stuff.  And wouldn't it be nice if we could automate the process and make it repeatable, allowing us to create clusters when needed and tear them down when we're done?
+
+[Amazon EMR](/technologies/amazon-emr/), [Azure HDInsight](/technologies/azure-hdinsight/) and [Google Cloud Dataproc](/technologies/google-cloud-dataproc/) are the big cloud providers offerings in this space, and other cloud providers have similar offerings.  Fundamentally they allow you to programatically specify and create an Hadoop cluster with one or more services pre-installed.  They all support a bunch of standard stuff - some sort of selection of the Hadoop services you want pre-installed, a bunch of automatic configuration of Hadoop, streamlined usage of cloud storage (with encryption), custom bootstrap actions etc., and are all priced as a premium on the costs for the raw storage and compute that you consume.
+
+But using any of these are going to tie you into those cloud platforms and their distributions of Hadoop.  EMR and Cloud Dataproc both run their own distributions (although with some exploitation of [Apache BigTop](/technologies/apache-bigtop/)) - Google's is more limited (Spark, MapReduce, Pig & Hive), EMR much broader (adding a range of other techs, including Flink, Presto, TensorFlow, Hue and Zeppelin).  HDInsight is based on the Hortonworks Data Platform, and is the broadest of the lot adding in Kafka, Storm, Hive LLAP and (with an enterprise security add on) Ranger security.  And although you're tied into the cloud vendor, this is not neccesarily a bad thing - you get full integration with their security, audit and management tools, and if you're going all in with a cloud vendor this can make a lot of sense.
+
+The alternative is you align yourself to an "independant" Hadoop vendor - you're still aligning your self to a distribution, but you now have the freedom to deploy it wherevers most appropriate - on premises, or on whichever cloud vendor works for you.  Your options here were (primarily) [Cloudera](/tech-vendors/cloudera/), [Hortonworks](/tech-vendors/hortonworks/) and [MapR](/tech-vendors/mapr), however Cloudera nand Hortonworks have just announced they're planning to merge.  And all these options have tooling to programatically deploy Hadoop on cloud infrastructure, giving a similar experience to the cloud vendor offerings.  For Cloudera it's [Director](/technologies/cloudera-altus/director/), Hortonworks have [Cloudbreak](/technologies/cloudbreak/) and MapR the MapR Orbit Cloud Suite.
+
+But all these options are targeted at Hadoop administrators - a lot is automated, but you still need to have a pretty deep understanding of Hadoop, you're still responsible for managing (starting, stopping and scaling) your cluster (although EMR, Dataproc and Cloudbreak have some support for auto scaling), and you'll need to be comfortable by customising your cluster through bootstrap scripts.
+
+[Qubole Data Service](/technologies/qubole-data-service/) feels like it's targeting a slightly different market - in that it tries to automate as much of the cluster management as possible.  You still need to spec your cluster and select the cloud infrastructure you want to run it on, but it will then manage it for you - automatically starting, stopping and scaling it based on the current workload to make sure youre cloud infrastructure costs are being minimised.  And it also works hard to provide a much richer user interface, allowing analysts to manage their data in the cloud (including ingesting it and push it back to a wide range of cloud databases) and giving them rich query/job editors and Zeppelin notebooks.  It feels more like the vision of an Haodop managed service.
+
+Which leaves us with [Cloudera Altus](/technologies/cloudera-altus/).  This feels like Cloudera's attempt to at a slightly higher level service.  Unlike Qubole however, it has a range of offerings targeted at slightly different user communities, but it feels like it's trying to differentiate itself from the traditional cloud Hadoop offerings.
+
+As always - see our [Hadoop Distributions](/tech-categories/hadoop-distributions/) page for our full list of on premises and cloud based Hadoop distributions.
+
+Right - that's it for today.  One more post this week on Hadoop and then we'll move on to something new.
