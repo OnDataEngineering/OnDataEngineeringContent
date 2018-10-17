@@ -1,7 +1,7 @@
 ---
 title: Thoughts On Hadoop Service Providers
 tags: [Hadoop Distributions, Amazon EMR, Azure HDInsight, Google Cloud Dataproc, Qubole Data Service, Cloudera Altus, Cloudera Director, Cloudbreak]
-date: 2018-10-05 07:45
+date: 2018-10-17 07:45
 ---
 So last week we looked at a bunch of cloud Hadoop service providers.  Time to recap and expouse some thoughts...
 <!--more-->
