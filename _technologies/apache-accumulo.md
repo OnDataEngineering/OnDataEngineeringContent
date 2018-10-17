@@ -6,7 +6,7 @@ tech-relationships: [[add ons, Apache Fluo], [manageable via, Uno, Muchos]]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-29 07:30
-last_updated: 2018-05-16
+last_updated: 2018-10-17
 version: "v1.9"
 ---
 ## Release History
@@ -14,6 +14,7 @@ version: "v1.9"
 | version | release date | release links | release comment
 | 1.8 | 2016-09-06 | [release notes](http://accumulo.apache.org/release/accumulo-1.8.0/)
 | 1.9 | 2018-04-23 | [release notes](http://accumulo.apache.org/release/accumulo-1.9.0/); [critical bug fix release](http://mail-archives.us.apache.org/mod_mbox/www-announce/201805.mbox/%3CCAL5zq9bpV1wU1Eo=8d0N46Sdp8stbPGJFQryQ7agKbXH6XSAKg@mail.gmail.com%3E)
+| 2.0 alpha 1 | 2018-10-14 | [blog post](http://accumulo.apache.org/release/accumulo-2.0.0-alpha-1/); [release note](http://accumulo.apache.org/release/accumulo-2.0.0-alpha-1/)
 
 ## Links
 
