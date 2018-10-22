@@ -1,6 +1,6 @@
 ---
 title: The Mid Week News 17/10/2018
-date: 2018-10-10 07:30
+date: 2018-10-17 07:30
 ---
 It's news time again...
 <!--more-->
