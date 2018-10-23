@@ -1,5 +1,6 @@
 ---
 title: The Week That Was - 23/03/2018
+redirect_from: /blog/2018/03/28/the-week-that-was/
 date: 2018-03-23 07:30
 ---
 There have been a few minor updates to the site this week...

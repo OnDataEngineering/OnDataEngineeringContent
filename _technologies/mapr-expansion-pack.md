@@ -1,6 +1,7 @@
 ---
 title: "MapR Expansion Pack"
 redirect_from:
+  - /technologies/mapr_ecosystem_pack/
   - /technologies/mapr-ecosystem-pack/
   - /technologies/mapr-streams-clients-and-tools/
 description: "A package of open source Hadoop projects certified to work together against one or more versions of the MapR Converged Data Platform.  Has new major releases roughtly once a quarter, with most components kept resonably up to date with the open source version, with any patching done publically in GitHub.  Available as RPMs, and installable via the MapR Installer. These components were originally bundled as part of the MapR Converged Data Platform, but were broken out as the MapR Ecosystem Pack in September 2016 to allow them to be released independantly.  Renamed to the MapR Expansion Pack as of version 4.0."
