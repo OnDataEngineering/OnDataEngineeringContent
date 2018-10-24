@@ -6,14 +6,15 @@ vendors: [Hortonworks, Lucidworks]
 tech-relationships: [packages, Solr, Banana]
 type: "Commercial Open Source"
 date: 2017-03-03 07:30
-last_updated: 2017-07-18
-version: "3.0"
+last_updated: 2018-10-24
+version: "4.0"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 2.x | | | Aligned to HDP 2.x releases, bundles Solr 5.x
-| 3.0 | 2018-07-13 | [release notes](https://docs.hortonworks.com/HDPDocuments/HDPS/HDPS-3.0.0/bk_solr-search-installation/content/hdp-search-30-relnotes.html) | Aligned to HDP 3.0 release, bundles Solr 6, however as of HDP 3.0 HDP bundles Solr 7 directly
+| 3.0 | 2018-07-13 | [release notes](https://docs.hortonworks.com/HDPDocuments/HDPS/HDPS-3.0.0/bk_solr-search-installation/content/hdp-search-30-relnotes.html) | Solr 6; Certified against HDP 2.6
+| 4.0 | 2018-10-19 | [release notes](https://docs.hortonworks.com/HDPDocuments/HDPS/HDPS-4.0.0/bk_solr-search-installation/content/hdp-search-40-relnotes.html); [blog post](https://hortonworks.com/blog/enterprise-search-hdp-search/) | Solr 7; Certified against HDP 3.0
 
 ## Links
 

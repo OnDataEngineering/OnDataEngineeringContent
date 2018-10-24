@@ -5,8 +5,8 @@ alt-titles: [Hue]
 vendors: [Cloudera]
 type: "Commercial Open Source"
 date: 2017-02-13
-last_updated: 2018-04-11
-version: "4.2"
+last_updated: 2018-10-24
+version: "4.3"
 ---
 ## Release History
 
@@ -14,7 +14,11 @@ version: "4.2"
 | 4.0 | 2017-07-31 | [announcement](http://gethue.com/hue-4-and-its-new-interface-is-out/) [UI details](http://gethue.com/the-hue-4-user-interface-in-detail/) | New UI
 | 4.1 | 2017-10-04 | [announcement](http://gethue.com/hue-4-1-is-out/)
 | 4.2 | 2018-04-04 | [announcement](http://gethue.com/hue-4-2-and-its-self-service-bi-improvements-are-out/); [blog posts](http://gethue.com/category/hue-4-2/)
-| 4.3 | tbc | [blog posts](http://gethue.com/category/hue-4-3/)
+| 4.3 | 2018-10-17 | [announcement](http://gethue.com/hue-4-3-and-its-app-building-improvements-are-out/); [blog posts](http://gethue.com/category/hue-4-3/)
+
+{% comment %}
+* [Hue](/technologies/hue/) has hit 
+{% endcomment %}
 
 ## Links
 

@@ -4,10 +4,10 @@ description: "A distribution of Hadoop based on a commitment to the Apache open 
 alt-titles: [HDP]
 vendors: [Hortonworks]
 categories: [Hadoop Distributions]
-tech-relationships: [[packages, Hadoop, Hive, Tez, Pig, Spark, HBase, Atlas, Oozie, Sqoop, Knox, Ranger, ZooKeeper, Zeppelin, Phoenix, Calcite, DataFu, Livy, Druid, Accumulo, Kafka, Storm, Solr], [add ons, HDP Search, Hortonworks HDB, Hortonworks Cybersecurity Package, SmartSense], [manageable via, Ambari, Cloudbreak]]
+tech-relationships: [[packages, Hadoop, Hive, Tez, Pig, Spark, HBase, Atlas, Oozie, Sqoop, Knox, Ranger, ZooKeeper, Zeppelin, Phoenix, Calcite, DataFu, Livy, Druid, Accumulo, Kafka, Storm], [add ons, HDP Search, Hortonworks HDB, Hortonworks Cybersecurity Package, SmartSense], [manageable via, Ambari, Cloudbreak]]
 type: "Commercial Open Source"
 date: 2017-02-17 07:30
-last_updated: 2017-07-18
+last_updated: 2018-10-24
 version: "3.0"
 ---
 ## Bundled Technologies
@@ -19,7 +19,6 @@ Notable packaged software changes:
 * [Druid](/technologies/druid) was added in tech preview in HDP 2.6
 * The following components were deprecated in HDP 2.6 and removed in HDP 3.0: [Apache Falcon](/technologies/apache-falcon), [Apache Flume](/technologies/apache-flume) (advice is to consider [HDF](/technologies/hortonworks-data-flow) instead), [Apache Mahout](/technologies/apache-mahout) (advice is to consider [Spark MLLib](/technologies/apache-spark/mllib) instead), [Apache Slider](/technologies/apache-slider) (being folded into YARN), [Hue](/technologies/hue) (advice is to consider [Ambari Views](/technologies/apache-ambari/ambari-views) instead) and Cascading.
 * The following components were deprecated in HDP 2.6 as they were being moved into other Hortonworks products/offerings as of HDP 3.0, however this deprecation appeared to be reversed in HDP 2.6.4: [Apache Accumulo](/technologies/apache-accumulo), [Apache Kafka](/technologies/apache-kafka), [Apache Storm](/technologies/apache-storm) and [Cloudbreak](/technologies/cloudbreak/)
-* Solr 7 was added in HDP 3.0, with HDP Search upgraded to 3.0 and still available, however only supporting Solr 6
 
 ## Release History
 
