@@ -39,6 +39,7 @@ Technologies that support the storage of data, but with no (or limited) capabili
 | [Object Stores](/tech-categories/object-stores/) | Storage solutions whereby data is stored without any concept of folders or organisational structure, instead being referenced by a unique identifier, allowing for massively parallel and scalable solutions. |
 | [Streaming Data Stores](/tech-categories/streaming-data-stores/) | Technologies for the persistent storage of continuous streams of data, with data access based on a publish/subscribe model. |
 | [Data Storage Formats](/tech-categories/data-storage-formats/) | Libraries that support the storage of data on disk for data storage, real-time or batch analytics |
+| [Schema Registries](/tech-categories/schema-registries/) | Tools that support the definition, management and serving of data schemas for use in the serialisation and de-serialisation of data, primarily for Streaming Data Stores
 
 ## Query / Analytics Engines
 

@@ -2,7 +2,7 @@
 title: "Schema Registries"
 description: "Our list of and information on schema registries, including the Hive Metastore, the Confluent and Hortonworks Schema Registries, and alternatives to these."
 draft-banner: true
-date: 2017-11-02 07:30
+date: 2018-11-02 07:30
 ---
 Tools that support the definition, management and serving of [Data Storage Format](/tech-categories/data-storage-formats/) schemas for use in the serialisation and de-serialisation of data, primarily with [Streaming Data Stores](/tech-categories/streaming-data-stores/).  Will support an API (and often a web user interface) for managing and retrieving schemas, and will often support schema evolution checks (ensuring changes are forward or backward compatible or both), and an SDK that integrates with clients to allow structured data to be read and written directly.  May also support serving of the libraries required to perform serialisation/de-serialisation, and high availability configurations.
 <!--more-->
