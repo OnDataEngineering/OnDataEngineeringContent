@@ -41,6 +41,7 @@ The following are all Open Source object store technologies:
 | [OpenStack Swift](/technologies/openstack-swift) | Supports multiple configurable storage tiers and backing storage; part of the OpenStack suite but can be installed stand-alone
 | [Zenko CloudServer](/technologies/zenko/cloudserver/) | Open source object storage server based on the S3 compatible API from Scality RING, previously known as Scality S3 Server
 | Ceph | Distributed object store that also supports block and file storage, with development led by RedHat - <http://ceph.com/>
+| LeoFS | <https://leo-project.net/leofs/>
 | Redcurrent | <http://www.redcurrant.io>
 | Basho Riak S2 (formally CS) | <http://basho.com/products/riak-s2/>
 | Joyent (Samsung) Triton Object Storage | <https://www.joyent.com/triton/object-storage>
@@ -48,6 +49,8 @@ The following are all Open Source object store technologies:
 | LinkedIn Ambry | <https://github.com/linkedin/ambry>
 | Rook | <https://rook.io/>
 | Open IO | <http://openio.io/>
+
+## Commercial Object Store Technologies
 
 Options for on premise object stores from enterprise vendors, many of which are also available as a service or as a hardware and software appliance, include:
 
