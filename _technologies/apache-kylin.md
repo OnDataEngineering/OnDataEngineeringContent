@@ -18,11 +18,11 @@ version: "v2.5"
 
 ## Links
 
-* <http://kylin.apache.org> - Kylin homepage
-* <http://kylin.apache.org/docs20> - Kylin documentation
+* <http://kylin.apache.org> - Apache Kylin homepage
+* <http://kylin.apache.org/docs/> - Apache Kylin documentation
 * <http://www.ebaytechblog.com/2014/10/20/announcing-kylin-extreme-olap-engine-for-big-data> - open source announcement
-* <http://kyligence.io/products> - Kylience Analytics Platform
-* <http://manual.kyligence.io/v2.4/en> - Kylience Analytics Platform documentation
+* <http://kyligence.io/products> - Kyligence Enterprise & Kyligence Cloud
+* <http://docs.kyligence.io/> - Kyligence documentation
 
 ## News
 
