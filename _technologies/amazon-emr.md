@@ -5,7 +5,8 @@ alt-titles: [EMR; Elastic Map Reduce]
 vendor: [Amazon Web Services]
 tech-relationships: [[packages, Flink, Ganglia, Hadoop, HBase, HCatalog, Hive, Hue, JupyterHub, Livy, Mahout, MXNet, Oozie, Phoenix, Pig, Presto, Spark, Sqoop, TensorFlow, Tez, Zeppelin, ZooKeeper]]
 type: "Commercial"
-date: 2018-11-14
+date: 2018-10-09
+last_updated: 2018-11-14
 version: "v5.18"
 ---
 ## Release History
