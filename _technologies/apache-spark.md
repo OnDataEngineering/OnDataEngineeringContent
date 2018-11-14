@@ -5,14 +5,19 @@ alt-titles: [Spark]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-13
-last_updated: 2018-03-06
-version: "v2.3"
+last_updated: 2018-11-14
+version: "v2.4"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 2.2 | 2017-07-11 | [release notes](http://spark.apache.org/releases/spark-release-2-2-0.html); [databricks view](https://databricks.com/blog/2017/07/11/introducing-apache-spark-2-2.html) [cost based optimiser](https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html)
 | 2.3 | 2018-02-28 | [release notes](http://spark.apache.org/releases/spark-release-2-3-0.html); [databricks view](https://databricks.com/blog/2018/02/28/introducing-apache-spark-2-3.html); [Kubernetes support](https://databricks.com/blog/2018/03/06/apache-spark-2-3-with-native-kubernetes-support.html); [stream to stream joins](https://databricks.com/blog/2018/03/13/introducing-stream-stream-joins-in-apache-spark-2-3.html); [continuous streaming](https://databricks.com/blog/2018/03/20/low-latency-continuous-processing-mode-in-structured-streaming-in-apache-spark-2-3-0.html)
+| 2.4 | 2018-11-02 | [release notes](http://spark.apache.org/releases/spark-release-2-4-0.html); [databricks view](https://databricks.com/blog/2018/11/08/introducing-apache-spark-2-4.html)
+
+{% comment %}
+* [Apache Spark](/technologies/apache-spark/) has hit 2.4
+{% endcomment %}
 
 ## Links
 

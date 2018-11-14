@@ -27,6 +27,7 @@ The following are commercial Streaming Data Store technologies:
 
 | [Confluent Enterprise](/technologies/confluent-enterprise/) | A commercial version of the Confluent Open Source product, with the addition of a number of commercial closed source products including a JMS client, Control Centre (for managing Kafka clusters), Multi DC Replication (active-active replication between Kafka clusters) and Auto Data Balancing.
 | [MapR-ES](/technologies/mapr-es) | Part of the MapR Converged Data Platform - supports streaming data storage capabilities and a Kafka compatible API
+| AMQ Streams | Kafka distrubtion from RedHat that runs on OpenShift - <https://access.redhat.com/products/red-hat-amq-streams>
 
 ## Technologies Available as a Service
 
@@ -34,5 +35,5 @@ The following are Streaming Data Store technologies available as a managed servi
 
 | Confluent Cloud | Confluent Enterprise as a service - <https://www.confluent.io/confluent-cloud/>
 | Amazon Kinesis Streams | Streaming data storage and publish service - <https://aws.amazon.com/kinesis/streams/>
-| Azure Event Hubs  | Elastic service for the buffering and publishing of streaming event data - <https://azure.microsoft.com/en-us/services/event-hubs/>
+| Azure Event Hubs  | Elastic service for the buffering and publishing of streaming event data with a Kafka compatible end point - <https://azure.microsoft.com/en-us/services/event-hubs/>
 | Google Cloud Pub/Sub | Real time message and streaming data service with "at least once" delivery - <https://cloud.google.com/pubsub/>

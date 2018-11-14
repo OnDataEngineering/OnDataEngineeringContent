@@ -47,7 +47,7 @@ draft-banner: true
 
 ## Streaming Data Services
 
-| Azure Event Hubs  | Elastic service for the buffering and publishing of streaming event data - <https://azure.microsoft.com/en-us/services/event-hubs/>
+| Azure Event Hubs  | Elastic service for the buffering and publishing of streaming event data with a Kafka compatible end point - <https://azure.microsoft.com/en-us/services/event-hubs/>
 | Azure Stream Analytics | Service for querying streams of data using a SQL like language - <https://azure.microsoft.com/en-us/services/stream-analytics/>
 
 ## Data Integration Services
