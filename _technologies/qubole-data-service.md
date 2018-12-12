@@ -5,7 +5,8 @@ alt-titles: [QDS]
 vendor: [Qubole]
 tech-relationships: [[packages, Hadoop, Spark, Presto, Hive, Pig, Sqoop, Tez, Zeppelin, Airflow, TensorFlow]]
 type: "Commercial"
-date: 2018-12-12
+date: 2018-10-12
+last_updated: 2018-12-12
 version: "R54"
 ---
 ## Release History
