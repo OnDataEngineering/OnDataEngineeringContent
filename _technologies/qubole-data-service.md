@@ -5,9 +5,14 @@ alt-titles: [QDS]
 vendor: [Qubole]
 tech-relationships: [[packages, Hadoop, Spark, Presto, Hive, Pig, Sqoop, Tez, Zeppelin, Airflow, TensorFlow]]
 type: "Commercial"
-date: 2018-10-12
-version: "R53"
+date: 2018-12-12
+version: "R54"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| R54 | 2018-11-29 | [blog post](https://www.qubole.com/blog/release-54/); [AWS](https://docs.qubole.com/en/latest/release-notes/releasenotesR54/index.html); [Azure](https://docs.qubole.com/en/latest/release-notes/releasenotes-AzureR54/index.html); [Oracle](https://docs.qubole.com/en/latest/release-notes/releasenotes-OracleR54/index.html)
+
 ## Links
 
 * <https://www.qubole.com/> - homepage

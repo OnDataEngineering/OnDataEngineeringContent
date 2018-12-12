@@ -11,7 +11,7 @@ draft-banner: true
 | [HAWQ](/technologies/apache-hawq/) | A port of the Greenplum MPP database (which itself is based on PostgreSQL) to run over YARN and HDFS.
 | [Tajo](/technologies/apache-tajo/) | Distributed analytical database engine supporting queries over data in HDFS, Amazon S3, Google Cloud Storage, OpenStack Swift and local storage, and querying over Postgres, HBase and Hive tables.
 | [Kudu](/technologies/apache-kudu/) | Columnar storage technology for tables of structured data, supporting low latency reads, updates and deletes by primary key, as well as analytical column/table scans.
-| Quickstep (Incubating) | High performance database engine supporting SQL queries based on a University of Wisconsin-Madison project - <http://quickstep.apache.org/>
+| Quickstep (Retired) | High performance database engine supporting SQL queries based on a University of Wisconsin-Madison project - now retired <https://github.com/apache/incubator-quickstep>
 | [Hive](/technologies/apache-hive/) | Supports the execution of SQL queries over data in HDFS using MapReduce, Spark or Tez based on tables defined in the Hive Metastore
 | [Pig](/technologies/apache-pig/) | Technology for running analytical and data processing jobs written in Pig Latin against data in Hadoop using MapReduce, Tez and Spark
 | MRQL (Incubating) | Supports the execution of MRQL queries over data in Hadoop using MapReduce, Hama, Spark or Flink - <http://mrql.apache.org/>
@@ -43,6 +43,7 @@ draft-banner: true
 | [Arrow](/technologies/apache-arrow/) | In memory columnar data format supporting high performance data exchange and fast analytical access 
 | [ORCFile](/technologies/apache-orc/) | Evolution of RCFile, spun out into it's own Apache project
 | [CarbonData](/technologies/apache-carbondata/) | Columnar format created by Huawei to address a number of perceived shortcomings in existing formats
+| Iceberg (incubating) | File based table format for large, slow-moving tabular data - <http://iceberg.incubator.apache.org/>
 
 ## Data Ingestion
 
@@ -115,6 +116,10 @@ draft-banner: true
 | [Phoenix](/technologies/apache-phoenix/) | An OLTP SQL query engine over Apache HBase tables that supports a subset of SQL 92 (including joins), and comes with a JDBC driver.
 | Trafodion |  OLTP on Hadoop solution based on Tandom NoStop database IP with commercial support from Esgyn - <https://trafodion.incubator.apache.org/>
 
+## IoT Databases
+
+| IoTDB (incubating) | Massive scale IoT time series DB - <http://iotdb.incubator.apache.org/>; <https://wiki.apache.org/incubator/IoTDBProposal>
+
 ## Streaming Analytics
 
 | [Storm](/technologies/apache-storm/) | Specialised distributed stream processing technology based on a single record (not micro batch) model with at least once processing semantics.
@@ -156,7 +161,7 @@ draft-banner: true
 | [Zeppelin](/technologies/apache-zeppelin/) | A web based notebook for interactive data analytics.
 | Commons Compress | Suite of Java libraries for working with a range of compression and packaging formats - <https://commons.apache.org/proper/commons-compress/>
 | Commons CSV | Suite of Java libraries for workng with CSV files - <https://commons.apache.org/proper/commons-csv/>
-| Griffin (Incubating) | Data Quality Service platform built on Apache Hadoop and Apache Spark - <http://griffin.incubator.apache.org/>
+| Griffin | Data Quality Service platform built on Apache Hadoop and Apache Spark - <http://griffin.apache.org/>
 | Tika | Toolkit for extracting text from a wide range of document formats - <http://tika.apache.org/>
 | UIMA | Framework for unstructured data analysis - <http://uima.apache.org/>
 

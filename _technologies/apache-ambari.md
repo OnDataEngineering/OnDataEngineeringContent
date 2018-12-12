@@ -13,7 +13,7 @@ version: "v2.7"
 | version | release date | release links | release comment
 | 2.5 | 2017-03-24 | [release notes](https://docs.hortonworks.com/HDPDocuments/Ambari-2.5.0.3/bk_ambari-release-notes/content/ch_relnotes-ambari-2.5.0.3.html) [changes](http://docs.hortonworks.com/posts/2017/04/13/ambari-25-operations-views.html) [Hortonworks post](https://hortonworks.com/blog/ambari-2-5/)
 | 2.6 | 2017-10-31 | [release notes](https://docs.hortonworks.com/HDPDocuments/Ambari-2.6.0.0/bk_ambari-release-notes/content/ch_relnotes-ambari-2.6.0.0.html)
-| 2.7 | 2018-07-13 | [blog post](https://hortonworks.com/blog/announcing-general-availability-hortonworks-data-platform-3-0-0-ambari-2-7-0-smartsense-1-5-0/); [release notes](https://docs.hortonworks.com/HDPDocuments/Ambari-2.7.0.0/bk_ambari-release-notes/content/ch_relnotes-ambari-2.7.0.0.html)
+| 2.7 | 2018-07-13 | [blog post](https://hortonworks.com/blog/announcing-general-availability-hortonworks-data-platform-3-0-0-ambari-2-7-0-smartsense-1-5-0/); [blog post](https://hortonworks.com/blog/whats-great-apache-ambari-2-7/); [release notes](https://docs.hortonworks.com/HDPDocuments/Ambari-2.7.0.0/bk_ambari-release-notes/content/ch_relnotes-ambari-2.7.0.0.html)
 
 ## Links
 

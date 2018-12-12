@@ -5,8 +5,8 @@ alt-titles: [Ignite, GridGain]
 vendors: [Apache, GridGain]
 type: "Commercial Open Source"
 date: 2017-01-24
-last_updated: 2018-07-25
-version: "v2.6"
+last_updated: 2018-12-12
+version: "v2.7"
 ---
 ## Release History
 
@@ -19,6 +19,7 @@ version: "v2.6"
 | 2.4 | 2018-03-15 | [Ignite announcement](https://blogs.apache.org/ignite/entry/apache-ignite-2-4-brings); [GridGain Professional announcement](https://www.gridgain.com/resources/blog/gridgain-professional-edition-24-now-available) | Machine Learning GA; Spark DataFrames
 | 2.5 | 2018-05-31 | [Ignite announcement](https://blogs.apache.org/ignite/entry/apache-ignite-2-5-scaling)
 | 2.6 | 2018-07-18 | [Ignite announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201807.mbox/%3CCAK1mX7HdatVZ0mvn==tOJx7wXNVsMZ16JBKEXge43F351Wt8XQ@mail.gmail.com%3E)
+| 2.7 | | [Vul Fixes](http://mail-archives.apache.org/mod_mbox/www-announce/201812.mbox/%3CCALUCNEsCwE0fC2XCHi996%3DOdUCZZLK8WzF2KOdaLPYkZzWE_8A%40mail.gmail.com%3E)
 
 ## Links
 

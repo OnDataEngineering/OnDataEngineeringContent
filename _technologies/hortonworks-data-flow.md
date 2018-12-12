@@ -6,8 +6,8 @@ vendors: [Hortonworks]
 tech-relationships: [[packages, NiFi, MiNiFi, Kafka, Storm, Streaming Analytics Manager, Ranger, Schema Registry, NiFi Registry, ZooKeeper], [manageable via, Ambari]]
 type: "Commercial Open Source"
 date: 2017-03-14 07:30
-last_updated: 2018-08-22
-version: "3.2"
+last_updated: 2018-12-12
+version: "3.3"
 ---
 ## Bundled Technologies
 
@@ -24,6 +24,7 @@ The details of the Apache projects distributed as part of Hortonworks DataFlow a
 | 3.0 | 2017-06-12 | [blog post](https://hortonworks.com/blog/hortonworks-dataflow-3-0/) | Streaming Analytics Manager and Schema Registry added; technical preview of SAM Stream Insights which bundles [Druid](/technologies/druid) and [Apache Superset](/technologies/apache-superset) |
 | 3.1 | 2018-02-01 | [blog post](https://hortonworks.com/blog/announcing-general-availability-hortonworks-dataflow-3-1/) | Upgrade to NiFi 1.5 and Kafka 1.0; adds MiNiFi C++ agent and NiFi Registry
 | 3.2 | 2018-08-14 | [blog post](https://hortonworks.com/blog/whats-new-hortonworks-dataflow-hdf-3-2/); [release notes](https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.2.0/release-notes/content/whats-new.html) |
+| 3.3 | 2018-11-16 | [blog post](https://hortonworks.com/blog/whats-new-in-hortonworks-dataflow-hdf-3-3/); [release notes](https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.3.0/release-notes/content/whats-new.html) | Kafka 2.0; Ranger 1.2; NiFi 1.8
 
 ## Links
 
