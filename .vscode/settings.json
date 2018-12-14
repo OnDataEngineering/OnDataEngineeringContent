@@ -262,5 +262,6 @@
     ],
     "spellchecker.ignoreRegExp": [],
     "spellchecker.ignoreFileExtensions": [],
-    "spellchecker.checkInterval": 5000
+    "spellchecker.checkInterval": 5000,
+    "pluggableautocomplete.json": ""
 }
