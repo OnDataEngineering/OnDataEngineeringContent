@@ -4,13 +4,14 @@ description: "Solution for provisioning, managing and monitoring Elasticsearch c
 vendors: [Elastic]
 type: "Commercial"
 date: 2017-07-06 07:30
-last_updated: 2017-11-15
-version: "v1.1"
+last_updated: 2018-12-19
+version: "v2.0"
 ---
 ## History
 
 | version | release date | release links | release comment
 | 1.1 | 2017-11-14 | [announcement](https://www.elastic.co/blog/elastic-cloud-enterprise-1-1-0-released)
+| 2.0 | 2018-09-25 | [announcement](https://www.elastic.co/blog/elastic-cloud-enterprise-2-0-0-released)
 
 ## Links
 

@@ -19,7 +19,7 @@ version: "v2.7"
 | 2.4 | 2018-03-15 | [Ignite announcement](https://blogs.apache.org/ignite/entry/apache-ignite-2-4-brings); [GridGain Professional announcement](https://www.gridgain.com/resources/blog/gridgain-professional-edition-24-now-available) | Machine Learning GA; Spark DataFrames
 | 2.5 | 2018-05-31 | [Ignite announcement](https://blogs.apache.org/ignite/entry/apache-ignite-2-5-scaling)
 | 2.6 | 2018-07-18 | [Ignite announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201807.mbox/%3CCAK1mX7HdatVZ0mvn==tOJx7wXNVsMZ16JBKEXge43F351Wt8XQ@mail.gmail.com%3E)
-| 2.7 | | [Vul Fixes](http://mail-archives.apache.org/mod_mbox/www-announce/201812.mbox/%3CCALUCNEsCwE0fC2XCHi996%3DOdUCZZLK8WzF2KOdaLPYkZzWE_8A%40mail.gmail.com%3E)
+| 2.7 | 2018-12-06 | [Ignite announcement](http://mail-archives.apache.org/mod_mbox/ignite-user/201812.mbox/%3C9ffdb5ba20a742f63ad7a1a2d57d1098797868d9.camel@gmail.com%3E); [Ignite blog](https://blogs.apache.org/ignite/entry/apache-ignite-2-7-deep); [GridGain Professional blog](https://www.gridgain.com/resources/blog/gridgainr-professional-edition-27-introducing-tensorflow-integration-enhanced); [Vulnerabilities Fixes](http://mail-archives.apache.org/mod_mbox/www-announce/201812.mbox/%3CCALUCNEsCwE0fC2XCHi996%3DOdUCZZLK8WzF2KOdaLPYkZzWE_8A%40mail.gmail.com%3E) | TensorFlow integration; Encryption at Rest
 
 ## Links
 

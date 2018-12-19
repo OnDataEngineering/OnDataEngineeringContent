@@ -13,7 +13,7 @@ version: "v3.1"
 | version | release date | release links | release comment
 | 2.2 | 2017-07-25 | [announcement](http://hive.apache.org/downloads.html#25-july-2017-release-220-available)
 | 2.3 | 2017-07-17 | [announcement](http://hive.apache.org/downloads.html#17-july-2017-release-230-available)
-| 3.0 | 2018-05-21 | [announcement](http://hive.apache.org/downloads.html#21-may-2018-release-300-available) | Support for Hadoop 3
+| 3.0 | 2018-05-21 | [announcement](http://hive.apache.org/downloads.html#21-may-2018-release-300-available) | Support for Hadoop 3; materialized views
 | 3.1 | 2018-07-30 | [announcement](http://hive.apache.org/downloads.html#30-july-2018-release-310-available)
 
 ## Links
