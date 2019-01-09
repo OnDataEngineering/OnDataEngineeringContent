@@ -5,8 +5,8 @@ alt-titles: [DataFu]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-31
-last_updated: 2018-03-28
-version: "v1.4"
+last_updated: 2019-01-09
+version: "v1.5"
 ---
 ## Release History
 
@@ -14,6 +14,7 @@ version: "v1.4"
 | 1.0 | 2013-09-04 | [summary](http://datafu.apache.org/blog/2013/09/04/datafu-1-0.html)
 | 1.3 | 2015-11-18 | [summary](http://datafu.apache.org/blog/2015/11/17/datafu-1-3-0-released.html) | First Apache (Incubating) release
 | 1.4 | 2018-03-25 | [summary](http://datafu.apache.org/blog/2018/03/22/datafu-1-4-0-released.html) | Release to mark Apache graduation; includes 1.3.x patches
+| 1.5 | 2019-01-07 | [summary](http://datafu.apache.org/blog/2019/01/07/datafu-1-5-0-released.html) | Java 8 compatibility; two new macros
 
 ## Links
 

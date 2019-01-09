@@ -5,17 +5,18 @@ alt-titles: [Knox]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-22
-last_updated: 2018-08-15
-version: "v1.1"
+last_updated: 2019-01-09
+version: "v1.2"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 0.12 | 2017-03-20 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201703.mbox/%3CCA%2BTBRctuHBLB%3DC4gHggQJaGjzPaMUMprcXx-P_mmSnLvf-55OQ%40mail.gmail.com%3E) |
-| 0.13 | 2017-08-19 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201708.mbox/%3CCACRbFyhaO6vfUn66toWKVuOhoPKeab9G0AOZPWcHRjjN+zaWQg@mail.gmail.com%3E); [post](https://cwiki.apache.org/confluence/display/KNOX/News#News-2017-08-19ApacheKnoxGateway0.13.0Released!) |
-| 0.14 | 2017-12-14 | [announcement](http://mail-archives.us.apache.org/mod_mbox/www-announce/201712.mbox/%3CCACRbFygcSMzkP9yNNvm2jCn2Sibz02OWTjJw3_2S5TWw1UTM=g@mail.gmail.com%3E); [post](https://cwiki.apache.org/confluence/display/KNOX/News#News-2017-12-14ApacheKnoxGateway0.14.0Released!) |
-| 1.0 | 2018-02-07 | [announcement](http://mail-archives.us.apache.org/mod_mbox/www-announce/201802.mbox/%3CCACRbFyheDO-jqjYKvdQ_Rht2O=OHCfDjAktsmEF2+sEkcg7Zjg@mail.gmail.com%3E); [post](https://cwiki.apache.org/confluence/display/KNOX/News#News-2018-02-07ApacheKnoxGateway1.0.0Released!) |
-| 1.1 | 2018-07-30 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201807.mbox/%3CCACRbFyg-F_17QiohoJB+69Hv_K6BamUCmMyZ0M8fghibwi7b5g@mail.gmail.com%3E); [post](https://cwiki.apache.org/confluence/display/KNOX/News#News-2018-07-30ApacheKnoxGateway1.1.0Released!)
+| 0.13 | 2017-08-19 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201708.mbox/%3CCACRbFyhaO6vfUn66toWKVuOhoPKeab9G0AOZPWcHRjjN+zaWQg@mail.gmail.com%3E) |
+| 0.14 | 2017-12-14 | [announcement](http://mail-archives.us.apache.org/mod_mbox/www-announce/201712.mbox/%3CCACRbFygcSMzkP9yNNvm2jCn2Sibz02OWTjJw3_2S5TWw1UTM=g@mail.gmail.com%3E) |
+| 1.0 | 2018-02-07 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201802.mbox/%3CCACRbFyheDO-jqjYKvdQ_Rht2O=OHCfDjAktsmEF2+sEkcg7Zjg@mail.gmail.com%3E) |
+| 1.1 | 2018-07-30 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201807.mbox/%3CCACRbFyg-F_17QiohoJB+69Hv_K6BamUCmMyZ0M8fghibwi7b5g@mail.gmail.com%3E) |
+| 1.2 | 2018-12-19 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201812.mbox/%3CCAJU9nmiUuNzMy0VGGunfj5wnaVdUnrvOkYNYBtiH-Kf07Z-DTQ@mail.gmail.com%3E)
 
 ## Links
 

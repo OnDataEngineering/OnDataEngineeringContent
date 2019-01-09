@@ -131,7 +131,7 @@ draft-banner: true
 | Heron (Incubating) | The stream processing framework that Twitter built after Storm, with a Storm compatible API - <http://heron.incubator.apache.org/>
 | Samza | Stream processing framework built on Kafka and YARN - <http://samza.apache.org/>
 | Bahir | A suite of streaming connectors for Spark and Flink, including support for Akka, MQTT, Twitter and ZeroMQ - <http://bahir.apache.org/>
-| Gearpump (Incubating) | Real-time streaming engine based on the micro-service Actor model - <http://gearpump.apache.org/>
+| Gearpump (Retired) | Real-time streaming engine based on the micro-service Actor model, now retired - <http://gearpump.apache.org/>
 
 ## Streaming Data Stores
 
@@ -143,7 +143,7 @@ draft-banner: true
 ## Workflow Management
 
 | [Oozie](/technologies/apache-oozie/) | Technology for managing workflows of jobs on Hadoop clusters.
-| Airflow (Incubating) | Workflow automation and scheduling system that can be used to author and manage data pipelines - <http://airflow.apache.org/>
+| Airflow | Workflow automation and scheduling system that can be used to author and manage data pipelines - <http://airflow.apache.org/>
 
 ## Other Technologies
 

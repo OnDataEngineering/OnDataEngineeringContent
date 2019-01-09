@@ -13,14 +13,14 @@ version: "v1.3"
 ## Release History
 
 | version | release date | release links | release comment |
-| 0.5 | 27th Dec 2012 | <https://blogs.apache.org/bigtop/entry/apache_bigtop_0_5_0> | first release as TLP
-| 0.6 | 22nd June 2013 | <https://blogs.apache.org/bigtop/entry/apache_bigtop_0_6_0>
-| 0.7 | 6th Nov 2013 | <https://blogs.apache.org/bigtop/entry/release_of_apache_bigtop_0>
-| 0.8 | 6th Oct 2014 | <https://blogs.apache.org/bigtop/entry/release_of_apache_bigtop_01>
-| 1.0 | 17th Aug 2015 | <https://blogs.apache.org/bigtop/entry/not_just_yet_another_release> | based on Hadoop 2.6
-| 1.1 | 17th Feb 2016 | <https://blogs.apache.org/bigtop/entry/release_1_1_0_is>
+| 0.5 | 27th Dec 2012 | [blog post](https://blogs.apache.org/bigtop/entry/apache_bigtop_0_5_0) | first release as TLP
+| 0.6 | 22nd June 2013 | [blog post](https://blogs.apache.org/bigtop/entry/apache_bigtop_0_6_0)
+| 0.7 | 6th Nov 2013 | [blog post](https://blogs.apache.org/bigtop/entry/release_of_apache_bigtop_0)
+| 0.8 | 6th Oct 2014 | [blog post](https://blogs.apache.org/bigtop/entry/release_of_apache_bigtop_01)
+| 1.0 | 17th Aug 2015 | [blog post](https://blogs.apache.org/bigtop/entry/not_just_yet_another_release) | based on Hadoop 2.6
+| 1.1 | 17th Feb 2016 | [blog post](https://blogs.apache.org/bigtop/entry/release_1_1_0_is)
 | 1.2 | 2017-03-30 | | added Flink, Tajo, Apex, QFS and GPDB; 1.2.1 patch released
-| 1.3 | 2018-11-26 |  [release notes](https://bigtop.apache.org/release-notes.html) | Hadoop 2.8.1
+| 1.3 | 2018-11-26 |  [blog post](https://blogs.apache.org/bigtop/entry/release-of-apache-bigtop-12); [release notes](https://bigtop.apache.org/release-notes.html) | Hadoop 2.8.1
 
 ## Links
 

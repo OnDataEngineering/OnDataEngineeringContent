@@ -4,8 +4,8 @@ description: "Solution for managing data on a CDH Hadoop cluster. Automatically 
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-04-11 07:30
-last_updated: 2018-12-12
-version: "v6.0"
+last_updated: 2019-01-09
+version: "v6.1"
 ---
 ## Release History
 
@@ -17,6 +17,7 @@ version: "v6.0"
 | 2.14 | 2018-06-15 | See [CDH](/technologies/cloudera-cdh/) 5.15 release links | CDH 5.15
 | 2.15 | 2018-11-28 | [Release Notes](https://www.cloudera.com/documentation/enterprise/release-notes/topics/cn_rn_new_features.html#new-features__navigator_2.15.1) | [CDH] 5.16
 | 6.0 | 2018-08-30 | See [CDH](/technologies/cloudera-cdh/) 6.0 release links | CDH 6.0
+| 6.1 | 2018-12-18 | See [CDH](/technologies/cloudera-cdh/) 6.1 release links | CDH 6.1
 
 ## Links
 

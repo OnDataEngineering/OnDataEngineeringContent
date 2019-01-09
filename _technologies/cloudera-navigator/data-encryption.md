@@ -5,8 +5,8 @@ alt-titles: [Navigator Encrypt, Navigator Key Trustee Server, Navigator Key HSM,
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-04-12 07:30
-last_updated: 2018-12-12
-version: "v6.0"
+last_updated: 2019-01-09
+version: "v6.1"
 ---
 ## Release History
 
@@ -15,6 +15,7 @@ version: "v6.0"
 | 5.15 (1.11 Key HSM; 3.15 Encrypt) | 2018-06-15 | See [CDH](/technologies/cloudera-cdh/) 5.15 release links | CDH 5.15
 | 5.16 (1.11 Key HSM; 3.16 Encrypt) | 2018-11-28 | See [CDH](/technologies/cloudera-cdh/) 5.16 release links | CDH 5.16
 | 6.0 | 2018-08-30 | See [CDH](/technologies/cloudera-cdh/) 6.0 release links | CDH 6.0
+| 6.1 | 2018-12-18 | See [CDH](/technologies/cloudera-cdh/) 6.1 release links | CDH 6.1
 
 ## Links
 
