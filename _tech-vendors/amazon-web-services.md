@@ -30,10 +30,12 @@ draft-banner: true
 | Amazon Relational Database Service | Relational database service, with support for Amazon Aurora (a MySQL/PostgreSQL compatible database), PostgreSQL, MySQL, MariaDB, Oracle, and Microsoft SQL Server - <https://aws.amazon.com/rds/>
 | Amazon Redshift | A MPP analytical database, with support for columnar storage and the ability to query data in Amazon S3 as external tables (Redshift Spectrum) - <https://aws.amazon.com/redshift/>
 | Amazon Elasticache | Redis or Memcached service - <https://aws.amazon.com/elasticache/>
-| Amazon DynamoDB | A NoSQL document store service - <https://aws.amazon.com/dynamodb/>
+| Amazon DynamoDB | A NoSQL key-value store service - <https://aws.amazon.com/dynamodb/>
+| Amazon DocumentDB | A (MongoDB compatible) NoSQL document store service - <https://aws.amazon.com/documentdb/>
 | Amazon Cloudsearch | Amazon search service - <https://aws.amazon.com/cloudsearch/>
 | Amazon ElasticSearch Service | Elasticsearch service - <https://aws.amazon.com/elasticsearch-service/>
-| Amazon Neptune (Preview) | Graph and RDF database service with support for TinkerPop Gremlin and RDF SPARQL - <https://aws.amazon.com/neptune/>
+| Amazon Neptune | Graph and RDF database service with support for TinkerPop Gremlin and RDF SPARQL - <https://aws.amazon.com/neptune/>
+| Amazon Timestream (Preview) | Time series database service - <https://aws.amazon.com/timestream/>
 
 ## Analytics Services
 

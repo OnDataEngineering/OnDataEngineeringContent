@@ -5,13 +5,14 @@ alt-titles: [Flume]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-06
-last_updated: 2017-10-11
-version: "v1.8"
+last_updated: 2019-01-16
+version: "v1.9"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 1.8 | 2017-10-04 | [announcement](http://flume.apache.org/) [release page](http://flume.apache.org/releases/1.8.0.html)
+| 1.9 | 2019-01-08 | [announcement](http://flume.apache.org/) [release page](http://flume.apache.org/releases/1.9.0.html)
 
 ## Links
 

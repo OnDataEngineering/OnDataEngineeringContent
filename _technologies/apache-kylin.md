@@ -5,8 +5,8 @@ alt-titles: [Kylin]
 vendors: [Apache, Kyligence]
 type: "Commercial Open Source"
 date: 2017-08-21 07:45
-last_updated: 2018-09-26
-version: "v2.5"
+last_updated: 2019-01-16
+version: "v2.6"
 ---
 ## Release History
 
@@ -15,6 +15,7 @@ version: "v2.5"
 | 2.3 | 2018-03-04 | [announcement](http://mail-archives.us.apache.org/mod_mbox/www-announce/201803.mbox/%3CCABh5zFxxo1NKXZT8i0W-Xu7iDc=tZeXRBNBSXgnsYM3T+XaQEg@mail.gmail.com%3E); [blog post](http://kylin.apache.org/blog/2018/03/04/release-v2.3.0/)
 | 2.4 | 2018-06-25 | [announcement](http://mail-archives.us.apache.org/mod_mbox/www-announce/201806.mbox/%3CCANfpUcsJX5a3dTZwbvHkCPxv_BKcUxD2YB_6KttGU5bfXW=FkQ@mail.gmail.com%3E)
 | 2.5 | 2018-09-19 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201809.mbox/%3CCANfpUcvMr=PG9pphR=uS4zpkvT9YzNudnvHtQSkO3g+bHbWcrw@mail.gmail.com%3E); [blog post](http://kylin.apache.org/blog/2018/09/20/release-v2.5.0/)
+| 2.6 | 2019-01-13 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201901.mbox/%3CCANS2ep-b_NwKfykc8yapkb4jrd2BPv7sQV=gUuzKHi5RdoXAHA@mail.gmail.com%3E)
 
 ## Links
 
