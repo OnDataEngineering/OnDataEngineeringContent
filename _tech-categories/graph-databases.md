@@ -31,7 +31,7 @@ See the note above on the "Do we need specialized graph databases? Benchmarking 
 ## Commercial OLTP Graph Databases
 
 | Neo4j	| ACID-compliant transactional database with native graph storage and processing; open source with commercial edition; utilises Cypher - <https://neo4j.com/>
-| OrientDB | Multi-model (key-value, graph and document) NoSQL database with TinkerPop support and both community and enterprise editions - <http://orientdb.com/graph-database/>
+| SAP OrientDB | Multi-model (key-value, graph and document) NoSQL database with TinkerPop support and both community and enterprise editions - <http://orientdb.com/graph-database/>
 | ArrangoDB | Multi-model (key-value, graph and document) NoSQL database with ACID transactions, TinkerPop compatibility and it's own AQL query language with support for cluster deployments (including running over Mesos) - <http://www.arangodb.com>
 | Sparksee | Graph database formally known as DEX, with support for a range of languages and use on mobile devices and TinkerPop support- <http://www.sparsity-technologies.com/>
 | AgensGraph | Commercial multi-model (relational and graph) databases - <http://www.agensgraph.com/>
