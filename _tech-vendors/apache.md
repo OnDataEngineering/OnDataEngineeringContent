@@ -153,6 +153,7 @@ draft-banner: true
 | Edgent (Incubating) | Stream processing programming model and lightweight runtime to execute analytics at devices on the edge or at the gateway, previously known as Quarks - <http://edgent.apache.org/>
 | Gora | ORM with support for a range of NoSQL, Search and Hadoop data formats - <http://gora.apache.org/>
 | Helix | A framework for building long lived persistent distributed systems - <http://helix.apache.org/>
+| Kerby | Java Kerberos binding - <http://directory.apache.org/kerby/>
 | MetaModel | Technology for reading and writing database metadata with connectors for a wide range of databases - <http://metamodel.apache.org/>
 | Toree (Incubating) | Framework to allow interactive applications to communicate with a remote Spark cluster - <http://toree.apache.org/>
 | [Calcite](/technologies/apache-calcite/) | A framework for building SQL based data access capabilities, supporting a SQL parser and validator and tools for the transformation and (cost based) optimisation of SQL expression trees.
