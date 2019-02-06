@@ -5,8 +5,8 @@ vendors: [Elastic]
 tech-relationships: [[add ons, Elasticsearch-Hadoop], [manageable via, Elastic Cloud]]
 type: "Commercial Open Source"
 date: 2017-07-04 07:30
-last_updated: 2019-01-09
-version: "v6.5"
+last_updated: 2019-02-06
+version: "v6.6"
 ---
 ## Further Information
 
@@ -17,12 +17,13 @@ A list of some add-ons that are an alternative to the X-Pack commercial features
 | version | release date | release links | release comment
 | 5.5 | 2017-07-06 | [announcement](https://www.elastic.co/blog/elasticsearch-5-5-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/5.5/release-notes-5.5.0.html) | Windows installer |
 | 5.6 | 2017-09-11 | [announcement](https://www.elastic.co/blog/elasticsearch-5-6-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/5.6/release-notes-5.6.0.html) | [High Level REST Client](https://www.elastic.co/blog/the-elasticsearch-java-high-level-rest-client-is-out)
-| 6.0 | 2017-11-14 | [announcement](https://www.elastic.co/blog/elasticsearch-6-0-0-released) ; [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.0/release-notes-6.0.0.html) | [Removal of mapping types](https://www.elastic.co/blog/removal-of-mapping-types-elasticsearch)
-| 6.1 | 2017-12-13 | [announcement](https://www.elastic.co/blog/elasticsearch-6-1-0-released) ; [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.1/release-notes-6.1.0.html)
-| 6.2 | 2018-02-06 | [announcement](https://www.elastic.co/blog/elasticsearch-6-2-0-released) ; [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/release-notes-6.2.0.html)
-| 6.3 | 2018-06-13 | [announcement](https://www.elastic.co/blog/elasticsearch-6-3-0-released) ; [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.3/release-notes-6.3.0.html) | Experimental SQL & pre-generated rollups support; addition of [X-Pack](/technologies/elastic-x-pack/) components
-| 6.4 | 2018-08-23 | [announcement](https://www.elastic.co/blog/elasticsearch-6-4-0-released) ; [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.4/release-notes-6.4.0.html)
-| 6.5 | 2018-11-14 | [announcement](https://www.elastic.co/blog/elasticsearch-6-5-0-released) ; [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.5/release-notes-6.5.0.html) | Cross cluster replication; ODBC driver; Java 100 support
+| 6.0 | 2017-11-14 | [announcement](https://www.elastic.co/blog/elasticsearch-6-0-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.0/release-notes-6.0.0.html) | [Removal of mapping types](https://www.elastic.co/blog/removal-of-mapping-types-elasticsearch)
+| 6.1 | 2017-12-13 | [announcement](https://www.elastic.co/blog/elasticsearch-6-1-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.1/release-notes-6.1.0.html)
+| 6.2 | 2018-02-06 | [announcement](https://www.elastic.co/blog/elasticsearch-6-2-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/release-notes-6.2.0.html)
+| 6.3 | 2018-06-13 | [announcement](https://www.elastic.co/blog/elasticsearch-6-3-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.3/release-notes-6.3.0.html) | Experimental SQL & pre-generated rollups support; addition of [X-Pack](/technologies/elastic-x-pack/) components
+| 6.4 | 2018-08-23 | [announcement](https://www.elastic.co/blog/elasticsearch-6-4-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.4/release-notes-6.4.0.html)
+| 6.5 | 2018-11-14 | [announcement](https://www.elastic.co/blog/elasticsearch-6-5-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.5/release-notes-6.5.0.html) | Cross cluster replication; ODBC driver; Java 100 support
+| 6.6 | 2019-01-29 | [announcement](https://www.elastic.co/blog/elastic-stack-6-6-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.6/release-notes-6.6.0.html) | Index lifecycle management, 
 | 7.0-alpha2 | 2018-12-20 | [announcement](https://www.elastic.co/blog/elastic-stack-7-0-0-alpha2-released)
 
 ## Links

@@ -15,7 +15,7 @@ version: "v1.15"
 | 1.12 | 2017-12-15 | [announcement](http://drill.apache.org/blog/2017/12/15/drill-1.12-released/); [MapR blog](https://mapr.com/blog/apache-drill-1-12-on-mapr-6-0-release-highlights/) | Kafka and OpenTSDB support
 | 1.13 | 2018-03-18 | [announcement](http://drill.apache.org/blog/2018/03/18/drill-1.13-released/); [MapR blog](https://mapr.com/blog/apache-drill-1-13-on-mapr-6-0-1-release-highlights/) | Drill-on-YARN; Drill on MapR Event Streams alpha
 | 1.14 | 2018-08-05 | [announcement](http://drill.apache.org/blog/2018/08/05/drill-1.14-released/) | Docker support
-| 1.15 | 2018-12-31 | [announcement](https://drill.apache.org/blog/2018/12/31/drill-1.15-released/)
+| 1.15 | 2018-12-31 | [announcement](https://drill.apache.org/blog/2018/12/31/drill-1.15-released/); [MapR blog](https://mapr.com/blog/mapr-announces-drill-1-15-with-s3-cloud-storage-plugin/)
 
 ## Links
 

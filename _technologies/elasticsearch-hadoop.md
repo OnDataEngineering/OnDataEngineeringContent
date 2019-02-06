@@ -19,6 +19,7 @@ version: "v6.5"
 | 6.3 | 2018-06-13 | [announcement](https://www.elastic.co/blog/es-hadoop-6-3-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/6.3/eshadoop-6.3.0.html) | Spark 2.3 support
 | 6.4 | 2018-08-23 | [announcement](https://www.elastic.co/blog/es-hadoop-6-4-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/6.4/eshadoop-6.4.0.html) |
 | 6.5 | 2018-11-14 | [announcement](https://www.elastic.co/blog/es-hadoop-6-5-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/6.5/eshadoop-6.5.0.html) |
+| 6.6 | 2019-01-29 | [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/6.6/eshadoop-6.6.0.html) |
 
 ## Links
 
