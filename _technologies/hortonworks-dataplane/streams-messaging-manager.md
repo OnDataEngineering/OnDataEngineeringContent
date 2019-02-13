@@ -4,14 +4,15 @@ description: "A DataPlane application for monitoring Apache Kafka clusters.  Pro
 tech-relationships: [[Manages, Kafka]]
 type: "Sub-Project"
 date: 2018-09-28 07:30
-last_updated: 2018-10-17
-version: "1.1"
+last_updated: 2019-02-13
+version: "1.2"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 1.0 | 2018-08-23 | [What's New](https://docs.hortonworks.com/HDPDocuments/SMM/SMM-1.0.0/release-notes/content/new-features.html) | Initial GA release
-| 1.1 | 2018-10-16 | [What's New](https://docs.hortonworks.com/HDPDocuments/SMM/SMM-1.1.0/release-notes/content/new-features.html) | 
+| 1.1 | 2018-10-16 | [What's New](https://docs.hortonworks.com/HDPDocuments/SMM/SMM-1.1.0/release-notes/content/new-features.html) |
+| 1.2 | 2019-02-09 | [What's New](https://docs.hortonworks.com/HDPDocuments/SMM/SMM-1.2.0/release-notes/content/new-features.html) |
 
 ## Links
 

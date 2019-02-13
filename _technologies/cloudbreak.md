@@ -4,8 +4,8 @@ description: "Solution for deploying and managing Hadoop clusters on cloud infra
 vendors: [Hortonworks]
 type: "Commercial Open Source"
 date: 2017-03-09 07:30
-last_updated: 2018-09-26
-version: "v2.8 (TP)"
+last_updated: 2019-02-13
+version: "v2.9"
 ---
 ## Release History
 
@@ -18,6 +18,7 @@ version: "v2.8 (TP)"
 | 2.5 TP | 2018-04-04 | [release notes](https://docs.hortonworks.com/HDPDocuments/Cloudbreak/Cloudbreak-2.5.0/content/releasenotes/index.html) | HDF support
 | 2.7 | 2018-06-16 | [blog post](https://hortonworks.com/blog/announcing-cloudbreak-2-7-ga/); [release notes](https://docs.hortonworks.com/HDPDocuments/Cloudbreak/Cloudbreak-2.7.0/content/releasenotes/index.html) |
 | 2.8 TP | 2018-09-19 | [release notes](https://docs.hortonworks.com/HDPDocuments/Cloudbreak/Cloudbreak-2.8.0/release-notes/index.html)
+| 2.9 | 2019-02-07 | [release notes](https://docs.hortonworks.com/HDPDocuments/Cloudbreak/Cloudbreak-2.9.0/release-notes/index.html)
 
 ## Links
 

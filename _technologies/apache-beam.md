@@ -5,8 +5,8 @@ alt-titles: [Beam]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-08-22 07:30
-last_updated: 2018-12-19
-version: "2.9"
+last_updated: 2019-02-13
+version: "2.10"
 ---
 ## Release History
 
@@ -20,6 +20,7 @@ version: "2.9"
 | 2.7 | 2018-10-02 | [blog post](https://beam.apache.org/blog/2018/10/03/beam-2.7.0.html); [release notes](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12319527&version=12343654)
 | 2.8 | 2018-10-31 | [blog post](https://beam.apache.org/blog/2018/10/29/beam-2.8.0.html); [release notes](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12319527&version=12343985)
 | 2.9 | 2018-12-19 | [blog post](https://beam.apache.org/blog/2018/12/13/beam-2.9.0.html); [release notes](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12319527&version=12344258)
+| 2.10 | 2019-02-01 | [release notes](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12319527&version=12344540)
 
 ## Links
 
