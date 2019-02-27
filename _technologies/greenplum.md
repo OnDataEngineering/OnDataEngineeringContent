@@ -1,12 +1,12 @@
 ---
 title: "Greenplum"
-description: "A shared nothing, massively parallel processing (MPP) database optimised for analytical / OLAP workloads.  Based on a fork PostgreSQL, it is essentially multiple PostgreSQL databases working together as a single logical database. Supports a cost-based query optimiser optimised for large analytical workloads, multiple storage models (including append only, columnar and heap), full ACID compliance and concurrent transactions, multiple index types, broad SQL support, a range of client connectors (including ODBC and JDBC), high capacity bulk load and unload tools, in database query language support (including Python, R, Perl, Java and C), and in database analytics support (including machine learning via Apache MADLib, search using Solr via GPText, geographic analytics via PostGIS and encryption via PGCrypto).  Originally created by Greenplum (the company) which was founded in September 2003 before being brought by EMC in 2010, with Greenplum (the database) then spun out as part of Pivotal Software in 2013 before being open sourced in in October 2015 under the Apache 2.0 licence with the source code hosted on GitHub.  Development is still led by Pivotal (with little evidence of outside contributions), who also distribute binaries as Pivotal Greenplum and provide training, consultancy and support."
+description: "A shared nothing, massively parallel processing (MPP) database optimised for analytical / OLAP workloads.  Based on a fork PostgreSQL, it is essentially multiple PostgreSQL databases working together as a single logical database. Supports a cost-based query optimiser optimised for large analytical workloads, multiple storage models (including append only, columnar and heap), full ACID compliance and concurrent transactions, multiple index types, broad SQL support, a range of client connectors (including ODBC and JDBC), high capacity bulk load and unload tools, in database query language support (including Python, R, Perl, Java and C), and in database analytics support (including machine learning via Apache MADLib, search using Solr via GPText, geographic analytics via PostGIS and encryption via PGCrypto).  Originally created by Greenplum (the company) which was founded in September 2003 before being brought by EMC in 2010, with Greenplum (the database) then spun out as part of Pivotal Software in 2013 before being open sourced in in October 2015 under the Apache 2.0 licence with the source code hosted on GitHub.  Development is still led by Pivotal (with little evidence of outside contributions), who also distribute binaries as Pivotal Greenplum (with a number of extra enhancements, detiled in the release notes) and provide training, consultancy and support."
 alt-titles: [Pivotal Greenplum, GPDB]
 vendors: [Pivotal]
 type: "Commercial Open Source"
 date: 2017-02-16
-last_updated: 2019-01-23
-version: "5.16"
+last_updated: 2019-02-27
+version: "5.17"
 ---
 ## Release History
 
@@ -28,6 +28,7 @@ version: "5.16"
 | 5.14 | 2018-12-01 | [release notes](http://gpdb.docs.pivotal.io/5140/relnotes/GPDB_5140_README.html)
 | 5.15 | 2018-12-13 | [release notes](http://gpdb.docs.pivotal.io/5150/relnotes/GPDB_5150_README.html)
 | 5.16 | 2019-01-19 | [release notes](http://gpdb.docs.pivotal.io/5160/relnotes/GPDB_5160_README.html)
+| 5.16 | 2019-02-16 | [release notes](http://gpdb.docs.pivotal.io/5170/relnotes/GPDB_5170_README.html)
 
 ## Links
 

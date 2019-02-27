@@ -39,6 +39,7 @@ draft-banner: true
 
 ## Analytics Services
 
+| Azure Data Explorer | Ad-hoc analytics service - <https://azure.microsoft.com/en-us/services/data-explorer/>
 | Azure Data Lake Analytics | Massively parallel analytics job service, with support for U-SQL, R, Python, and .NET - <https://azure.microsoft.com/en-us/services/data-lake-analytics/>
 | Azure Data Catalog | A metadata catalog service - <https://azure.microsoft.com/en-us/services/data-catalog/>
 | Azure Time Series Insights | Storage, analytics and visualisation service for time series data - <https://azure.microsoft.com/en-us/services/time-series-insights/>

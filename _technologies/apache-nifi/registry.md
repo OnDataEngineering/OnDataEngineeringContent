@@ -9,9 +9,9 @@ version: v0.3
 ## Release History
 
 | version | release date | release links | release comment
-| 0.1 | 2018-01-01 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-NiFiRegistry0.1.0) |
-| 0.2 | 2018-06-18 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-NiFiRegistry0.2.0) |
-| 0.3 | 2018-09-25 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-NiFiRegistry0.3.0) |
+| 0.1 | 2018-01-01 | [summary](https://cwiki.apache.org/confluence/display/NIFIREG/Release+Notes#ReleaseNotes-NiFiRegistry0.1.0) |
+| 0.2 | 2018-06-18 | [summary](https://cwiki.apache.org/confluence/display/NIFIREG/Release+Notes#ReleaseNotes-NiFiRegistry0.2.0) |
+| 0.3 | 2018-09-25 | [summary](https://cwiki.apache.org/confluence/display/NIFIREG/Release+Notes#ReleaseNotes-NiFiRegistry0.3.0) |
 
 ## Links
 

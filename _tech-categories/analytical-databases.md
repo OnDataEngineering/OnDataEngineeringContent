@@ -33,6 +33,7 @@ See our [Query Engines](/tech-categories/query-engines/) page for details of tec
 | MariaDB AX | Data warehousing solution based on MariaDB ColumnStore, with commercial support available from MariaDB - <https://mariadb.com/products/solutions/olap-database-ax>
 | MonetDB | Open source columnar database - <https://www.monetdb.org/> ; <https://www.monetdbsolutions.com/>
 | InifiDB | Open source columnar database, inactive since March 2015 - <https://github.com/infinidb/infinidb>
+| AresDB | GPU powered real-time analytics db from Uber - <https://eng.uber.com/aresdb/>
 | Apache Pinot (incubating) | Open source realtime distributed OLAP datastore from LinkedIn - <http://pinot.incubator.apache.org/>; <https://github.com/linkedin/pinot>
 
 ## Hadoop Based Open Source Technologies

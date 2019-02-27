@@ -5,8 +5,8 @@ alt-titles: [NiFi]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-03-15 07:30
-last_updated: 2018-10-31
-version: "v1.8"
+last_updated: 2019-02-27
+version: "v1.9"
 ---
 ## Release History
 
@@ -17,7 +17,8 @@ version: "v1.8"
 | 1.5 | 2018-01-12 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.5.0) | [registry / version control blog post from DZone](https://dzone.com/articles/new-features-in-apache-nifi-15-apache-nifi-registr)
 | 1.6 | 2018-04-08 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.6.0) |
 | 1.7 | 2018-06-25 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.7.0) |
-| 1.8 | 2018-10-26 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.8.0) | 
+| 1.8 | 2018-10-26 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.8.0) |
+| 1.9 | 2019-02-19 | [summary](https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.9.0) |
 
 ## Links
 
