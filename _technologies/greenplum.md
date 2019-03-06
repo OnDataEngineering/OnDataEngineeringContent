@@ -28,7 +28,7 @@ version: "5.17"
 | 5.14 | 2018-12-01 | [release notes](http://gpdb.docs.pivotal.io/5140/relnotes/GPDB_5140_README.html)
 | 5.15 | 2018-12-13 | [release notes](http://gpdb.docs.pivotal.io/5150/relnotes/GPDB_5150_README.html)
 | 5.16 | 2019-01-19 | [release notes](http://gpdb.docs.pivotal.io/5160/relnotes/GPDB_5160_README.html)
-| 5.16 | 2019-02-16 | [release notes](http://gpdb.docs.pivotal.io/5170/relnotes/GPDB_5170_README.html)
+| 5.17 | 2019-02-16 | [release notes](http://gpdb.docs.pivotal.io/5170/relnotes/GPDB_5170_README.html) | Support for object storage
 
 ## Links
 
