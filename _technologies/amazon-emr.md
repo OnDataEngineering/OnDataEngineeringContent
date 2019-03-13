@@ -6,15 +6,18 @@ vendor: [Amazon Web Services]
 tech-relationships: [[packages, Flink, Ganglia, Hadoop, HBase, HCatalog, Hive, Hue, JupyterHub, Livy, Mahout, MXNet, Oozie, Phoenix, Pig, Presto, Spark, Sqoop, TensorFlow, Tez, Zeppelin, ZooKeeper]]
 type: "Commercial"
 date: 2018-10-09
-last_updated: 2019-01-09
-version: "v5.20"
+last_updated: 2019-03-13
+version: "v5.21"
 ---
 ## Release History
 
 | version | release date | release links | release comment
-| 5.18 | 2018-11-06 | [announcement](https://aws.amazon.com/about-aws/whats-new/2018/11/support-for-flink-160-zeppelin-080-and-s3-select-with-hive-and-presto-on-amazon-emr-release-5180/) | Flink 1.6.0, Zeppelin 0.8.0, and S3 Select with Hive and Presto
-| 5.19 | 2018-11-?? | | 
-| 5.20 | 2018-12-21 | [announcement](https://aws.amazon.com/about-aws/whats-new/2018/12/support-for-spark-240-hue-430-on-amazon-emr-release-5200/) | Spark 2.4, Hue 4.3
+| 5.18 | 2018-10-25 | [announcement](https://aws.amazon.com/about-aws/whats-new/2018/11/support-for-flink-160-zeppelin-080-and-s3-select-with-hive-and-presto-on-amazon-emr-release-5180/) | Flink 1.6.0, Zeppelin 0.8.0, and S3 Select with Hive and Presto
+| 5.19 | 2018-11-06 | | 
+| 5.20 | 2018-12-14 | [announcement](https://aws.amazon.com/about-aws/whats-new/2018/12/support-for-spark-240-hue-430-on-amazon-emr-release-5200/) | Spark 2.4, Hue 4.3
+| 5.21 | 2019-02-05 | [announcement](https://aws.amazon.com/about-aws/whats-new/2019/03/support-for-flink-170-on-amazon-emr-release-5210/) | Flink 1.7
+
+See [release notes](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-release-5x.html) for further details
 
 ## Links
 
