@@ -4,8 +4,8 @@ description: "General purpose technology for the movement of data between system
 vendors: [StreamSets]
 type: "Commercial Open Source"
 date: 2017-12-05
-last_updated: 2019-01-16
-version: "v3.7"
+last_updated: 2019-03-20
+version: "v3.8"
 ---
 ## Release History
 
@@ -18,6 +18,7 @@ version: "v3.7"
 | 3.5 | 2018-10-01 | See 3.5 notes on [documentation and release page](https://streamsets.com/documentation-page/); [blog post](https://streamsets.com/blog/streamsets-announces-control-hub-version-3-4-0-and-streamsets-data-collector-version-3-5-0/)
 | 3.6 | 2018-11-26 | See 3.6 notes on [documentation and release page](https://streamsets.com/documentation-page/)
 | 3.7 | 2019-01-08 | See 3.7 notes on [documentation and release page](https://streamsets.com/documentation-page/)
+| 3.8 | 2019-03-14 | See 3.8 notes on [documentation and release page](https://streamsets.com/documentation-page/)
 
 ## Links
 

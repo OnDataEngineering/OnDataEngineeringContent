@@ -5,8 +5,8 @@ alt-titles: [Kudu]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-03-29 07:30
-last_updated: 2018-10-31
-version: "v1.8"
+last_updated: 2019-03-20
+version: "v1.9"
 ---
 ## Release History
 
@@ -16,6 +16,7 @@ version: "v1.8"
 | 1.6 | 2017-12-07 | [summary](https://kudu.apache.org/releases/1.6.0/docs/release_notes.html); [blog post](https://kudu.apache.org/2017/12/08/apache-kudu-1-6-0-released.html)
 | 1.7 | 2018-03-23 | [summary](https://kudu.apache.org/releases/1.7.0/docs/release_notes.html); [blog post](https://kudu.apache.org/2018/03/23/apache-kudu-1-7-0-released.html)
 | 1.8 | 2018-10-26 | [summary](https://kudu.apache.org/releases/1.8.0/docs/release_notes.html); [blog post](https://kudu.apache.org/2018/10/26/apache-kudu-1-8-0-released.html)
+| 1.9 | 2019-03-12 | [summary](https://kudu.apache.org/releases/1.9.0/docs/release_notes.html); [blog post](https://kudu.apache.org/2019/03/15/apache-kudu-1-9-0-release.html)
 
 ## Links
 

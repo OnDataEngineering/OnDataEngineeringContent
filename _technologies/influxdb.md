@@ -14,7 +14,7 @@ version: "v1.7"
 | 1.5 | 2018-03-06 | [announcement](https://www.influxdata.com/blog/release-announcement-influxdb-1-5-0-influxdb-enterprise-1-5-0/); [changelog](https://docs.influxdata.com/influxdb/v1.5/about_the_project/releasenotes-changelog/) | [Logging improvements](https://www.influxdata.com/blog/logging-improvements-for-influxdb-1-5-0/); [backup and restore](https://www.influxdata.com/blog/new-features-in-open-source-backup-and-restore/)
 | 1.6 | 2018-07-10 | [announcement](https://www.influxdata.com/blog/release-announcement-influxdb-1-6-0-oss/); [changelog](https://docs.influxdata.com/influxdb/v1.6/about_the_project/releasenotes-changelog/)
 | 1.7 | 2018-11-07 | [announcement](https://www.influxdata.com/blog/release-announcement-influxdb-1-7-0-and-chronograf-1-7-0/); [changelog](https://docs.influxdata.com/influxdb/v1.7/about_the_project/releasenotes-changelog/)
-| 2.0 alpha 4 | 2019-02-21 | [blog](https://www.influxdata.com/blog/introducing-the-next-generation-influxdb-2-0-platform/)); [blog](https://www.influxdata.com/blog/introducing-the-next-generation-influxdb-2-0-platform/); [alpha4 blog](https://www.influxdata.com/blog/release-announcement-influxdb-2-0-0-alpha-4/) | New Flux query language
+| 2.0 alpha 6 | 2019-03-15 | [blog](https://www.influxdata.com/blog/introducing-the-next-generation-influxdb-2-0-platform/)); [blog](https://www.influxdata.com/blog/introducing-the-next-generation-influxdb-2-0-platform/); [alpha4 blog](https://www.influxdata.com/blog/release-announcement-influxdb-2-0-0-alpha-6/) | New Flux query language
 
 ## Links
 

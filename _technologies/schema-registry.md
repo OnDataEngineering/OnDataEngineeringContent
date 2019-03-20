@@ -4,8 +4,17 @@ description: "A centralised registry for data schemas with support for NiFi, Kaf
 vendors: [Hortonworks]
 type: "Commercial Open Source"
 date: 2017-06-15 07:30
-version: "v0.3"
+version: "v0.7"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 0.3 | 2017-09-14 | [release notes](https://github.com/hortonworks/registry/releases/tag/v0.3.0)
+| 0.4 | 2018-01-22 | [release notes](https://github.com/hortonworks/registry/releases/tag/v0.4.0)
+| 0.5 | 2018-01-24 | [release notes](https://github.com/hortonworks/registry/releases/tag/v0.5.0)
+| 0.6 | 2019-02-21 | [release notes](https://github.com/hortonworks/registry/releases/tag/v0.6.0) | Kafka Streams support
+| 0.7 | 2019-03-11 | [release notes](https://github.com/hortonworks/registry/releases/tag/v0.7.0) | Kafka 2.1
+
 ## Links
 
 * <https://github.com/hortonworks/registry> - GitHub repo

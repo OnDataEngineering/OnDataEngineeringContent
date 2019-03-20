@@ -6,14 +6,16 @@ vendor: [Qubole]
 tech-relationships: [[packages, Hadoop, Spark, Presto, Hive, Pig, Sqoop, Tez, Zeppelin, Airflow, TensorFlow]]
 type: "Commercial"
 date: 2018-10-12
-last_updated: 2019-02-13
-version: "R55 (AWS only)"
+last_updated: 2019-03-20
+version: "R55"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | R54 | 2018-11-29 | [blog post](https://www.qubole.com/blog/release-54/); [AWS](https://docs.qubole.com/en/latest/release-notes/releasenotesR54/index.html); [Azure](https://docs.qubole.com/en/latest/release-notes/releasenotes-AzureR54/index.html); [Oracle](https://docs.qubole.com/en/latest/release-notes/releasenotes-OracleR54/index.html)
-| R55 (AWS) | 2019-02-06 | [AWS](https://docs.qubole.com/en/latest/release-notes/releasenotesR55/index.html)
+| R55 (AWS) | 2019-02-06 | [release notes](https://docs.qubole.com/en/latest/release-notes/releasenotesR55/index.html)
+| R55 (Azure) | 2019-03-15 | [release notes](https://docs.qubole.com/en/latest/release-notes/releasenotes-AzureR55/index.html)
+| R55 (Oracle) | 2019-03-15 | [release notes](https://docs.qubole.com/en/latest/release-notes/releasenotes-OracleR55/index.html)
 
 ## Links
 

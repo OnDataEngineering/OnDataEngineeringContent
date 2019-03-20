@@ -3,11 +3,11 @@ title: "Hortonworks DataFlow"
 description: "A distribution of a set of Apache and Hortonworks open source technologies for processing and running analytics on data 'in motion', with all products integrated with Apache Ranger for security, Apache Ambari for management and Schema Registery for central schema management.  All bundled Apache open source projects are based on official Apache project releases, with any patches for bug fixes or new features being official Apache project patches from later releases of the relevant project.  Available as RPMs or through Apache Ambari (via a management pack), and as an on-site or in the cloud managed service (as Hortonworks Operational Services), but is not currently available via Cloudbreak or as a cloud service.  The HDF softare is provided free of charge, with training, consultancy and support available from Hortonworks.  First released in September 2015 as a distribution of just NiFi following the acquisition by Hortonworks of Onyara (a company founded by some of the original creators of NiFi)."
 alt-titles: [HDF]
 vendors: [Hortonworks]
-tech-relationships: [[packages, NiFi, MiNiFi, Kafka, Storm, Streaming Analytics Manager, Ranger, Schema Registry, NiFi Registry, ZooKeeper], [manageable via, Ambari]]
+tech-relationships: [[packages, NiFi, MiNiFi, Kafka, Storm, Streaming Analytics Manager, Ranger, Schema Registry, NiFi Registry, ZooKeeper, Knox], [manageable via, Ambari]]
 type: "Commercial Open Source"
 date: 2017-03-14 07:30
-last_updated: 2018-12-12
-version: "3.3"
+last_updated: 2019-03-20
+version: "3.4"
 ---
 ## Bundled Technologies
 
@@ -25,6 +25,7 @@ The details of the Apache projects distributed as part of Hortonworks DataFlow a
 | 3.1 | 2018-02-01 | [blog post](https://hortonworks.com/blog/announcing-general-availability-hortonworks-dataflow-3-1/) | Upgrade to NiFi 1.5 and Kafka 1.0; adds MiNiFi C++ agent and NiFi Registry
 | 3.2 | 2018-08-14 | [blog post](https://hortonworks.com/blog/whats-new-hortonworks-dataflow-hdf-3-2/); [release notes](https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.2.0/release-notes/content/whats-new.html) |
 | 3.3 | 2018-11-16 | [blog post](https://hortonworks.com/blog/whats-new-in-hortonworks-dataflow-hdf-3-3/); [release notes](https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.3.0/release-notes/content/whats-new.html); [Kafka use cases](https://www.zdnet.com/article/ibm-bets-on-a-multi-cloud-future/) | Kafka 2.0; Ranger 1.2; NiFi 1.8; Kafka Streams; Hive+Druid over Kafka
+| 3.4 | 2018-03-16 | [release notes](https://docs.hortonworks.com/HDPDocuments/HDF3/HDF-3.4.0/release-notes/content/whats-new.html) | Kafka 2.1; NiFi 1.9; NiFi Registry 0.3; Schema Registry 0.7
 
 ## Links
 
