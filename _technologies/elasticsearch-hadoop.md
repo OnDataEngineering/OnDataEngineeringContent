@@ -5,8 +5,8 @@ alt-titles: [ES-Hadoop]
 vendors: [Elastic]
 type: "Commercial Open Source"
 date: 2017-07-06 07:30
-last_updated: 2018-12-12
-version: "v6.5"
+last_updated: 2019-03-27
+version: "v6.7"
 ---
 ## Release History
 
@@ -20,6 +20,7 @@ version: "v6.5"
 | 6.4 | 2018-08-23 | [announcement](https://www.elastic.co/blog/es-hadoop-6-4-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/6.4/eshadoop-6.4.0.html) |
 | 6.5 | 2018-11-14 | [announcement](https://www.elastic.co/blog/es-hadoop-6-5-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/6.5/eshadoop-6.5.0.html) |
 | 6.6 | 2019-01-29 | [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/6.6/eshadoop-6.6.0.html) |
+| 6.7 | 2019-03-26 | [announcement](https://www.elastic.co/blog/es-hadoop-6-7-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/hadoop/6.7/eshadoop-6.7.0.html) | Cascading support deprecated; Elasticsearch Kerberos support
 
 ## Links
 
