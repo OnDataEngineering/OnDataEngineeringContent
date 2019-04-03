@@ -4,8 +4,8 @@ description: "Platform for installing, managing and monitoring Cloudera CDH Hado
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-04-10 07:30
-last_updated: 2019-01-09
-version: "v6.1"
+last_updated: 2019-04-03
+version: "v6.2"
 ---
 ## Release History
 
@@ -16,8 +16,9 @@ version: "v6.1"
 | 5.14 | 2018-01-26 | See [CDH](/technologies/cloudera-cdh/) 5.14 release links | CDH 5.14
 | 5.15 | 2018-06-15 | See [CDH](/technologies/cloudera-cdh/) 5.15 release links | CDH 5.15
 | 5.16 | 2018-11-28 | [Release Notes](https://www.cloudera.com/documentation/enterprise/release-notes/topics/cm_rn_new_changed_features.html#cm_new_5160) | [CDH](/technologies/cloudera-cdh/) 5.16
-| 6.0 | 2018-08-30 | See [CDH](/technologies/cloudera-cdh/) 6.0 release links | CDH 6.0
-| 6.1 | 2018-12-18 | See [CDH](/technologies/cloudera-cdh/) 6.1 release links | CDH 6.1
+| 6.0 | 2018-08-30 | [Release Notes](https://www.cloudera.com/documentation/enterprise/6/release-notes/topics/rg_cm_60_release_notes.html) | CDH 6.0
+| 6.1 | 2018-12-18 | [Release Notes](https://www.cloudera.com/documentation/enterprise/6/release-notes/topics/rg_cm_61_release_notes.html) | CDH 6.1
+| 6.2 | 2019-03-29 | [Release notes](https://www.cloudera.com/documentation/enterprise/6/release-notes/topics/rg_cm_62_release_notes.html) | CDH 6.2
 
 ## Links
 

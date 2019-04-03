@@ -5,8 +5,8 @@ alt-titles: [Impala]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-03-24 07:30
-last_updated: 2018-12-12
-version: "v3.1"
+last_updated: 2019-04-03
+version: "v3.2"
 ---
 ## Release History
 
@@ -17,6 +17,7 @@ version: "v3.1"
 | 2.12 | 2018-05-01 | [changelog](https://impala.apache.org/docs/changelog-2.12.html)
 | 3.0 | 2018-05-09 | [changelog](https://impala.apache.org/docs/changelog-3.0.html)
 | 3.1 | 2018-12-06 | [changelog](https://impala.apache.org/docs/changelog-3.1.html)
+| 3.2 | 2019-03-29 | [changelog](https://impala.apache.org/docs/changelog-3.2.html)
 
 ## Links
 

@@ -6,8 +6,8 @@ tech-relationships: [[manageable via, Confluent Control Centre, Nastel AutoPilot
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-20
-last_updated: 2018-12-12
-version: "v2.1"
+last_updated: 2019-04-03
+version: "v2.2"
 ---
 ## Release History
 
@@ -17,6 +17,7 @@ version: "v2.1"
 | 1.1 | 2018-03-29 | [news](http://kafka.apache.org/downloads#1.1.0)
 | 2.0 | 2018-07-30 | [news](http://kafka.apache.org/downloads#2.0.0)
 | 2.1 | 2018-07-30 | [news](http://kafka.apache.org/downloads#2.1.0)
+| 2.2 | 2019-03-22 | [news](http://kafka.apache.org/downloads#2.2.0)
 
 ## Links
 

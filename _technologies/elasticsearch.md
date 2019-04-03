@@ -5,7 +5,7 @@ vendors: [Elastic]
 tech-relationships: [[add ons, Elasticsearch-Hadoop], [manageable via, Elastic Cloud]]
 type: "Commercial Open Source"
 date: 2017-07-04 07:30
-last_updated: 2019-03-27
+last_updated: 2019-04-03
 version: "v6.7"
 ---
 ## Further Information
@@ -24,8 +24,8 @@ A list of some add-ons that are an alternative to the X-Pack commercial features
 | 6.4 | 2018-08-23 | [announcement](https://www.elastic.co/blog/elasticsearch-6-4-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.4/release-notes-6.4.0.html)
 | 6.5 | 2018-11-14 | [announcement](https://www.elastic.co/blog/elasticsearch-6-5-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.5/release-notes-6.5.0.html) | Cross cluster replication; ODBC driver; Java 100 support
 | 6.6 | 2019-01-29 | [announcement](https://www.elastic.co/blog/elastic-stack-6-6-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.6/release-notes-6.6.0.html) | Index lifecycle management beta
-| 6.7 | 2019-03-26 | [announcement](https://www.elastic.co/blog/elasticsearch-6-7-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.7/release-notes-6.7.0.html) | Cross cluster replication, index lifecycle management, SQL all GA; Pluggable Authorization Engines
-| 7.0-beta1 | 2019-02-14 | [announcement](https://www.elastic.co/blog/elasticsearch-7-0-0-beta1-released)
+| 6.7 | 2019-03-26 | [announcement](https://www.elastic.co/blog/elasticsearch-6-7-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.7/release-notes-6.7.0.html) | [Cross cluster replication](https://www.elastic.co/blog/follow-the-leader-an-introduction-to-cross-cluster-replication-in-elasticsearch), [index lifecycle management](https://www.elastic.co/blog/creating-frozen-indices-with-the-elasticsearch-freeze-index-api) and SQL all GA; Pluggable Authorization Engines
+| 7.0-rc1 | 2019-02-27 | [announcement](https://www.elastic.co/blog/elastic-stack-7-0-0-rc1-released)
 
 ## Links
 
