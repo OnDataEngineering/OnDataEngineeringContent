@@ -4,11 +4,12 @@ description: "Storage layer for tabular structured data within the Databricks Un
 vendor: [Databricks]
 type: "Commercial"
 date: 2018-11-08
-last_updated: 2019-02-27
+last_updated: 2019-04-10
 ---
 ## Updates
 
 * 2019-02-27 - [blog post](https://databricks.com/blog/2019/02/19/new-databricks-delta-features-simplify-data-pipelines.html)
+* 2019-04-09 - [GA in Databricks Runtime 5.3](https://databricks.com/blog/2019/04/04/announcing-databricks-runtime-5-3.html)
 
 ## Links
 

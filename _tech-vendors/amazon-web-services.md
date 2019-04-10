@@ -48,6 +48,7 @@ draft-banner: true
 | Amazon Kinesis Streams | Streaming data storage and publish service - <https://aws.amazon.com/kinesis/streams/>
 | Amazon Kinesis Firehose | Streaming data movement, with support for basic transformation including routing, splitting and batching - <https://aws.amazon.com/kinesis/firehose/>
 | Amazon Kinesis Analytics | SQL over data streams for transformation or analytics - <https://aws.amazon.com/kinesis/analytics/>
+| Amazon Managed Streaming for Kafka (MSK) (public preview) | Fully managed, highly available, and secure Apache Kafka service - <https://aws.amazon.com/msk/>
 
 ## Data Integration Services
 

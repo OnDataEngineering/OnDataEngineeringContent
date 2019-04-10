@@ -5,8 +5,8 @@ alt-titles: [Pivotal Greenplum, GPDB]
 vendors: [Pivotal]
 type: "Commercial Open Source"
 date: 2017-02-16
-last_updated: 2019-03-20
-version: "5.17"
+last_updated: 2019-04-10
+version: "5.18"
 ---
 ## Release History
 
@@ -29,6 +29,7 @@ version: "5.17"
 | 5.15 | 2018-12-13 | [release notes](http://gpdb.docs.pivotal.io/5150/relnotes/GPDB_5150_README.html)
 | 5.16 | 2019-01-19 | [release notes](http://gpdb.docs.pivotal.io/5160/relnotes/GPDB_5160_README.html)
 | 5.17 | 2019-02-16 | [release notes](http://gpdb.docs.pivotal.io/5170/relnotes/GPDB_5170_README.html) | Support for object storage
+| 5.18 | 2019-04-05 | [release notes](http://gpdb.docs.pivotal.io/5180/relnotes/GPDB_5180_README.html)
 | 6.x beta | 2019-03-19 | [release notes](http://gpdb.docs.pivotal.io/6-0/relnotes/GPDB_600Beta_README.html)
 
 ## Links

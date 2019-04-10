@@ -9,12 +9,7 @@ version: "v0.3"
 ## Links
 
 * <http://vision.cloudera.com/introducing-recordservice-the-future-of-security-authorization-in-hadoop/> - vision for RecordService
-* <https://www.cloudera.com/downloads/beta/record-service.html> - Current Cloudera holding page
-* <http://recordservice.io/> - old homepage and documentation, now redirects to Cloudera holding page
+* <https://www.cloudera.com/downloads/beta/record-service.html> - Current Cloudera holding page, now removed
+* <http://recordservice.io/> - old homepage and documentation, now removed
 * <https://github.com/cloudera/recordservice> - source code repo, now removed
 * <https://github.com/cloudera/RecordServiceClient/> - client libraries source code repo, now removed
-
-## News
-
-* <http://recordservice.io/ReleaseNotes/> - RecordService release details, now redirects to Cloudera holding page
-* Other updates through Cloudera Engineering blog
