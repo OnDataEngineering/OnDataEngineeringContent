@@ -6,8 +6,16 @@ tech-relationships: [[compatible with, YARN]]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-04-24 07:30
-version: "v0.2"
+last_updated: 2019-04-17
+version: "v0.3"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 0.3 | 2019-03-25 | [announcement](http://myriad.apache.org/blogs/2019/03/25/myriad-0.3.0-release-announcement.html)
+| 0.2 | 2016-06-29 | [announcement](http://myriad.apache.org/blogs/2016/06/29/myriad-0.2.0-release-announcement.html)
+| 0.1 | 2015-12-09 | [announcement](http://myriad.apache.org/blogs/2015/12/09/myriad-0-1-0-release-announcement.html)
+
 ## Links
 
 * <http://myriad.apache.org/> - homepage

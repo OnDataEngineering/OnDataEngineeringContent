@@ -1,12 +1,12 @@
 ---
 title: "Qubole Data Service"
-description: "Hadoop as a managed service over AWS, Azure and Oracle Cloud.  Supports Airflow, Hadoop, Presto and Spark cluster types, automatic management (starting, stopping and scaling) of clusters based on workload, automatic shared Hive metastores within accounts, role based access control (to accounts, clusters and UI/API functionality, with Hive authorisation to manage access to data), connectivity to external databases (Data Stores), labelling of clusters and routing of commands by label (allowing graceful cluster upgrades), custom node bootstrap commands, encryption, auditing, data caching (on AWS only via open source Rubix project), ODBC/JDBC drives.  Has a rich web based user interface that supports exploration of data (in Hadoop, object stores and connected external databases), a command composer with auto completion (supporting Hive, Presto, Pig, Shell, Spark and Worklow commands) with auto completion and command history, parameterisable command templates, data management (import, export and upload), a visual query builder (Smart Query), Zeppelin based notebooks (including publication of public read only notebook views), command schedulers, cluster management and a range of usage and cluster metrics and graphs.  Also supports a REST API.  Priced per hour based on the cloud infrastructure being used, which is in addition to any cloud vendor costs.  Launched in 2013."
+description: "Hadoop as a managed service over AWS, Azure, Google Gloud Platform and Oracle Cloud.  Supports Airflow, Hadoop, Presto and Spark cluster types, automatic management (starting, stopping and scaling) of clusters based on workload, automatic shared Hive metastores within accounts, role based access control (to accounts, clusters and UI/API functionality, with Hive authorisation to manage access to data), connectivity to external databases (Data Stores), labelling of clusters and routing of commands by label (allowing graceful cluster upgrades), custom node bootstrap commands, encryption, auditing, data caching (on AWS only via open source Rubix project), ODBC/JDBC drives.  Has a rich web based user interface that supports exploration of data (in Hadoop, object stores and connected external databases), a command composer with auto completion (supporting Hive, Presto, Pig, Shell, Spark and Worklow commands) with auto completion and command history, parameterisable command templates, data management (import, export and upload), a visual query builder (Smart Query), Zeppelin based notebooks (including publication of public read only notebook views), command schedulers, cluster management and a range of usage and cluster metrics and graphs.  Also supports a REST API.  Priced per hour based on the cloud infrastructure being used, which is in addition to any cloud vendor costs.  Launched in 2013."
 alt-titles: [QDS]
 vendor: [Qubole]
 tech-relationships: [[packages, Hadoop, Spark, Presto, Hive, Pig, Sqoop, Tez, Zeppelin, Airflow, TensorFlow]]
 type: "Commercial"
 date: 2018-10-12
-last_updated: 2019-03-20
+last_updated: 2019-04-17
 version: "R55"
 ---
 ## Release History
@@ -16,6 +16,7 @@ version: "R55"
 | R55 (AWS) | 2019-02-06 | [release notes](https://docs.qubole.com/en/latest/release-notes/releasenotesR55/index.html)
 | R55 (Azure) | 2019-03-15 | [release notes](https://docs.qubole.com/en/latest/release-notes/releasenotes-AzureR55/index.html)
 | R55 (Oracle) | 2019-03-15 | [release notes](https://docs.qubole.com/en/latest/release-notes/releasenotes-OracleR55/index.html)
+| GCP | 2019-04-10 | [announcement](https://www.qubole.com/blog/qubole-google-deliver-unified-user-experience/); [tech overview](https://www.qubole.com/blog/technical-overview-of-qubole-on-gcp/)
 
 ## Links
 

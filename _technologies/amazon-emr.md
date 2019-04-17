@@ -6,8 +6,8 @@ vendor: [Amazon Web Services]
 tech-relationships: [[packages, Flink, Ganglia, Hadoop, HBase, HCatalog, Hive, Hue, JupyterHub, Livy, Mahout, MXNet, Oozie, Phoenix, Pig, Presto, Spark, Sqoop, TensorFlow, Tez, Zeppelin, ZooKeeper]]
 type: "Commercial"
 date: 2018-10-09
-last_updated: 2019-03-13
-version: "v5.21"
+last_updated: 2019-04-17
+version: "v5.22"
 ---
 ## Release History
 
@@ -16,6 +16,7 @@ version: "v5.21"
 | 5.19 | 2018-11-06 | | 
 | 5.20 | 2018-12-14 | [announcement](https://aws.amazon.com/about-aws/whats-new/2018/12/support-for-spark-240-hue-430-on-amazon-emr-release-5200/) | Spark 2.4, Hue 4.3
 | 5.21 | 2019-02-05 | [announcement](https://aws.amazon.com/about-aws/whats-new/2019/03/support-for-flink-170-on-amazon-emr-release-5210/) | Flink 1.7
+| 5.22 | 2019-04-09 | [announcement](https://aws.amazon.com/about-aws/whats-new/2019/04/announcing-emr-release-5220-support-for-new-versions-of-hbase-oozie-flink-and-optimized-ebs-configuration-for-improved-io-performance-for-applications-such-as-spark/) | Oozie 5.1
 
 See [release notes](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-release-5x.html) for further details
 

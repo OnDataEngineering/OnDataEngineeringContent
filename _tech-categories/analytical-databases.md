@@ -89,3 +89,4 @@ See our [Query Engines](/tech-categories/query-engines/) page for details of tec
 | TinkerGraph | In memory graph databases that's part of TinkerPop as a reference implementation - <http://tinkerpop.apache.org>
 | GRAKN.AI | Open Source graph database designed for AI use cases that also supports graph analytics - <https://grakn.ai>
 | Complexible Stardog | RDF database that also support property graphs and data virtualisation, with a community edition available - <http://www.stardog.com/>
+| Trovares xGT | Massively parallel analytical in memory graph database from Cray alumni - <https://trovares.com/>

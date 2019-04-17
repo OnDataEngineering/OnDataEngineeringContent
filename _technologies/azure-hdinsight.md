@@ -6,6 +6,7 @@ vendor: [Azure]
 tech-relationships: [[packages, HDP]]
 type: "Commercial"
 date: 2018-10-09
+last_updated: 2019-04-17
 version: "v4.0"
 ---
 ## Bundled Technologies
@@ -15,7 +16,7 @@ Note that HDInsight is largely based on HDP releases, however it doesn't include
 ## Release History
 
 | version | release date | release links | release comment
-| 4.0 (preview) | 2018-09-25 | [blog post](https://azure.microsoft.com/en-gb/blog/deep-dive-into-azure-hdinsight-4-0/) | HDP 3.0; Hive LLAP; HBase 2.0
+| 4.0 | 2019- | [blog post](https://azure.microsoft.com/en-gb/blog/deep-dive-into-azure-hdinsight-4-0/); [announcement](https://azure.microsoft.com/en-gb/blog/announcing-general-availability-of-apache-hadoop-3-0-on-azure-hdinsight/) | HDP 3.0; Hive LLAP; HBase 2.0
 
 ## Links
 

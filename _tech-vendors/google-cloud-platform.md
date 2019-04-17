@@ -43,8 +43,13 @@ draft-banner: true
 
 ## Data Integration Services
 
+| Google Cloud Data Fusion (beta) | Data integration service based on Cask Data Application Platform (CDAP) - <http://cloud.google.com/data-fusion>
 | Google Cloud Dataprep | Data preparation service for "visually exploring, cleaning, and preparing structured and unstructured data for analysis" based on Trifacta - <https://cloud.google.com/dataprep/>
 | Google Cloud Composer | Orchestration service based on Apache Airflow - <https://cloud.google.com/composer>
+
+# Other Services
+
+| Google Cloud Data Catalog (beta) | Managed metadata service - <https://cloud.google.com/data-catalog/>
 
 ## Machine Learning Services
 
