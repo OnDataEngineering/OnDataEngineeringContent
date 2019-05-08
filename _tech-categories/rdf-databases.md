@@ -49,3 +49,4 @@ The following analyst material covers a number of technologies in this category:
 | BrightstarDB | Open Source RDF database for the .NET platform - <http://brightstardb.com/>
 | Strabon | Spatiotemporal RDF store - <http://www.strabon.di.uoa.gr/>
 | Rya (Incubating) | RDF triple store built on Apache Accumulo - <http://rya.apache.org/>
+| eBay Beam | Distributed RDF store - <https://github.com/eBay/beam>
