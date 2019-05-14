@@ -16,7 +16,7 @@ Other technology news:
 
 * As well as the previous announcements on the single Hadoop product line, Cloudera have now announced Cloudera DataFlow (CDF) - the future of HDF in the new Cloudera - [link](http://vision.cloudera.com/cloudera-dataflow/)
 * [Presto](/technologies/presto/) now has an open source foundation behind it, the Presto Software Foundation - [link](https://www.starburstdata.com/technical-blog/the-presto-software-foundation/)
-* Apache Airflow has now graduated from the Apache Incubator - [link](https://wiki.apache.org/incubator/January2019)
+* [Apache Airflow](/technologies/apache-airflow) has now graduated from the Apache Incubator - [link](https://wiki.apache.org/incubator/January2019)
 * [Databricks Delta](/technologies/databricks-delta/) now supports querying data as it was any any point in history - [link](https://databricks.com/blog/2019/02/04/introducing-delta-time-travel-for-large-scale-data-lakes.html) 
 * Confluent have (another) post on why event driven architectures are the future - [link](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything)
 * Google have announced their own Kubernetes integration for [Apache Spark](/technologies/apache-spark/) for Google Cloud Platform - [link](https://cloud.google.com/blog/products/data-analytics/data-analytics-meet-containers-kubernetes-operator-for-apache-spark-now-in-beta)

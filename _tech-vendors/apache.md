@@ -143,7 +143,7 @@ draft-banner: true
 ## Workflow Management
 
 | [Oozie](/technologies/apache-oozie/) | Technology for managing workflows of jobs on Hadoop clusters.
-| Airflow | Workflow automation and scheduling system that can be used to author and manage data pipelines - <http://airflow.apache.org/>
+| [Airflow](/technologies/apache-airflow/) | Workflow automation and scheduling system that can be used to author and manage data pipelines
 
 ## Other Technologies
 

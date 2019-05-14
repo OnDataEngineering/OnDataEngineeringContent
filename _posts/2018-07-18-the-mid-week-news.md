@@ -15,7 +15,7 @@ Technology updates (details are on the relevant technology pages):
 Other technology news:
 
 * From DataBricks - why their platform is the best for running Spark due to the level of automation of scaling, management and monitoring - [link](https://databricks.com/blog/2018/07/17/apache-spark-clusters-in-autopilot-mode.html)
-* From AWS - running Spark pipelines using Apache Airflow and Apach Livy on [Amazon EMR](/technologies/amazon-emr/) - [link](https://aws.amazon.com/blogs/big-data/build-a-concurrent-data-orchestration-pipeline-using-amazon-emr-and-apache-livy/)
+* From AWS - running Spark pipelines using [Apache Airflow](/technologies/apache-airflow) and Apach Livy on [Amazon EMR](/technologies/amazon-emr/) - [link](https://aws.amazon.com/blogs/big-data/build-a-concurrent-data-orchestration-pipeline-using-amazon-emr-and-apache-livy/)
 * From ZDNet - views on Kafka and it's uptake - [link](https://www.zdnet.com/article/kafka-is-establishing-its-toehold/)
 * Looks like Azure SQL Data Warehouse just got a performance boost, now making it (allegedly) cheaper and faster than Redshift - [link](https://azure.microsoft.com/en-us/blog/lightning-fast-query-performance-with-azure-sql-data-warehouse/); [benchmark summary](https://azure.microsoft.com/en-us/blog/azure-sets-new-performance-benchmarks-with-sql-data-warehouse/)
 * Snowflake is now available on Azure (as well as AWS) - [link](https://www.zdnet.com/article/snowflakes-cloud-data-warehouse-comes-to-microsoft-azure/)
