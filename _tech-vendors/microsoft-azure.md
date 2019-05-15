@@ -27,6 +27,7 @@ draft-banner: true
 
 | [Azure HDInsight](/technologies/azure-hdinsight/) | Hadoop service based on [HDP](/technologies/hortonworks-data-platform)
 | Azure SQL Database | Scalable relational database - <https://azure.microsoft.com/en-us/services/sql-database/>
+| Azure SQL Database Edge | Relational database optimised for running at the edge - <https://azure.microsoft.com/en-us/services/sql-database-edge/>
 | Azure Analysis Services | SQL Server Analysis Services as a service - <https://azure.microsoft.com/en-us/services/analysis-services/>
 | Azure Database for MySQL | MySQL as a service - <https://azure.microsoft.com/en-us/services/mysql/>
 | Azure Database for PostgreSQL | PostgreSQL as a service - <https://azure.microsoft.com/en-us/services/postgresql/>

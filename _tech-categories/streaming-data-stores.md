@@ -35,5 +35,6 @@ The following are Streaming Data Store technologies available as a managed servi
 
 | Confluent Cloud | Confluent Enterprise as a service - <https://www.confluent.io/confluent-cloud/>
 | Amazon Kinesis Streams | Streaming data storage and publish service - <https://aws.amazon.com/kinesis/streams/>
+| Amazon Managed Streaming for Kafka (MSK) (public preview) | Fully managed, highly available, and secure Apache Kafka service - <https://aws.amazon.com/msk/>
 | Azure Event Hubs  | Elastic service for the buffering and publishing of streaming event data with a Kafka compatible end point - <https://azure.microsoft.com/en-us/services/event-hubs/>
 | Google Cloud Pub/Sub | Real time message and streaming data service with "at least once" delivery - <https://cloud.google.com/pubsub/>

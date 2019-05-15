@@ -4,14 +4,15 @@ description: "An object store built on top of the new Hadoop HDDS block storage 
 type: "Sub-Project"
 tech-relationships: [[uses, HDDS]]
 date: 2018-09-21
-last_updated: 2018-12-12
-version: v0.3-alpha
+last_updated: 2019-05-15
+version: v0.4-alpha
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 0.2-alpha | 2018-10-01 | [announcement](https://hadoop.apache.org/news/2018-10-01-ozone-0.2.1-alpha.html) |
 | 0.3-alpha | 2018-11-26 | [announcement](https://hadoop.apache.org/ozone/release/0.3.0-alpha/); [S3 endpoint](https://hortonworks.com/blog/an-s3-gateway-to-apache-hadoop-ozone/) |
+| 0.4-alpha | 2019-05-07 | [announcement](https://hadoop.apache.org/ozone/release/0.4.0-alpha/) | Kerberos and transparent data encryption
 
 ## Links
 
