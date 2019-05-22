@@ -5,8 +5,16 @@ alt-titles: [Avro]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-01-20
-version: "v1.8"
+last_updated: 2019-05-22
+version: "v1.9"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.7 | 2012-06-11 |
+| 1.8 | 2016-01-29 |
+| 1.9 | 2019-05-14 |
+
 ## Links
 
 * <http://avro.apache.org/> - home page

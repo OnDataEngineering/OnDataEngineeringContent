@@ -5,8 +5,8 @@ vendors: [Elastic]
 tech-relationships: [[add ons, Elasticsearch-Hadoop], [manageable via, Elastic Cloud]]
 type: "Commercial Open Source"
 date: 2017-07-04 07:30
-last_updated: 2019-04-17
-version: "v7.0"
+last_updated: 2019-05-22
+version: "v7.1"
 ---
 ## Further Information
 
@@ -25,7 +25,9 @@ A list of some add-ons that are an alternative to the X-Pack commercial features
 | 6.5 | 2018-11-14 | [announcement](https://www.elastic.co/blog/elasticsearch-6-5-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.5/release-notes-6.5.0.html) | Cross cluster replication; ODBC driver; Java 100 support
 | 6.6 | 2019-01-29 | [announcement](https://www.elastic.co/blog/elastic-stack-6-6-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.6/release-notes-6.6.0.html) | Index lifecycle management beta
 | 6.7 | 2019-03-26 | [announcement](https://www.elastic.co/blog/elasticsearch-6-7-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.7/release-notes-6.7.0.html) | [Cross cluster replication](https://www.elastic.co/blog/follow-the-leader-an-introduction-to-cross-cluster-replication-in-elasticsearch), [index lifecycle management](https://www.elastic.co/blog/creating-frozen-indices-with-the-elasticsearch-freeze-index-api) and SQL all GA; Pluggable Authorization Engines
+| 6.8 | 2019-05-20 | [announcement](https://www.elastic.co/blog/security-for-elasticsearch-is-now-free); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/6.8/release-notes-6.8.0.html) | TLS and Role Based Access Control (RBAC) now free - [guide](https://www.elastic.co/blog/getting-started-with-elasticsearch-security)
 | 7.0 | 2019-04-10 | [announcement](https://www.elastic.co/blog/elasticsearch-7-0-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/7.0/release-notes-7.0.0.html) | [removal of types](https://www.elastic.co/blog/moving-from-types-to-typeless-apis-in-elasticsearch-7-0)
+| 7.1 | 2019-05-20 | [announcement](https://www.elastic.co/blog/security-for-elasticsearch-is-now-free); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/7.1/release-notes-7.1.0.html) | TLS and Role Based Access Control (RBAC) now free - [guide](https://www.elastic.co/blog/getting-started-with-elasticsearch-security)
 
 ## Links
 

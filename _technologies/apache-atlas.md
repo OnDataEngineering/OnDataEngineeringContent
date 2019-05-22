@@ -5,8 +5,8 @@ alt-titles: [Atlas]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-20
-last_updated: 2018-09-26
-version: "v1.1"
+last_updated: 2019-05-22
+version: "v2.0"
 ---
 ## Release History
 
@@ -14,6 +14,7 @@ version: "v1.1"
 | 0.8 | 2017-03-31 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201703.mbox/%3C8634D8C3-56D3-4E13-B292-B6C51F6AD5CC%40apache.org%3E) |
 | 1.0 | 2018-06-03 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201806.mbox/%3C05E989B0-4F8E-4BCE-88B0-2CC06DE2241F%40apache.org%3E); [What's New](http://atlas.apache.org/1.0.0/WhatsNew-1.0.html) |
 | 1.1 | 2018-09-19 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201809.mbox/%3CCAF5p1-MtRfvSWy4zBGmPZDAaisKCmMuxsWvEE3A115XJnDj1Nw@mail.gmail.com%3E); [What's New](http://atlas.apache.org/WhatsNew-1.1.html)
+| 2.0 | 2019-05-14 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201905.mbox/%3CCALwrMOWtyburR_iAFiKL9s-pdqt1QthPnSpP6OmsA0Kumq-ndw@mail.gmail.com%3E); [What's New](http://atlas.apache.org/WhatsNew-2.0.html)
 
 ## Links
 

@@ -5,8 +5,8 @@ alt-titles: [Solr]
 vendors: [Apache, Lucidworks]
 type: "Commercial Open Source"
 date: 2017-01-13
-last_updated: 2019-03-20
-version: "v8.0"
+last_updated: 2019-05-22
+version: "v8.1"
 ---
 ## Release History
 
@@ -23,6 +23,7 @@ version: "v8.0"
 | 7.6 | 2018-12-14 | [news](http://lucene.apache.org/solr/news.html#14-december-2018-apache-solrtm-760-available)
 | 7.7 | 2019-02-11 | [news](http://lucene.apache.org/solr/news.html#11-february-2019-apache-solrtm-770-available)
 | 8.0 | 2019-03-14 | [news](http://lucene.apache.org/solr/news.html#14-march-2019-apache-solrtm-800-available)
+| 8.1 | 2019-05-16 | [news](http://lucene.apache.org/solr/news.html#16-may-2019-apache-solrtm-810-available)
 
 ## Links
 
