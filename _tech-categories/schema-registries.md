@@ -11,7 +11,7 @@ Tools that support the definition, management and serving of [Data Storage Forma
 
 | [Confluent Schema Registry](/technologies/confluent-open-source/) | Central definition of schemas for reading and writing from/to Kafka topics, with support for a range of technologies (including the Kafka APIs, Kafka Connect, Kafka Streams, NiFi and StreamSets)
 | [Hortonworks Schema Registry](/technologies/schema-registry/) | Central definition of Avro schemas for use in NiFi, Kafka Producers/Consumers and Streaming Analytics Manager
-| Avro Schema Registry | Compatible with Confluence Schema Registry API, but re-implemented in Ruby backed by Postgres - <https://github.com/salsify/avro-schema-registry>
+| Avro Schema Registry | Compatible with Confluent's Schema Registry API, but re-implemented in Ruby backed by Postgres - <https://github.com/salsify/avro-schema-registry>
 | Landoop Schema Registry UI | Web based user interface for the Confluent Schema Registry - <https://github.com/Landoop/schema-registry-ui>
 
 ## Streaming Data Schema Registry Alternatives
