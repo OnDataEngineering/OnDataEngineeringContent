@@ -5,14 +5,15 @@ alt-titles: [Storm]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-28 07:30
-last_updated: 2018-02-21
-version: "v1.2"
+last_updated: 2019-06-05
+version: "v2.0"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 1.1 | 2017-03-29 | [release notes](http://storm.apache.org/2017/03/29/storm110-released.html) |
 | 1.2 | 2018-02-16 | [release notes](http://storm.apache.org/2018/02/15/storm120-released.html) |
+| 2.0 | 2019-05-30 | [release notes](http://storm.apache.org/2019/05/30/storm200-released.html) |
 
 ## Links
 
