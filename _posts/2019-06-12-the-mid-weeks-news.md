@@ -2,7 +2,7 @@
 title: The Mid Week News 12/06/2019
 date: 2019-06-12 07:30
 ---
-Time for the weekly news again.  Remember, you can get daily news updates from our twitter feed ([@OnDataEng]([link](https://twitter.com/OnDataEng))...
+Time for the weekly news again.  Remember, you can get daily news updates from our twitter feed ([@OnDataEng](https://twitter.com/OnDataEng))...
 <!--more-->
 
 Technology updates (details are on the relevant technology pages):
