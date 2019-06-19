@@ -7,8 +7,8 @@ categories: [Hadoop Distributions]
 tech-relationships: [packages, Hadoop, Pig, Hive, Giraph, Hama, Flume, Spark, Sqoop, Crunch, Solr, HBase, Kafka, Zeppelin, Hue, Ignite, Tez, Oozie, DataFu, Phoenix, Alluxio, Kite, ZooKeeper, Mahout, Flink, Tajo, Apex, QFS, GPDB]
 type: "Open Source - Active"
 date: 2017-01-23
-last_updated: 2017-12-12
-version: "v1.3"
+last_updated: 2019-06-19
+version: "v1.4"
 ---
 ## Release History
 
@@ -20,7 +20,8 @@ version: "v1.3"
 | 1.0 | 17th Aug 2015 | [blog post](https://blogs.apache.org/bigtop/entry/not_just_yet_another_release) | based on Hadoop 2.6
 | 1.1 | 17th Feb 2016 | [blog post](https://blogs.apache.org/bigtop/entry/release_1_1_0_is)
 | 1.2 | 2017-03-30 | | added Flink, Tajo, Apex, QFS and GPDB; 1.2.1 patch released
-| 1.3 | 2018-11-26 |  [blog post](https://blogs.apache.org/bigtop/entry/release-of-apache-bigtop-12); [release notes](https://bigtop.apache.org/release-notes.html) | Hadoop 2.8.1
+| 1.3 | 2018-11-26 |  [blog post](https://blogs.apache.org/bigtop/entry/release-of-apache-bigtop-12) | Hadoop 2.8.1
+| 1.4 | 2019-06-17 | [blog post](https://blogs.apache.org/bigtop/entry/release-of-apache-bigtop-13) | Hadoop 2.8.5 and a new integration test framework
 
 ## Links
 
@@ -30,7 +31,7 @@ version: "v1.3"
 * <http://blog.cloudera.com/blog/2012/07/update-on-apache-bigtop-incubating/> - Cloudera introduction to Bigtop
 * <https://blogs.apache.org/bigtop/entry/bigtop_and_why_should_you> - Early introduction to Bigtop
 * <https://blog.pivotal.io/pivotal/pivotal-people/pivotal-people-roman-shaposhnik-founder-of-apache-bigtop-joins-pivotal> - Interview with Roman Shoposhnik on the aims of Bigtop
-* <https://issues.apache.org/jira/browse/BIGTOP/?selectedTab=com.atlassian.jira.jira-projects-plugin:versions-panel> - Release list and link to release notes
+* <https://bigtop.apache.org/release-notes.html> - Release notes
 
 ## News
 

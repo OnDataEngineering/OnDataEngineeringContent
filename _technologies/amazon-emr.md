@@ -6,8 +6,8 @@ vendor: [Amazon Web Services]
 tech-relationships: [[packages, Flink, Ganglia, Hadoop, HBase, HCatalog, Hive, Hue, JupyterHub, Livy, Mahout, MXNet, Oozie, Phoenix, Pig, Presto, Spark, Sqoop, TensorFlow, Tez, Zeppelin, ZooKeeper]]
 type: "Commercial"
 date: 2018-10-09
-last_updated: 2019-05-08
-version: "v5.23"
+last_updated: 2019-06-19
+version: "v5.24"
 ---
 ## Release History
 
@@ -18,6 +18,7 @@ version: "v5.23"
 | 5.21 | 2019-02 | [announcement](https://aws.amazon.com/about-aws/whats-new/2019/03/support-for-flink-170-on-amazon-emr-release-5210/) | Flink 1.7; [Recondiguring Apps on Running Clusters](https://aws.amazon.com/about-aws/whats-new/2019/05/amazon-emr-announces-support-for-reconfiguring-applications-on-running-emr-clusters/)
 | 5.22 | 2019-03 | [announcement](https://aws.amazon.com/about-aws/whats-new/2019/04/announcing-emr-release-5220-support-for-new-versions-of-hbase-oozie-flink-and-optimized-ebs-configuration-for-improved-io-performance-for-applications-such-as-spark/) | Oozie 5.1
 | 5.23 | 2019-04 | | [Multiple Master Nodes](https://aws.amazon.com/about-aws/whats-new/2019/04/amazon-emr-announces-support-for-multiple-master-nodes-to-enable-high-availability-for-EMR-applications/)
+| 5.24 | 2019-06 | [announcement](https://aws.amazon.com/about-aws/whats-new/2019/06/announcing-emr-release-5240-with-performance-improvements-in-spark-new-versions-of-flink-presto-Hue-and-cloudformation-support-for-launching-clusters-in-multiple-subnets-through-emr-instance-fleets/) | New versions of Flink, Presto, and Hue and Spark performance improvements 
 
 See [release notes](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-release-5x.html) for further details
 
