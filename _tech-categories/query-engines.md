@@ -43,3 +43,4 @@ The following analyst material covers a number of technologies in this category:
 
 | Amazon Athena | SQL query service over data in Amazon S3 - <https://aws.amazon.com/athena/>
 | Azure Data Lake Analytics | Massively parallel analytics job service, with support for U-SQL, R, Python, and .NET - <https://azure.microsoft.com/en-us/services/data-lake-analytics/>
+| Qubole Qauntum | Serverless query engine based on Presto - <https://www.qubole.com/product/data-platform/quantum-by-qubole/>
