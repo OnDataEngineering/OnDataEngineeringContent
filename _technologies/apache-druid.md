@@ -6,14 +6,17 @@ alt-titles: [Apache Druid, Druid]
 vendors: [Apache, Imply]
 type: "Commercial Open Source"
 date: 2017-06-13 07:30
-last_updated: 2018-06-07
-version: "v0.12"
+last_updated: 2019-07-03
+version: "v0.15"
 ---
 ## Release History
 
 | version | release date | release links | release comment
 | 0.11 | 2017-12-04 | [announcement](http://druid.io/blog/2017/12/04/druid-0-11-0.html) |
 | 0.12 | 2018-03-08 | [announcement](http://druid.io/blog/2018/03/08/druid-0-12-0.html) |
+| 0.13 | 2018-12-12 | [release notes](https://github.com/apache/incubator-druid/releases/tag/druid-0.13.0-incubating) |
+| 0.14 | 2019-04-08 | [release notes](https://github.com/apache/incubator-druid/releases/tag/druid-0.14.0-incubating) |
+| 0.15 | 2019-06-26 | [release notes](https://github.com/apache/incubator-druid/releases/tag/druid-0.15.0-incubating) |
 
 ## Links
 
@@ -27,3 +30,4 @@ version: "v0.12"
 ## News
 
 * <http://druid.io/blog/> - Druid blog
+* <https://github.com/apache/incubator-druid/releases> - releases

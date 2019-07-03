@@ -4,13 +4,14 @@ description: "A massively scalable commercial object store available as software
 vendors: [Scality]
 type: "Commercial"
 date: 2017-06-08 07:30
-last_updated: 2018-06-06
-version: 7.4
+last_updated: 2019-07-03
+version: 8.0
 ---
 ## Release History
 
 | version | release date | release links | release comment
-| 7.4 | 2018-06-05| [summary](https://www.scality.com/blog/ring-7-4-new-standard-for-easy-software-defined-storage/) |
+| 7.4 | 2018-06-05 | [summary](https://www.scality.com/blog/ring-7-4-new-standard-for-easy-software-defined-storage/) |
+| 8.0 | 2019-06-27 | [homepage](https://www.scality.com/products/ring8/) |
 
 ## Links
 
