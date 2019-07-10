@@ -5,8 +5,8 @@ alt-titles: [Arrow]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-10-02 07:45
-last_updated: 2019-04-10
-version: "v0.13"
+last_updated: 2019-07-10
+version: "v0.14"
 ---
 ## Release History
 
@@ -17,6 +17,7 @@ version: "v0.13"
 | 0.11 | 2018-10-09 | [blog post](https://arrow.apache.org/blog/2018/10/09/0.11.0-release/); [release notes](https://arrow.apache.org/release/0.11.0.html)
 | 0.12 | 2019-01-21 | [blog post](https://arrow.apache.org/blog/2019/01/21/0.12.0-release/); [release notes](https://arrow.apache.org/release/0.12.0.html)
 | 0.13 | 2019-04-02 | [blog post](https://arrow.apache.org/blog/2019/04/02/0.13.0-release/); [release notes](https://arrow.apache.org/release/0.13.0.html)
+| 0.14 | 2019-07-02 | [blog post](https://arrow.apache.org/blog/2019/07/02/0.14.0-release/)
 
 # Links
 

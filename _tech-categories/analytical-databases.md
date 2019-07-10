@@ -55,7 +55,7 @@ See our [Query Engines](/tech-categories/query-engines/) page for details of tec
 | Oracle Exadata | An appliance consisting of an Oracle RAC cluster combined with a set of storage nodes via high bandwidth interconnect, with support for hybrid columnar compression - <https://www.oracle.com/engineered-systems/exadata/index.html>
 | Microsoft Analytics Platform System | An appliance built around SQL Server Parallel Data Warehouse and PolyBase  - <https://www.microsoft.com/en-us/sql-server/analytics-platform-system>
 | IBM Integrated Analytics System | Appliance built around Db2 Warehouse and BLU (in memory) acceleration with support for Spark - <https://www.ibm.com/us-en/marketplace/integrated-analytics-system>
-| IBM PureData System for Analytics (formally Netezza) | Appliance utilising FPGA chips to run elements of queries in hardware, with support for a range of languages including R - <https://www.ibm.com/us-en/marketplace/puredata-system-for-analytics#product-header-top>
+| IBM PureData System for Analytics (formally Netezza), now discontinued | Appliance utilising FPGA chips to run elements of queries in hardware, with support for a range of languages including R - <https://www.ibm.com/us-en/marketplace/puredata-system-for-analytics#product-header-top>
 | Teradata IntelliFlex | Teradata capabilities as an appliance - <https://www.teradata.com/Products/IntelliFlex>
 | Teradata IntelliBase | A mixture of Teradata and Hadoop nodes in a single appliance -  <https://www.teradata.com/Products/IntelliBase>
 | Pivotal EMC Data Computing Appliance (DCA) | Greenplum appliance - <https://pivotal.io/emc-dca>
