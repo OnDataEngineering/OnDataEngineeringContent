@@ -15,7 +15,7 @@ version: "v2.0"
 | 1.6 | 2017-09-22 | [release notes](http://www.alluxio.org/download/releases/alluxio-160-release) |
 | 1.7 | 2018-01-16 | [release notes](http://www.alluxio.org/download/releases/alluxio-170-release) |
 | 1.8 | 2018-07-09 | [release notes](http://www.alluxio.org/download/releases/alluxio-180-release) |
-| 2.0 | 2019-06-27 | [release notes](https://www.alluxio.io/download/releases/alluxio-2-0-0-release/) |
+| 2.0 | 2019-06-27 | [release notes](https://www.alluxio.io/download/releases/alluxio-2-0-0-release/); [blog](https://www.alluxio.io/blog/2-0-is-now-ga/)
 
 ## Links
 

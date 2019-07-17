@@ -3,8 +3,8 @@ title: "Data Lifecycle Manager"
 description: "A DataPlane application for replicating HDFS and Hive data between two clusters along with any associated metadata and security policies.  Clusters already registered with DataPlane can be paired, at which point replication policies can be defined, which result in replication jobs running at the selected interval.  Supports replicating between HDFS and cloud object storage (with some caveats around replication of security policies), replication of encrypted HDFS data, TLS encryption of replication streams, one to many replication, support for Atlas metadata replication, reporting on and management of replication jobs and HDFS snapshottable directories, with jobs executed by DLM Engine processes on the appropriate cluster.  Stated future plans include support for automatic tiering of data between clusters and point in time backup and restore."
 type: "Sub-Project"
 date: 2018-09-28 07:30
-last_updated: 2019-04-03
-version: "1.4"
+last_updated: 2019-07-17
+version: "1.5"
 ---
 ## Release History
 
@@ -14,6 +14,7 @@ version: "1.4"
 | 1.2 | 2018-10-16 | [What's New](https://docs.hortonworks.com/HDPDocuments/DLM1/DLM-1.2.0/release-notes/content/dlm_whats_new_in_this_release.html) | Atlas metadata replication; one to many replication
 | 1.3 | 2018-12-15 | [What's New](https://docs.hortonworks.com/HDPDocuments/DLM1/DLM-1.3.0/release-notes/content/dlm_whats_new_in_this_release.html) | Support for Google Cloud storage; Support for HDP 3.1
 | 1.4 | 2019-03-27 | [What's New](https://docs.hortonworks.com/HDPDocuments/DLM1/DLM-1.4.0/release-notes/content/dlm_whats_new_in_this_release.html) | Hive External table replication
+| 1.5 | 2019-07-13 | [What's New](https://docs.hortonworks.com/HDPDocuments/DLM1/DLM-1.5.0/release-notes/content/dlm_whats_new_in_this_release.html)
 
 ## Links
 

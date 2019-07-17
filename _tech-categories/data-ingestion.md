@@ -22,7 +22,7 @@ These tools support both batch and streaming ingestion from a wide range of data
 | [Apache Gobblin (Incubating)](/technologies/apache-gobblin/) | Open Source Java framework for managing big data ingestion, including replication, organisation and lifecycle management
 | Skool | Open source tool from BT for bring database and file data into Hadoop through generation of Sqoop, Hive, Pig and Oozie code from configuration; open sourced in September 2016 but has seen limited development since - <https://github.com/BT-OpenSource/Skool>; <https://blog.cloudera.com/blog/2016/09/skool-an-open-source-data-integration-tool-for-apache-hadoop-from-british-telecom/>
 
-## Streaming Ingestion Tools
+## Event Ingestion Tools
 
 Tools specialising in the ingestion of log files or events, with support for distributed collection and forwarding of data, sometimes called log shipping tools. There's a write up of some of the tools available from Sematext: <https://sematext.com/blog/logstash-alternatives/>
 
@@ -58,6 +58,7 @@ The following technologies support the continuous capture and ingestion of recor
 | Dbvisit Replicate | Commercial product for the continuous replication of data from Oracle to a number of targets including Hadoop and Kafka - <http://www.dbvisit.com/products/dbvisit_replicate_real_time_oracle_database_replication/>
 | SQData CDC | Commercial tool for continuous replication with a wide range of sources and targets - <https://www.sqdata.com/changed-data-capture/>
 | Spinal Tap | Open source Change Data Capture service from AirBnB ([blog post](https://medium.com/airbnb-engineering/capturing-data-evolution-in-a-service-oriented-architecture-72f7c643ee6f)) - <https://github.com/airbnb/SpinalTap>
+| Brooklin | Open source tool for ingesting changes as a data stream from databases ([blog post](https://engineering.linkedin.com/blog/2019/brooklin-open-source)) - <https://github.com/linkedin/Brooklin/>
 
 ## Streaming Data Store Ingestion
 
