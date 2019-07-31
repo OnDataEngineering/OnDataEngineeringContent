@@ -4,8 +4,8 @@ description: "Series of solutions for accessing Elasticsearch (including Kibana 
 vendors: [Elastic]
 type: "Commercial"
 date: 2017-07-06 07:30
-last_updated: 2019-04-17
-version: "v2.2"
+last_updated: 2019-07-31
+version: "v2.3"
 ---
 ## History
 
@@ -14,6 +14,7 @@ version: "v2.2"
 | 2.0 | 2018-09-25 | [announcement](https://www.elastic.co/blog/elastic-cloud-enterprise-2-0-0-released)
 | 2.1 | 2019-01-29 | [announcement](https://www.elastic.co/blog/elastic-cloud-enterprise-2-1-0-released)
 | 2.2 | 2019-04-10 | [announcement](https://www.elastic.co/blog/elastic-cloud-enterprise-2-2-0-released)
+| 2.3 | 2019-07-25 | [announcement](https://www.elastic.co/blog/elastic-cloud-enterprise-2-3-0-now-available-featuring-role-based-access-control)
 
 ## Links
 

@@ -40,6 +40,7 @@ From Steven Acreman on the Outlyer blog, a review of Time Series Databases from 
 | Axibase | Time Series DB built on HDFS, with a commercial Enterprise edition available - <https://axibase.com/>
 | Riak TS | Time Series DB built on the core of Riak KV, and available in a number of commercial editions   - <http://basho.com/products/riak-ts/>
 | TimescaleDB | Plugin to PostgreSQL to add time series data storage - <https://www.timescale.com/>
+| RedisTimeSeries | Add on module to Redis to add support for time series data - <https://oss.redislabs.com/redistimeseries>
 
 ## Commercial Closed Source
 

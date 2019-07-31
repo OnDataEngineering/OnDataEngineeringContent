@@ -4,8 +4,8 @@ description: "A web based notebook for interactive data analytics on Hadoop (wit
 vendors: [Cloudera]
 type: "Commercial"
 date: 2017-05-04 07:30
-last_updated: 2019-02-06
-version: "v1.5"
+last_updated: 2019-07-31
+version: "v1.6"
 ---
 ## Release History
 
@@ -16,6 +16,7 @@ version: "v1.5"
 | 1.3 | 2018-01-26 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Data-Science-Workbench-1-3-Released/td-p/64065); [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_130)
 | 1.4 | 2018-06-15 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Data-Science-Workbench-1-4-Released/td-p/69325); [blog post](http://vision.cloudera.com/announcing-cloudera-data-science-workbench-release-1-4/); [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_140)
 | 1.5 | 2019-01-29 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Data-Science-Workbench-1-5-0-Released/m-p/85641#M268); [release notes](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_release_notes.html#rel_150); CDH 6.1 + HDP 2.6/3.1 support
+| 1.6 | 2019-07-24 | [announcement](https://community.cloudera.com/t5/Product-Announcements/ANNOUNCE-Cloudera-Data-Science-Workbench-1-6-0-Released/td-p/93193); [using your own editor blog](https://blog.cloudera.com/blog/2019/07/use-your-favorite-editor-in-cloudera-data-science-workbench-1-6/)
 
 ## Links
 

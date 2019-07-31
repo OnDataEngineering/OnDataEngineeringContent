@@ -5,8 +5,8 @@ alt-titles: [Knox]
 vendors: [Apache]
 type: "Commercial Open Source"
 date: 2017-02-22
-last_updated: 2019-01-09
-version: "v1.2"
+last_updated: 2019-07-31
+version: "v1.3"
 ---
 ## Release History
 
@@ -17,6 +17,7 @@ version: "v1.2"
 | 1.0 | 2018-02-07 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201802.mbox/%3CCACRbFyheDO-jqjYKvdQ_Rht2O=OHCfDjAktsmEF2+sEkcg7Zjg@mail.gmail.com%3E) |
 | 1.1 | 2018-07-30 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201807.mbox/%3CCACRbFyg-F_17QiohoJB+69Hv_K6BamUCmMyZ0M8fghibwi7b5g@mail.gmail.com%3E) |
 | 1.2 | 2018-12-19 | [announcement](http://mail-archives.apache.org/mod_mbox/www-announce/201812.mbox/%3CCAJU9nmiUuNzMy0VGGunfj5wnaVdUnrvOkYNYBtiH-Kf07Z-DTQ@mail.gmail.com%3E)
+| 1.3 | 2019-07-23 | [announcement](https://cwiki.apache.org/confluence/display/KNOX/News#News-2019-07-23ApacheKnoxGateway1.3.0Released!) | Hue and Livy support
 
 ## Links
 
