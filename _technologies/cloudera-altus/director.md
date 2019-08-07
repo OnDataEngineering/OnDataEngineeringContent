@@ -5,8 +5,8 @@ description: "Solution for deploying and managing Cloudera CDH Hadoop clusters o
 alt-titles: "Cloudera Director"
 type: "Sub-Project"
 date: 2017-04-13 07:30
-last_updated: 2019-04-10
-version: "v6.2"
+last_updated: 2019-08-07
+version: "v6.3"
 ---
 ## Further Information
 
@@ -23,6 +23,7 @@ Also available on AWS as [Cloudera EDH AWS Quick Start](https://aws.amazon.com/q
 | 6.0 | 2018-09-13 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Altus-Director-6-0-0-Released/td-p/79802); [Blog Post](http://blog.cloudera.com/blog/2018/09/whats-new-in-cloudera-altus-director-6-0/) | Renamed from Cloudera Director to Cloudera Altus Director
 | 6.1 | 2018-12-18 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Altus-Director-6-1-0-Released/td-p/84091); [blog post](https://blog.cloudera.com/blog/2018/12/whats-new-in-cloudera-altus-director-6-1/) | CDH 6.1 support
 | 6.2 | 2019-04-04 | [announcement](https://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Altus-Director-6-2-0-Released/m-p/88719#M279); [blog post](https://blog.cloudera.com/blog/2019/04/whats-new-in-cloudera-altus-director-6-2/) | CDH 6.2 support
+| 6.3 | 2019-07-31 | [announcement](https://community.cloudera.com/t5/Product-Announcements/ANNOUNCE-Cloudera-Altus-Director-6-3-0-Released/td-p/93598) | CDH 6.3 support
 
 ## Links
 

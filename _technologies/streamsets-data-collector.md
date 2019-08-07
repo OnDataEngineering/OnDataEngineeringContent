@@ -4,8 +4,8 @@ description: "General purpose technology for the movement of data between system
 vendors: [StreamSets]
 type: "Commercial Open Source"
 date: 2017-12-05
-last_updated: 2019-06-12
-version: "v3.9"
+last_updated: 2019-08-07
+version: "v3.10"
 ---
 ## Release History
 
@@ -20,6 +20,7 @@ version: "v3.9"
 | 3.7 | 2019-01-08 | See 3.7 notes on [documentation and release page](https://streamsets.com/documentation-page/)
 | 3.8 | 2019-03-14 | See 3.8 notes on [documentation and release page](https://streamsets.com/documentation-page/)
 | 3.9 | 2019-06-06 | See 3.9 notes on [documentation and release page](https://streamsets.com/documentation-page/) | [blog post](https://streamsets.com/blog/announcing-streamsets-data-collector-3-9-0-and-streamsets-data-collector-edge-3-9-0/)
+| 3.10 | 2019-08-01 | See 3.10 notes on [documentation and release page](https://streamsets.com/documentation-page/) | [blog post](https://streamsets.com/blog/announcing-streamsets-data-collector-3-10-0-and-streamsets-data-collector-edge-3-10-0/)
 
 ## Links
 

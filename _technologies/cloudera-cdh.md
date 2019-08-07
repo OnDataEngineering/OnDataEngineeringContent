@@ -7,8 +7,8 @@ categories: [Hadoop Distributions]
 tech-relationships: [[packages, Flume, HBase, Hadoop, Hive, Hue, Impala, Oozie, Sentry, Cloudera Search, Spark, Sqoop, ZooKeeper, Avro, Parquet, Pig, Kudu, Kafka, Morphlines], [packages (but deprecated), Crunch, Kite Data], [add ons, Accumulo, Cloudera Navigator, Workload XM], [manageable via, Cloudera Manager, Cloudera Director]]
 type: "Commercial"
 date: 2017-03-21 07:00
-last_updated: 2019-04-03
-version: "v6.2"
+last_updated: 2019-08-07
+version: "v6.3"
 ---
 ## Bundled Technologies
 
@@ -28,6 +28,7 @@ Project marked as add ons above are not bundled with CDH, but are available sepa
 | 6.0 | 2018-08-30 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Enterprise-6-0-Released/td-p/79235); [blog post](http://vision.cloudera.com/building-the-modern-platform-with-cloudera-enterprise-6-x-and-altus/); [blog post](http://vision.cloudera.com/introducing-cloudera-enterprise-6-0/); [Solr 7](http://blog.cloudera.com/blog/2018/05/new-in-cloudera-enterprise-6-0-analytic-search/) | Hadoop 3.0, Hive 2.1, HBase 2.0, Solr 7, Spark 2.2, Hue 4.2, Kafka 1.0, Oozie 5.0, Avro 1.8, Parquet 1.9; Spark 2.x and Kafka fully bundled; Crunch & Kite Data deprecated; DataFu, Mahout, Whirr, Sqoop2 and Llama removed
 | 6.1 | 2018-12-18 | [announcement](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Enterprise-6-1-0-Released/td-p/84089); [blog post](https://blog.cloudera.com/blog/2018/12/cloudera-enterprise-6-1-0-is-now-available/); [New Express node limits](http://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Manager-6-1-Express-functionality-change/td-p/84180) | Spark Structured Streaming; HDFS Erasure Coding
 | 6.2 | 2019-03-29 | [announcement](https://community.cloudera.com/t5/Community-News-Release/ANNOUNCE-Cloudera-Enterprise-6-2-0-Released/m-p/88501#M276) | Cloudera Manager SDX support; Hue, Hive & Impala improvements; Flume 1.9; Impala 3.2; Kafka 2.1; Kudu 1.9; Oozie 5.1
+| 6.3 | 2019-07-31 | [announcement](https://community.cloudera.com/t5/Product-Announcements/ANNOUNCE-Cloudera-Enterprise-6-3-0-Released/td-p/93596) | Kafka 2.2.1, HBase 2.1.4, Impala 3.2.0 and Kudu 1.10.0
 
 ## Links
 

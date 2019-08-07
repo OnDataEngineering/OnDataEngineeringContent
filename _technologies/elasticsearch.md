@@ -5,8 +5,8 @@ vendors: [Elastic]
 tech-relationships: [[add ons, Elasticsearch-Hadoop], [manageable via, Elastic Cloud]]
 type: "Commercial Open Source"
 date: 2017-07-04 07:30
-last_updated: 2019-06-26
-version: "v7.2"
+last_updated: 2019-08-07
+version: "v7.3"
 ---
 ## Further Information
 
@@ -29,6 +29,7 @@ A list of some add-ons that are an alternative to the X-Pack commercial features
 | 7.0 | 2019-04-10 | [announcement](https://www.elastic.co/blog/elasticsearch-7-0-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/7.0/release-notes-7.0.0.html) | [removal of types](https://www.elastic.co/blog/moving-from-types-to-typeless-apis-in-elasticsearch-7-0)
 | 7.1 | 2019-05-20 | [announcement](https://www.elastic.co/blog/security-for-elasticsearch-is-now-free); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/7.1/release-notes-7.1.0.html) | TLS and Role Based Access Control (RBAC) now free - [guide](https://www.elastic.co/blog/getting-started-with-elasticsearch-security)
 | 7.2 | 2019-06-25 | [announcement](https://www.elastic.co/blog/elasticsearch-7-2-0-released); [release notes](https://www.elastic.co/guide/en/elasticsearch/reference/7.2/release-notes-7.2.0.html)
+| 7.3 | 2019-07-31 | [announcement](https://www.elastic.co/blog/elasticsearch-7-3-0-released)
 
 ## Links
 

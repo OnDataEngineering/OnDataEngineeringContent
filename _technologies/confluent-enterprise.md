@@ -5,8 +5,8 @@ vendors: [Confluent]
 tech-relationships: [[packages, Kafka, Confluent Open Source]]
 type: "Commercial"
 date: 2017-06-29 08:15
-last_updated: 2019-04-03
-version: "v5.2"
+last_updated: 2019-08-07
+version: "v5.3"
 ---
 ## Release History
 
@@ -17,6 +17,7 @@ version: "v5.2"
 | 5.0 | 2018-07-31 | [announcement](https://www.confluent.io/blog/introducing-confluent-platform-5-0/); [ZDNet view](https://www.zdnet.com/article/confluent-release-adds-enterprise-developer-iot-savvy-to-apache-kafka/)
 | 5.1 | ?? | [release notes](https://docs.confluent.io/5.1.0/release-notes.html)
 | 5.2 | 2019-04-02 | [announcement](https://www.confluent.io/blog/introducing-confluent-platform-5-2); [ZDNet view](https://www.zdnet.com/article/confluents-kafka-distro-adds-dev-management-and-hybrid-cloud-capabilities/)
+| 5.3 | 2019-07-31 | [announcement](https://www.confluent.io/blog/introducing-confluent-platform-5-3)
 
 ## Links
 
