@@ -78,6 +78,7 @@ See our [Query Engines](/tech-categories/query-engines/) page for details of tec
 | EXASOL | In memory MPP database with columnar compression and SQL support - <http://www.exasol.com/>
 | MapD | In memory, column store, SQL relational database that runs on GPUs - <https://www.mapd.com/>
 | Kinetica | Distributed in memory relational database that runs on GPUs - <https://www.kinetica.com>
+| CubeDB | A open source simple but fast in-memory multi-key counter store from Badoo - <https://github.com/cubedb/cubedb>
 
 ## Analytical Graph Databases
 

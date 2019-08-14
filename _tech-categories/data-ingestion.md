@@ -30,6 +30,7 @@ Tools specialising in the ingestion of log files or events, with support for dis
 | Beats | Lightweight technology written in Go to forward events to Logstash; open source with commercial support from Elastic as part of their ELK stack - <https://www.elastic.co/products/beats>
 | [Apache Flume](/technologies/apache-flume/) | Runs on Hadoop and supports the continuous ingestion of data using a set of independent agents connected together into pipelines
 | Fluentd | Ruby based tool, part of the Cloud Native Computing Foundation; open source, with commercial support available from TreasureData - <http://www.fluentd.org/>
+| Live Streaming Daemon (LSD) | Scribe replacement from Badoo - <https://github.com/badoo/lsd>
 | Logagent-js | JavaScript based tool; open source, with commercial support available from Sematext - <https://github.com/sematext/logagent-js>
 | rsyslog | Focused on log processing, with lineage back to UNIX syslogd; written in C; open source, with commercial support available from Adiscon - <http://www.rsyslog.com/>
 | Syslog-ng | Focused on log processing, with lineage back to UNIX syslogd; written in C; open source, with commercial support available from BalaBit - <https://syslog-ng.org/>
