@@ -6,8 +6,8 @@ vendor: [Amazon Web Services]
 tech-relationships: [[packages, Flink, Ganglia, Hadoop, HBase, HCatalog, Hive, Hue, JupyterHub, Livy, Mahout, MXNet, Oozie, Phoenix, Pig, Presto, Spark, Sqoop, TensorFlow, Tez, Zeppelin, ZooKeeper]]
 type: "Commercial"
 date: 2018-10-09
-last_updated: 2019-08-07
-version: "v5.25"
+last_updated: 2019-09-11
+version: "v5.26"
 ---
 ## Release History
 
@@ -20,6 +20,8 @@ version: "v5.25"
 | 5.23 | 2019-04 | | [Multiple Master Nodes](https://aws.amazon.com/about-aws/whats-new/2019/04/amazon-emr-announces-support-for-multiple-master-nodes-to-enable-high-availability-for-EMR-applications/)
 | 5.24 | 2019-06 | [announcement](https://aws.amazon.com/about-aws/whats-new/2019/06/announcing-emr-release-5240-with-performance-improvements-in-spark-new-versions-of-flink-presto-Hue-and-cloudformation-support-for-launching-clusters-in-multiple-subnets-through-emr-instance-fleets/) | New versions of Flink, Presto, and Hue and Spark performance improvements 
 | 5.25 | 2019-08 | [announcement](https://aws.amazon.com/about-aws/whats-new/2019/08/achieve-3x-better-spark-performance-with-emr-5250/)
+| 5.26 | 2019-09 | [announcement](https://aws.amazon.com/about-aws/whats-new/2019/08/achieve-upto-16x-better-spark-performance-with-amazon-emr-release-5260/)
+| 6.0 (beta) | 2019-09 | [announcement](https://aws.amazon.com/blogs/big-data/run-spark-applications-with-docker-using-amazon-emr-6-0-0-beta/) 
 
 See [release notes](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-release-5x.html) for further details
 

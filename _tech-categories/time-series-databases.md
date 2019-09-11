@@ -28,6 +28,7 @@ From Steven Acreman on the Outlyer blog, a review of Time Series Databases from 
 | RRDtool | Open source data logging and graphing for time series data, originally created in 1999 - <https://oss.oetiker.ch/rrdtool/>
 | [Druid](/technologies/druid) | Runs over HDFS/S3 and supports real time aggregations of streaming data
 | DalmatinerDB | High performance Time Series DB written in Erlang and based on Riak Core that runs over ZFS - <https://dalmatiner.io/>
+| Apache IoTDB | Time series database focusing on IoT use cases - <https://iotdb.apache.org/>
 | Beringei | In memory Time Series DB from Facebook - <https://github.com/facebookincubator/beringei> |
 | Atlas | In memory Time Series DB from Netflix - <https://github.com/Netflix/atlas/wiki/Overview> |
 | SiriDB | Open source Time Series DB - <http://siridb.net/> |

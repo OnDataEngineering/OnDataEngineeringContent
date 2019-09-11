@@ -3,8 +3,8 @@ title: "NiFi Registry"
 description: "A solution for the configuration management of NiFi flows.  Integrates with NiFi to allow users to store, retrieve and upgrade flows, keeping a full history of all changes to a flow committed to the registry, with flows stored and organised by buckets.  Supports local users and groups, or authentication via certificates, LDAP or Kerberos, with access control policies allowing read, write and delete permissions to be specified for buckets, users and groups.  Has a Web based UI and a REST interface for managing buckets, local users and groups, viewing flow history and for managing access control.  First released in January 2018."
 type: "Sub-Project"
 date: 2018-03-09 08:30
-last_updated: 2019-05-29
-version: v0.4
+last_updated: 2019-09-11
+version: v0.5
 ---
 ## Release History
 
@@ -13,6 +13,7 @@ version: v0.4
 | 0.2 | 2018-06-18 | [summary](https://cwiki.apache.org/confluence/display/NIFIREG/Release+Notes#ReleaseNotes-NiFiRegistry0.2.0) |
 | 0.3 | 2018-09-25 | [summary](https://cwiki.apache.org/confluence/display/NIFIREG/Release+Notes#ReleaseNotes-NiFiRegistry0.3.0) |
 | 0.4 | 2019-05-21 | [summary](https://cwiki.apache.org/confluence/display/NIFIREG/Release+Notes#ReleaseNotes-NiFiRegistry0.4.0) |
+| 0.5 | 2019-08-26 | [summary](https://cwiki.apache.org/confluence/display/NIFIREG/Release+Notes#ReleaseNotes-NiFiRegistry0.5.0) |
 
 ## Links
 
