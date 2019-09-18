@@ -17,7 +17,7 @@ version: "v1.10"
 | 1.7 | 2018-03-23 | [summary](https://kudu.apache.org/releases/1.7.0/docs/release_notes.html); [blog post](https://kudu.apache.org/2018/03/23/apache-kudu-1-7-0-released.html)
 | 1.8 | 2018-10-26 | [summary](https://kudu.apache.org/releases/1.8.0/docs/release_notes.html); [blog post](https://kudu.apache.org/2018/10/26/apache-kudu-1-8-0-released.html)
 | 1.9 | 2019-03-12 | [summary](https://kudu.apache.org/releases/1.9.0/docs/release_notes.html); [blog post](https://kudu.apache.org/2019/03/15/apache-kudu-1-9-0-release.html)
-| 1.10 | 2019-07-09 | [summary](https://kudu.apache.org/2019/07/09/apache-kudu-1-10-0-release.html); [blog post](https://kudu.apache.org/blog/#apache-kudu-1-10-0-released)
+| 1.10 | 2019-07-09 | [summary](https://kudu.apache.org/2019/07/09/apache-kudu-1-10-0-release.html); [blog post](https://kudu.apache.org/2019/07/09/apache-kudu-1-10-0-release.html)
 
 ## Links
 
